@@ -4,7 +4,7 @@ Shared merge-results script for top-level experiment modules.
 Usage:
     python merge_results.py gmem config_0_outputs_Qwen3-1.7B_opposed
     python merge_results.py memorybank config_0_outputs_Qwen3-1.7B_opposed
-    python merge_results.py dense config_outputs_Qwen3-1.7B_opposed --dry-run
+    python merge_results.py ubllm config_0_outputs_Qwen3-1.7B_opposed --dry-run
 """
 
 import argparse
@@ -20,11 +20,10 @@ from typing import DefaultDict, Dict, List, Tuple
 ROOT_DIR = Path(__file__).resolve().parent
 VALID_MODULES = (
     "amem",
-    "dense",
     "gmem",
     "ldagent",
     "memorybank",
-    "only_llm",
+    "ubllm",
     "theanine",
 )
 MERGEABLE_SUBDIRS = ("retrieval_logs", "memory_snapshots")

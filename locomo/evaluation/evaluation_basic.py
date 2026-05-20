@@ -551,7 +551,7 @@ def parse_retrieval_stats(logs: dict) -> dict:
         'list_retrieved_avg': list[float] or float,
         'total_retrieved_avg': float,
     }
-    Handles both scalar (only_llm style) and list (amem style) num_retrieved.
+    Handles both scalar (ubllm style) and list (amem style) num_retrieved.
     """
     if not logs:
         return {"memory_type": None, "list_retrieved_avg": None, "total_retrieved_avg": None}

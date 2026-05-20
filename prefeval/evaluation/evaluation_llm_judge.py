@@ -105,7 +105,7 @@ logging.basicConfig(
 )
 
 # DEFAULT_MODULES = ["gmem"]
-DEFAULT_MODULES = ["amem", "ldagent", "memorybank", "theanine", "gmem", "only_llm"]
+DEFAULT_MODULES = ["amem", "ldagent", "memorybank", "theanine", "gmem", "ubllm"]
 
 CONFIG_FOLDER_RE = re.compile(r"^config_(\d+)_outputs_(.+)$")
 

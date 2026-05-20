@@ -109,11 +109,11 @@ MAX_DOMAIN_LABELS = 7
 MIN_DOMAIN_LABELS = 5
 
 # Seed retrieval top-k
-K_CONTEXT = 20
-K_EPISODE = 6
+K_CONTEXT = 16
+K_EPISODE = 5
 K_EPISODE_FINAL = 3      # final episode count after evidence-based scoring of pooled episodes
-K_STATE = 16
-K_TRAIT = 6
+K_STATE = 14
+K_TRAIT = 5
 K_APS = 5
 
 # Seed retrieval weights (context uses fixed pair; states / episodes / traits share scope-dependent pair)
