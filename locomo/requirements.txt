@@ -1,0 +1,32 @@
+# Core
+python-dotenv
+requests
+aiohttp
+tqdm
+pathlib
+pandas
+numpy
+seaborn
+
+# NLP / Embeddings / LLM ecosystem
+transformers >= 5.5.1
+huggingface-hub
+sentence-transformers
+rank-bm25
+nltk
+scikit-learn
+torch
+chromadb
+
+# LLM API clients
+openai
+litellm
+vllm==0.19.1
+mistral_common
+
+# Evaluation
+rouge-score
+bert-score
+
+# spaCy model
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl

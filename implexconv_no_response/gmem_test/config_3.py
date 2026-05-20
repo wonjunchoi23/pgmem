@@ -1,0 +1,5 @@
+from config_0 import *
+
+MAX_KEYWORDS = 10
+MAX_DOMAIN_LABELS = 10
+MIN_DOMAIN_LABELS = 6
