@@ -1,0 +1,137 @@
+[
+  {
+    "idx": 0,
+    "timestamp": 1705084860.0,
+    "dialog": "Speaker Tim says: Hey John! How's it going? Hope all is good.",
+    "session_num": 29,
+    "dia_id": "D29:1",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 1,
+    "timestamp": 1705084980.0,
+    "dialog": "Speaker John says: Hey Tim! Things have been good. Something exciting happened recently for me. What about you? How's everything going?",
+    "session_num": 29,
+    "dia_id": "D29:2",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 2,
+    "timestamp": 1705085100.0,
+    "dialog": "Speaker Tim says: Cool news! I'm trying to get my head around the visa requirements for some places I want to visit. It's kind of overwhelming but I'm excited! What have you been up to?",
+    "session_num": 29,
+    "dia_id": "D29:3",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 3,
+    "timestamp": 1705085220.0,
+    "dialog": "Speaker John says: [Image: a photo of a baseball player holding a bat next to a soda] Last week was wild - something incredible happened. But it's a total dream come true - just crazy! I got an endorsement with a popular beverage company!",
+    "session_num": 29,
+    "dia_id": "D29:4",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 4,
+    "timestamp": 1705085340.0,
+    "dialog": "Speaker Tim says: Congrats! How did it feel to seal the deal?",
+    "session_num": 29,
+    "dia_id": "D29:5",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 5,
+    "timestamp": 1705085460.0,
+    "dialog": "Speaker John says: Thanks! It felt crazy. It's not just about the signing, but it's about feeling like all the hard work paid off - like all those training hours weren't for nothing.",
+    "session_num": 29,
+    "dia_id": "D29:6",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 6,
+    "timestamp": 1705085580.0,
+    "dialog": "Speaker Tim says: Wow! I bet you were thrilled when everything finally worked out. That sense of accomplishment is awesome and really boosts your self-esteem. I can imagine all the hard work you put into it was definitely worth it.",
+    "session_num": 29,
+    "dia_id": "D29:7",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 7,
+    "timestamp": 1705085700.0,
+    "dialog": "Speaker John says: Yeah, it's great when you reach a goal and it feels rewarding. It's a reminder that you're going in the right direction, and all the hard work was worth it. What's something you feel proud of recently?",
+    "session_num": 29,
+    "dia_id": "D29:8",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 8,
+    "timestamp": 1705085820.0,
+    "dialog": "Speaker Tim says: I'm proud of researching visa requirements for countries I want to visit. It feels like taking initiative is a step towards making my travel dreams a reality!",
+    "session_num": 29,
+    "dia_id": "D29:9",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 9,
+    "timestamp": 1705085940.0,
+    "dialog": "Speaker John says: Great going! Taking initiative is a must if you wanna achieve your goals. I'm excited to hear about all your future adventures!",
+    "session_num": 29,
+    "dia_id": "D29:10",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 10,
+    "timestamp": 1705086060.0,
+    "dialog": "Speaker Tim says: Thanks! I'll keep you in the loop about my travels. Is there anywhere you recommend visiting?",
+    "session_num": 29,
+    "dia_id": "D29:11",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 11,
+    "timestamp": 1705086180.0,
+    "dialog": "Speaker John says: Barcelona is a must-visit city! You'll love exploring the culture, admiring the architecture, and tasting the amazing food in each neighborhood. Plus, the nearby beaches are great for soaking up the sun. Definitely add it to your travel list!",
+    "session_num": 29,
+    "dia_id": "D29:12",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 12,
+    "timestamp": 1705086300.0,
+    "dialog": "Speaker Tim says: Barcelona sounds awesome! I've heard so many great things. Definitely adding it to my list. Thanks!",
+    "session_num": 29,
+    "dia_id": "D29:13",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 13,
+    "timestamp": 1705086420.0,
+    "dialog": "Speaker John says: No problem! Glad you liked the suggestion. Let me know if you have any other questions or need help with anything.",
+    "session_num": 29,
+    "dia_id": "D29:14",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  },
+  {
+    "idx": 14,
+    "timestamp": 1705086540.0,
+    "dialog": "Speaker Tim says: Cheers! I owe you one. Let me know if you need anything. Bye!",
+    "session_num": 29,
+    "dia_id": "D29:15",
+    "date_time": "1:41 pm on 12 January, 2024",
+    "sample_id": "conv-43"
+  }
+]

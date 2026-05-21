@@ -1,0 +1,218 @@
+[
+  {
+    "idx": 0,
+    "timestamp": 1700236440.0,
+    "dialog": "Speaker Dave says: Hey Calvin, long time no talk! A lot has happened. I've taken up photography and it's been great - been taking pics of the scenery around here which is really cool.",
+    "session_num": 30,
+    "dia_id": "D30:1",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 1,
+    "timestamp": 1700236560.0,
+    "dialog": "Speaker Calvin says: [Image: a photography of a group of men sitting on a rock next to a river] Hey Dave, it's great to hear from you! Can't wait to see your pics. I went to a fancy gala in Boston yesterday and met some interesting people. Check out this pic of me and the crew!",
+    "session_num": 30,
+    "dia_id": "D30:2",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 2,
+    "timestamp": 1700236680.0,
+    "dialog": "Speaker Dave says: Calvin, that event looks amazing! You all look awesome. Who did you have the most interesting chat with?",
+    "session_num": 30,
+    "dia_id": "D30:3",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 3,
+    "timestamp": 1700236800.0,
+    "dialog": "Speaker Calvin says: [Image: a photography of two men sitting on a bench in the snow] Thanks, Dave! Had an awesome time. I had a really interesting chat with this cool artist and we clicked over music and art. We talked about our favorite artists, art, and how the power of music connects us all. It was such an inspiring conversation - I feel like I'm on a creative high. We have a photo together, take a look!",
+    "session_num": 30,
+    "dia_id": "D30:4",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 4,
+    "timestamp": 1700236920.0,
+    "dialog": "Speaker Dave says: [Image: a photo of a camera sitting on a table next to a plant] That's amazing, Calvin! Music really does bring people together and foster creativity. Glad to hear you had such an inspiring conversation! Take a look at my new vintage camera that I bought this month, which takes awesome photos!",
+    "session_num": 30,
+    "dia_id": "D30:5",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 5,
+    "timestamp": 1700237040.0,
+    "dialog": "Speaker Calvin says: Hey Dave, music really brings people together, huh? Do you use this camera for photos? They always turn out so good!",
+    "session_num": 30,
+    "dia_id": "D30:6",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 6,
+    "timestamp": 1700237160.0,
+    "dialog": "Speaker Dave says: Yes, Calvin, this camera is very good, it helps me capture those special moments really clearly.",
+    "session_num": 30,
+    "dia_id": "D30:7",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 7,
+    "timestamp": 1700237280.0,
+    "dialog": "Speaker Calvin says: Having a good camera is key for capturing those special moments. What do you like to take photos of?",
+    "session_num": 30,
+    "dia_id": "D30:8",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 8,
+    "timestamp": 1700237400.0,
+    "dialog": "Speaker Dave says: [Image: a photo of a sunset with a wave crashing on rocks] Yeah, being able to take good pics is key. I love capturing the beauty of nature - sunsets, beaches, waves. Just got this one recently, check this out!",
+    "session_num": 30,
+    "dia_id": "D30:9",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 9,
+    "timestamp": 1700237520.0,
+    "dialog": "Speaker Calvin says: Nice job, Dave! That shot looks great! Nature's so amazing!",
+    "session_num": 30,
+    "dia_id": "D30:10",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 10,
+    "timestamp": 1700237640.0,
+    "dialog": "Speaker Dave says: Thanks, Calvin! It's incredible how much emotion and beauty nature can convey through a photo.",
+    "session_num": 30,
+    "dia_id": "D30:11",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 11,
+    "timestamp": 1700237760.0,
+    "dialog": "Speaker Calvin says: Yeah, nature really does the trick. Its beauty helps us appreciate life when it's tough. Like a breath of fresh air!",
+    "session_num": 30,
+    "dia_id": "D30:12",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 12,
+    "timestamp": 1700237880.0,
+    "dialog": "Speaker Dave says: [Image: a photo of a waterfall flowing over rocks and boulders] I totally agree, nature really can boost our spirits in tough times. Also, here's a picture I snapped last week! It's a peaceful scene with rocks and a waterfall. Pretty cool, huh?",
+    "session_num": 30,
+    "dia_id": "D30:13",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 13,
+    "timestamp": 1700238000.0,
+    "dialog": "Speaker Calvin says: Wow Dave, that picture is stunning! Where was that taken? It looks so serene!",
+    "session_num": 30,
+    "dia_id": "D30:14",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 14,
+    "timestamp": 1700238120.0,
+    "dialog": "Speaker Dave says: Thanks, Calvin! I found this serene spot in a nearby park and took this pic.",
+    "session_num": 30,
+    "dia_id": "D30:15",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 15,
+    "timestamp": 1700238240.0,
+    "dialog": "Speaker Calvin says: [Image: a photo of a bench under a tree with pink flowers] Wow, that sounds like such a peaceful and serene spot. Can't wait to check it out myself sometime. Check out this beautiful picture that I shot in a Japanese garden, that's wild!",
+    "session_num": 30,
+    "dia_id": "D30:16",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 16,
+    "timestamp": 1700238360.0,
+    "dialog": "Speaker Dave says: Cool, Calvin! Found an even better spot, with a bench under a tree with pink flowers - so peaceful. A perfect spot to relax and take in the beauty.",
+    "session_num": 30,
+    "dia_id": "D30:17",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 17,
+    "timestamp": 1700238480.0,
+    "dialog": "Speaker Calvin says: That sounds great, Dave! Can't wait to see it.",
+    "session_num": 30,
+    "dia_id": "D30:18",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 18,
+    "timestamp": 1700238600.0,
+    "dialog": "Speaker Dave says: Check it out, Calvin. It's really calming, I think you'll like it. We will definitely go there! Is there anything else you'd like to share?",
+    "session_num": 30,
+    "dia_id": "D30:19",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 19,
+    "timestamp": 1700238720.0,
+    "dialog": "Speaker Calvin says: Thank you for asking, Dave! Yes, I have a few more great news! I've accepted an invitation to perform at an upcoming show in Boston! It's going to be an unforgettable musical experience. Can't wait to fill you in on all the details. Catch up with you soon!",
+    "session_num": 30,
+    "dia_id": "D30:20",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 20,
+    "timestamp": 1700238840.0,
+    "dialog": "Speaker Dave says: Wow, Calvin! That's amazing news! Congratulations on both the gala attendance and the upcoming performance. I can't wait to hear all about it and maybe even catch one of your shows in Boston. Let me know when you're free to catch up. Cheers to your musical journey!",
+    "session_num": 30,
+    "dia_id": "D30:21",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 21,
+    "timestamp": 1700238960.0,
+    "dialog": "Speaker Calvin says: Thanks, Dave! I'll catch you when I'm in Boston. Cheers!",
+    "session_num": 30,
+    "dia_id": "D30:22",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 22,
+    "timestamp": 1700239080.0,
+    "dialog": "Speaker Dave says: Looking forward to seeing you. Stay safe, talk to you soon!",
+    "session_num": 30,
+    "dia_id": "D30:23",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  },
+  {
+    "idx": 23,
+    "timestamp": 1700239200.0,
+    "dialog": "Speaker Calvin says: Thanks! You too. Talk to you later!",
+    "session_num": 30,
+    "dia_id": "D30:24",
+    "date_time": "10:54 am on 17 November, 2023",
+    "sample_id": "conv-50"
+  }
+]

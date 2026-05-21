@@ -1,0 +1,21 @@
+{
+  "completed_sample_ids": [
+    "conv-26",
+    "conv-30",
+    "conv-41",
+    "conv-42",
+    "conv-43",
+    "conv-44",
+    "conv-47",
+    "conv-48",
+    "conv-49",
+    "conv-50"
+  ],
+  "timestamp": "2026-05-20T11:49:47.015390",
+  "config": {
+    "config_name": "config_8",
+    "model": "google/gemma-3-1b-it",
+    "start_sample": 0,
+    "end_sample": 9
+  }
+}

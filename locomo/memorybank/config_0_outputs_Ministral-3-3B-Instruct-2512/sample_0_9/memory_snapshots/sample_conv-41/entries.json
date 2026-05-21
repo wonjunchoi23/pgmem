@@ -1,0 +1,380 @@
+[
+  {
+    "id": "d1280617-0713-40f4-99a1-fd963af64fad",
+    "content": "Conversation content on 31 July, 2023: [John]: Hey Maria, that's awesome! I'm really inspired by your drive to make a difference. You mentioned your work at the homeless shelter last time and it made me think of how I could help too, so I just joined a fire-fighting brigade. It's such a great feeling to do something to give back to my community!",
+    "timestamp": "D26:2",
+    "session_id": 26,
+    "source_label": "31 July, 2023",
+    "strength": 1,
+    "last_recall_date_str": "31 July, 2023"
+  },
+  {
+    "id": "c596369e-d079-486b-84cc-145487d55cf2",
+    "content": "Conversation content on 3 August, 2023: [John]: Maria, that's great! That picture shows a lot of joy. What got you started at that place?",
+    "timestamp": "D27:3",
+    "session_id": 27,
+    "source_label": "3 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "3 August, 2023"
+  },
+  {
+    "id": "7a40f974-2bd2-4f59-a8eb-e8b1222d63ff",
+    "content": "Conversation content on 3 August, 2023: [Maria]: One of the residents at the shelter, Cindy, wrote it. It's a heartfelt expression of gratitude and shows the impact of the support they receive.",
+    "timestamp": "D27:8",
+    "session_id": 27,
+    "source_label": "3 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "3 August, 2023"
+  },
+  {
+    "id": "7da191c3-0170-4b54-b2e8-36b98e380bee",
+    "content": "Conversation content on 3 August, 2023: [John]: [Image: a photo of a young boy holding a flag in a cemetery] Wow, Maria, that's so cool that you're making a difference like that! You're so inspiring. Last week, we had a meaningful experience at a military memorial. It really made an impact on my kids.",
+    "timestamp": "D27:9",
+    "session_id": 27,
+    "source_label": "3 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "3 August, 2023"
+  },
+  {
+    "id": "cae5f372-2cc8-40fe-90ed-6a70a277ce32",
+    "content": "Conversation content on 3 August, 2023: [John]: Thanks, Maria. Appreciate your support. It's amazing what teamwork can accomplish!",
+    "timestamp": "D27:15",
+    "session_id": 27,
+    "source_label": "3 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "3 August, 2023"
+  },
+  {
+    "id": "9d8dd608-0258-4e92-89b4-1c0985d5060a",
+    "content": "Conversation content on 5 August, 2023: [Maria]: Hey John, I'm here for you! Staying positive makes a big difference, even in tough times. Yesterday, I took up some community work with my friends from church. It was super rewarding!",
+    "timestamp": "D28:8",
+    "session_id": 28,
+    "source_label": "5 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "5 August, 2023"
+  },
+  {
+    "id": "e7272003-2eb8-4f54-8311-551bf14643fb",
+    "content": "Conversation content on 5 August, 2023: [John]: It's really encouraging to hear that. I'll keep pushing forward and doing my best.",
+    "timestamp": "D28:15",
+    "session_id": 28,
+    "source_label": "5 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "5 August, 2023"
+  },
+  {
+    "id": "0fd0e7ad-809d-4a44-b73e-98fa3f58697e",
+    "content": "Conversation content on 5 August, 2023: [Maria]: No worries, John. I'm here to support you. If there's anything else I can do, just let me know.",
+    "timestamp": "D28:18",
+    "session_id": 28,
+    "source_label": "5 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "5 August, 2023"
+  },
+  {
+    "id": "30813a76-9d48-42f7-be17-7a373c0539d8",
+    "content": "Conversation content on 9 August, 2023: [John]: [Image: a photo of a young girl holding a sign in her hands] Hey Maria! Congrats on the recognition! It's really touching to see how much you're doing to help out. Last weekend, I participated in a community event to raise money for a good cause. We got a great turnout and it was amazing to be surrounded by so many supportive people.",
+    "timestamp": "D29:2",
+    "session_id": 29,
+    "source_label": "9 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "9 August, 2023"
+  },
+  {
+    "id": "f52eba73-740f-4629-8d23-d861f6d617ce",
+    "content": "Conversation content on 9 August, 2023: [John]: Thanks, Maria. It's a tough issue, but we've gotta do what we can. It's really wonderful to see people come together for such an important cause.",
+    "timestamp": "D29:12",
+    "session_id": 29,
+    "source_label": "9 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "9 August, 2023"
+  },
+  {
+    "id": "a1f9f8bd-a940-4c96-bb9d-fa50f6522a02",
+    "content": "Conversation content on 9 August, 2023: [Maria]: Yeah, John! It's really cool to have a friend like you who's just as passionate and motivated. Let's talk again soon!",
+    "timestamp": "D29:17",
+    "session_id": 29,
+    "source_label": "9 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "9 August, 2023"
+  },
+  {
+    "id": "1951a755-8474-4988-8b2c-c59f778f68aa",
+    "content": "Conversation content on 11 August, 2023: [Maria]: [Image: a photo of a white dog laying in the grass with a baseball] Hey John! Long time no talk! Guess what - I got a puppy two weeks ago! Her name's Coco and she's adorable.",
+    "timestamp": "D30:1",
+    "session_id": 30,
+    "source_label": "11 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "11 August, 2023"
+  },
+  {
+    "id": "93ff3632-899e-406c-98b2-495694dbc098",
+    "content": "Conversation content on 11 August, 2023: [Maria]: Wow, John, sounds like you and Max had a great time! Camping with pets can be so soul-nourishing, right?",
+    "timestamp": "D30:7",
+    "session_id": 30,
+    "source_label": "11 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "11 August, 2023"
+  },
+  {
+    "id": "b58d3bf8-f9a7-449a-aad5-12534d74c273",
+    "content": "Conversation content on 11 August, 2023: [John]: Yeah, it was like restarting my mind and spirit. It's amazing how peaceful and pretty it can be. It made me remember the little things in life and savor the peaceful moments.",
+    "timestamp": "D30:10",
+    "session_id": 30,
+    "source_label": "11 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "11 August, 2023"
+  },
+  {
+    "id": "423ab452-9630-45b7-a038-688f3967f7c7",
+    "content": "Conversation content on 11 August, 2023: [John]: Thanks for understanding. I just want to positively affect people and the world, but it feels like I'm stuck. I need to find a better way to focus my passion and enthusiasm.",
+    "timestamp": "D30:16",
+    "session_id": 30,
+    "source_label": "11 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "11 August, 2023"
+  },
+  {
+    "id": "69d74657-68e7-42d2-a24c-609b2aafda82",
+    "content": "Conversation content on 13 August, 2023: [Maria]: [Image: a photography of a black puppy sitting in the grass looking at the camera] Wow, John! You're doing great things. Kudos for helping kids learn. On another note, I just adopted this cute pup from a shelter last week. She brings so much joy! I feel blessed to be able to give her a home.",
+    "timestamp": "D31:2",
+    "session_id": 31,
+    "source_label": "13 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "13 August, 2023"
+  },
+  {
+    "id": "23186acb-c9b1-42a2-a268-606edd312299",
+    "content": "Conversation content on 13 August, 2023: [John]: Wow, Maria, how cute! What's her name? Do she and your other dog get along?",
+    "timestamp": "D31:3",
+    "session_id": 31,
+    "source_label": "13 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "13 August, 2023"
+  },
+  {
+    "id": "1dc644db-54c8-4d38-8ad7-e70e1e0d4677",
+    "content": "Conversation content on 13 August, 2023: [Maria]: No, I didn't. But having a furry pal definitely brightens my days.",
+    "timestamp": "D31:6",
+    "session_id": 31,
+    "source_label": "13 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "13 August, 2023"
+  },
+  {
+    "id": "ddfd95ac-0b4e-435b-bb29-0a2c68828ce2",
+    "content": "Conversation content on 13 August, 2023: [Maria]: Yeah, John! Pets are great at making you feel loved. It's awesome having them around, they bring so much joy! How's everything going with the mentoring program? Are the students making progress?",
+    "timestamp": "D31:8",
+    "session_id": 31,
+    "source_label": "13 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "13 August, 2023"
+  },
+  {
+    "id": "66ac6c31-a4e5-4ac9-8e24-5710530b1646",
+    "content": "Conversation content on 13 August, 2023: [John]: [Image: a photo of a poster with a picture of a person and a child] They're doing great - there's been a real improvement in their confidence and skills. It was so amazing to see one of them last week, so excited to show me their essay. It was a proud moment! How's your new pup doing, Maria?",
+    "timestamp": "D31:9",
+    "session_id": 31,
+    "source_label": "13 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "13 August, 2023"
+  },
+  {
+    "id": "e53e679f-d170-46cb-a8db-e833bf313aad",
+    "content": "Conversation content on 13 August, 2023: [Maria]: She's an amazing learner - so much fun to work with and watch her grow. She's brought me so much joy!",
+    "timestamp": "D31:12",
+    "session_id": 31,
+    "source_label": "13 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "13 August, 2023"
+  },
+  {
+    "id": "482f7b2b-0c6d-4cf4-b48d-6304e8ec1070",
+    "content": "Conversation content on 13 August, 2023: [John]: [Image: a photo of a family posing for a picture in the park] Yeah, my family is awesome - me, the missus, and the kids. Even when times are hard, they always have my back. Best thing ever, really.",
+    "timestamp": "D31:17",
+    "session_id": 31,
+    "source_label": "13 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "13 August, 2023"
+  },
+  {
+    "id": "141810cf-e9f7-4133-b2fd-61e6bf1a20c4",
+    "content": "Conversation content on 13 August, 2023: [Maria]: That picture is so cute! What activities do you all enjoy doing together?",
+    "timestamp": "D31:18",
+    "session_id": 31,
+    "source_label": "13 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "13 August, 2023"
+  },
+  {
+    "id": "a6d1803e-9955-4884-b9f9-d3b57081a063",
+    "content": "Conversation content on 13 August, 2023: [John]: [Image: a photo of two children sitting at a table with a board game] Thanks, Maria! We love being outdoors - going for hikes, hanging out at the park, having picnics - plus playing board games and having movie nights at home. ",
+    "timestamp": "D31:19",
+    "session_id": 31,
+    "source_label": "13 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "13 August, 2023"
+  },
+  {
+    "id": "f0adfcf0-1577-49e8-810e-9c0d0373b7bb",
+    "content": "Conversation content on 13 August, 2023: [John]: Thanks, Maria! I'm off to spend some time with them now. Have a good day!",
+    "timestamp": "D31:21",
+    "session_id": 31,
+    "source_label": "13 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "13 August, 2023"
+  },
+  {
+    "id": "72f7f42e-5bdf-459b-a08a-12934325f6ed",
+    "content": "Conversation content on 16 August, 2023: [John]: Hey Maria! Guess what? I'm now part of the fire-fighting brigade. I'm super excited to be involved and help out my community!",
+    "timestamp": "D32:1",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "b61b6afa-047e-464b-b074-6b09192220d1",
+    "content": "Conversation content on 16 August, 2023: [Maria]: Wow John, that's impressive! You're really enthusiastic about making a change. How's your experience been so far?",
+    "timestamp": "D32:2",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "ea42db3a-2338-4286-877c-86f5c4a30bf0",
+    "content": "Conversation content on 16 August, 2023: [John]:  I was impressed with their dedication and how well they worked together. Just being around them was so inspiring!",
+    "timestamp": "D32:3",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "56a0615e-27f6-4505-bcdb-78163a6cb9f4",
+    "content": "Conversation content on 16 August, 2023: [Maria]: That's amazing. Must have been awesome to see all those people working together.",
+    "timestamp": "D32:4",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "850b767c-d0c5-4ddb-97da-e4b771bb2e3a",
+    "content": "Conversation content on 16 August, 2023: [John]: [Image: a photo of a cardboard box with a sign on it] It definitely was! Everyone was so into it. It's amazing how a group can succeed at something so important. It only took us two hours. We worked hard but did something good \u2013 it was really satisfying.",
+    "timestamp": "D32:5",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "533f1a54-df9d-4529-88ba-715772ea49b3",
+    "content": "Conversation content on 16 August, 2023: [Maria]: Wow, John! It looks like everyone was working hard. Did you raise any donations? ",
+    "timestamp": "D32:6",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "67308955-26bb-40a3-a2d9-cf3000615ca5",
+    "content": "Conversation content on 16 August, 2023: [John]: Yup, we raised a ton! We got stuff like canned food, toiletries, and clothes to help out. Feels great to be part of it!",
+    "timestamp": "D32:7",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "8fcb6fc1-c203-4a74-a1e3-5e73d28260c6",
+    "content": "Conversation content on 16 August, 2023: [Maria]: I bet! It's great to see the community coming together to support the local fire station. ",
+    "timestamp": "D32:8",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "db233713-ef84-4fec-bd83-e7c8f15cad7f",
+    "content": "Conversation content on 16 August, 2023: [John]: You're right, Maria. It's great to help out and see everyone coming together for this cause. It gives me a sense of purpose and passion. I feel like this is my true calling.",
+    "timestamp": "D32:9",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "069cadd3-4c5a-4ccf-8adf-3e3d132bb998",
+    "content": "Conversation content on 16 August, 2023: [Maria]: Awesome, John! Loving your newfound passion. You're doing great things - keep it up! It's wonderful to see everyone coming together for this cause.",
+    "timestamp": "D32:10",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "a45637c1-891c-4e33-b0f5-8b99ca1bd9bc",
+    "content": "Conversation content on 16 August, 2023: [John]: [Image: a photo of a fire truck parked in a garage with other vehicles] Thanks, Maria! Your support means a lot to me. It's amazing how finding my passion has made such a big impact. I'll keep working hard on it. The donations even helped get a brand new fire truck!",
+    "timestamp": "D32:11",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "81428e78-00c6-4713-87d1-74c4350d8d56",
+    "content": "Conversation content on 16 August, 2023: [Maria]: Look at that - we all donated for it, and it looks awesome!",
+    "timestamp": "D32:12",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "8775cb4c-8630-4d07-b490-64f2bfd39970",
+    "content": "Conversation content on 16 August, 2023: [John]: Thanks for being a part of this with me, Maria. I appreciate your support.",
+    "timestamp": "D32:13",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "6be77124-c432-4202-930f-214f56473df2",
+    "content": "Conversation content on 16 August, 2023: [Maria]: Hey John, I'm here for you. Last Friday, I spent some time at the shelter volunteering at the front desk. Seeing the smiles on their faces when they got food or a bed really made me feel good. We have the power to make a difference in people's lives.",
+    "timestamp": "D32:14",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "1244f9aa-60cd-492f-82f5-4434ffd387a0",
+    "content": "Conversation content on 16 August, 2023: [John]: Maria, I'm glad you're finding fulfillment there. It's amazing how a little kindness can have such a big impact on someone's life. Let's continue making a difference in our community!",
+    "timestamp": "D32:15",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "ab8958af-6931-4034-8ca5-ab26eac7dfa1",
+    "content": "Conversation content on 16 August, 2023: [Maria]: Yeah, John! Let's keep spreading kindness. It's awesome to know we can bring joy and comfort to those who need it.",
+    "timestamp": "D32:16",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  },
+  {
+    "id": "39162a69-9859-42cc-9df7-3df55beab5c2",
+    "content": "Conversation content on 16 August, 2023: [John]: Yeah, Maria, let's keep each other and everyone else motivated to make a difference! Together, our impact will surely last.",
+    "timestamp": "D32:17",
+    "session_id": 32,
+    "source_label": "16 August, 2023",
+    "strength": 1,
+    "last_recall_date_str": "16 August, 2023"
+  }
+]
