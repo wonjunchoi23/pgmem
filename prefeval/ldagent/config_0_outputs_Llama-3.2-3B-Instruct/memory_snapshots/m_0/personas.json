@@ -1,0 +1,18 @@
+{
+  "user_traits": [
+    "I am retired, I am open to new experiences, I am willing to learn",
+    "likes hands-on learning, prefers in-person learning over digital",
+    "I am interested in learning.",
+    "open to trying new things, values social connections, enjoys learning from others"
+  ],
+  "agent_traits": [
+    "open to new experiences, enjoys socializing, values retirement activities, is interested in hobbies",
+    "enjoys hands-on activities",
+    "collects stamps, has a history background, and is meticulous",
+    "excitement, organization, social interaction",
+    "confident, knowledgeable, enthusiastic, open to new experiences, interest in learning",
+    "optimistic enthusiastic"
+  ],
+  "max_user_personas": 10,
+  "max_agent_personas": 10
+}

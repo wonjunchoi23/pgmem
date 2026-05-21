@@ -1,0 +1,17 @@
+{
+  "documents": [
+    "dip,nature,community,light,spirit,class,beginner,exhibition,gardening,hunt,service,people,theme,color,workshop,worker,retirement,photo,hand,idea,country,trip,hardware,information,knowledge,software,challenge,activity,desert,story,career,format,woodworking,flashcard,discovering,office,setting,way,call,space,collection,camera,technique,person,landmark,exposure,one,truck,club,learning,road,timing,subject,user,stamp,center,location,triangle,shop,schedule,example,rock,publication,skill,period,collector,luck,contrast,opportunity,book,aperture,sun,grade,filter,week,resource,formation,approach,store,alternative,place,image,tweak,landscape,spot,route,interest,feeling,cloud,suggestion,travel,help,line,scenery,type,show,question,tomorrow,tool,timer,process,sunset,selection,driving,curve,scenario,chapter,hobby,editing,background,journey,basic,wealth,year,member,highlight,time,reference,hour,option,thank,culture,foreground,stop,scene,break,state,meeting,element,freedom,enthusiast,society,angle,minute,flexibility,downtime,photography,kind,post,retiree,lookout,course,choice,stuff,haul,fact,experiment,region,drama,ground,interplay,day,addition,sky,lens,advance,aspect,horizon,photographer,collecting,history,library,association,rest,agent,laptop,recommendation,event,tip,session"
+  ],
+  "metadatas": [
+    {
+      "idx": 0,
+      "dialog": "",
+      "virtual_seconds": 48000.0,
+      "topics": "dip,nature,community,light,spirit,class,beginner,exhibition,gardening,hunt,service,people,theme,color,workshop,worker,retirement,photo,hand,idea,country,trip,hardware,information,knowledge,software,challenge,activity,desert,story,career,format,woodworking,flashcard,discovering,office,setting,way,call,space,collection,camera,technique,person,landmark,exposure,one,truck,club,learning,road,timing,subject,user,stamp,center,location,triangle,shop,schedule,example,rock,publication,skill,period,collector,luck,contrast,opportunity,book,aperture,sun,grade,filter,week,resource,formation,approach,store,alternative,place,image,tweak,landscape,spot,route,interest,feeling,cloud,suggestion,travel,help,line,scenery,type,show,question,tomorrow,tool,timer,process,sunset,selection,driving,curve,scenario,chapter,hobby,editing,background,journey,basic,wealth,year,member,highlight,time,reference,hour,option,thank,culture,foreground,stop,scene,break,state,meeting,element,freedom,enthusiast,society,angle,minute,flexibility,downtime,photography,kind,post,retiree,lookout,course,choice,stuff,haul,fact,experiment,region,drama,ground,interplay,day,addition,sky,lens,advance,aspect,horizon,photographer,collecting,history,library,association,rest,agent,laptop,recommendation,event,tip,session",
+      "datatype": "text",
+      "summary": "User discusses hobbies in retirement, including woodworking and stamp collecting, getting guidance on classes and resources. Also, photography tips on capturing landscapes and editing techniques.",
+      "conv_id": 1,
+      "session_id": 0
+    }
+  ]
+}

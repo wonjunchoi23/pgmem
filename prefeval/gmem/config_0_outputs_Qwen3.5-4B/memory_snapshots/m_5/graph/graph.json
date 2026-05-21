@@ -1,0 +1,2954 @@
+{
+  "creation_order": [
+    "08ae1c78-30e3-496a-a7cf-79c84ea7f204",
+    "a9ac0bb5-3967-48e5-b934-250cfe3d6b77",
+    "614e3094-e33d-48d8-bf8b-d7f518a1e8d5",
+    "e6f31148-dce2-459e-9fcd-2263b8c8f323",
+    "59801194-4ea4-4ddf-8341-5370b0d8dcd5",
+    "a77d5a45-98f7-40ff-b83e-3de296f57a36",
+    "acaa87b0-5a0f-42d5-9e70-f7fb3e1e570e",
+    "535a6f5a-9a8e-4b47-8df3-25f99d953116",
+    "c4c6e554-8530-416a-b454-7322a7f5fbd8",
+    "b5e1d815-d5e6-4d8d-a3d2-a5dcef8cd097",
+    "6840209c-4954-4798-9a8d-4f15b6e8ec56",
+    "44b6c5d1-bba4-43c1-82fa-045e7fcc5722",
+    "c09ca341-77c0-4683-93b4-827f1d700480",
+    "8fd24995-174c-433f-bad8-30d0f50aa573",
+    "e23b5392-5388-4fdc-80b9-20cd58485067",
+    "37d08cb0-45e0-4756-8d28-e2650784e845",
+    "946e93bf-6731-4b9d-ab0e-461b8840587b",
+    "f782ca53-dd90-466a-bd03-4910b192cb58",
+    "c690a4a4-3255-4b21-a263-afb9561aa6d9",
+    "eb363d3c-a163-4721-bf17-1b4462bef7bd",
+    "9edc2482-4898-4ff0-be60-514d72f50ac0",
+    "2de7f60b-2148-4ea5-ae67-a1599fdc464a",
+    "54149662-8c38-4830-9bb1-3be6ba195ef6",
+    "85a9052f-ccf7-48ee-9100-c2a05d393523",
+    "22f439c7-2275-4c0f-9bb5-f55b3728cb02",
+    "cfb9864d-8268-4906-9ed1-d3d72f6489f3",
+    "ece5c884-379f-4cdd-ac04-999bdb589bbe",
+    "3f29a5ba-c151-4175-94db-88836ef44c4b",
+    "1b5142ed-095a-45d6-998b-a0913187ae60",
+    "339e89f0-6907-410d-a33d-98b962e9986e",
+    "56d454f4-e084-4c47-9a80-85d7efad4e26",
+    "15a0a335-9f86-441d-95e9-68fa72dcdd7c",
+    "6fd94c45-8465-4f71-a027-347d83d3ea9b",
+    "ac928546-7bd8-44a0-9462-7e52ef21d3e4",
+    "f208d0f9-e441-438b-b642-e95735c8b01d",
+    "f247b746-4d78-4ba1-8f82-5576f7f7470f",
+    "3d7358df-41f4-4bf1-98ce-bb6bd66c1fa4",
+    "684e5c6e-5a24-46e7-bd36-49df7023a746",
+    "be6e1de3-930c-4a19-af3a-679f98b46dae",
+    "a922acf2-5a36-482c-b722-125ef7ef0aef",
+    "c6d1ecae-4b89-4e70-b5a9-9d40cb67d956",
+    "2dd1ea75-1c64-4a03-91c6-08499a3014f5",
+    "99afb95d-0932-492f-bbd2-cec7a7c5dd8c",
+    "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27",
+    "bb79d360-d829-404a-9d05-fb9e00fa67a2",
+    "6c996aab-5f75-4061-b052-9a9d45041ffc",
+    "51ef5722-00cd-4286-ad58-d9fc602bdbb8",
+    "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7",
+    "0185e809-af11-49db-96ae-a03750791c23",
+    "f10640d5-e042-4daf-905f-339fb202a2c4",
+    "b47c66a9-7e20-4c22-9fa0-a1f42ed737e0",
+    "6964b542-08f1-4a16-88b7-cd99c751da57",
+    "f51809ec-02c5-405d-9c03-aba59ab0e4c6",
+    "41fef346-abad-486c-84fc-51a5e024d669",
+    "52aea436-be4f-47d1-9777-2486b3a5625c",
+    "ff7496f2-b818-495f-a86e-3623791e9b4a",
+    "b2f1c3fd-ee58-46a7-b93e-3c77f1d02920",
+    "fbb81cd1-f03f-443a-840d-9795366b739f",
+    "20cd6da7-f883-4358-a16e-a92e20e0876e",
+    "7fc12a53-e085-4d24-8a76-a5f8a2c8b5eb",
+    "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4",
+    "510e0ccb-2b83-43bf-857b-c5571325e13a",
+    "b0417da9-99bb-4bdc-843d-35b70582f717",
+    "585f5965-5cf7-4677-9813-444eceb8a8e9",
+    "20565474-a61b-4db2-b309-eb3fd0cc5395",
+    "83fd7266-9dc9-438b-889c-5447c8d80a0e",
+    "8c51e6da-4680-4a1b-9898-cfa28bb4a8af",
+    "8083686e-3ad4-4dd6-9ef6-036b71504eaa",
+    "9f5b1bdc-0869-42a9-9959-be7e8dad3d39",
+    "e95cd5d6-5d74-4ab2-9f99-4b15c2ba1414",
+    "60b1bef1-5c53-400b-bd88-b666f92f974a",
+    "c52e9082-285e-4431-91a1-01a0c2539c23",
+    "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+  ],
+  "nodes": {
+    "08ae1c78-30e3-496a-a7cf-79c84ea7f204": {
+      "node_type": "c",
+      "content": "User: Hello there! I've been thinking about taking up a new hobby now that I'm retired from the postal service. Any suggestions for an old-timer like me?\nAgent: Hello! It's great that you're looking to explore new hobbies in retirement. There are many options suitable for retirees. Have you considered activities like gardening, woodworking, or joining a local book club? These can be enjoyable and social ways to spend your time. What kind of activities did you enjoy before retirement?",
+      "keywords": [
+        "suggestion",
+        "i",
+        "service",
+        "club",
+        "it",
+        "option",
+        "way",
+        "woodworking",
+        "hobby",
+        "retiree",
+        "gardening",
+        "timer",
+        "these",
+        "you",
+        "activity",
+        "kind",
+        "time",
+        "retirement"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 0,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 0,
+      "retrieval_count": 1
+    },
+    "a9ac0bb5-3967-48e5-b934-250cfe3d6b77": {
+      "node_type": "s",
+      "content": "The user is retired from the postal service and is seeking hobby suggestions.",
+      "keywords": [
+        "retired",
+        "hobby",
+        "suggestions"
+      ],
+      "domain_label": [
+        "retirement",
+        "hobbies",
+        "general",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 0,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 0,
+      "retrieval_count": 53
+    },
+    "614e3094-e33d-48d8-bf8b-d7f518a1e8d5": {
+      "node_type": "c",
+      "content": "User: I've always enjoyed working with my hands, so woodworking sounds interesting. Are there any local classes or workshops you know of? I usually prefer in-person learning over online stuff - can't stand those digital courses everyone's talking about these days.\nAgent: I understand your interest in hands-on activities like woodworking. Many community centers and local hardware stores offer in-person woodworking classes for beginners. These workshops can be a great way to learn new skills and meet people with similar interests. Have you checked with your local community center or nearby woodworking shops for upcoming classes? They often have schedules posted or can provide information about beginner-friendly workshops.",
+      "keywords": [
+        "information",
+        "course",
+        "beginner",
+        "way",
+        "schedule",
+        "activity",
+        "i",
+        "woodworking",
+        "they",
+        "workshop",
+        "stuff",
+        "interest",
+        "shop",
+        "hand",
+        "skill",
+        "you",
+        "center",
+        "everyone",
+        "class",
+        "person",
+        "store",
+        "people",
+        "day"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 1,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 2,
+      "retrieval_count": 1
+    },
+    "e6f31148-dce2-459e-9fcd-2263b8c8f323": {
+      "node_type": "s",
+      "content": "The user prefers in-person woodworking classes over online courses.",
+      "keywords": [
+        "in-person",
+        "woodworking",
+        "classes",
+        "workshops",
+        "online",
+        "learning"
+      ],
+      "domain_label": [
+        "learning_preference",
+        "activity_type",
+        "education_mode",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 1,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 2,
+      "retrieval_count": 52
+    },
+    "59801194-4ea4-4ddf-8341-5370b0d8dcd5": {
+      "node_type": "c",
+      "content": "User: That's a good idea. I'll give the community center a call tomorrow. Speaking of my postal days, I've been thinking about collecting stamps. Is that still a popular hobby?\nAgent: Stamp collecting, or philately, is indeed still a popular hobby, especially among those with an interest in history and postal services. Given your background as a postal worker, you might find it particularly fascinating. Many collectors enjoy the hunt for rare stamps, learning about different countries and cultures through their postal history, and the meticulous nature of organizing a collection. Have you kept any interesting stamps from your time working at the post office?",
+      "keywords": [
+        "collector",
+        "call",
+        "office",
+        "country",
+        "idea",
+        "time",
+        "history",
+        "collection",
+        "i",
+        "service",
+        "background",
+        "it",
+        "culture",
+        "interest",
+        "stamp",
+        "that",
+        "hunt",
+        "center",
+        "you",
+        "those",
+        "collecting",
+        "nature",
+        "worker",
+        "hobby",
+        "day"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 2,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 4,
+      "retrieval_count": 1
+    },
+    "a77d5a45-98f7-40ff-b83e-3de296f57a36": {
+      "node_type": "s",
+      "content": "The user plans to contact the community center tomorrow to inquire about woodworking classes.",
+      "keywords": [
+        "community",
+        "center",
+        "call",
+        "tomorrow"
+      ],
+      "domain_label": [
+        "planning",
+        "local",
+        "activities",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 2,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 4,
+      "retrieval_count": 51
+    },
+    "acaa87b0-5a0f-42d5-9e70-f7fb3e1e570e": {
+      "node_type": "c",
+      "content": "User: I wish I had! But I do remember some of the unique stamps that came through over the years. How would I go about starting a collection now?\nAgent: Starting a stamp collection can be an exciting journey! To begin, you could visit your local post office and ask about their current stamp selections. Many post offices sell commemorative stamps that make great additions to a collection. You might also consider joining a local stamp collecting club - they often have meetings where members trade stamps and share knowledge. Additionally, stamp shows and exhibitions can be excellent places to find rare stamps and meet fellow enthusiasts. Is there a particular theme or country you'd be interested in focusing on for your collection?",
+      "keywords": [
+        "knowledge",
+        "journey",
+        "some",
+        "office",
+        "member",
+        "theme",
+        "country",
+        "enthusiast",
+        "collection",
+        "i",
+        "club",
+        "year",
+        "exhibition",
+        "they",
+        "place",
+        "stamp",
+        "that",
+        "you",
+        "show",
+        "addition",
+        "selection",
+        "meeting"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 3,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 6,
+      "retrieval_count": 1
+    },
+    "535a6f5a-9a8e-4b47-8df3-25f99d953116": {
+      "node_type": "s",
+      "content": "The user is interested in starting a stamp collection but is seeking guidance on how to begin.",
+      "keywords": [
+        "stamp",
+        "collection",
+        "starting"
+      ],
+      "domain_label": [
+        "hobbies",
+        "collecting",
+        "general",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 3,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 6,
+      "retrieval_count": 50
+    },
+    "c4c6e554-8530-416a-b454-7322a7f5fbd8": {
+      "node_type": "c",
+      "content": "User: I think I'd like to focus on American stamps, given my career. Are there any good books or resources you'd recommend for learning more about stamp collecting?\nAgent: Focusing on American stamps is a great choice given your background! There are several excellent resources for learning about stamp collecting, particularly for U.S. stamps. The Scott Specialized Catalogue of United States Stamps and Covers is considered a must-have reference for American stamp collectors. The American Philatelic Society also offers numerous publications and online resources. Your local library might have books on stamp collecting basics. Additionally, many collectors find joining a stamp club invaluable for learning from experienced collectors. Have you considered reaching out to any local philatelic societies to see if they have meetings or events you could attend?",
+      "keywords": [
+        "collector",
+        "catalogue",
+        "book",
+        "i",
+        "club",
+        "background",
+        "society",
+        "they",
+        "choice",
+        "event",
+        "stamp",
+        "reference",
+        "resource",
+        "covers",
+        "you",
+        "basic",
+        "collecting",
+        "stamps",
+        "library",
+        "publication",
+        "meeting",
+        "career"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 4,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 8,
+      "retrieval_count": 1
+    },
+    "b5e1d815-d5e6-4d8d-a3d2-a5dcef8cd097": {
+      "node_type": "s",
+      "content": "The user wants to recommend books or resources for learning about stamp collecting with a focus on American stamps due to their career background.",
+      "keywords": [
+        "american",
+        "stamps",
+        "books",
+        "resources",
+        "learning",
+        "career"
+      ],
+      "domain_label": [
+        "hobbies",
+        "education",
+        "general",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 4,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 8,
+      "retrieval_count": 49
+    },
+    "6840209c-4954-4798-9a8d-4f15b6e8ec56": {
+      "node_type": "c",
+      "content": "User: That's a good suggestion. I'll look into local clubs and check out those resources. It'll be nice to connect with other collectors and learn from them in person. Thanks for all your help!\nAgent: You're welcome! I'm glad I could help. Joining a local club is an excellent way to immerse yourself in the hobby and learn from experienced collectors. The social aspect of stamp collecting can be just as rewarding as the collecting itself. As you begin your journey into philately, remember to take your time and enjoy the process of learning and discovering. If you have any more questions as you get started with your collection, don't hesitate to ask. Good luck with your new hobby, and enjoy this exciting chapter of your retirement!",
+      "keywords": [
+        "collector",
+        "aspect",
+        "journey",
+        "way",
+        "time",
+        "luck",
+        "suggestion",
+        "collection",
+        "i",
+        "club",
+        "it",
+        "process",
+        "yourself",
+        "itself",
+        "they",
+        "that",
+        "resource",
+        "you",
+        "question",
+        "chapter",
+        "retirement",
+        "collecting",
+        "discovering",
+        "person",
+        "thank",
+        "hobby",
+        "help"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 5,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 10,
+      "retrieval_count": 1
+    },
+    "44b6c5d1-bba4-43c1-82fa-045e7fcc5722": {
+      "node_type": "s",
+      "content": "The user is actively planning to join a local stamp collecting club to connect with other collectors and learn in person.",
+      "keywords": [
+        "resources",
+        "connect",
+        "learn"
+      ],
+      "domain_label": [
+        "hobby",
+        "learning",
+        "general",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "LOW",
+      "created_at": 5,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 10,
+      "retrieval_count": 48
+    },
+    "c09ca341-77c0-4683-93b4-827f1d700480": {
+      "node_type": "e",
+      "content": "The user discussed starting a new hobby in retirement after mentioning woodworking and stamp collecting, then confirmed they would like to focus on American stamps and look into local clubs and resources.",
+      "keywords": [
+        "retirement",
+        "woodworking",
+        "stamps",
+        "philately",
+        "resources"
+      ],
+      "domain_label": [
+        "hobbies",
+        "collecting",
+        "education",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": null,
+      "created_at": 6,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 10,
+      "retrieval_count": 48
+    },
+    "8fd24995-174c-433f-bad8-30d0f50aa573": {
+      "node_type": "c",
+      "content": "User: Hey there! I'm on a long haul from Chicago to LA and looking for some interesting spots to photograph along the way. Any suggestions for unique landscapes or landmarks?\nAgent: Hello! That's an exciting journey. For unique landscapes, consider stopping at the Badlands National Park in South Dakota for its striking rock formations. In Colorado, the Garden of the Gods offers beautiful red rock scenery. As you approach LA, Joshua Tree National Park has fascinating desert landscapes. Remember to plan your stops carefully to fit your driving schedule and rest periods.",
+      "keywords": [
+        "landscape",
+        "journey",
+        "la",
+        "period",
+        "way",
+        "schedule",
+        "chicago",
+        "suggestion",
+        "i",
+        "badlands",
+        "formation",
+        "scenery",
+        "stop",
+        "colorado",
+        "that",
+        "you",
+        "gods",
+        "haul",
+        "spot",
+        "dakota",
+        "landmark",
+        "garden",
+        "park"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 6,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 0,
+      "retrieval_count": 1
+    },
+    "e23b5392-5388-4fdc-80b9-20cd58485067": {
+      "node_type": "s",
+      "content": "The user is currently traveling by long-haul road trip from Chicago to LA and seeking unique landscape photography locations along the route.",
+      "keywords": [
+        "traveling",
+        "photography",
+        "landscapes",
+        "chicago",
+        "la",
+        "suggestions"
+      ],
+      "domain_label": [
+        "travel",
+        "geography",
+        "tourism",
+        "planning",
+        "general"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 6,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 0,
+      "retrieval_count": 46
+    },
+    "37d08cb0-45e0-4756-8d28-e2650784e845": {
+      "node_type": "c",
+      "content": "User: Thanks for the tips! I'm always on the lookout for new photography subjects. By the way, do you know any good ways to remember all the different camera settings? I usually prefer learning through stories rather than dry facts, as I find flashcards and rote memorization ineffective.\nAgent: I'm glad you found the suggestions helpful! As for remembering camera settings, many photographers find it useful to practice regularly and experiment with different scenarios. You could try creating mental associations between settings and specific scenes you've photographed. For example, linking a particular aperture setting with a memorable sunset you captured. This hands-on approach often helps reinforce the knowledge. Are there any specific settings you find particularly challenging to remember?",
+      "keywords": [
+        "lookout",
+        "knowledge",
+        "way",
+        "flashcard",
+        "tip",
+        "suggestion",
+        "i",
+        "scene",
+        "it",
+        "example",
+        "photographer",
+        "approach",
+        "association",
+        "scenario",
+        "you",
+        "fact",
+        "aperture",
+        "subject",
+        "sunset",
+        "thank",
+        "setting",
+        "story"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 7,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 2,
+      "retrieval_count": 1
+    },
+    "946e93bf-6731-4b9d-ab0e-461b8840587b": {
+      "node_type": "s",
+      "content": "The user prefers learning camera settings through stories rather than dry facts or rote memorization.",
+      "keywords": [
+        "preference",
+        "stories",
+        "ineffective",
+        "flashcards"
+      ],
+      "domain_label": [
+        "preferences",
+        "learning",
+        "methods",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 7,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 2,
+      "retrieval_count": 45
+    },
+    "f782ca53-dd90-466a-bd03-4910b192cb58": {
+      "node_type": "c",
+      "content": "User: The exposure triangle can be tricky sometimes. Speaking of sunsets, I caught an amazing one in Arizona last week. The colors were unreal! Do you have any tips for capturing the best sunset photos from the road?\nAgent: Wow, Arizona sunsets are truly spectacular! For capturing great sunset photos from the road, timing is crucial. Try to scout locations in advance if possible, arriving about an hour before sunset to set up. Use a wide-angle lens to capture the expansive sky, and experiment with including foreground elements like your truck or the road for added interest. Don't forget to shoot in RAW format for better post-processing flexibility. Also, stick around after the sun dips below the horizon \u2013 often, the most vibrant colors appear 15-20 minutes later. Do you have a favorite type of landscape to photograph during your travels?",
+      "keywords": [
+        "landscape",
+        "dip",
+        "flexibility",
+        "advance",
+        "one",
+        "timing",
+        "tip",
+        "i",
+        "arizona",
+        "horizon",
+        "format",
+        "travel",
+        "road",
+        "interest",
+        "experiment",
+        "triangle",
+        "location",
+        "you",
+        "sunset",
+        "photo",
+        "lens",
+        "truck",
+        "type",
+        "color",
+        "sky",
+        "element"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 8,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 4,
+      "retrieval_count": 1
+    },
+    "c690a4a4-3255-4b21-a263-afb9561aa6d9": {
+      "node_type": "s",
+      "content": "The user wants tips for capturing sunset photos from the road.",
+      "keywords": [
+        "sunset",
+        "photos",
+        "road",
+        "exposure",
+        "arizona",
+        "tips",
+        "capturing"
+      ],
+      "domain_label": [
+        "photography",
+        "travel",
+        "landscape",
+        "camera",
+        "outdoors"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 8,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 4,
+      "retrieval_count": 44
+    },
+    "eb363d3c-a163-4721-bf17-1b4462bef7bd": {
+      "node_type": "c",
+      "content": "User: I love shooting wide-open spaces with dramatic skies. It really captures the feeling of freedom on the road. How about editing software? Any recommendations for something I can use on my laptop during downtime at truck stops?\nAgent: That's a great subject choice \u2013 it really embodies the spirit of long-haul driving! For editing software that you can use on your laptop during breaks, Adobe Lightroom is a popular choice among photographers. It's powerful yet user-friendly, and great for organizing your photos too. If you're looking for a free option, GIMP is a robust alternative. Capture One is another professional-grade option, though it has a steeper learning curve. These all work well offline, which is perfect for truck stop editing sessions. Do you have any specific editing techniques you like to apply to your dramatic sky photos?",
+      "keywords": [
+        "technique",
+        "recommendation",
+        "break",
+        "lightroom",
+        "curve",
+        "which",
+        "i",
+        "it",
+        "option",
+        "photographer",
+        "something",
+        "road",
+        "spirit",
+        "choice",
+        "all",
+        "feeling",
+        "that",
+        "laptop",
+        "driving",
+        "you",
+        "alternative",
+        "space",
+        "photo",
+        "gimp",
+        "truck",
+        "session",
+        "software",
+        "sky",
+        "downtime",
+        "freedom"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 9,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 6,
+      "retrieval_count": 1
+    },
+    "9edc2482-4898-4ff0-be60-514d72f50ac0": {
+      "node_type": "s",
+      "content": "The user wants recommendations for editing software that can be used on a laptop during downtime at truck stops.",
+      "keywords": [
+        "editing",
+        "software",
+        "laptop",
+        "downtime",
+        "recommendations"
+      ],
+      "domain_label": [
+        "photography",
+        "tools",
+        "workflows",
+        "mobile",
+        "travel"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 9,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 6,
+      "retrieval_count": 43
+    },
+    "2de7f60b-2148-4ea5-ae67-a1599fdc464a": {
+      "node_type": "c",
+      "content": "User: I usually play around with the contrast and highlights to make the clouds pop. Sometimes I'll add a graduated filter to balance the exposure between sky and ground. It's amazing how much you can transform a photo with just a few tweaks!\nAgent: You're absolutely right! Those techniques can really bring out the drama in sky photos. The graduated filter is especially useful for balancing bright skies with darker foregrounds \u2013 a common challenge in landscape photography. It's great that you're exploring these tools to enhance your images. As you continue your journey, you might find interesting opportunities to capture the interplay of light and shadow across different landscapes. The changing scenery along your route must provide a wealth of diverse photographic subjects. Is there a particular region or state you're looking forward to photographing on this trip?",
+      "keywords": [
+        "interplay",
+        "landscape",
+        "journey",
+        "technique",
+        "cloud",
+        "image",
+        "region",
+        "i",
+        "foreground",
+        "it",
+        "tool",
+        "route",
+        "exposure",
+        "scenery",
+        "photography",
+        "ground",
+        "state",
+        "you",
+        "opportunity",
+        "wealth",
+        "challenge",
+        "contrast",
+        "subject",
+        "highlight",
+        "filter",
+        "photo",
+        "tweak",
+        "light",
+        "trip",
+        "sky",
+        "drama"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 10,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 8,
+      "retrieval_count": 1
+    },
+    "54149662-8c38-4830-9bb1-3be6ba195ef6": {
+      "node_type": "s",
+      "content": "The user prefers editing techniques involving manual adjustments to contrast, highlights, and graduated filters to enhance sky-ground balance in landscape photos.",
+      "keywords": [
+        "contrast",
+        "highlights",
+        "clouds",
+        "exposure"
+      ],
+      "domain_label": [
+        "photography",
+        "editing",
+        "landscape",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 10,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 8,
+      "retrieval_count": 42
+    },
+    "85a9052f-ccf7-48ee-9100-c2a05d393523": {
+      "node_type": "e",
+      "content": "The user confirmed their current trip from Chicago to LA while discussing photography techniques, specifically mentioning how they play with contrast and highlights to make clouds pop and use graduated filters to balance exposure in their dramatic sky photos.",
+      "keywords": [
+        "trip",
+        "chicago",
+        "la",
+        "contrast",
+        "highlights",
+        "clouds",
+        "filters"
+      ],
+      "domain_label": [
+        "travel",
+        "photography",
+        "landscape",
+        "editing",
+        "settings"
+      ],
+      "scope": "NARROW",
+      "recall_priority": null,
+      "created_at": 11,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 8,
+      "retrieval_count": 42
+    },
+    "22f439c7-2275-4c0f-9bb5-f55b3728cb02": {
+      "node_type": "t",
+      "content": "The user prefers immersive, experiential learning methods over dry memorization or rote repetition, believing that connecting new information to personal experiences or stories leads to better retention. This tendency is evident in their rejection of flashcards for camera settings in favor of mental associations with real-world scenes, as well as their enjoyment of hands-on activities like woodworking and stamp collecting, which allowed them to engage with their interests directly rather than through passive digital consumption.",
+      "keywords": [
+        "stories",
+        "flashcards",
+        "rote",
+        "hands-on",
+        "mental",
+        "associations",
+        "experiential"
+      ],
+      "domain_label": [
+        "learning",
+        "memory",
+        "education",
+        "preference",
+        "methodology"
+      ],
+      "scope": "NARROW",
+      "recall_priority": null,
+      "created_at": 11,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 8,
+      "retrieval_count": 16
+    },
+    "cfb9864d-8268-4906-9ed1-d3d72f6489f3": {
+      "node_type": "c",
+      "content": "User: Hey there! I've been working in the ER for over a decade now, and I'm looking for ways to keep my skills sharp. Do you have any suggestions for continuing education courses that might be beneficial for an emergency room nurse?\nAgent: Absolutely! Continuing education is crucial in the fast-paced world of emergency medicine. There are many options available, from online courses to hands-on workshops. Some popular topics include advanced cardiac life support, trauma care, and pediatric emergency nursing. Do you have any specific areas you'd like to focus on?",
+      "keywords": [
+        "course",
+        "way",
+        "education",
+        "suggestion",
+        "i",
+        "medicine",
+        "option",
+        "nurse",
+        "world",
+        "workshop",
+        "nursing",
+        "that",
+        "skill",
+        "decade",
+        "you",
+        "er",
+        "support",
+        "area",
+        "care",
+        "topic"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 11,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 0,
+      "retrieval_count": 1
+    },
+    "ece5c884-379f-4cdd-ac04-999bdb589bbe": {
+      "node_type": "s",
+      "content": "The user has over a decade of experience working as an emergency room nurse and seeks recommendations for continuing education courses to maintain their professional skills.",
+      "keywords": [
+        "er",
+        "nurse",
+        "courses",
+        "skills",
+        "experience"
+      ],
+      "domain_label": [
+        "healthcare",
+        "nursing",
+        "medical",
+        "general",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 11,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 0,
+      "retrieval_count": 39
+    },
+    "3f29a5ba-c151-4175-94db-88836ef44c4b": {
+      "node_type": "c",
+      "content": "User: I'm particularly interested in improving my trauma care skills. I usually prefer hands-on learning experiences over traditional lectures. Are there any simulation-based courses you'd recommend?\nAgent: Simulation-based trauma care courses are an excellent choice! Many hospitals and medical centers offer high-fidelity simulation programs that replicate real-life emergency scenarios. These courses often use advanced mannequins and immersive environments to create realistic training experiences. The American College of Surgeons also offers the Advanced Trauma Life Support (ATLS) course, which includes hands-on skills stations. Have you participated in any simulation-based training before?",
+      "keywords": [
+        "course",
+        "training",
+        "atls",
+        "which",
+        "i",
+        "lecture",
+        "station",
+        "environment",
+        "choice",
+        "experience",
+        "surgeons",
+        "hand",
+        "program",
+        "that",
+        "skill",
+        "scenario",
+        "you",
+        "center",
+        "hospital",
+        "mannequin",
+        "support",
+        "college"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 12,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 2,
+      "retrieval_count": 1
+    },
+    "1b5142ed-095a-45d6-998b-a0913187ae60": {
+      "node_type": "s",
+      "content": "The user wants to improve their trauma care skills through hands-on learning experiences.",
+      "keywords": [
+        "hands-on",
+        "courses"
+      ],
+      "domain_label": [
+        "education",
+        "simulation",
+        "general",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 12,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 2,
+      "retrieval_count": 38
+    },
+    "339e89f0-6907-410d-a33d-98b962e9986e": {
+      "node_type": "c",
+      "content": "User: Yes, I've done a few simulation courses in the past and found them really valuable. Speaking of which, our hospital is considering updating our triage protocols. Do you know of any recent developments or best practices in emergency department triage systems?\nAgent: Certainly! Triage systems are constantly evolving to improve patient outcomes and streamline ER operations. One recent development is the implementation of electronic triage systems that use machine learning algorithms to assist in decision-making. The Emergency Severity Index (ESI) is still widely used but has been updated to include more specific criteria for certain conditions. Some hospitals are also experimenting with \"split-flow\" models to reduce wait times. Are there any specific challenges your ER is facing with its current triage system?",
+      "keywords": [
+        "course",
+        "time",
+        "which",
+        "making",
+        "protocol",
+        "development",
+        "i",
+        "esi",
+        "algorithm",
+        "implementation",
+        "they",
+        "operation",
+        "criterion",
+        "condition",
+        "that",
+        "outcome",
+        "past",
+        "model",
+        "you",
+        "system",
+        "challenge",
+        "hospital",
+        "practice",
+        "er",
+        "index"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 13,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 4,
+      "retrieval_count": 1
+    },
+    "56d454f4-e084-4c47-9a80-85d7efad4e26": {
+      "node_type": "s",
+      "content": "The user is looking for information on recent developments and best practices in emergency department triage systems to help their hospital consider updating its protocols.",
+      "keywords": [
+        "triage",
+        "protocols",
+        "hospital",
+        "recent",
+        "developments"
+      ],
+      "domain_label": [
+        "medical",
+        "general",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 13,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 4,
+      "retrieval_count": 37
+    },
+    "15a0a335-9f86-441d-95e9-68fa72dcdd7c": {
+      "node_type": "c",
+      "content": "User: Our main issue is managing the increasing patient volume while ensuring accurate assessments. I tend to learn best through interactive experiences, so I'm wondering if there are any triage simulation tools we could use for staff training. Do you know of any good options?\nAgent: Interactive triage simulation tools are an excellent way to train staff and improve efficiency. There are several options available, such as virtual reality-based triage simulators that allow nurses to practice decision-making in various scenarios. Some popular choices include \"Full Code\" and \"Triage Trainer,\" which offer realistic patient cases and immediate feedback. Additionally, some hospitals have developed their own custom triage simulation software tailored to their specific needs. Would you like more information on implementing these tools in your hospital's training program?",
+      "keywords": [
+        "information",
+        "need",
+        "volume",
+        "training",
+        "way",
+        "code",
+        "feedback",
+        "simulator",
+        "we",
+        "which",
+        "making",
+        "staff",
+        "i",
+        "trainer",
+        "option",
+        "nurse",
+        "tool",
+        "choice",
+        "experience",
+        "that",
+        "program",
+        "assessment",
+        "scenario",
+        "you",
+        "issue",
+        "case",
+        "hospital",
+        "efficiency",
+        "software"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 14,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 6,
+      "retrieval_count": 1
+    },
+    "6fd94c45-8465-4f71-a027-347d83d3ea9b": {
+      "node_type": "s",
+      "content": "The user is seeking triage simulation tools for staff training to address patient volume management and assessment accuracy.",
+      "keywords": [],
+      "domain_label": [
+        "triage",
+        "training",
+        "simulation",
+        "management",
+        "general"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 14,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 6,
+      "retrieval_count": 36
+    },
+    "ac928546-7bd8-44a0-9462-7e52ef21d3e4": {
+      "node_type": "c",
+      "content": "User: That sounds really interesting! Yes, I'd love to know more about implementing triage simulation tools in our training program. Also, do you have any tips for managing stress and preventing burnout in a busy ER environment?\nAgent: Certainly! I'd be happy to provide more information on implementing triage simulation tools. As for managing stress and preventing burnout, it's a crucial aspect of working in a busy ER. Some effective strategies include practicing mindfulness techniques, maintaining a healthy work-life balance, and participating in regular debriefing sessions with colleagues. Many hospitals also offer employee assistance programs and wellness initiatives. Regular exercise, proper nutrition, and adequate sleep are also essential. Have you tried any specific stress management techniques that have worked well for you in the past?",
+      "keywords": [
+        "information",
+        "aspect",
+        "sleep",
+        "nutrition",
+        "technique",
+        "initiative",
+        "tip",
+        "i",
+        "it",
+        "strategy",
+        "colleague",
+        "environment",
+        "tool",
+        "that",
+        "program",
+        "burnout",
+        "past",
+        "you",
+        "hospital",
+        "stress",
+        "exercise",
+        "er",
+        "session",
+        "balance"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 15,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 8,
+      "retrieval_count": 1
+    },
+    "f208d0f9-e441-438b-b642-e95735c8b01d": {
+      "node_type": "s",
+      "content": "The user wants to learn about implementing triage simulation tools in their training program and managing stress/preventing burnout in a busy ER environment.",
+      "keywords": [
+        "implementing"
+      ],
+      "domain_label": [
+        "general",
+        "general_1",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 15,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 8,
+      "retrieval_count": 35
+    },
+    "f247b746-4d78-4ba1-8f82-5576f7f7470f": {
+      "node_type": "e",
+      "content": "The user, an ER nurse with over a decade of experience, discussed finding simulation-based continuing education courses for trauma care and triage systems, specifically seeking recommendations for interactive tools and stress management strategies to prevent burnout.",
+      "keywords": [
+        "nurse",
+        "trauma",
+        "triage",
+        "simulation",
+        "burnout",
+        "stress",
+        "education"
+      ],
+      "domain_label": [
+        "nursing",
+        "training",
+        "wellness",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": null,
+      "created_at": 16,
+      "session_id": 0,
+      "conv_id": 2,
+      "turn_id": 8,
+      "retrieval_count": 35
+    },
+    "3d7358df-41f4-4bf1-98ce-bb6bd66c1fa4": {
+      "node_type": "c",
+      "content": "User: Hey there, I'm on night patrol and it's pretty quiet. Got any tips for staying alert during these long shifts?\nAgent: Hello, Officer! Staying alert during night patrols can be challenging. Some effective strategies include taking short walks when possible, engaging in light conversation with your partner if you have one, and periodically changing your patrol route to keep things interesting. Have you tried any of these methods?",
+      "keywords": [
+        "tip",
+        "i",
+        "thing",
+        "patrol",
+        "it",
+        "alert",
+        "strategy",
+        "walk",
+        "partner",
+        "you",
+        "route",
+        "any",
+        "conversation",
+        "method",
+        "shift"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 16,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 0,
+      "retrieval_count": 1
+    },
+    "684e5c6e-5a24-46e7-bd36-49df7023a746": {
+      "node_type": "s",
+      "content": "The user is currently on night patrol and requires tips for maintaining alertness during long, quiet shifts.",
+      "keywords": [],
+      "domain_label": [
+        "leadership",
+        "health",
+        "training",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 16,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 0,
+      "retrieval_count": 31
+    },
+    "be6e1de3-930c-4a19-af3a-679f98b46dae": {
+      "node_type": "c",
+      "content": "User: Yeah, I've been trying to mix things up with the routes. Say, I've been meaning to brush up on some procedures. I usually prefer learning through stories or real-life examples rather than dry manuals. Any ideas on how I can improve my knowledge that way?\nAgent: That's a great approach to learning! One effective method is to connect with more experienced officers and ask them to share their experiences. Many departments also have mentorship programs that pair rookies with veterans. Additionally, you could look into police podcasts or documentaries that feature real-life case studies. These often provide valuable insights into procedure application in various situations. Have you had the chance to work with any seasoned officers yet?",
+      "keywords": [
+        "knowledge",
+        "insight",
+        "rookie",
+        "idea",
+        "i",
+        "chance",
+        "example",
+        "route",
+        "they",
+        "procedure",
+        "department",
+        "approach",
+        "experience",
+        "veteran",
+        "that",
+        "program",
+        "officer",
+        "you",
+        "study",
+        "method",
+        "thing",
+        "manual",
+        "podcast",
+        "situation",
+        "these",
+        "application",
+        "story",
+        "documentary"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 17,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 2,
+      "retrieval_count": 1
+    },
+    "a922acf2-5a36-482c-b722-125ef7ef0aef": {
+      "node_type": "s",
+      "content": "The user prefers learning through stories or real-life examples rather than dry manuals.",
+      "keywords": [
+        "stories"
+      ],
+      "domain_label": [
+        "learning",
+        "preference",
+        "training",
+        "method",
+        "education"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 17,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 2,
+      "retrieval_count": 30
+    },
+    "c6d1ecae-4b89-4e70-b5a9-9d40cb67d956": {
+      "node_type": "c",
+      "content": "User: Not too much yet, but I'm looking forward to it. Speaking of real situations, I responded to a domestic dispute call last week and felt a bit out of my depth. How can I better prepare for these types of calls?\nAgent: Domestic dispute calls can be challenging, even for experienced officers. It's great that you're looking to improve. Preparation is key: review your department's protocols for these situations, practice de-escalation techniques, and always prioritize safety for all parties involved, including yourself. Role-playing scenarios with fellow officers can also be helpful. Remember, each situation is unique, so staying calm and adaptable is crucial. Is there a specific aspect of handling domestic disputes that you find particularly challenging?",
+      "keywords": [
+        "aspect",
+        "call",
+        "technique",
+        "protocol",
+        "dispute",
+        "i",
+        "it",
+        "yourself",
+        "that",
+        "officer",
+        "scenario",
+        "you",
+        "practice",
+        "preparation",
+        "safety",
+        "situation",
+        "type",
+        "depth",
+        "party"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 18,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 4,
+      "retrieval_count": 1
+    },
+    "2dd1ea75-1c64-4a03-91c6-08499a3014f5": {
+      "node_type": "s",
+      "content": "The user feels unprepared for domestic dispute calls based on a recent experience last week.",
+      "keywords": [
+        "unprepared",
+        "calls"
+      ],
+      "domain_label": [
+        "general",
+        "general_1",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 18,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 4,
+      "retrieval_count": 28
+    },
+    "99afb95d-0932-492f-bbd2-cec7a7c5dd8c": {
+      "node_type": "c",
+      "content": "User: I think it's mostly about reading the situation quickly and knowing how to de-escalate effectively. Do you have any resources or training exercises that could help with that?\nAgent: Absolutely! De-escalation is a crucial skill in law enforcement. Many departments offer specialized training in this area. You could look into courses on crisis intervention and conflict resolution. Additionally, there are online resources like webinars and interactive training modules that focus on scenario-based learning for de-escalation techniques. Some officers find it helpful to practice these skills through role-playing exercises with colleagues. It might also be worth checking if your department has any virtual reality training programs, as these can provide immersive, realistic scenarios to practice in. Have you had any specific de-escalation training so far?",
+      "keywords": [
+        "escalation",
+        "course",
+        "technique",
+        "training",
+        "resolution",
+        "i",
+        "it",
+        "colleague",
+        "enforcement",
+        "department",
+        "webinar",
+        "that",
+        "program",
+        "resource",
+        "officer",
+        "skill",
+        "scenario",
+        "you",
+        "module",
+        "exercise",
+        "learning",
+        "situation",
+        "these",
+        "area",
+        "intervention"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 19,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 6,
+      "retrieval_count": 1
+    },
+    "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": {
+      "node_type": "s",
+      "content": "The user seeks resources and training exercises to improve their ability to read situations quickly and de-escalate effectively.",
+      "keywords": [
+        "reading",
+        "situations",
+        "de-escalate",
+        "resources",
+        "training",
+        "exercises"
+      ],
+      "domain_label": [
+        "de-escalation",
+        "skills",
+        "general",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 19,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 6,
+      "retrieval_count": 28
+    },
+    "bb79d360-d829-404a-9d05-fb9e00fa67a2": {
+      "node_type": "c",
+      "content": "User: We had some basic training at the academy, but I'd love to dive deeper. On a different note, I've been wondering about advancing my career. What are some good steps for a rookie to take towards becoming a detective someday?\nAgent: It's great that you're thinking about your long-term career goals! Becoming a detective typically requires several years of experience as a patrol officer first. In the meantime, you can take steps to prepare:\n\n1. Excel in your current role and build a strong reputation.\n2. Pursue additional education, such as criminal justice courses.\n3. Develop your investigative skills by being thorough in your report writing and evidence collection.\n4. Volunteer for special assignments or task forces when possible.\n5. Network with detectives in your department and learn from their experiences.\n6. Stay updated on new investigative techniques and technologies.\n\nRemember, each department may have specific requirements. Have you spoken with any detectives about their career paths?",
+      "keywords": [
+        "course",
+        "technique",
+        "training",
+        "academy",
+        "rookie",
+        "education",
+        "meantime",
+        "we",
+        "path",
+        "i",
+        "it",
+        "year",
+        "force",
+        "requirement",
+        "department",
+        "report",
+        "experience",
+        "what",
+        "officer",
+        "role",
+        "step",
+        "skill",
+        "you",
+        "network",
+        "assignment",
+        "goal",
+        "detective",
+        "technology",
+        "note",
+        "volunteer",
+        "reputation",
+        "career"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 20,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 8,
+      "retrieval_count": 1
+    },
+    "6c996aab-5f75-4061-b052-9a9d45041ffc": {
+      "node_type": "s",
+      "content": "The user is currently a rookie officer seeking specific advice on career advancement steps to become a detective.",
+      "keywords": [
+        "rookie",
+        "career",
+        "advancing",
+        "detective",
+        "steps"
+      ],
+      "domain_label": [
+        "law",
+        "police",
+        "training",
+        "advancement",
+        "general"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 20,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 8,
+      "retrieval_count": 27
+    },
+    "51ef5722-00cd-4286-ad58-d9fc602bdbb8": {
+      "node_type": "e",
+      "content": "The user discussed strategies for staying alert during night patrol shifts and mentioned feeling out of their depth during a recent domestic dispute, then asked for advice on advancing their career from a rookie patrol officer to a detective.",
+      "keywords": [
+        "de-escalation",
+        "rookie",
+        "detective",
+        "training"
+      ],
+      "domain_label": [
+        "investigation",
+        "general",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": null,
+      "created_at": 21,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 8,
+      "retrieval_count": 27
+    },
+    "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": {
+      "node_type": "t",
+      "content": "The user tends to prefer learning through interactive experiences, stories, and real-life examples rather than traditional lectures or dry manuals. This learning style is consistent across their professional roles, as they explicitly sought hands-on trauma simulation for nursing, story-based procedures for police work, and interactive training exercises for de-escalation techniques.",
+      "keywords": [
+        "hands-on",
+        "simulation",
+        "stories",
+        "interactive",
+        "de-escalation",
+        "training"
+      ],
+      "domain_label": [
+        "learning",
+        "education",
+        "general",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": null,
+      "created_at": 21,
+      "session_id": 0,
+      "conv_id": 3,
+      "turn_id": 8,
+      "retrieval_count": 21
+    },
+    "0185e809-af11-49db-96ae-a03750791c23": {
+      "node_type": "c",
+      "content": "User: Hi there! I'm looking for some advice on managing my time better. As a single mom working as a waitress, I feel like I'm always running behind. Any tips?\nAgent: Hello! I understand how challenging it can be to balance work and family life. Some effective time management strategies include creating a daily schedule, prioritizing tasks, and using any downtime efficiently. Have you tried any specific methods to organize your day?",
+      "keywords": [
+        "tip",
+        "i",
+        "mom",
+        "it",
+        "downtime",
+        "strategy",
+        "schedule",
+        "task",
+        "advice",
+        "waitress",
+        "you",
+        "life",
+        "time",
+        "day",
+        "work",
+        "method"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 21,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 0,
+      "retrieval_count": 1
+    },
+    "f10640d5-e042-4daf-905f-339fb202a2c4": {
+      "node_type": "s",
+      "content": "The user is a single mother who works as a waitress and feels she is always running behind in managing her time.",
+      "keywords": [
+        "waitress"
+      ],
+      "domain_label": [
+        "parenting",
+        "employment",
+        "lifestyle",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 21,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 0,
+      "retrieval_count": 22
+    },
+    "b47c66a9-7e20-4c22-9fa0-a1f42ed737e0": {
+      "node_type": "c",
+      "content": "User: I've tried making to-do lists, but I often get overwhelmed. I'm thinking about taking some online courses to improve my skills, but I usually prefer learning in group settings. Do you know of any local community classes that might be good for busy moms?\nAgent: That's a great idea to look into skill-building opportunities! Many community centers and libraries offer classes designed for busy adults. These often include evening or weekend sessions in various subjects. Have you checked with your local community college or adult education center? They might have programs that fit your schedule and interests.",
+      "keywords": [
+        "list",
+        "course",
+        "schedule",
+        "idea",
+        "adult",
+        "i",
+        "evening",
+        "they",
+        "interest",
+        "that",
+        "program",
+        "skill",
+        "you",
+        "center",
+        "opportunity",
+        "class",
+        "subject",
+        "mom",
+        "setting",
+        "these",
+        "library",
+        "session"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 22,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 2,
+      "retrieval_count": 1
+    },
+    "6964b542-08f1-4a16-88b7-cd99c751da57": {
+      "node_type": "s",
+      "content": "The user prefers learning in group settings despite trying online courses.",
+      "keywords": [
+        "learning"
+      ],
+      "domain_label": [
+        "education",
+        "self-improvement",
+        "learning-methods",
+        "skills",
+        "community"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 22,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 2,
+      "retrieval_count": 21
+    },
+    "f51809ec-02c5-405d-9c03-aba59ab0e4c6": {
+      "node_type": "c",
+      "content": "User: I haven't looked into those yet, thanks for the suggestion! Speaking of my schedule, do you have any advice on meal planning for a picky eater? My daughter is so particular about her food, and I don't always have time to cook separate meals.\nAgent: Meal planning for picky eaters can be challenging! One approach is to involve your daughter in the process. Let her help choose meals for the week or assist with simple cooking tasks. This can make her more interested in trying new foods. Also, try preparing versatile base ingredients that can be customized easily. For example, a plain pasta dish that can be topped differently for each of you. Do you have any go-to meals that work well for both of you?",
+      "keywords": [
+        "schedule",
+        "daughter",
+        "she",
+        "time",
+        "this",
+        "suggestion",
+        "i",
+        "ingredient",
+        "example",
+        "eater",
+        "process",
+        "food",
+        "approach",
+        "each",
+        "meal",
+        "that",
+        "week",
+        "advice",
+        "task",
+        "both",
+        "you",
+        "those",
+        "planning"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 23,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 4,
+      "retrieval_count": 1
+    },
+    "41fef346-abad-486c-84fc-51a5e024d669": {
+      "node_type": "s",
+      "content": "The user lacks knowledge about community classes but is interested in learning via group settings for skill improvement.",
+      "keywords": [
+        "community",
+        "classes",
+        "group",
+        "settings",
+        "skills"
+      ],
+      "domain_label": [
+        "education",
+        "learning",
+        "groups",
+        "general",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 23,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 4,
+      "retrieval_count": 20
+    },
+    "52aea436-be4f-47d1-9777-2486b3a5625c": {
+      "node_type": "c",
+      "content": "User: We both love tacos, so that's our fail-safe option. On another note, I'm trying to save money for my daughter's future education. Any tips for a waitress on a tight budget?\nAgent: It's great that you're thinking ahead about your daughter's education! For saving on a tight budget, consider these tips:\n1. Set up automatic transfers to a savings account, even if it's a small amount.\n2. Look into high-yield savings accounts or 529 college savings plans.\n3. Cut unnecessary expenses by reviewing your monthly bills.\n4. Take advantage of cash-back credit cards for everyday purchases.\n5. Consider picking up extra shifts during busy seasons if possible.\nHave you explored any government assistance programs that might help with your current expenses?",
+      "keywords": [
+        "money",
+        "transfer",
+        "expense",
+        "education",
+        "waitress",
+        "advantage",
+        "we",
+        "bill",
+        "plan",
+        "tip",
+        "budget",
+        "i",
+        "option",
+        "it",
+        "card",
+        "that",
+        "program",
+        "both",
+        "taco",
+        "you",
+        "amount",
+        "note",
+        "season",
+        "account",
+        "purchase",
+        "shift"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 24,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 6,
+      "retrieval_count": 1
+    },
+    "ff7496f2-b818-495f-a86e-3623791e9b4a": {
+      "node_type": "s",
+      "content": "The user is trying to save money for their daughter's education while working as a waitress on a tight budget.",
+      "keywords": [
+        "saving",
+        "money",
+        "education",
+        "waitress",
+        "budget"
+      ],
+      "domain_label": [
+        "finance",
+        "parenting",
+        "work",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 24,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 6,
+      "retrieval_count": 19
+    },
+    "b2f1c3fd-ee58-46a7-b93e-3c77f1d02920": {
+      "node_type": "c",
+      "content": "User: I haven't looked into assistance programs yet. That's a good idea, thanks! One last question - do you know of any fun, free activities I can do with my daughter on my days off? We're always looking for new adventures.\nAgent: Absolutely! There are many fun, free activities you can enjoy with your daughter:\n1. Visit local parks or nature trails for picnics or hikes.\n2. Check out free days at museums or art galleries in your area.\n3. Attend community events like festivals or outdoor concerts.\n4. Have a movie night at home with homemade snacks.\n5. Start a small garden or plant flowers together.\n6. Visit your local library for storytime sessions or to borrow books and games.\n7. Have a craft day using materials you already have at home.\nThese activities can be great for bonding and creating memories without straining your budget. Do any of these appeal to you and your daughter?",
+      "keywords": [
+        "adventure",
+        "appeal",
+        "picnic",
+        "home",
+        "idea",
+        "daughter",
+        "activity",
+        "book",
+        "we",
+        "budget",
+        "i",
+        "gallery",
+        "night",
+        "memory",
+        "any",
+        "hike",
+        "event",
+        "that",
+        "program",
+        "snack",
+        "park",
+        "material",
+        "museum",
+        "you",
+        "flower",
+        "game",
+        "bonding",
+        "trail",
+        "area",
+        "library",
+        "concert",
+        "session",
+        "day",
+        "festival"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 25,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 8,
+      "retrieval_count": 1
+    },
+    "fbb81cd1-f03f-443a-840d-9795366b739f": {
+      "node_type": "s",
+      "content": "The user is seeking recommendations for free activities they can do with their daughter on their days off.",
+      "keywords": [
+        "daughter",
+        "fun"
+      ],
+      "domain_label": [
+        "family",
+        "leisure",
+        "budget",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 25,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 8,
+      "retrieval_count": 18
+    },
+    "20cd6da7-f883-4358-a16e-a92e20e0876e": {
+      "node_type": "e",
+      "content": "The user sought advice on managing time as a waitress and picky eater, discussed meal planning using tacos as a shared option, and requested budget-saving tips and free activities for her daughter's education.",
+      "keywords": [
+        "time",
+        "waitress",
+        "meal",
+        "tacos",
+        "budget",
+        "saving",
+        "activities"
+      ],
+      "domain_label": [
+        "parenting",
+        "finance",
+        "lifestyle",
+        "education",
+        "family"
+      ],
+      "scope": "NARROW",
+      "recall_priority": null,
+      "created_at": 26,
+      "session_id": 0,
+      "conv_id": 4,
+      "turn_id": 8,
+      "retrieval_count": 18
+    },
+    "7fc12a53-e085-4d24-8a76-a5f8a2c8b5eb": {
+      "node_type": "c",
+      "content": "User: Hey there, I'm on night patrol and it's pretty quiet. Got any tips for staying alert during these long shifts?\nAgent: Hello! Staying alert during night patrols can be challenging. Some effective strategies include taking short walks when possible, staying hydrated, and engaging in light conversation with your partner if you have one. You could also try mental exercises or puzzles during downtime to keep your mind active. How long have you been working night shifts?",
+      "keywords": [
+        "exercise",
+        "tip",
+        "i",
+        "puzzle",
+        "patrol",
+        "it",
+        "alert",
+        "strategy",
+        "downtime",
+        "mind",
+        "walk",
+        "partner",
+        "you",
+        "conversation",
+        "shift"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 26,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 0,
+      "retrieval_count": 1
+    },
+    "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": {
+      "node_type": "s",
+      "content": "The user is currently working night patrol and needs tips for staying alert during long quiet shifts.",
+      "keywords": [
+        "tips"
+      ],
+      "domain_label": [
+        "work",
+        "safety",
+        "productivity",
+        "wellness",
+        "general"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 26,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 0,
+      "retrieval_count": 12
+    },
+    "510e0ccb-2b83-43bf-857b-c5571325e13a": {
+      "node_type": "c",
+      "content": "User: I've been on night shifts for about a month now. It's still an adjustment. Speaking of mental exercises, I usually prefer interactive or gamified learning methods over passive ones like podcasts. Any ideas for quick, engaging activities I can do during slow periods to stay sharp?\nAgent: That's a great approach to staying alert! For quick, engaging activities, you could try mental math exercises, memory games, or even crime scenario puzzles. Many police departments have mobile apps with training modules or quizzes that you can access on your phone. These can help reinforce your knowledge of procedures and laws while keeping you engaged. Have you noticed any particular challenges during your night patrols so far?",
+      "keywords": [
+        "knowledge",
+        "period",
+        "idea",
+        "activity",
+        "one",
+        "adjustment",
+        "law",
+        "phone",
+        "i",
+        "crime",
+        "puzzle",
+        "it",
+        "quiz",
+        "department",
+        "procedure",
+        "approach",
+        "month",
+        "that",
+        "you",
+        "game",
+        "module",
+        "app",
+        "method",
+        "challenge",
+        "exercise",
+        "patrol",
+        "podcast",
+        "these",
+        "shift"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 27,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 2,
+      "retrieval_count": 1
+    },
+    "b0417da9-99bb-4bdc-843d-35b70582f717": {
+      "node_type": "s",
+      "content": "The user prefers interactive or gamified learning methods over passive ones like podcasts for quick, engaging activities during night shifts.",
+      "keywords": [
+        "interactive",
+        "gamified",
+        "learning",
+        "podcasts",
+        "activities",
+        "engagement"
+      ],
+      "domain_label": [
+        "learning_preference",
+        "work_strategy",
+        "entertainment",
+        "productivity",
+        "training"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 27,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 2,
+      "retrieval_count": 11
+    },
+    "585f5965-5cf7-4677-9813-444eceb8a8e9": {
+      "node_type": "c",
+      "content": "User: Yeah, the biggest challenge is definitely maintaining situational awareness when fatigue starts to set in. How do experienced officers manage that?\nAgent: Experienced officers often develop strategies to combat fatigue-induced lapses in situational awareness. Some common techniques include:\n\n1. Regularly changing patrol routes to avoid monotony\n2. Using systematic scanning techniques to observe their surroundings\n3. Taking short breaks when possible to stretch and move around\n4. Practicing mindfulness exercises to stay present in the moment\n5. Communicating frequently with dispatch and other officers\n\nIt's also important to ensure you're well-rested before your shift and maintain a consistent sleep schedule on your days off. Have you received any specific training on managing fatigue during night patrols?",
+      "keywords": [
+        "combat",
+        "technique",
+        "training",
+        "schedule",
+        "break",
+        "it",
+        "fatigue",
+        "strategy",
+        "route",
+        "dispatch",
+        "awareness",
+        "that",
+        "moment",
+        "officer",
+        "you",
+        "lapse",
+        "challenge",
+        "exercise",
+        "surrounding",
+        "patrol",
+        "day",
+        "shift"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 28,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 4,
+      "retrieval_count": 1
+    },
+    "20565474-a61b-4db2-b309-eb3fd0cc5395": {
+      "node_type": "s",
+      "content": "The user wants to learn how experienced officers manage maintaining situational awareness when fatigue sets in during night shifts.",
+      "keywords": [
+        "fatigue",
+        "manage",
+        "challenge"
+      ],
+      "domain_label": [
+        "alertness",
+        "general",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 28,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 4,
+      "retrieval_count": 10
+    },
+    "83fd7266-9dc9-438b-889c-5447c8d80a0e": {
+      "node_type": "c",
+      "content": "User: We had a brief session on it during academy training, but nothing too in-depth. I'm curious about the systematic scanning techniques you mentioned. Could you elaborate on that?\nAgent: Certainly! Systematic scanning techniques are methods used to observe your surroundings thoroughly and efficiently. One common technique is the \"Clock Face Method\":\n\n1. Imagine your field of view as a clock face\n2. Start at 12 o'clock and scan clockwise, pausing briefly at each hour mark\n3. Focus on different distances for each sweep (near, middle, far)\n4. Pay attention to anything unusual or out of place\n\nThis method helps ensure you don't miss any areas and trains your brain to be more observant. It's particularly useful when patrolling on foot or monitoring a stationary area. With practice, it becomes second nature. Have you tried any specific observation techniques during your patrols?",
+      "keywords": [
+        "o'clock",
+        "technique",
+        "training",
+        "sweep",
+        "field",
+        "we",
+        "i",
+        "distance",
+        "it",
+        "clockwise",
+        "brain",
+        "focus",
+        "attention",
+        "place",
+        "view",
+        "nothing",
+        "that",
+        "face",
+        "you",
+        "method",
+        "surrounding",
+        "practice",
+        "patrol",
+        "nature",
+        "foot",
+        "area",
+        "session",
+        "mark",
+        "depth",
+        "anything"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 29,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 6,
+      "retrieval_count": 1
+    },
+    "8c51e6da-4680-4a1b-9898-cfa28bb4a8af": {
+      "node_type": "s",
+      "content": "The user recalls a brief academy training session on systematic scanning techniques but lacks in-depth coverage and requests further elaboration.",
+      "keywords": [
+        "in-depth",
+        "elaborate"
+      ],
+      "domain_label": [
+        "training",
+        "police",
+        "safety",
+        "observation",
+        "skills"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 29,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 6,
+      "retrieval_count": 9
+    },
+    "8083686e-3ad4-4dd6-9ef6-036b71504eaa": {
+      "node_type": "c",
+      "content": "User: I haven't tried anything that structured yet. I'll definitely give the Clock Face Method a shot on my next patrol. On a different note, what are some common mistakes rookie officers tend to make during night patrols?\nAgent: Great question! Some common mistakes rookie officers might make during night patrols include:\n\n1. Overreliance on vehicle patrols, missing details visible only on foot\n2. Inadequate communication with dispatch or fellow officers\n3. Failing to properly use night vision equipment or flashlights\n4. Becoming complacent during quiet periods\n5. Not taking advantage of cover and concealment when approaching potentially dangerous situations\n6. Neglecting to regularly check and maintain equipment\n7. Inconsistent application of proper safety protocols\n\nRemember, these mistakes are learning opportunities. Experienced officers have likely made similar errors and learned from them. It's crucial to stay vigilant, follow procedures, and always prioritize your safety and that of your fellow officers. Have you encountered any challenging situations during your night patrols so far?",
+      "keywords": [
+        "mistake",
+        "period",
+        "concealment",
+        "communication",
+        "advantage",
+        "protocol",
+        "cover",
+        "error",
+        "i",
+        "shot",
+        "detail",
+        "it",
+        "they",
+        "procedure",
+        "equipment",
+        "that",
+        "what",
+        "officer",
+        "overreliance",
+        "flashlight",
+        "you",
+        "question",
+        "opportunity",
+        "method",
+        "patrol",
+        "safety",
+        "situation",
+        "note",
+        "foot",
+        "application",
+        "anything"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 30,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 8,
+      "retrieval_count": 1
+    },
+    "9f5b1bdc-0869-42a9-9959-be7e8dad3d39": {
+      "node_type": "s",
+      "content": "The user will try the Clock Face Method on their next patrol.",
+      "keywords": [],
+      "domain_label": [
+        "patrol",
+        "training",
+        "technique",
+        "safety",
+        "methodology"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 30,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 8,
+      "retrieval_count": 8
+    },
+    "e95cd5d6-5d74-4ab2-9f99-4b15c2ba1414": {
+      "node_type": "c",
+      "content": "User: Thanks for the insights. I haven't faced any major challenges yet, but I'll keep those points in mind. One last question - are there any recommended resources or training programs for improving night patrol skills?\nAgent: Absolutely! There are several resources and training programs that can help improve your night patrol skills:\n\n1. Advanced Officer Training courses offered by your department or regional police academies\n2. Online law enforcement continuing education platforms like PoliceOne Academy or ILEETA\n3. Tactical night vision and low-light shooting courses\n4. Scenario-based training simulations, which many departments are now incorporating\n5. Workshops on stress management and decision-making under pressure\n6. Defensive tactics refresher courses tailored for low-light conditions\n7. Local or national police conferences that often feature specialized workshops\n\nIt's also beneficial to seek mentorship from experienced officers in your department. They can provide valuable, practical insights that complement formal training. Have you considered any specific areas of night patrol work you'd like to focus on improving?",
+      "keywords": [
+        "insight",
+        "course",
+        "mentorship",
+        "point",
+        "academy",
+        "training",
+        "police",
+        "which",
+        "making",
+        "i",
+        "mind",
+        "conference",
+        "it",
+        "management",
+        "they",
+        "department",
+        "workshop",
+        "work",
+        "condition",
+        "program",
+        "that",
+        "resource",
+        "officer",
+        "skill",
+        "you",
+        "pressure",
+        "challenge",
+        "thank",
+        "platform",
+        "simulation",
+        "area"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 31,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 10,
+      "retrieval_count": 1
+    },
+    "60b1bef1-5c53-400b-bd88-b666f92f974a": {
+      "node_type": "s",
+      "content": "The user wants recommended resources or training programs to improve night patrol skills.",
+      "keywords": [
+        "resources"
+      ],
+      "domain_label": [
+        "police",
+        "training",
+        "education",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 31,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 10,
+      "retrieval_count": 7
+    },
+    "c52e9082-285e-4431-91a1-01a0c2539c23": {
+      "node_type": "e",
+      "content": "The user discussed strategies to maintain situational awareness during night shifts and requested elaboration on the Clock Face Method for systematic scanning, which they plan to try on their next patrol.",
+      "keywords": [
+        "fatigue"
+      ],
+      "domain_label": [
+        "general",
+        "general_1",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": null,
+      "created_at": 32,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 10,
+      "retrieval_count": 7
+    },
+    "6a1dda28-b90e-48b3-b6b1-157bafa60d26": {
+      "node_type": "t",
+      "content": "The user tends to actively seek structured, gamified, or interactive learning methods when acquiring new skills or improving performance, whether for time management, parenting, or professional police training, and avoids passive consumption in favor of active participation.",
+      "keywords": [
+        "interactive",
+        "gamified",
+        "learning",
+        "training",
+        "skills",
+        "structured",
+        "method"
+      ],
+      "domain_label": [
+        "education",
+        "general",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": null,
+      "created_at": 32,
+      "session_id": 0,
+      "conv_id": 5,
+      "turn_id": 10,
+      "retrieval_count": 7
+    }
+  },
+  "src_out": {
+    "08ae1c78-30e3-496a-a7cf-79c84ea7f204": [
+      "c09ca341-77c0-4683-93b4-827f1d700480",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02",
+      "a9ac0bb5-3967-48e5-b934-250cfe3d6b77"
+    ],
+    "a9ac0bb5-3967-48e5-b934-250cfe3d6b77": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "614e3094-e33d-48d8-bf8b-d7f518a1e8d5": [
+      "c09ca341-77c0-4683-93b4-827f1d700480",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02",
+      "e6f31148-dce2-459e-9fcd-2263b8c8f323"
+    ],
+    "e6f31148-dce2-459e-9fcd-2263b8c8f323": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "59801194-4ea4-4ddf-8341-5370b0d8dcd5": [
+      "c09ca341-77c0-4683-93b4-827f1d700480",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02",
+      "a77d5a45-98f7-40ff-b83e-3de296f57a36"
+    ],
+    "a77d5a45-98f7-40ff-b83e-3de296f57a36": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "acaa87b0-5a0f-42d5-9e70-f7fb3e1e570e": [
+      "535a6f5a-9a8e-4b47-8df3-25f99d953116",
+      "c09ca341-77c0-4683-93b4-827f1d700480",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "535a6f5a-9a8e-4b47-8df3-25f99d953116": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "c4c6e554-8530-416a-b454-7322a7f5fbd8": [
+      "c09ca341-77c0-4683-93b4-827f1d700480",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02",
+      "b5e1d815-d5e6-4d8d-a3d2-a5dcef8cd097"
+    ],
+    "b5e1d815-d5e6-4d8d-a3d2-a5dcef8cd097": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "6840209c-4954-4798-9a8d-4f15b6e8ec56": [
+      "44b6c5d1-bba4-43c1-82fa-045e7fcc5722",
+      "c09ca341-77c0-4683-93b4-827f1d700480",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "44b6c5d1-bba4-43c1-82fa-045e7fcc5722": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "c09ca341-77c0-4683-93b4-827f1d700480": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "8fd24995-174c-433f-bad8-30d0f50aa573": [
+      "85a9052f-ccf7-48ee-9100-c2a05d393523",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02",
+      "e23b5392-5388-4fdc-80b9-20cd58485067"
+    ],
+    "e23b5392-5388-4fdc-80b9-20cd58485067": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "37d08cb0-45e0-4756-8d28-e2650784e845": [
+      "946e93bf-6731-4b9d-ab0e-461b8840587b",
+      "85a9052f-ccf7-48ee-9100-c2a05d393523",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "946e93bf-6731-4b9d-ab0e-461b8840587b": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "f782ca53-dd90-466a-bd03-4910b192cb58": [
+      "c690a4a4-3255-4b21-a263-afb9561aa6d9",
+      "85a9052f-ccf7-48ee-9100-c2a05d393523",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "c690a4a4-3255-4b21-a263-afb9561aa6d9": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "eb363d3c-a163-4721-bf17-1b4462bef7bd": [
+      "9edc2482-4898-4ff0-be60-514d72f50ac0",
+      "85a9052f-ccf7-48ee-9100-c2a05d393523",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "9edc2482-4898-4ff0-be60-514d72f50ac0": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "2de7f60b-2148-4ea5-ae67-a1599fdc464a": [
+      "85a9052f-ccf7-48ee-9100-c2a05d393523",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02",
+      "54149662-8c38-4830-9bb1-3be6ba195ef6"
+    ],
+    "54149662-8c38-4830-9bb1-3be6ba195ef6": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "85a9052f-ccf7-48ee-9100-c2a05d393523": [
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02"
+    ],
+    "22f439c7-2275-4c0f-9bb5-f55b3728cb02": [],
+    "cfb9864d-8268-4906-9ed1-d3d72f6489f3": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7",
+      "f247b746-4d78-4ba1-8f82-5576f7f7470f",
+      "ece5c884-379f-4cdd-ac04-999bdb589bbe"
+    ],
+    "ece5c884-379f-4cdd-ac04-999bdb589bbe": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "3f29a5ba-c151-4175-94db-88836ef44c4b": [
+      "1b5142ed-095a-45d6-998b-a0913187ae60",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7",
+      "f247b746-4d78-4ba1-8f82-5576f7f7470f"
+    ],
+    "1b5142ed-095a-45d6-998b-a0913187ae60": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "339e89f0-6907-410d-a33d-98b962e9986e": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7",
+      "56d454f4-e084-4c47-9a80-85d7efad4e26",
+      "f247b746-4d78-4ba1-8f82-5576f7f7470f"
+    ],
+    "56d454f4-e084-4c47-9a80-85d7efad4e26": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "15a0a335-9f86-441d-95e9-68fa72dcdd7c": [
+      "6fd94c45-8465-4f71-a027-347d83d3ea9b",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7",
+      "f247b746-4d78-4ba1-8f82-5576f7f7470f"
+    ],
+    "6fd94c45-8465-4f71-a027-347d83d3ea9b": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "ac928546-7bd8-44a0-9462-7e52ef21d3e4": [
+      "f208d0f9-e441-438b-b642-e95735c8b01d",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7",
+      "f247b746-4d78-4ba1-8f82-5576f7f7470f"
+    ],
+    "f208d0f9-e441-438b-b642-e95735c8b01d": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "f247b746-4d78-4ba1-8f82-5576f7f7470f": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "3d7358df-41f4-4bf1-98ce-bb6bd66c1fa4": [
+      "684e5c6e-5a24-46e7-bd36-49df7023a746",
+      "51ef5722-00cd-4286-ad58-d9fc602bdbb8",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "684e5c6e-5a24-46e7-bd36-49df7023a746": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "be6e1de3-930c-4a19-af3a-679f98b46dae": [
+      "a922acf2-5a36-482c-b722-125ef7ef0aef",
+      "51ef5722-00cd-4286-ad58-d9fc602bdbb8",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "a922acf2-5a36-482c-b722-125ef7ef0aef": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "c6d1ecae-4b89-4e70-b5a9-9d40cb67d956": [
+      "2dd1ea75-1c64-4a03-91c6-08499a3014f5",
+      "51ef5722-00cd-4286-ad58-d9fc602bdbb8",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "2dd1ea75-1c64-4a03-91c6-08499a3014f5": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "99afb95d-0932-492f-bbd2-cec7a7c5dd8c": [
+      "51ef5722-00cd-4286-ad58-d9fc602bdbb8",
+      "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "bb79d360-d829-404a-9d05-fb9e00fa67a2": [
+      "6c996aab-5f75-4061-b052-9a9d45041ffc",
+      "51ef5722-00cd-4286-ad58-d9fc602bdbb8",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "6c996aab-5f75-4061-b052-9a9d45041ffc": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "51ef5722-00cd-4286-ad58-d9fc602bdbb8": [
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7"
+    ],
+    "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": [],
+    "0185e809-af11-49db-96ae-a03750791c23": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "20cd6da7-f883-4358-a16e-a92e20e0876e",
+      "f10640d5-e042-4daf-905f-339fb202a2c4"
+    ],
+    "f10640d5-e042-4daf-905f-339fb202a2c4": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "b47c66a9-7e20-4c22-9fa0-a1f42ed737e0": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "20cd6da7-f883-4358-a16e-a92e20e0876e",
+      "6964b542-08f1-4a16-88b7-cd99c751da57"
+    ],
+    "6964b542-08f1-4a16-88b7-cd99c751da57": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "f51809ec-02c5-405d-9c03-aba59ab0e4c6": [
+      "20cd6da7-f883-4358-a16e-a92e20e0876e",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "41fef346-abad-486c-84fc-51a5e024d669"
+    ],
+    "41fef346-abad-486c-84fc-51a5e024d669": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "52aea436-be4f-47d1-9777-2486b3a5625c": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "20cd6da7-f883-4358-a16e-a92e20e0876e",
+      "ff7496f2-b818-495f-a86e-3623791e9b4a"
+    ],
+    "ff7496f2-b818-495f-a86e-3623791e9b4a": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "b2f1c3fd-ee58-46a7-b93e-3c77f1d02920": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "fbb81cd1-f03f-443a-840d-9795366b739f",
+      "20cd6da7-f883-4358-a16e-a92e20e0876e"
+    ],
+    "fbb81cd1-f03f-443a-840d-9795366b739f": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "20cd6da7-f883-4358-a16e-a92e20e0876e": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "7fc12a53-e085-4d24-8a76-a5f8a2c8b5eb": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "c52e9082-285e-4431-91a1-01a0c2539c23",
+      "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4"
+    ],
+    "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "510e0ccb-2b83-43bf-857b-c5571325e13a": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "b0417da9-99bb-4bdc-843d-35b70582f717",
+      "c52e9082-285e-4431-91a1-01a0c2539c23"
+    ],
+    "b0417da9-99bb-4bdc-843d-35b70582f717": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "585f5965-5cf7-4677-9813-444eceb8a8e9": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "c52e9082-285e-4431-91a1-01a0c2539c23",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395"
+    ],
+    "20565474-a61b-4db2-b309-eb3fd0cc5395": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "83fd7266-9dc9-438b-889c-5447c8d80a0e": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "c52e9082-285e-4431-91a1-01a0c2539c23",
+      "8c51e6da-4680-4a1b-9898-cfa28bb4a8af"
+    ],
+    "8c51e6da-4680-4a1b-9898-cfa28bb4a8af": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "8083686e-3ad4-4dd6-9ef6-036b71504eaa": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "c52e9082-285e-4431-91a1-01a0c2539c23",
+      "9f5b1bdc-0869-42a9-9959-be7e8dad3d39"
+    ],
+    "9f5b1bdc-0869-42a9-9959-be7e8dad3d39": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "e95cd5d6-5d74-4ab2-9f99-4b15c2ba1414": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26",
+      "60b1bef1-5c53-400b-bd88-b666f92f974a",
+      "c52e9082-285e-4431-91a1-01a0c2539c23"
+    ],
+    "60b1bef1-5c53-400b-bd88-b666f92f974a": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "c52e9082-285e-4431-91a1-01a0c2539c23": [
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26"
+    ],
+    "6a1dda28-b90e-48b3-b6b1-157bafa60d26": []
+  },
+  "evid_out": {
+    "08ae1c78-30e3-496a-a7cf-79c84ea7f204": {},
+    "a9ac0bb5-3967-48e5-b934-250cfe3d6b77": {
+      "e6f31148-dce2-459e-9fcd-2263b8c8f323": "IRRELEVANT",
+      "a77d5a45-98f7-40ff-b83e-3de296f57a36": "IRRELEVANT",
+      "535a6f5a-9a8e-4b47-8df3-25f99d953116": "IRRELEVANT",
+      "b5e1d815-d5e6-4d8d-a3d2-a5dcef8cd097": "SUPPORT",
+      "44b6c5d1-bba4-43c1-82fa-045e7fcc5722": "IRRELEVANT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT",
+      "e23b5392-5388-4fdc-80b9-20cd58485067": "IRRELEVANT"
+    },
+    "614e3094-e33d-48d8-bf8b-d7f518a1e8d5": {},
+    "e6f31148-dce2-459e-9fcd-2263b8c8f323": {
+      "a77d5a45-98f7-40ff-b83e-3de296f57a36": "SUPPORT",
+      "535a6f5a-9a8e-4b47-8df3-25f99d953116": "IRRELEVANT",
+      "b5e1d815-d5e6-4d8d-a3d2-a5dcef8cd097": "IRRELEVANT",
+      "44b6c5d1-bba4-43c1-82fa-045e7fcc5722": "IRRELEVANT",
+      "e23b5392-5388-4fdc-80b9-20cd58485067": "IRRELEVANT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "SUPPORT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "SUPPORT",
+      "a922acf2-5a36-482c-b722-125ef7ef0aef": "IRRELEVANT",
+      "1b5142ed-095a-45d6-998b-a0913187ae60": "IRRELEVANT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT",
+      "6964b542-08f1-4a16-88b7-cd99c751da57": "CONTRADICT"
+    },
+    "59801194-4ea4-4ddf-8341-5370b0d8dcd5": {},
+    "a77d5a45-98f7-40ff-b83e-3de296f57a36": {
+      "535a6f5a-9a8e-4b47-8df3-25f99d953116": "IRRELEVANT",
+      "b5e1d815-d5e6-4d8d-a3d2-a5dcef8cd097": "IRRELEVANT",
+      "44b6c5d1-bba4-43c1-82fa-045e7fcc5722": "IRRELEVANT",
+      "e23b5392-5388-4fdc-80b9-20cd58485067": "IRRELEVANT",
+      "946e93bf-6731-4b9d-ab0e-461b8840587b": "IRRELEVANT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "SUPPORT"
+    },
+    "acaa87b0-5a0f-42d5-9e70-f7fb3e1e570e": {},
+    "535a6f5a-9a8e-4b47-8df3-25f99d953116": {
+      "b5e1d815-d5e6-4d8d-a3d2-a5dcef8cd097": "SUPPORT",
+      "44b6c5d1-bba4-43c1-82fa-045e7fcc5722": "SUPPORT",
+      "e23b5392-5388-4fdc-80b9-20cd58485067": "IRRELEVANT",
+      "946e93bf-6731-4b9d-ab0e-461b8840587b": "IRRELEVANT",
+      "c690a4a4-3255-4b21-a263-afb9561aa6d9": "IRRELEVANT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "SUPPORT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT"
+    },
+    "c4c6e554-8530-416a-b454-7322a7f5fbd8": {},
+    "b5e1d815-d5e6-4d8d-a3d2-a5dcef8cd097": {
+      "44b6c5d1-bba4-43c1-82fa-045e7fcc5722": "SUPPORT",
+      "e23b5392-5388-4fdc-80b9-20cd58485067": "IRRELEVANT",
+      "946e93bf-6731-4b9d-ab0e-461b8840587b": "IRRELEVANT",
+      "c690a4a4-3255-4b21-a263-afb9561aa6d9": "IRRELEVANT",
+      "9edc2482-4898-4ff0-be60-514d72f50ac0": "IRRELEVANT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "SUPPORT",
+      "1b5142ed-095a-45d6-998b-a0913187ae60": "IRRELEVANT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "IRRELEVANT",
+      "60b1bef1-5c53-400b-bd88-b666f92f974a": "IRRELEVANT"
+    },
+    "6840209c-4954-4798-9a8d-4f15b6e8ec56": {},
+    "44b6c5d1-bba4-43c1-82fa-045e7fcc5722": {
+      "e23b5392-5388-4fdc-80b9-20cd58485067": "IRRELEVANT",
+      "946e93bf-6731-4b9d-ab0e-461b8840587b": "IRRELEVANT",
+      "c690a4a4-3255-4b21-a263-afb9561aa6d9": "IRRELEVANT",
+      "9edc2482-4898-4ff0-be60-514d72f50ac0": "IRRELEVANT",
+      "54149662-8c38-4830-9bb1-3be6ba195ef6": "IRRELEVANT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "SUPPORT",
+      "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": "IRRELEVANT",
+      "1b5142ed-095a-45d6-998b-a0913187ae60": "IRRELEVANT",
+      "56d454f4-e084-4c47-9a80-85d7efad4e26": "IRRELEVANT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT"
+    },
+    "c09ca341-77c0-4683-93b4-827f1d700480": {
+      "a9ac0bb5-3967-48e5-b934-250cfe3d6b77": "SUPPORT",
+      "e6f31148-dce2-459e-9fcd-2263b8c8f323": "SUPPORT",
+      "a77d5a45-98f7-40ff-b83e-3de296f57a36": "IRRELEVANT",
+      "535a6f5a-9a8e-4b47-8df3-25f99d953116": "SUPPORT",
+      "b5e1d815-d5e6-4d8d-a3d2-a5dcef8cd097": "SUPPORT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "SUPPORT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "SUPPORT",
+      "44b6c5d1-bba4-43c1-82fa-045e7fcc5722": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "IRRELEVANT",
+      "60b1bef1-5c53-400b-bd88-b666f92f974a": "IRRELEVANT"
+    },
+    "8fd24995-174c-433f-bad8-30d0f50aa573": {},
+    "e23b5392-5388-4fdc-80b9-20cd58485067": {
+      "946e93bf-6731-4b9d-ab0e-461b8840587b": "SUPPORT",
+      "c690a4a4-3255-4b21-a263-afb9561aa6d9": "SUPPORT",
+      "9edc2482-4898-4ff0-be60-514d72f50ac0": "SUPPORT",
+      "54149662-8c38-4830-9bb1-3be6ba195ef6": "SUPPORT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "IRRELEVANT",
+      "ece5c884-379f-4cdd-ac04-999bdb589bbe": "IRRELEVANT"
+    },
+    "37d08cb0-45e0-4756-8d28-e2650784e845": {},
+    "946e93bf-6731-4b9d-ab0e-461b8840587b": {
+      "c690a4a4-3255-4b21-a263-afb9561aa6d9": "SUPPORT",
+      "9edc2482-4898-4ff0-be60-514d72f50ac0": "IRRELEVANT",
+      "54149662-8c38-4830-9bb1-3be6ba195ef6": "SUPPORT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "SUPPORT",
+      "ece5c884-379f-4cdd-ac04-999bdb589bbe": "IRRELEVANT",
+      "1b5142ed-095a-45d6-998b-a0913187ae60": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "SUPPORT",
+      "a922acf2-5a36-482c-b722-125ef7ef0aef": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT"
+    },
+    "f782ca53-dd90-466a-bd03-4910b192cb58": {},
+    "c690a4a4-3255-4b21-a263-afb9561aa6d9": {
+      "9edc2482-4898-4ff0-be60-514d72f50ac0": "IRRELEVANT",
+      "54149662-8c38-4830-9bb1-3be6ba195ef6": "SUPPORT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "IRRELEVANT",
+      "ece5c884-379f-4cdd-ac04-999bdb589bbe": "IRRELEVANT",
+      "1b5142ed-095a-45d6-998b-a0913187ae60": "IRRELEVANT",
+      "56d454f4-e084-4c47-9a80-85d7efad4e26": "IRRELEVANT"
+    },
+    "eb363d3c-a163-4721-bf17-1b4462bef7bd": {},
+    "9edc2482-4898-4ff0-be60-514d72f50ac0": {
+      "54149662-8c38-4830-9bb1-3be6ba195ef6": "SUPPORT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "IRRELEVANT",
+      "ece5c884-379f-4cdd-ac04-999bdb589bbe": "IRRELEVANT",
+      "1b5142ed-095a-45d6-998b-a0913187ae60": "IRRELEVANT",
+      "56d454f4-e084-4c47-9a80-85d7efad4e26": "IRRELEVANT",
+      "6fd94c45-8465-4f71-a027-347d83d3ea9b": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT"
+    },
+    "2de7f60b-2148-4ea5-ae67-a1599fdc464a": {},
+    "54149662-8c38-4830-9bb1-3be6ba195ef6": {
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "IRRELEVANT",
+      "ece5c884-379f-4cdd-ac04-999bdb589bbe": "IRRELEVANT",
+      "1b5142ed-095a-45d6-998b-a0913187ae60": "IRRELEVANT",
+      "56d454f4-e084-4c47-9a80-85d7efad4e26": "IRRELEVANT",
+      "6fd94c45-8465-4f71-a027-347d83d3ea9b": "IRRELEVANT",
+      "f208d0f9-e441-438b-b642-e95735c8b01d": "IRRELEVANT"
+    },
+    "85a9052f-ccf7-48ee-9100-c2a05d393523": {
+      "c09ca341-77c0-4683-93b4-827f1d700480": "IRRELEVANT",
+      "e23b5392-5388-4fdc-80b9-20cd58485067": "SUPPORT",
+      "946e93bf-6731-4b9d-ab0e-461b8840587b": "IRRELEVANT",
+      "c690a4a4-3255-4b21-a263-afb9561aa6d9": "SUPPORT",
+      "9edc2482-4898-4ff0-be60-514d72f50ac0": "IRRELEVANT",
+      "54149662-8c38-4830-9bb1-3be6ba195ef6": "SUPPORT",
+      "22f439c7-2275-4c0f-9bb5-f55b3728cb02": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT"
+    },
+    "22f439c7-2275-4c0f-9bb5-f55b3728cb02": {
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "SHIFT_TO"
+    },
+    "cfb9864d-8268-4906-9ed1-d3d72f6489f3": {},
+    "ece5c884-379f-4cdd-ac04-999bdb589bbe": {
+      "1b5142ed-095a-45d6-998b-a0913187ae60": "SUPPORT",
+      "56d454f4-e084-4c47-9a80-85d7efad4e26": "SUPPORT",
+      "6fd94c45-8465-4f71-a027-347d83d3ea9b": "SUPPORT",
+      "f208d0f9-e441-438b-b642-e95735c8b01d": "SUPPORT",
+      "684e5c6e-5a24-46e7-bd36-49df7023a746": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT"
+    },
+    "3f29a5ba-c151-4175-94db-88836ef44c4b": {},
+    "1b5142ed-095a-45d6-998b-a0913187ae60": {
+      "56d454f4-e084-4c47-9a80-85d7efad4e26": "SUPPORT",
+      "6fd94c45-8465-4f71-a027-347d83d3ea9b": "IRRELEVANT",
+      "f208d0f9-e441-438b-b642-e95735c8b01d": "SUPPORT",
+      "684e5c6e-5a24-46e7-bd36-49df7023a746": "IRRELEVANT",
+      "a922acf2-5a36-482c-b722-125ef7ef0aef": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "SUPPORT",
+      "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT"
+    },
+    "339e89f0-6907-410d-a33d-98b962e9986e": {},
+    "56d454f4-e084-4c47-9a80-85d7efad4e26": {
+      "6fd94c45-8465-4f71-a027-347d83d3ea9b": "SUPPORT",
+      "f208d0f9-e441-438b-b642-e95735c8b01d": "SUPPORT",
+      "684e5c6e-5a24-46e7-bd36-49df7023a746": "IRRELEVANT",
+      "a922acf2-5a36-482c-b722-125ef7ef0aef": "IRRELEVANT",
+      "2dd1ea75-1c64-4a03-91c6-08499a3014f5": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "IRRELEVANT",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "IRRELEVANT"
+    },
+    "15a0a335-9f86-441d-95e9-68fa72dcdd7c": {},
+    "6fd94c45-8465-4f71-a027-347d83d3ea9b": {
+      "f208d0f9-e441-438b-b642-e95735c8b01d": "SUPPORT",
+      "684e5c6e-5a24-46e7-bd36-49df7023a746": "IRRELEVANT",
+      "a922acf2-5a36-482c-b722-125ef7ef0aef": "IRRELEVANT",
+      "2dd1ea75-1c64-4a03-91c6-08499a3014f5": "IRRELEVANT",
+      "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": "SUPPORT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT"
+    },
+    "ac928546-7bd8-44a0-9462-7e52ef21d3e4": {},
+    "f208d0f9-e441-438b-b642-e95735c8b01d": {
+      "684e5c6e-5a24-46e7-bd36-49df7023a746": "IRRELEVANT",
+      "a922acf2-5a36-482c-b722-125ef7ef0aef": "IRRELEVANT",
+      "2dd1ea75-1c64-4a03-91c6-08499a3014f5": "IRRELEVANT",
+      "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": "SUPPORT",
+      "6c996aab-5f75-4061-b052-9a9d45041ffc": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "IRRELEVANT"
+    },
+    "f247b746-4d78-4ba1-8f82-5576f7f7470f": {
+      "85a9052f-ccf7-48ee-9100-c2a05d393523": "IRRELEVANT",
+      "ece5c884-379f-4cdd-ac04-999bdb589bbe": "SUPPORT",
+      "1b5142ed-095a-45d6-998b-a0913187ae60": "SUPPORT",
+      "56d454f4-e084-4c47-9a80-85d7efad4e26": "SUPPORT",
+      "6fd94c45-8465-4f71-a027-347d83d3ea9b": "SUPPORT",
+      "f208d0f9-e441-438b-b642-e95735c8b01d": "SUPPORT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT",
+      "a922acf2-5a36-482c-b722-125ef7ef0aef": "SUPPORT",
+      "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT"
+    },
+    "3d7358df-41f4-4bf1-98ce-bb6bd66c1fa4": {},
+    "684e5c6e-5a24-46e7-bd36-49df7023a746": {
+      "a922acf2-5a36-482c-b722-125ef7ef0aef": "IRRELEVANT",
+      "2dd1ea75-1c64-4a03-91c6-08499a3014f5": "IRRELEVANT",
+      "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": "SUPPORT",
+      "6c996aab-5f75-4061-b052-9a9d45041ffc": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT",
+      "f10640d5-e042-4daf-905f-339fb202a2c4": "IRRELEVANT",
+      "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": "SUPPORT",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "IRRELEVANT",
+      "60b1bef1-5c53-400b-bd88-b666f92f974a": "IRRELEVANT"
+    },
+    "be6e1de3-930c-4a19-af3a-679f98b46dae": {},
+    "a922acf2-5a36-482c-b722-125ef7ef0aef": {
+      "2dd1ea75-1c64-4a03-91c6-08499a3014f5": "IRRELEVANT",
+      "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": "SUPPORT",
+      "6c996aab-5f75-4061-b052-9a9d45041ffc": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "SUPPORT",
+      "f10640d5-e042-4daf-905f-339fb202a2c4": "IRRELEVANT",
+      "6964b542-08f1-4a16-88b7-cd99c751da57": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT",
+      "b0417da9-99bb-4bdc-843d-35b70582f717": "IRRELEVANT"
+    },
+    "c6d1ecae-4b89-4e70-b5a9-9d40cb67d956": {},
+    "2dd1ea75-1c64-4a03-91c6-08499a3014f5": {
+      "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": "SUPPORT",
+      "6c996aab-5f75-4061-b052-9a9d45041ffc": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT",
+      "f10640d5-e042-4daf-905f-339fb202a2c4": "IRRELEVANT",
+      "6964b542-08f1-4a16-88b7-cd99c751da57": "IRRELEVANT",
+      "41fef346-abad-486c-84fc-51a5e024d669": "IRRELEVANT",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "IRRELEVANT"
+    },
+    "99afb95d-0932-492f-bbd2-cec7a7c5dd8c": {},
+    "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": {
+      "6c996aab-5f75-4061-b052-9a9d45041ffc": "IRRELEVANT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT",
+      "f10640d5-e042-4daf-905f-339fb202a2c4": "IRRELEVANT",
+      "6964b542-08f1-4a16-88b7-cd99c751da57": "SUPPORT",
+      "41fef346-abad-486c-84fc-51a5e024d669": "IRRELEVANT",
+      "ff7496f2-b818-495f-a86e-3623791e9b4a": "IRRELEVANT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT",
+      "60b1bef1-5c53-400b-bd88-b666f92f974a": "IRRELEVANT"
+    },
+    "bb79d360-d829-404a-9d05-fb9e00fa67a2": {},
+    "6c996aab-5f75-4061-b052-9a9d45041ffc": {
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT",
+      "f10640d5-e042-4daf-905f-339fb202a2c4": "IRRELEVANT",
+      "6964b542-08f1-4a16-88b7-cd99c751da57": "IRRELEVANT",
+      "41fef346-abad-486c-84fc-51a5e024d669": "IRRELEVANT",
+      "ff7496f2-b818-495f-a86e-3623791e9b4a": "IRRELEVANT",
+      "fbb81cd1-f03f-443a-840d-9795366b739f": "IRRELEVANT"
+    },
+    "51ef5722-00cd-4286-ad58-d9fc602bdbb8": {
+      "f247b746-4d78-4ba1-8f82-5576f7f7470f": "IRRELEVANT",
+      "684e5c6e-5a24-46e7-bd36-49df7023a746": "SUPPORT",
+      "a922acf2-5a36-482c-b722-125ef7ef0aef": "SUPPORT",
+      "2dd1ea75-1c64-4a03-91c6-08499a3014f5": "SUPPORT",
+      "fb8ca7ba-acdb-49a6-8cdf-a70359cf4a27": "SUPPORT",
+      "6c996aab-5f75-4061-b052-9a9d45041ffc": "SUPPORT",
+      "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": "IRRELEVANT",
+      "f208d0f9-e441-438b-b642-e95735c8b01d": "IRRELEVANT",
+      "56d454f4-e084-4c47-9a80-85d7efad4e26": "IRRELEVANT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "IRRELEVANT",
+      "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": "SUPPORT",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "SUPPORT"
+    },
+    "c21ccfd8-e49f-47dc-8b41-8f5176fe38c7": {
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SHIFT_TO"
+    },
+    "0185e809-af11-49db-96ae-a03750791c23": {},
+    "f10640d5-e042-4daf-905f-339fb202a2c4": {
+      "6964b542-08f1-4a16-88b7-cd99c751da57": "IRRELEVANT",
+      "41fef346-abad-486c-84fc-51a5e024d669": "IRRELEVANT",
+      "ff7496f2-b818-495f-a86e-3623791e9b4a": "SUPPORT",
+      "fbb81cd1-f03f-443a-840d-9795366b739f": "SUPPORT",
+      "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "IRRELEVANT"
+    },
+    "b47c66a9-7e20-4c22-9fa0-a1f42ed737e0": {},
+    "6964b542-08f1-4a16-88b7-cd99c751da57": {
+      "41fef346-abad-486c-84fc-51a5e024d669": "SUPPORT",
+      "ff7496f2-b818-495f-a86e-3623791e9b4a": "IRRELEVANT",
+      "fbb81cd1-f03f-443a-840d-9795366b739f": "IRRELEVANT",
+      "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": "IRRELEVANT",
+      "b0417da9-99bb-4bdc-843d-35b70582f717": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT"
+    },
+    "f51809ec-02c5-405d-9c03-aba59ab0e4c6": {},
+    "41fef346-abad-486c-84fc-51a5e024d669": {
+      "ff7496f2-b818-495f-a86e-3623791e9b4a": "SUPPORT",
+      "fbb81cd1-f03f-443a-840d-9795366b739f": "IRRELEVANT",
+      "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": "IRRELEVANT",
+      "b0417da9-99bb-4bdc-843d-35b70582f717": "SUPPORT",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "IRRELEVANT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT"
+    },
+    "52aea436-be4f-47d1-9777-2486b3a5625c": {},
+    "ff7496f2-b818-495f-a86e-3623791e9b4a": {
+      "fbb81cd1-f03f-443a-840d-9795366b739f": "SUPPORT",
+      "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": "IRRELEVANT",
+      "b0417da9-99bb-4bdc-843d-35b70582f717": "IRRELEVANT",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "IRRELEVANT",
+      "8c51e6da-4680-4a1b-9898-cfa28bb4a8af": "IRRELEVANT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "IRRELEVANT"
+    },
+    "b2f1c3fd-ee58-46a7-b93e-3c77f1d02920": {},
+    "fbb81cd1-f03f-443a-840d-9795366b739f": {
+      "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": "IRRELEVANT",
+      "b0417da9-99bb-4bdc-843d-35b70582f717": "IRRELEVANT",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "IRRELEVANT",
+      "8c51e6da-4680-4a1b-9898-cfa28bb4a8af": "IRRELEVANT",
+      "9f5b1bdc-0869-42a9-9959-be7e8dad3d39": "IRRELEVANT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "IRRELEVANT"
+    },
+    "20cd6da7-f883-4358-a16e-a92e20e0876e": {
+      "51ef5722-00cd-4286-ad58-d9fc602bdbb8": "IRRELEVANT",
+      "f10640d5-e042-4daf-905f-339fb202a2c4": "SUPPORT",
+      "6964b542-08f1-4a16-88b7-cd99c751da57": "SUPPORT",
+      "41fef346-abad-486c-84fc-51a5e024d669": "SUPPORT",
+      "ff7496f2-b818-495f-a86e-3623791e9b4a": "SUPPORT",
+      "fbb81cd1-f03f-443a-840d-9795366b739f": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "IRRELEVANT"
+    },
+    "7fc12a53-e085-4d24-8a76-a5f8a2c8b5eb": {},
+    "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": {
+      "b0417da9-99bb-4bdc-843d-35b70582f717": "SUPPORT",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "SUPPORT",
+      "8c51e6da-4680-4a1b-9898-cfa28bb4a8af": "IRRELEVANT",
+      "9f5b1bdc-0869-42a9-9959-be7e8dad3d39": "SUPPORT",
+      "60b1bef1-5c53-400b-bd88-b666f92f974a": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "IRRELEVANT"
+    },
+    "510e0ccb-2b83-43bf-857b-c5571325e13a": {},
+    "b0417da9-99bb-4bdc-843d-35b70582f717": {
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "SUPPORT",
+      "8c51e6da-4680-4a1b-9898-cfa28bb4a8af": "IRRELEVANT",
+      "9f5b1bdc-0869-42a9-9959-be7e8dad3d39": "SUPPORT",
+      "60b1bef1-5c53-400b-bd88-b666f92f974a": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT"
+    },
+    "585f5965-5cf7-4677-9813-444eceb8a8e9": {},
+    "20565474-a61b-4db2-b309-eb3fd0cc5395": {
+      "8c51e6da-4680-4a1b-9898-cfa28bb4a8af": "SUPPORT",
+      "9f5b1bdc-0869-42a9-9959-be7e8dad3d39": "SUPPORT",
+      "60b1bef1-5c53-400b-bd88-b666f92f974a": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "IRRELEVANT"
+    },
+    "83fd7266-9dc9-438b-889c-5447c8d80a0e": {},
+    "8c51e6da-4680-4a1b-9898-cfa28bb4a8af": {
+      "9f5b1bdc-0869-42a9-9959-be7e8dad3d39": "SUPPORT",
+      "60b1bef1-5c53-400b-bd88-b666f92f974a": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT"
+    },
+    "8083686e-3ad4-4dd6-9ef6-036b71504eaa": {},
+    "9f5b1bdc-0869-42a9-9959-be7e8dad3d39": {
+      "60b1bef1-5c53-400b-bd88-b666f92f974a": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT"
+    },
+    "e95cd5d6-5d74-4ab2-9f99-4b15c2ba1414": {},
+    "60b1bef1-5c53-400b-bd88-b666f92f974a": {
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT"
+    },
+    "c52e9082-285e-4431-91a1-01a0c2539c23": {
+      "20cd6da7-f883-4358-a16e-a92e20e0876e": "IRRELEVANT",
+      "7a27e9e0-f6f7-45a2-a36e-2d4fdcd1f2d4": "SUPPORT",
+      "b0417da9-99bb-4bdc-843d-35b70582f717": "SUPPORT",
+      "20565474-a61b-4db2-b309-eb3fd0cc5395": "SUPPORT",
+      "8c51e6da-4680-4a1b-9898-cfa28bb4a8af": "SUPPORT",
+      "9f5b1bdc-0869-42a9-9959-be7e8dad3d39": "SUPPORT",
+      "60b1bef1-5c53-400b-bd88-b666f92f974a": "SUPPORT",
+      "6a1dda28-b90e-48b3-b6b1-157bafa60d26": "SUPPORT",
+      "684e5c6e-5a24-46e7-bd36-49df7023a746": "SUPPORT",
+      "f208d0f9-e441-438b-b642-e95735c8b01d": "IRRELEVANT",
+      "2dd1ea75-1c64-4a03-91c6-08499a3014f5": "IRRELEVANT"
+    },
+    "6a1dda28-b90e-48b3-b6b1-157bafa60d26": {}
+  }
+}

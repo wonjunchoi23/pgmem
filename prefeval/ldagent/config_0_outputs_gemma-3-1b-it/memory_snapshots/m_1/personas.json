@@ -1,0 +1,30 @@
+{
+  "user_traits": [
+    "retired",
+    "Enjoy working with hands",
+    "thinking about hobbies",
+    "Remembering past experiences",
+    "career-focused",
+    "interested in connecting with other collectors",
+    "Looking for unique landscapes/landmarks",
+    "interested in photography",
+    "caught an amazing sunset",
+    "loves outdoor activities",
+    "photography"
+  ],
+  "agent_traits": [
+    "looking to explore new hobbies",
+    "interested in hands-on activities",
+    "hobby",
+    "interested in stamp collecting",
+    "interested in stamp collecting",
+    "retirement",
+    "travel enthusiast",
+    "practicing camera settings",
+    "photography",
+    "Experienced photographer",
+    "Exploring new photographic opportunities"
+  ],
+  "max_user_personas": 10,
+  "max_agent_personas": 10
+}

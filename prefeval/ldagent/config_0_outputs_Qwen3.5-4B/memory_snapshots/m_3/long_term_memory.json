@@ -1,0 +1,17 @@
+{
+  "documents": [
+    "club,aspect,option,meeting,filter,lens,foreground,show,alternative,one,information,collecting,post,landmark,stop,flashcard,tool,exhibition,selection,drama,way,library,spirit,stuff,background,user,laptop,rock,truck,chapter,region,member,career,discovering,service,retirement,location,hardware,activity,retiree,nature,week,collection,approach,photographer,color,camera,landscape,horizon,sky,session,opportunity,flexibility,luck,people,shop,hunt,state,angle,choice,sunset,spot,subject,photo,contrast,software,woodworking,photography,learning,store,challenge,schedule,theme,lookout,interest,experiment,timer,example,travel,feeling,format,interplay,type,ground,country,tip,space,hour,place,journey,basic,aperture,element,image,association,help,editing,light,scenery,driving,grade,exposure,tweak,wealth,scene,sun,question,gardening,setting,day,fact,advance,beginner,break,call,culture,publication,hobby,curve,kind,community,tomorrow,trip,reference,knowledge,society,class,scenario,suggestion,minute,desert,story,enthusiast,idea,dip,cloud,downtime,person,recommendation,addition,period,skill,course,center,workshop,resource,year,process,route,formation,highlight,time,stamp,triangle,history,road,haul,agent,technique,freedom,thank,event,worker,timing,collector,line,hand,rest,book,office"
+  ],
+  "metadatas": [
+    {
+      "idx": 0,
+      "dialog": "",
+      "virtual_seconds": 48000.0,
+      "topics": "club,aspect,option,meeting,filter,lens,foreground,show,alternative,one,information,collecting,post,landmark,stop,flashcard,tool,exhibition,selection,drama,way,library,spirit,stuff,background,user,laptop,rock,truck,chapter,region,member,career,discovering,service,retirement,location,hardware,activity,retiree,nature,week,collection,approach,photographer,color,camera,landscape,horizon,sky,session,opportunity,flexibility,luck,people,shop,hunt,state,angle,choice,sunset,spot,subject,photo,contrast,software,woodworking,photography,learning,store,challenge,schedule,theme,lookout,interest,experiment,timer,example,travel,feeling,format,interplay,type,ground,country,tip,space,hour,place,journey,basic,aperture,element,image,association,help,editing,light,scenery,driving,grade,exposure,tweak,wealth,scene,sun,question,gardening,setting,day,fact,advance,beginner,break,call,culture,publication,hobby,curve,kind,community,tomorrow,trip,reference,knowledge,society,class,scenario,suggestion,minute,desert,story,enthusiast,idea,dip,cloud,downtime,person,recommendation,addition,period,skill,course,center,workshop,resource,year,process,route,formation,highlight,time,stamp,triangle,history,road,haul,agent,technique,freedom,thank,event,worker,timing,collector,line,hand,rest,book,office",
+      "datatype": "text",
+      "summary": "Retiree explores woodworking and stamp collecting; traveler seeks photography spots, settings tips, and editing software advice for his road trip.",
+      "conv_id": 1,
+      "session_id": 0
+    }
+  ]
+}

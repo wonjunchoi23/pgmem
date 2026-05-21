@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 172800.0,
+    "dialog": "User: Hi there! I'm looking for some advice on managing my time better. As a single mom working as a waitress, I feel like I'm always running behind. Any tips?",
+    "conv_id": 4,
+    "session_id": 0
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 172800.0,
+    "dialog": "Agent: Hello! I understand how challenging it can be to balance work and family life. Some effective time management strategies include creating a daily schedule, prioritizing tasks, and using any downtime efficiently. Have you tried any specific methods to organize your day?",
+    "conv_id": 4,
+    "session_id": 0
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 174000.0,
+    "dialog": "User: I've tried making to-do lists, but I often get overwhelmed. I'm thinking about taking some online courses to improve my skills, but I usually prefer learning in group settings. Do you know of any local community classes that might be good for busy moms?",
+    "conv_id": 4,
+    "session_id": 0
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 174000.0,
+    "dialog": "Agent: That's a great idea to look into skill-building opportunities! Many community centers and libraries offer classes designed for busy adults. These often include evening or weekend sessions in various subjects. Have you checked with your local community college or adult education center? They might have programs that fit your schedule and interests.",
+    "conv_id": 4,
+    "session_id": 0
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 175200.0,
+    "dialog": "User: I haven't looked into those yet, thanks for the suggestion! Speaking of my schedule, do you have any advice on meal planning for a picky eater? My daughter is so particular about her food, and I don't always have time to cook separate meals.",
+    "conv_id": 4,
+    "session_id": 0
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 175200.0,
+    "dialog": "Agent: Meal planning for picky eaters can be challenging! One approach is to involve your daughter in the process. Let her help choose meals for the week or assist with simple cooking tasks. This can make her more interested in trying new foods. Also, try preparing versatile base ingredients that can be customized easily. For example, a plain pasta dish that can be topped differently for each of you. Do you have any go-to meals that work well for both of you?",
+    "conv_id": 4,
+    "session_id": 0
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 176400.0,
+    "dialog": "User: We both love tacos, so that's our fail-safe option. On another note, I'm trying to save money for my daughter's future education. Any tips for a waitress on a tight budget?",
+    "conv_id": 4,
+    "session_id": 0
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 176400.0,
+    "dialog": "Agent: It's great that you're thinking ahead about your daughter's education! For saving on a tight budget, consider these tips:\n1. Set up automatic transfers to a savings account, even if it's a small amount.\n2. Look into high-yield savings accounts or 529 college savings plans.\n3. Cut unnecessary expenses by reviewing your monthly bills.\n4. Take advantage of cash-back credit cards for everyday purchases.\n5. Consider picking up extra shifts during busy seasons if possible.\nHave you explored any government assistance programs that might help with your current expenses?",
+    "conv_id": 4,
+    "session_id": 0
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 177600.0,
+    "dialog": "User: I haven't looked into assistance programs yet. That's a good idea, thanks! One last question - do you know of any fun, free activities I can do with my daughter on my days off? We're always looking for new adventures.",
+    "conv_id": 4,
+    "session_id": 0
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 177600.0,
+    "dialog": "Agent: Absolutely! There are many fun, free activities you can enjoy with your daughter:\n1. Visit local parks or nature trails for picnics or hikes.\n2. Check out free days at museums or art galleries in your area.\n3. Attend community events like festivals or outdoor concerts.\n4. Have a movie night at home with homemade snacks.\n5. Start a small garden or plant flowers together.\n6. Visit your local library for storytime sessions or to borrow books and games.\n7. Have a craft day using materials you already have at home.\nThese activities can be great for bonding and creating memories without straining your budget. Do any of these appeal to you and your daughter?",
+    "conv_id": 4,
+    "session_id": 0
+  }
+]

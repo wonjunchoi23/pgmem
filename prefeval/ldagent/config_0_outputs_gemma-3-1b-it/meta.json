@@ -1,0 +1,18 @@
+{
+  "config_name": "config_0",
+  "model": "google/gemma-3-1b-it",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "relevance_memory_number": 3,
+  "retrieve_k": 3,
+  "dist_threshold": 1.5,
+  "decay_temp": 0.0001,
+  "conv_ids_per_day": 2,
+  "minutes_per_turn": 10,
+  "finalize_every_n_convs": 2,
+  "max_user_personas": 10,
+  "max_agent_personas": 10,
+  "temperature": 0.7,
+  "max_tokens": 1500,
+  "json_retry": 10,
+  "first_run_at": "2026-05-20T18:34:47.343684"
+}

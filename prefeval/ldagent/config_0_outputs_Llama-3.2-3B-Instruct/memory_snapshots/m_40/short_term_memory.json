@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 1728000.0,
+    "dialog": "User: Hi there! I'm looking for some advice on managing my time better. As a single mom with three kids, I feel like I'm always running around and never have a moment to myself. Do you have any tips for squeezing in some personal development?",
+    "conv_id": 40,
+    "session_id": 0
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 1728000.0,
+    "dialog": "Agent: Hello! I understand how challenging it can be to balance personal time with family responsibilities. Some tips for time management include: creating a daily schedule, prioritizing tasks, and using small pockets of time effectively. For personal development, you could try audiobooks during commutes or while doing chores. Have you considered any specific areas you'd like to focus on for self-improvement?",
+    "conv_id": 40,
+    "session_id": 0
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 1729200.0,
+    "dialog": "User: I've been thinking about taking some online courses to boost my career prospects, but finding the time is tough. I usually prefer courses that offer certifications upon completion, as they tend to be more valuable for my resume. Do you know of any flexible, short-term programs that might work for a busy mom?",
+    "conv_id": 40,
+    "session_id": 0
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 1729200.0,
+    "dialog": "Agent: That's a great idea to focus on career development! There are many flexible online programs designed for busy professionals and parents. Some platforms like Coursera, edX, and LinkedIn Learning offer a variety of certified courses in different fields. These often allow you to learn at your own pace. What specific field or skills are you interested in improving?",
+    "conv_id": 40,
+    "session_id": 0
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 1730400.0,
+    "dialog": "User: I'm in marketing, so I'm thinking about updating my digital skills. How long do these courses typically take? I'm worried about committing to something and then not being able to finish it with my hectic schedule.",
+    "conv_id": 40,
+    "session_id": 0
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 1730400.0,
+    "dialog": "Agent: Many digital marketing courses are designed with busy professionals in mind. Course durations can vary, but you'll often find options ranging from 4-12 weeks. Some platforms offer self-paced courses, allowing you to complete them on your own schedule. To manage your time effectively, you could set aside specific hours each week for studying, perhaps when the kids are asleep or at school. Have you identified any particular areas of digital marketing you'd like to focus on?",
+    "conv_id": 40,
+    "session_id": 0
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 1731600.0,
+    "dialog": "User: I'm particularly interested in social media marketing and content creation. Those seem like skills I could apply right away. By the way, do you have any suggestions for keeping the kids occupied while I study? They're always demanding attention when I try to focus on something.",
+    "conv_id": 40,
+    "session_id": 0
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 1731600.0,
+    "dialog": "Agent: Social media marketing and content creation are excellent choices! They're highly relevant and can be immediately applicable. As for keeping the kids occupied, here are a few ideas: set up a dedicated \"quiet time\" with age-appropriate activities like reading, puzzles, or educational apps. You could also try a reward system for giving you uninterrupted study time. Another option is to involve them in your learning process - perhaps they could help you brainstorm social media post ideas or even create content together. This way, you're bonding while still working towards your goals. How old are your children?",
+    "conv_id": 40,
+    "session_id": 0
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 1732800.0,
+    "dialog": "User: They're 6, 8, and 11. I like the idea of involving them in the process - it might even spark their interest in marketing! Speaking of which, do you think it's too early to start teaching them about digital skills and online safety?",
+    "conv_id": 40,
+    "session_id": 0
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 1732800.0,
+    "dialog": "Agent: It's never too early to start teaching digital skills and online safety! At those ages, your children are likely already interacting with technology. You can start with age-appropriate lessons: For the 6-year-old, focus on basic internet safety rules. The 8-year-old could learn about creating simple digital content. Your 11-year-old might be ready for more advanced concepts like social media etiquette or basic coding. Teaching them these skills could be a great bonding activity and help them understand your work better. Plus, it's setting them up for success in our increasingly digital world. Would you like some resources for kid-friendly digital skills lessons?",
+    "conv_id": 40,
+    "session_id": 0
+  }
+]

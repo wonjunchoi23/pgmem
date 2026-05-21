@@ -1,0 +1,10 @@
+{
+  "sample_id": "prefeval_chain",
+  "current_virtual_seconds": 3979200.0,
+  "last_conv_id": 92,
+  "pending_conv_count": 0,
+  "overall_retrieve_score": 1269.3438716264795,
+  "overall_retrieve_count": 4245,
+  "long_term_count": 46,
+  "short_term_count": 10
+}

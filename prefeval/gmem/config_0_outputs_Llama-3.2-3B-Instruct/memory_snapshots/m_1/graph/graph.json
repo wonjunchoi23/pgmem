@@ -1,0 +1,979 @@
+{
+  "creation_order": [
+    "bc6ccc51-991d-4dbe-8db7-da354c0d9a70",
+    "d6798582-b877-4dcc-b158-f1c55e7ebb68",
+    "9cc88525-3896-456a-b514-356d199a10a6",
+    "286a4cb6-0c2e-457a-bba0-5a996cb3a186",
+    "a13c4ebc-c644-4169-97f7-4454798f3f48",
+    "85b1bbeb-a33d-414c-ac06-f0a6907770b8",
+    "4b098409-7456-4621-887d-03f5fcedb46c",
+    "2403eb81-0401-48c8-bfb6-5cd2b7031086",
+    "4bbdbbc8-5d44-4d18-aca2-34c96d2488ce",
+    "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f",
+    "b90daf25-03bf-4539-9f48-353cd8db02ed",
+    "c5969e5d-48e5-4de4-98e0-335881bf8014",
+    "5efef30d-8e33-49ef-af87-5fbbb62f1a87",
+    "643b150b-78d6-4622-9e18-64fdb263cf1f",
+    "b841cb1b-d97b-4759-a4e9-e32bcae8254a",
+    "b1457e29-09ce-4a60-a5a0-6163bc17e9b1",
+    "08d46f7f-37f8-4d44-b3e0-f651b48f289b",
+    "0d597133-aff0-4141-9e31-2037641fc94d",
+    "f35ead11-cad3-42fc-b3f9-ae0e68b517c2",
+    "d6609dbd-9844-4319-bc41-c77e83640bd4",
+    "a10d2c78-713b-4465-8829-397e0df5bc86",
+    "35de4768-8e93-44a8-8fa6-db374bb994cc",
+    "01b68fa3-1f9c-4475-914f-e58c06c58d46",
+    "270cd72d-4754-432e-b000-2ee129b1c3c0",
+    "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+  ],
+  "nodes": {
+    "bc6ccc51-991d-4dbe-8db7-da354c0d9a70": {
+      "node_type": "c",
+      "content": "User: Hello there! I've been thinking about taking up a new hobby now that I'm retired from the postal service. Any suggestions for an old-timer like me?\nAgent: Hello! It's great that you're looking to explore new hobbies in retirement. There are many options suitable for retirees. Have you considered activities like gardening, woodworking, or joining a local book club? These can be enjoyable and social ways to spend your time. What kind of activities did you enjoy before retirement?",
+      "keywords": [
+        "activity",
+        "hobby",
+        "kind",
+        "club",
+        "woodworking",
+        "gardening",
+        "these",
+        "timer",
+        "time",
+        "you",
+        "retiree",
+        "it",
+        "suggestion",
+        "retirement",
+        "option",
+        "way",
+        "i",
+        "service"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 0,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 0,
+      "retrieval_count": 1
+    },
+    "d6798582-b877-4dcc-b158-f1c55e7ebb68": {
+      "node_type": "s",
+      "content": "The user is considering taking up a new hobby in retirement",
+      "keywords": [
+        "hobby",
+        "retirement"
+      ],
+      "domain_label": [
+        "hobbies",
+        "general",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "LOW",
+      "created_at": 0,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 0,
+      "retrieval_count": 14
+    },
+    "9cc88525-3896-456a-b514-356d199a10a6": {
+      "node_type": "c",
+      "content": "User: I've always enjoyed working with my hands, so woodworking sounds interesting. Are there any local classes or workshops you know of? I usually prefer in-person learning over online stuff - can't stand those digital courses everyone's talking about these days.\nAgent: I understand your interest in hands-on activities like woodworking. Many community centers and local hardware stores offer in-person woodworking classes for beginners. These workshops can be a great way to learn new skills and meet people with similar interests. Have you checked with your local community center or nearby woodworking shops for upcoming classes? They often have schedules posted or can provide information about beginner-friendly workshops.",
+      "keywords": [
+        "skill",
+        "everyone",
+        "hand",
+        "people",
+        "i",
+        "day",
+        "interest",
+        "way",
+        "center",
+        "activity",
+        "person",
+        "woodworking",
+        "stuff",
+        "course",
+        "you",
+        "class",
+        "information",
+        "they",
+        "shop",
+        "workshop",
+        "store",
+        "beginner",
+        "schedule"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 1,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 2,
+      "retrieval_count": 1
+    },
+    "286a4cb6-0c2e-457a-bba0-5a996cb3a186": {
+      "node_type": "s",
+      "content": "The user prefers in-person learning",
+      "keywords": [
+        "in-person",
+        "learning",
+        "digital"
+      ],
+      "domain_label": [
+        "education",
+        "general",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "LOW",
+      "created_at": 1,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 2,
+      "retrieval_count": 2
+    },
+    "a13c4ebc-c644-4169-97f7-4454798f3f48": {
+      "node_type": "c",
+      "content": "User: That's a good idea. I'll give the community center a call tomorrow. Speaking of my postal days, I've been thinking about collecting stamps. Is that still a popular hobby?\nAgent: Stamp collecting, or philately, is indeed still a popular hobby, especially among those with an interest in history and postal services. Given your background as a postal worker, you might find it particularly fascinating. Many collectors enjoy the hunt for rare stamps, learning about different countries and cultures through their postal history, and the meticulous nature of organizing a collection. Have you kept any interesting stamps from your time working at the post office?",
+      "keywords": [
+        "stamp",
+        "it",
+        "nature",
+        "office",
+        "hobby",
+        "day",
+        "interest",
+        "service",
+        "hunt",
+        "center",
+        "culture",
+        "time",
+        "you",
+        "collector",
+        "collection",
+        "call",
+        "history",
+        "country",
+        "those",
+        "that",
+        "background",
+        "idea",
+        "worker",
+        "collecting",
+        "i"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 2,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 4,
+      "retrieval_count": 1
+    },
+    "85b1bbeb-a33d-414c-ac06-f0a6907770b8": {
+      "node_type": "s",
+      "content": "The user is considering taking up a new hobby",
+      "keywords": [
+        "hobby",
+        "considering",
+        "up"
+      ],
+      "domain_label": [
+        "leisure",
+        "hobbies",
+        "retirement",
+        "general",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "LOW",
+      "created_at": 2,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 4,
+      "retrieval_count": 6
+    },
+    "4b098409-7456-4621-887d-03f5fcedb46c": {
+      "node_type": "c",
+      "content": "User: I wish I had! But I do remember some of the unique stamps that came through over the years. How would I go about starting a collection now?\nAgent: Starting a stamp collection can be an exciting journey! To begin, you could visit your local post office and ask about their current stamp selections. Many post offices sell commemorative stamps that make great additions to a collection. You might also consider joining a local stamp collecting club - they often have meetings where members trade stamps and share knowledge. Additionally, stamp shows and exhibitions can be excellent places to find rare stamps and meet fellow enthusiasts. Is there a particular theme or country you'd be interested in focusing on for your collection?",
+      "keywords": [
+        "stamp",
+        "exhibition",
+        "enthusiast",
+        "office",
+        "club",
+        "year",
+        "theme",
+        "journey",
+        "selection",
+        "you",
+        "meeting",
+        "show",
+        "collection",
+        "country",
+        "addition",
+        "that",
+        "they",
+        "some",
+        "knowledge",
+        "place",
+        "member",
+        "i"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 3,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 6,
+      "retrieval_count": 1
+    },
+    "2403eb81-0401-48c8-bfb6-5cd2b7031086": {
+      "node_type": "s",
+      "content": "the user wants to start a stamp collection",
+      "keywords": [
+        "collection",
+        "stamps"
+      ],
+      "domain_label": [
+        "philately",
+        "hobbies",
+        "postage",
+        "general",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 3,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 6,
+      "retrieval_count": 11
+    },
+    "4bbdbbc8-5d44-4d18-aca2-34c96d2488ce": {
+      "node_type": "c",
+      "content": "User: I think I'd like to focus on American stamps, given my career. Are there any good books or resources you'd recommend for learning more about stamp collecting?\nAgent: Focusing on American stamps is a great choice given your background! There are several excellent resources for learning about stamp collecting, particularly for U.S. stamps. The Scott Specialized Catalogue of United States Stamps and Covers is considered a must-have reference for American stamp collectors. The American Philatelic Society also offers numerous publications and online resources. Your local library might have books on stamp collecting basics. Additionally, many collectors find joining a stamp club invaluable for learning from experienced collectors. Have you considered reaching out to any local philatelic societies to see if they have meetings or events you could attend?",
+      "keywords": [
+        "reference",
+        "stamp",
+        "society",
+        "career",
+        "book",
+        "club",
+        "publication",
+        "library",
+        "basic",
+        "resource",
+        "choice",
+        "you",
+        "meeting",
+        "collector",
+        "background",
+        "covers",
+        "they",
+        "catalogue",
+        "event",
+        "stamps",
+        "collecting",
+        "i"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 4,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 8,
+      "retrieval_count": 1
+    },
+    "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f": {
+      "node_type": "s",
+      "content": "focusing on American stamps",
+      "keywords": [
+        "american",
+        "stamps",
+        "collecting"
+      ],
+      "domain_label": [
+        "philately",
+        "general",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 4,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 8,
+      "retrieval_count": 10
+    },
+    "b90daf25-03bf-4539-9f48-353cd8db02ed": {
+      "node_type": "c",
+      "content": "User: That's a good suggestion. I'll look into local clubs and check out those resources. It'll be nice to connect with other collectors and learn from them in person. Thanks for all your help!\nAgent: You're welcome! I'm glad I could help. Joining a local club is an excellent way to immerse yourself in the hobby and learn from experienced collectors. The social aspect of stamp collecting can be just as rewarding as the collecting itself. As you begin your journey into philately, remember to take your time and enjoy the process of learning and discovering. If you have any more questions as you get started with your collection, don't hesitate to ask. Good luck with your new hobby, and enjoy this exciting chapter of your retirement!",
+      "keywords": [
+        "help",
+        "it",
+        "suggestion",
+        "hobby",
+        "club",
+        "way",
+        "itself",
+        "discovering",
+        "luck",
+        "journey",
+        "person",
+        "resource",
+        "time",
+        "process",
+        "you",
+        "collector",
+        "collection",
+        "that",
+        "they",
+        "aspect",
+        "yourself",
+        "question",
+        "thank",
+        "retirement",
+        "chapter",
+        "collecting",
+        "i"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 5,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 10,
+      "retrieval_count": 1
+    },
+    "c5969e5d-48e5-4de4-98e0-335881bf8014": {
+      "node_type": "s",
+      "content": "interested in connecting with other collectors and learning from them in person",
+      "keywords": [
+        "connection",
+        "collectors",
+        "learn",
+        "person"
+      ],
+      "domain_label": [
+        "philately",
+        "hobby",
+        "general",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "LOW",
+      "created_at": 5,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 10,
+      "retrieval_count": 9
+    },
+    "5efef30d-8e33-49ef-af87-5fbbb62f1a87": {
+      "node_type": "e",
+      "content": "A user inquired about new hobbies after retiring from the postal service and discussed stamp collecting as a potential activity. The assistant provided suggestions for woodworking classes and local stamp collecting clubs, recommending resources such as the Scott Specialized Catalogue of United States Stamps and the American Philatelic Society.",
+      "keywords": [
+        "stamps",
+        "woodworking",
+        "classes",
+        "retirement",
+        "club",
+        "catalogue",
+        "society"
+      ],
+      "domain_label": [
+        "hobbies",
+        "philately",
+        "crafts",
+        "interests",
+        "organizations"
+      ],
+      "scope": "NARROW",
+      "recall_priority": null,
+      "created_at": 6,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 10,
+      "retrieval_count": 9
+    },
+    "643b150b-78d6-4622-9e18-64fdb263cf1f": {
+      "node_type": "c",
+      "content": "User: Hey there! I'm on a long haul from Chicago to LA and looking for some interesting spots to photograph along the way. Any suggestions for unique landscapes or landmarks?\nAgent: Hello! That's an exciting journey. For unique landscapes, consider stopping at the Badlands National Park in South Dakota for its striking rock formations. In Colorado, the Garden of the Gods offers beautiful red rock scenery. As you approach LA, Joshua Tree National Park has fascinating desert landscapes. Remember to plan your stops carefully to fit your driving schedule and rest periods.",
+      "keywords": [
+        "landscape",
+        "chicago",
+        "garden",
+        "suggestion",
+        "landmark",
+        "period",
+        "dakota",
+        "colorado",
+        "way",
+        "journey",
+        "stop",
+        "formation",
+        "scenery",
+        "haul",
+        "park",
+        "you",
+        "gods",
+        "that",
+        "spot",
+        "badlands",
+        "la",
+        "i",
+        "schedule"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 6,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 0,
+      "retrieval_count": 1
+    },
+    "b841cb1b-d97b-4759-a4e9-e32bcae8254a": {
+      "node_type": "s",
+      "content": "looking for unique landscapes or landmarks",
+      "keywords": [
+        "landmarks",
+        "photography",
+        "scenery"
+      ],
+      "domain_label": [
+        "landscape",
+        "general",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "LOW",
+      "created_at": 6,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 0,
+      "retrieval_count": 7
+    },
+    "b1457e29-09ce-4a60-a5a0-6163bc17e9b1": {
+      "node_type": "c",
+      "content": "User: Thanks for the tips! I'm always on the lookout for new photography subjects. By the way, do you know any good ways to remember all the different camera settings? I usually prefer learning through stories rather than dry facts, as I find flashcards and rote memorization ineffective.\nAgent: I'm glad you found the suggestions helpful! As for remembering camera settings, many photographers find it useful to practice regularly and experiment with different scenarios. You could try creating mental associations between settings and specific scenes you've photographed. For example, linking a particular aperture setting with a memorable sunset you captured. This hands-on approach often helps reinforce the knowledge. Are there any specific settings you find particularly challenging to remember?",
+      "keywords": [
+        "sunset",
+        "it",
+        "suggestion",
+        "story",
+        "approach",
+        "tip",
+        "setting",
+        "association",
+        "aperture",
+        "way",
+        "example",
+        "photographer",
+        "subject",
+        "you",
+        "lookout",
+        "scenario",
+        "fact",
+        "knowledge",
+        "flashcard",
+        "thank",
+        "scene",
+        "i"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 7,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 2,
+      "retrieval_count": 1
+    },
+    "08d46f7f-37f8-4d44-b3e0-f651b48f289b": {
+      "node_type": "s",
+      "content": "The user is interested in photography",
+      "keywords": [
+        "photography",
+        "new"
+      ],
+      "domain_label": [
+        "general",
+        "general_1",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 7,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 2,
+      "retrieval_count": 6
+    },
+    "0d597133-aff0-4141-9e31-2037641fc94d": {
+      "node_type": "c",
+      "content": "User: The exposure triangle can be tricky sometimes. Speaking of sunsets, I caught an amazing one in Arizona last week. The colors were unreal! Do you have any tips for capturing the best sunset photos from the road?\nAgent: Wow, Arizona sunsets are truly spectacular! For capturing great sunset photos from the road, timing is crucial. Try to scout locations in advance if possible, arriving about an hour before sunset to set up. Use a wide-angle lens to capture the expansive sky, and experiment with including foreground elements like your truck or the road for added interest. Don't forget to shoot in RAW format for better post-processing flexibility. Also, stick around after the sun dips below the horizon \u2013 often, the most vibrant colors appear 15-20 minutes later. Do you have a favorite type of landscape to photograph during your travels?",
+      "keywords": [
+        "landscape",
+        "sky",
+        "dip",
+        "travel",
+        "type",
+        "sunset",
+        "advance",
+        "format",
+        "road",
+        "tip",
+        "color",
+        "flexibility",
+        "truck",
+        "interest",
+        "element",
+        "photo",
+        "timing",
+        "location",
+        "horizon",
+        "you",
+        "lens",
+        "experiment",
+        "one",
+        "triangle",
+        "arizona",
+        "i"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 8,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 4,
+      "retrieval_count": 1
+    },
+    "f35ead11-cad3-42fc-b3f9-ae0e68b517c2": {
+      "node_type": "s",
+      "content": "The user is currently thinking about the exposure triangle in photography.",
+      "keywords": [
+        "exposure",
+        "triangle",
+        "photography"
+      ],
+      "domain_label": [
+        "general",
+        "general_1",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "LOW",
+      "created_at": 8,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 4,
+      "retrieval_count": 5
+    },
+    "d6609dbd-9844-4319-bc41-c77e83640bd4": {
+      "node_type": "c",
+      "content": "User: I love shooting wide-open spaces with dramatic skies. It really captures the feeling of freedom on the road. How about editing software? Any recommendations for something I can use on my laptop during downtime at truck stops?\nAgent: That's a great subject choice \u2013 it really embodies the spirit of long-haul driving! For editing software that you can use on your laptop during breaks, Adobe Lightroom is a popular choice among photographers. It's powerful yet user-friendly, and great for organizing your photos too. If you're looking for a free option, GIMP is a robust alternative. Capture One is another professional-grade option, though it has a steeper learning curve. These all work well offline, which is perfect for truck stop editing sessions. Do you have any specific editing techniques you like to apply to your dramatic sky photos?",
+      "keywords": [
+        "recommendation",
+        "driving",
+        "lightroom",
+        "sky",
+        "it",
+        "technique",
+        "curve",
+        "road",
+        "gimp",
+        "laptop",
+        "something",
+        "truck",
+        "feeling",
+        "alternative",
+        "photographer",
+        "photo",
+        "choice",
+        "you",
+        "which",
+        "space",
+        "break",
+        "that",
+        "freedom",
+        "all",
+        "spirit",
+        "session",
+        "downtime",
+        "option",
+        "software",
+        "i"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 9,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 6,
+      "retrieval_count": 1
+    },
+    "a10d2c78-713b-4465-8829-397e0df5bc86": {
+      "node_type": "s",
+      "content": "enjoying wide-open spaces",
+      "keywords": [],
+      "domain_label": [
+        "general",
+        "general_1",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "LOW",
+      "created_at": 9,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 6,
+      "retrieval_count": 4
+    },
+    "35de4768-8e93-44a8-8fa6-db374bb994cc": {
+      "node_type": "c",
+      "content": "User: I usually play around with the contrast and highlights to make the clouds pop. Sometimes I'll add a graduated filter to balance the exposure between sky and ground. It's amazing how much you can transform a photo with just a few tweaks!\nAgent: You're absolutely right! Those techniques can really bring out the drama in sky photos. The graduated filter is especially useful for balancing bright skies with darker foregrounds \u2013 a common challenge in landscape photography. It's great that you're exploring these tools to enhance your images. As you continue your journey, you might find interesting opportunities to capture the interplay of light and shadow across different landscapes. The changing scenery along your route must provide a wealth of diverse photographic subjects. Is there a particular region or state you're looking forward to photographing on this trip?",
+      "keywords": [
+        "contrast",
+        "landscape",
+        "photography",
+        "image",
+        "sky",
+        "exposure",
+        "route",
+        "tweak",
+        "it",
+        "technique",
+        "trip",
+        "ground",
+        "filter",
+        "challenge",
+        "state",
+        "tool",
+        "light",
+        "cloud",
+        "wealth",
+        "photo",
+        "journey",
+        "opportunity",
+        "subject",
+        "scenery",
+        "highlight",
+        "you",
+        "drama",
+        "foreground",
+        "region",
+        "interplay",
+        "i"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 10,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 8,
+      "retrieval_count": 1
+    },
+    "01b68fa3-1f9c-4475-914f-e58c06c58d46": {
+      "node_type": "s",
+      "content": "The user has a preferred method for editing sky photos",
+      "keywords": [
+        "editing",
+        "sky",
+        "contrast",
+        "highlights",
+        "filter"
+      ],
+      "domain_label": [
+        "landscape",
+        "photography",
+        "general",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 10,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 8,
+      "retrieval_count": 3
+    },
+    "270cd72d-4754-432e-b000-2ee129b1c3c0": {
+      "node_type": "e",
+      "content": "The user asked for suggestions on unique landscapes and landmarks to photograph along their road trip from Chicago to LA, and the assistant provided recommendations for Badlands National Park, Garden of the Gods, and Joshua Tree National Park. The user then inquired about ways to remember camera settings, and the assistant suggested practicing regularly and creating mental associations with specific scenes. The conversation continued to discuss sunset photography, exposure, and editing software, including Adobe Lightroom, GIMP, and Capture One.",
+      "keywords": [
+        "park",
+        "landscapes",
+        "road",
+        "trip",
+        "photography",
+        "settings",
+        "sunset"
+      ],
+      "domain_label": [
+        "travel",
+        "roads",
+        "trips",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": null,
+      "created_at": 11,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 8,
+      "retrieval_count": 3
+    },
+    "9f1999cd-6c09-41a3-8d84-444aeb975f55": {
+      "node_type": "t",
+      "content": "The user tends to enjoy activities that combine hands-on learning, exploration, and social interaction, especially in the context of hobbies or activities that involve creativity and practical skills.",
+      "keywords": [
+        "learning",
+        "exploration",
+        "social",
+        "hobbies",
+        "creativity",
+        "workshops",
+        "classes"
+      ],
+      "domain_label": [
+        "general",
+        "general_1",
+        "general_2",
+        "general_3",
+        "general_4"
+      ],
+      "scope": "BROAD",
+      "recall_priority": null,
+      "created_at": 11,
+      "session_id": 0,
+      "conv_id": 1,
+      "turn_id": 8,
+      "retrieval_count": 3
+    }
+  },
+  "src_out": {
+    "bc6ccc51-991d-4dbe-8db7-da354c0d9a70": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55",
+      "d6798582-b877-4dcc-b158-f1c55e7ebb68",
+      "5efef30d-8e33-49ef-af87-5fbbb62f1a87"
+    ],
+    "d6798582-b877-4dcc-b158-f1c55e7ebb68": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "9cc88525-3896-456a-b514-356d199a10a6": [
+      "286a4cb6-0c2e-457a-bba0-5a996cb3a186",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55",
+      "5efef30d-8e33-49ef-af87-5fbbb62f1a87"
+    ],
+    "286a4cb6-0c2e-457a-bba0-5a996cb3a186": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "a13c4ebc-c644-4169-97f7-4454798f3f48": [
+      "85b1bbeb-a33d-414c-ac06-f0a6907770b8",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55",
+      "5efef30d-8e33-49ef-af87-5fbbb62f1a87"
+    ],
+    "85b1bbeb-a33d-414c-ac06-f0a6907770b8": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "4b098409-7456-4621-887d-03f5fcedb46c": [
+      "2403eb81-0401-48c8-bfb6-5cd2b7031086",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55",
+      "5efef30d-8e33-49ef-af87-5fbbb62f1a87"
+    ],
+    "2403eb81-0401-48c8-bfb6-5cd2b7031086": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "4bbdbbc8-5d44-4d18-aca2-34c96d2488ce": [
+      "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55",
+      "5efef30d-8e33-49ef-af87-5fbbb62f1a87"
+    ],
+    "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "b90daf25-03bf-4539-9f48-353cd8db02ed": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55",
+      "c5969e5d-48e5-4de4-98e0-335881bf8014",
+      "5efef30d-8e33-49ef-af87-5fbbb62f1a87"
+    ],
+    "c5969e5d-48e5-4de4-98e0-335881bf8014": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "5efef30d-8e33-49ef-af87-5fbbb62f1a87": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "643b150b-78d6-4622-9e18-64fdb263cf1f": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55",
+      "270cd72d-4754-432e-b000-2ee129b1c3c0",
+      "b841cb1b-d97b-4759-a4e9-e32bcae8254a"
+    ],
+    "b841cb1b-d97b-4759-a4e9-e32bcae8254a": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "b1457e29-09ce-4a60-a5a0-6163bc17e9b1": [
+      "08d46f7f-37f8-4d44-b3e0-f651b48f289b",
+      "270cd72d-4754-432e-b000-2ee129b1c3c0",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "08d46f7f-37f8-4d44-b3e0-f651b48f289b": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "0d597133-aff0-4141-9e31-2037641fc94d": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55",
+      "270cd72d-4754-432e-b000-2ee129b1c3c0",
+      "f35ead11-cad3-42fc-b3f9-ae0e68b517c2"
+    ],
+    "f35ead11-cad3-42fc-b3f9-ae0e68b517c2": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "d6609dbd-9844-4319-bc41-c77e83640bd4": [
+      "a10d2c78-713b-4465-8829-397e0df5bc86",
+      "270cd72d-4754-432e-b000-2ee129b1c3c0",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "a10d2c78-713b-4465-8829-397e0df5bc86": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "35de4768-8e93-44a8-8fa6-db374bb994cc": [
+      "270cd72d-4754-432e-b000-2ee129b1c3c0",
+      "01b68fa3-1f9c-4475-914f-e58c06c58d46",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "01b68fa3-1f9c-4475-914f-e58c06c58d46": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "270cd72d-4754-432e-b000-2ee129b1c3c0": [
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55"
+    ],
+    "9f1999cd-6c09-41a3-8d84-444aeb975f55": []
+  },
+  "evid_out": {
+    "bc6ccc51-991d-4dbe-8db7-da354c0d9a70": {},
+    "d6798582-b877-4dcc-b158-f1c55e7ebb68": {
+      "286a4cb6-0c2e-457a-bba0-5a996cb3a186": "SUPPORT",
+      "85b1bbeb-a33d-414c-ac06-f0a6907770b8": "SUPPORT",
+      "2403eb81-0401-48c8-bfb6-5cd2b7031086": "SHIFT_TO",
+      "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f": "IRRELEVANT",
+      "c5969e5d-48e5-4de4-98e0-335881bf8014": "SUPPORT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "IRRELEVANT"
+    },
+    "9cc88525-3896-456a-b514-356d199a10a6": {},
+    "286a4cb6-0c2e-457a-bba0-5a996cb3a186": {
+      "85b1bbeb-a33d-414c-ac06-f0a6907770b8": "SHIFT_TO",
+      "2403eb81-0401-48c8-bfb6-5cd2b7031086": "SHIFT_TO",
+      "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f": "IRRELEVANT",
+      "c5969e5d-48e5-4de4-98e0-335881bf8014": "SUPPORT",
+      "b841cb1b-d97b-4759-a4e9-e32bcae8254a": "IRRELEVANT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "IRRELEVANT"
+    },
+    "a13c4ebc-c644-4169-97f7-4454798f3f48": {},
+    "85b1bbeb-a33d-414c-ac06-f0a6907770b8": {
+      "2403eb81-0401-48c8-bfb6-5cd2b7031086": "SUPPORT",
+      "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f": "IRRELEVANT",
+      "c5969e5d-48e5-4de4-98e0-335881bf8014": "SUPPORT",
+      "b841cb1b-d97b-4759-a4e9-e32bcae8254a": "SHIFT_TO",
+      "08d46f7f-37f8-4d44-b3e0-f651b48f289b": "IRRELEVANT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "IRRELEVANT"
+    },
+    "4b098409-7456-4621-887d-03f5fcedb46c": {},
+    "2403eb81-0401-48c8-bfb6-5cd2b7031086": {
+      "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f": "SUPPORT",
+      "c5969e5d-48e5-4de4-98e0-335881bf8014": "SUPPORT",
+      "b841cb1b-d97b-4759-a4e9-e32bcae8254a": "IRRELEVANT",
+      "08d46f7f-37f8-4d44-b3e0-f651b48f289b": "SUPPORT",
+      "f35ead11-cad3-42fc-b3f9-ae0e68b517c2": "SUPPORT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "IRRELEVANT"
+    },
+    "4bbdbbc8-5d44-4d18-aca2-34c96d2488ce": {},
+    "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f": {
+      "b841cb1b-d97b-4759-a4e9-e32bcae8254a": "IRRELEVANT",
+      "08d46f7f-37f8-4d44-b3e0-f651b48f289b": "SUPPORT",
+      "f35ead11-cad3-42fc-b3f9-ae0e68b517c2": "IRRELEVANT",
+      "a10d2c78-713b-4465-8829-397e0df5bc86": "IRRELEVANT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "SUPPORT"
+    },
+    "b90daf25-03bf-4539-9f48-353cd8db02ed": {},
+    "c5969e5d-48e5-4de4-98e0-335881bf8014": {
+      "b841cb1b-d97b-4759-a4e9-e32bcae8254a": "SUPPORT",
+      "08d46f7f-37f8-4d44-b3e0-f651b48f289b": "SUPPORT",
+      "f35ead11-cad3-42fc-b3f9-ae0e68b517c2": "IRRELEVANT",
+      "a10d2c78-713b-4465-8829-397e0df5bc86": "SUPPORT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "SUPPORT"
+    },
+    "5efef30d-8e33-49ef-af87-5fbbb62f1a87": {
+      "d6798582-b877-4dcc-b158-f1c55e7ebb68": "SUPPORT",
+      "286a4cb6-0c2e-457a-bba0-5a996cb3a186": "SUPPORT",
+      "85b1bbeb-a33d-414c-ac06-f0a6907770b8": "SHIFT_TO",
+      "2403eb81-0401-48c8-bfb6-5cd2b7031086": "SUPPORT",
+      "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f": "SUPPORT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "SUPPORT"
+    },
+    "643b150b-78d6-4622-9e18-64fdb263cf1f": {},
+    "b841cb1b-d97b-4759-a4e9-e32bcae8254a": {
+      "08d46f7f-37f8-4d44-b3e0-f651b48f289b": "IRRELEVANT",
+      "f35ead11-cad3-42fc-b3f9-ae0e68b517c2": "SUPPORT",
+      "a10d2c78-713b-4465-8829-397e0df5bc86": "SUPPORT",
+      "01b68fa3-1f9c-4475-914f-e58c06c58d46": "SUPPORT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "IRRELEVANT"
+    },
+    "b1457e29-09ce-4a60-a5a0-6163bc17e9b1": {},
+    "08d46f7f-37f8-4d44-b3e0-f651b48f289b": {
+      "f35ead11-cad3-42fc-b3f9-ae0e68b517c2": "IRRELEVANT",
+      "1cd41724-dcb7-4e7a-bfea-b26c31b5eb7f": "IRRELEVANT",
+      "a10d2c78-713b-4465-8829-397e0df5bc86": "SUPPORT",
+      "01b68fa3-1f9c-4475-914f-e58c06c58d46": "SUPPORT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "SUPPORT"
+    },
+    "0d597133-aff0-4141-9e31-2037641fc94d": {},
+    "f35ead11-cad3-42fc-b3f9-ae0e68b517c2": {
+      "01b68fa3-1f9c-4475-914f-e58c06c58d46": "SHIFT_TO",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "IRRELEVANT"
+    },
+    "d6609dbd-9844-4319-bc41-c77e83640bd4": {},
+    "a10d2c78-713b-4465-8829-397e0df5bc86": {
+      "01b68fa3-1f9c-4475-914f-e58c06c58d46": "IRRELEVANT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "IRRELEVANT"
+    },
+    "35de4768-8e93-44a8-8fa6-db374bb994cc": {},
+    "01b68fa3-1f9c-4475-914f-e58c06c58d46": {
+      "c5969e5d-48e5-4de4-98e0-335881bf8014": "SUPPORT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "IRRELEVANT"
+    },
+    "270cd72d-4754-432e-b000-2ee129b1c3c0": {
+      "5efef30d-8e33-49ef-af87-5fbbb62f1a87": "SUPPORT",
+      "9f1999cd-6c09-41a3-8d84-444aeb975f55": "SUPPORT"
+    },
+    "9f1999cd-6c09-41a3-8d84-444aeb975f55": {}
+  }
+}
