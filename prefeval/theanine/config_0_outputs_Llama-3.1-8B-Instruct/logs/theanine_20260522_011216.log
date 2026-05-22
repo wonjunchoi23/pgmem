@@ -1,0 +1,594 @@
+2026-05-22 01:12:16,188 - INFO - ============================================================
+2026-05-22 01:12:16,188 - INFO - Theanine PrefEval Chain
+2026-05-22 01:12:16,188 - INFO -   Config       : config_0
+2026-05-22 01:12:16,188 - INFO -   Model        : meta-llama/Llama-3.1-8B-Instruct
+2026-05-22 01:12:16,188 - INFO -   end_session  : 99
+2026-05-22 01:12:16,188 - INFO -   k_existing   : -1
+2026-05-22 01:12:16,188 - INFO -   Output dir   : /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct
+2026-05-22 01:12:16,188 - INFO - ============================================================
+2026-05-22 01:12:16,204 - INFO - Loading embedding model: all-MiniLM-L6-v2
+2026-05-22 01:12:25,154 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,161 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,213 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,219 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,254 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,261 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,290 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,297 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,330 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,337 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,378 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,385 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,418 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-05-22 01:12:25,451 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,457 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,556 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-05-22 01:12:25,590 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-22 01:12:25,630 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-22 01:12:25,663 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-22 01:12:25,696 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,701 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,732 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,739 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,774 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,781 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,814 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,820 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,862 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-05-22 01:12:25,899 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-05-22 01:12:25,953 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-22 01:12:25,959 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-05-22 01:12:26,001 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-05-22 01:12:26,003 - INFO - Initialising LLM client...
+2026-05-22 01:12:31,186 - INFO - Loading vLLM model from: meta-llama/Llama-3.1-8B-Instruct
+2026-05-22 01:12:31,186 - INFO - Using max_model_len=30000 for model meta-llama/Llama-3.1-8B-Instruct
+2026-05-22 01:12:52,776 - INFO - Tokenizer loaded for chat template support
+2026-05-22 01:12:52,777 - INFO - vLLM model loaded successfully
+2026-05-22 01:12:52,777 - INFO - Unified LLM client initialized with engine: vllm
+2026-05-22 01:12:52,784 - INFO - --- checkpoint k=0: ingesting (conv_id=0, 12 turns) ---
+2026-05-22 01:12:52,784 - INFO - k=0: running QA over 1 questions (graph nodes=0)
+2026-05-22 01:12:54,386 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_0
+2026-05-22 01:12:54,387 - INFO - k=0 done. nodes=0, summ_calls=0, rel_calls=0, refine_calls=0, qa_calls=1
+2026-05-22 01:12:54,387 - INFO - --- checkpoint k=1: ingesting (conv_id=1, 10 turns) ---
+2026-05-22 01:12:54,387 - INFO - k=1: running QA over 2 questions (graph nodes=0)
+2026-05-22 01:12:56,923 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_1
+2026-05-22 01:12:56,925 - INFO - k=1 done. nodes=0, summ_calls=0, rel_calls=0, refine_calls=0, qa_calls=2
+2026-05-22 01:12:56,925 - INFO - --- checkpoint k=2: ingesting (conv_id=2, 10 turns) ---
+2026-05-22 01:12:56,925 - INFO - natural finalize at boundary 1->2: 22 turns
+2026-05-22 01:12:56,925 - INFO - finalize_conv: conv_id=1, session_id=0, nodes_before=0
+2026-05-22 01:13:01,014 - INFO - finalize_conv: conv_id=1, session_id=0, nodes_created=15, llm_calls=1, linked_edges=0
+2026-05-22 01:13:01,014 - INFO - k=2: running QA over 3 questions (graph nodes=15)
+2026-05-22 01:13:06,186 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_2
+2026-05-22 01:13:06,187 - INFO - k=2 done. nodes=15, summ_calls=1, rel_calls=0, refine_calls=15, qa_calls=3
+2026-05-22 01:13:06,187 - INFO - --- checkpoint k=3: ingesting (conv_id=3, 10 turns) ---
+2026-05-22 01:13:06,187 - INFO - k=3: running QA over 4 questions (graph nodes=15)
+2026-05-22 01:13:12,050 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_3
+2026-05-22 01:13:12,051 - INFO - k=3 done. nodes=15, summ_calls=0, rel_calls=0, refine_calls=20, qa_calls=4
+2026-05-22 01:13:12,051 - INFO - --- checkpoint k=4: ingesting (conv_id=4, 10 turns) ---
+2026-05-22 01:13:12,051 - INFO - natural finalize at boundary 3->4: 20 turns
+2026-05-22 01:13:12,051 - INFO - finalize_conv: conv_id=3, session_id=0, nodes_before=15
+2026-05-22 01:14:15,825 - INFO - finalize_conv: conv_id=3, session_id=0, nodes_created=15, llm_calls=46, linked_edges=20
+2026-05-22 01:14:15,826 - INFO - k=4: running QA over 5 questions (graph nodes=30)
+2026-05-22 01:14:22,070 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_4
+2026-05-22 01:14:22,071 - INFO - k=4 done. nodes=30, summ_calls=1, rel_calls=45, refine_calls=25, qa_calls=5
+2026-05-22 01:14:22,071 - INFO - --- checkpoint k=5: ingesting (conv_id=5, 12 turns) ---
+2026-05-22 01:14:22,071 - INFO - k=5: running QA over 6 questions (graph nodes=30)
+2026-05-22 01:14:29,843 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_5
+2026-05-22 01:14:29,844 - INFO - k=5 done. nodes=30, summ_calls=0, rel_calls=0, refine_calls=29, qa_calls=6
+2026-05-22 01:14:29,844 - INFO - --- checkpoint k=6: ingesting (conv_id=6, 12 turns) ---
+2026-05-22 01:14:29,844 - INFO - natural finalize at boundary 5->6: 22 turns
+2026-05-22 01:14:29,844 - INFO - finalize_conv: conv_id=5, session_id=0, nodes_before=30
+2026-05-22 01:15:14,142 - INFO - finalize_conv: conv_id=5, session_id=0, nodes_created=10, llm_calls=31, linked_edges=20
+2026-05-22 01:15:14,142 - INFO - k=6: running QA over 7 questions (graph nodes=40)
+2026-05-22 01:15:21,067 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_6
+2026-05-22 01:15:21,068 - INFO - k=6 done. nodes=40, summ_calls=1, rel_calls=30, refine_calls=35, qa_calls=7
+2026-05-22 01:15:21,068 - INFO - --- checkpoint k=7: ingesting (conv_id=7, 12 turns) ---
+2026-05-22 01:15:21,068 - INFO - k=7: running QA over 8 questions (graph nodes=40)
+2026-05-22 01:15:30,413 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_7
+2026-05-22 01:15:30,414 - INFO - k=7 done. nodes=40, summ_calls=0, rel_calls=0, refine_calls=40, qa_calls=8
+2026-05-22 01:15:30,414 - INFO - --- checkpoint k=8: ingesting (conv_id=8, 12 turns) ---
+2026-05-22 01:15:30,414 - INFO - natural finalize at boundary 7->8: 24 turns
+2026-05-22 01:15:30,414 - INFO - finalize_conv: conv_id=7, session_id=0, nodes_before=40
+2026-05-22 01:16:23,308 - INFO - finalize_conv: conv_id=7, session_id=0, nodes_created=11, llm_calls=34, linked_edges=10
+2026-05-22 01:16:23,308 - INFO - k=8: running QA over 9 questions (graph nodes=51)
+2026-05-22 01:16:31,538 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_8
+2026-05-22 01:16:31,539 - INFO - k=8 done. nodes=51, summ_calls=1, rel_calls=33, refine_calls=45, qa_calls=9
+2026-05-22 01:16:31,539 - INFO - --- checkpoint k=9: ingesting (conv_id=9, 10 turns) ---
+2026-05-22 01:16:31,539 - INFO - k=9: running QA over 10 questions (graph nodes=51)
+2026-05-22 01:16:42,112 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_9
+2026-05-22 01:16:42,113 - INFO - k=9 done. nodes=51, summ_calls=0, rel_calls=0, refine_calls=50, qa_calls=10
+2026-05-22 01:16:42,113 - INFO - --- checkpoint k=10: ingesting (conv_id=10, 10 turns) ---
+2026-05-22 01:16:42,113 - INFO - natural finalize at boundary 9->10: 22 turns
+2026-05-22 01:16:42,113 - INFO - finalize_conv: conv_id=9, session_id=0, nodes_before=51
+2026-05-22 01:17:37,850 - INFO - finalize_conv: conv_id=9, session_id=0, nodes_created=13, llm_calls=40, linked_edges=23
+2026-05-22 01:17:37,850 - INFO - k=10: running QA over 11 questions (graph nodes=64)
+2026-05-22 01:17:45,936 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_10
+2026-05-22 01:17:45,938 - INFO - k=10 done. nodes=64, summ_calls=1, rel_calls=39, refine_calls=55, qa_calls=11
+2026-05-22 01:17:45,938 - INFO - --- checkpoint k=11: ingesting (conv_id=11, 10 turns) ---
+2026-05-22 01:17:45,938 - INFO - k=11: running QA over 12 questions (graph nodes=64)
+2026-05-22 01:17:58,094 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_11
+2026-05-22 01:17:58,096 - INFO - k=11 done. nodes=64, summ_calls=0, rel_calls=0, refine_calls=60, qa_calls=12
+2026-05-22 01:17:58,096 - INFO - --- checkpoint k=12: ingesting (conv_id=12, 10 turns) ---
+2026-05-22 01:17:58,096 - INFO - natural finalize at boundary 11->12: 20 turns
+2026-05-22 01:17:58,096 - INFO - finalize_conv: conv_id=11, session_id=0, nodes_before=64
+2026-05-22 01:18:34,329 - INFO - finalize_conv: conv_id=11, session_id=0, nodes_created=9, llm_calls=28, linked_edges=7
+2026-05-22 01:18:34,330 - INFO - k=12: running QA over 13 questions (graph nodes=73)
+2026-05-22 01:18:44,068 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_12
+2026-05-22 01:18:44,069 - INFO - k=12 done. nodes=73, summ_calls=1, rel_calls=27, refine_calls=65, qa_calls=13
+2026-05-22 01:18:44,069 - INFO - --- checkpoint k=13: ingesting (conv_id=13, 10 turns) ---
+2026-05-22 01:18:44,069 - INFO - k=13: running QA over 14 questions (graph nodes=73)
+2026-05-22 01:18:57,939 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_13
+2026-05-22 01:18:57,940 - INFO - k=13 done. nodes=73, summ_calls=0, rel_calls=0, refine_calls=70, qa_calls=14
+2026-05-22 01:18:57,940 - INFO - --- checkpoint k=14: ingesting (conv_id=14, 10 turns) ---
+2026-05-22 01:18:57,940 - INFO - natural finalize at boundary 13->14: 20 turns
+2026-05-22 01:18:57,940 - INFO - finalize_conv: conv_id=13, session_id=0, nodes_before=73
+2026-05-22 01:19:26,135 - INFO - finalize_conv: conv_id=13, session_id=0, nodes_created=8, llm_calls=25, linked_edges=8
+2026-05-22 01:19:26,136 - INFO - k=14: running QA over 15 questions (graph nodes=81)
+2026-05-22 01:19:36,842 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_14
+2026-05-22 01:19:36,843 - INFO - k=14 done. nodes=81, summ_calls=1, rel_calls=24, refine_calls=75, qa_calls=15
+2026-05-22 01:19:36,843 - INFO - --- checkpoint k=15: ingesting (conv_id=15, 10 turns) ---
+2026-05-22 01:19:36,843 - INFO - k=15: running QA over 16 questions (graph nodes=81)
+2026-05-22 01:19:51,615 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_15
+2026-05-22 01:19:51,616 - INFO - k=15 done. nodes=81, summ_calls=0, rel_calls=0, refine_calls=80, qa_calls=16
+2026-05-22 01:19:51,616 - INFO - --- checkpoint k=16: ingesting (conv_id=16, 12 turns) ---
+2026-05-22 01:19:51,616 - INFO - natural finalize at boundary 15->16: 20 turns
+2026-05-22 01:19:51,616 - INFO - finalize_conv: conv_id=15, session_id=0, nodes_before=81
+2026-05-22 01:20:31,766 - INFO - finalize_conv: conv_id=15, session_id=0, nodes_created=10, llm_calls=31, linked_edges=14
+2026-05-22 01:20:31,766 - INFO - k=16: running QA over 17 questions (graph nodes=91)
+2026-05-22 01:20:46,250 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_16
+2026-05-22 01:20:46,251 - INFO - k=16 done. nodes=91, summ_calls=1, rel_calls=30, refine_calls=84, qa_calls=17
+2026-05-22 01:20:46,252 - INFO - --- checkpoint k=17: ingesting (conv_id=17, 12 turns) ---
+2026-05-22 01:20:46,252 - INFO - k=17: running QA over 18 questions (graph nodes=91)
+2026-05-22 01:21:07,770 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_17
+2026-05-22 01:21:07,771 - INFO - k=17 done. nodes=91, summ_calls=0, rel_calls=0, refine_calls=89, qa_calls=18
+2026-05-22 01:21:07,771 - INFO - --- checkpoint k=18: ingesting (conv_id=18, 10 turns) ---
+2026-05-22 01:21:07,771 - INFO - natural finalize at boundary 17->18: 24 turns
+2026-05-22 01:21:07,771 - INFO - finalize_conv: conv_id=17, session_id=0, nodes_before=91
+2026-05-22 01:22:12,492 - INFO - finalize_conv: conv_id=17, session_id=0, nodes_created=15, llm_calls=46, linked_edges=16
+2026-05-22 01:22:12,493 - INFO - k=18: running QA over 19 questions (graph nodes=106)
+2026-05-22 01:22:26,312 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_18
+2026-05-22 01:22:26,313 - INFO - k=18 done. nodes=106, summ_calls=1, rel_calls=45, refine_calls=95, qa_calls=19
+2026-05-22 01:22:26,313 - INFO - --- checkpoint k=19: ingesting (conv_id=19, 10 turns) ---
+2026-05-22 01:22:26,314 - INFO - k=19: running QA over 20 questions (graph nodes=106)
+2026-05-22 01:22:44,668 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_19
+2026-05-22 01:22:44,669 - INFO - k=19 done. nodes=106, summ_calls=0, rel_calls=0, refine_calls=100, qa_calls=20
+2026-05-22 01:22:44,669 - INFO - --- checkpoint k=20: ingesting (conv_id=20, 12 turns) ---
+2026-05-22 01:22:44,669 - INFO - natural finalize at boundary 19->20: 20 turns
+2026-05-22 01:22:44,669 - INFO - finalize_conv: conv_id=19, session_id=0, nodes_before=106
+2026-05-22 01:23:16,444 - INFO - finalize_conv: conv_id=19, session_id=0, nodes_created=8, llm_calls=25, linked_edges=8
+2026-05-22 01:23:16,444 - INFO - k=20: running QA over 21 questions (graph nodes=114)
+2026-05-22 01:23:32,506 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_20
+2026-05-22 01:23:32,507 - INFO - k=20 done. nodes=114, summ_calls=1, rel_calls=24, refine_calls=105, qa_calls=21
+2026-05-22 01:23:32,507 - INFO - --- checkpoint k=21: ingesting (conv_id=21, 10 turns) ---
+2026-05-22 01:23:32,507 - INFO - k=21: running QA over 22 questions (graph nodes=114)
+2026-05-22 01:23:58,100 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_21
+2026-05-22 01:23:58,101 - INFO - k=21 done. nodes=114, summ_calls=0, rel_calls=0, refine_calls=110, qa_calls=22
+2026-05-22 01:23:58,101 - INFO - --- checkpoint k=22: ingesting (conv_id=22, 12 turns) ---
+2026-05-22 01:23:58,101 - INFO - natural finalize at boundary 21->22: 22 turns
+2026-05-22 01:23:58,101 - INFO - finalize_conv: conv_id=21, session_id=0, nodes_before=114
+2026-05-22 01:24:44,742 - INFO - finalize_conv: conv_id=21, session_id=0, nodes_created=12, llm_calls=37, linked_edges=12
+2026-05-22 01:24:44,742 - INFO - k=22: running QA over 23 questions (graph nodes=126)
+2026-05-22 01:25:01,581 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_22
+2026-05-22 01:25:01,583 - INFO - k=22 done. nodes=126, summ_calls=1, rel_calls=36, refine_calls=114, qa_calls=23
+2026-05-22 01:25:01,583 - INFO - --- checkpoint k=23: ingesting (conv_id=23, 10 turns) ---
+2026-05-22 01:25:01,583 - INFO - k=23: running QA over 24 questions (graph nodes=126)
+2026-05-22 01:25:26,857 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_23
+2026-05-22 01:25:26,859 - INFO - k=23 done. nodes=126, summ_calls=0, rel_calls=0, refine_calls=119, qa_calls=24
+2026-05-22 01:25:26,859 - INFO - --- checkpoint k=24: ingesting (conv_id=24, 12 turns) ---
+2026-05-22 01:25:26,859 - INFO - natural finalize at boundary 23->24: 22 turns
+2026-05-22 01:25:26,859 - INFO - finalize_conv: conv_id=23, session_id=0, nodes_before=126
+2026-05-22 01:25:58,102 - INFO - finalize_conv: conv_id=23, session_id=0, nodes_created=7, llm_calls=22, linked_edges=7
+2026-05-22 01:25:58,102 - INFO - k=24: running QA over 25 questions (graph nodes=133)
+2026-05-22 01:26:17,365 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_24
+2026-05-22 01:26:17,366 - INFO - k=24 done. nodes=133, summ_calls=1, rel_calls=21, refine_calls=124, qa_calls=25
+2026-05-22 01:26:17,366 - INFO - --- checkpoint k=25: ingesting (conv_id=25, 10 turns) ---
+2026-05-22 01:26:17,366 - INFO - k=25: running QA over 26 questions (graph nodes=133)
+2026-05-22 01:26:44,448 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_25
+2026-05-22 01:26:44,449 - INFO - k=25 done. nodes=133, summ_calls=0, rel_calls=0, refine_calls=129, qa_calls=26
+2026-05-22 01:26:44,449 - INFO - --- checkpoint k=26: ingesting (conv_id=26, 8 turns) ---
+2026-05-22 01:26:44,449 - INFO - natural finalize at boundary 25->26: 22 turns
+2026-05-22 01:26:44,449 - INFO - finalize_conv: conv_id=25, session_id=0, nodes_before=133
+2026-05-22 01:27:43,802 - INFO - finalize_conv: conv_id=25, session_id=0, nodes_created=14, llm_calls=43, linked_edges=12
+2026-05-22 01:27:43,803 - INFO - k=26: running QA over 27 questions (graph nodes=147)
+2026-05-22 01:28:01,271 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_26
+2026-05-22 01:28:01,272 - INFO - k=26 done. nodes=147, summ_calls=1, rel_calls=42, refine_calls=134, qa_calls=27
+2026-05-22 01:28:01,272 - INFO - --- checkpoint k=27: ingesting (conv_id=27, 8 turns) ---
+2026-05-22 01:28:01,272 - INFO - k=27: running QA over 28 questions (graph nodes=147)
+2026-05-22 01:28:23,582 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_27
+2026-05-22 01:28:23,583 - INFO - k=27 done. nodes=147, summ_calls=0, rel_calls=0, refine_calls=139, qa_calls=28
+2026-05-22 01:28:23,583 - INFO - --- checkpoint k=28: ingesting (conv_id=28, 8 turns) ---
+2026-05-22 01:28:23,583 - INFO - natural finalize at boundary 27->28: 16 turns
+2026-05-22 01:28:23,583 - INFO - finalize_conv: conv_id=27, session_id=0, nodes_before=147
+2026-05-22 01:29:00,272 - INFO - finalize_conv: conv_id=27, session_id=0, nodes_created=10, llm_calls=31, linked_edges=10
+2026-05-22 01:29:00,272 - INFO - k=28: running QA over 29 questions (graph nodes=157)
+2026-05-22 01:29:20,634 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_28
+2026-05-22 01:29:20,635 - INFO - k=28 done. nodes=157, summ_calls=1, rel_calls=30, refine_calls=144, qa_calls=29
+2026-05-22 01:29:20,635 - INFO - --- checkpoint k=29: ingesting (conv_id=29, 8 turns) ---
+2026-05-22 01:29:20,635 - INFO - k=29: running QA over 30 questions (graph nodes=157)
+2026-05-22 01:29:46,833 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_29
+2026-05-22 01:29:46,835 - INFO - k=29 done. nodes=157, summ_calls=0, rel_calls=0, refine_calls=149, qa_calls=30
+2026-05-22 01:29:46,835 - INFO - --- checkpoint k=30: ingesting (conv_id=30, 8 turns) ---
+2026-05-22 01:29:46,836 - INFO - natural finalize at boundary 29->30: 16 turns
+2026-05-22 01:29:46,836 - INFO - finalize_conv: conv_id=29, session_id=0, nodes_before=157
+2026-05-22 01:30:44,736 - INFO - finalize_conv: conv_id=29, session_id=0, nodes_created=14, llm_calls=43, linked_edges=18
+2026-05-22 01:30:44,736 - INFO - k=30: running QA over 31 questions (graph nodes=171)
+2026-05-22 01:31:05,481 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_30
+2026-05-22 01:31:05,483 - INFO - k=30 done. nodes=171, summ_calls=1, rel_calls=42, refine_calls=154, qa_calls=31
+2026-05-22 01:31:05,483 - INFO - --- checkpoint k=31: ingesting (conv_id=31, 10 turns) ---
+2026-05-22 01:31:05,483 - INFO - k=31: running QA over 32 questions (graph nodes=171)
+2026-05-22 01:31:34,221 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_31
+2026-05-22 01:31:34,222 - INFO - k=31 done. nodes=171, summ_calls=0, rel_calls=0, refine_calls=159, qa_calls=32
+2026-05-22 01:31:34,222 - INFO - --- checkpoint k=32: ingesting (conv_id=32, 12 turns) ---
+2026-05-22 01:31:34,222 - INFO - natural finalize at boundary 31->32: 18 turns
+2026-05-22 01:31:34,222 - INFO - finalize_conv: conv_id=31, session_id=0, nodes_before=171
+2026-05-22 01:32:37,274 - INFO - finalize_conv: conv_id=31, session_id=0, nodes_created=14, llm_calls=43, linked_edges=14
+2026-05-22 01:32:37,274 - INFO - k=32: running QA over 33 questions (graph nodes=185)
+2026-05-22 01:33:03,226 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_32
+2026-05-22 01:33:03,227 - INFO - k=32 done. nodes=185, summ_calls=1, rel_calls=42, refine_calls=164, qa_calls=33
+2026-05-22 01:33:03,227 - INFO - --- checkpoint k=33: ingesting (conv_id=33, 12 turns) ---
+2026-05-22 01:33:03,227 - INFO - k=33: running QA over 34 questions (graph nodes=185)
+2026-05-22 01:33:43,021 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_33
+2026-05-22 01:33:43,022 - INFO - k=33 done. nodes=185, summ_calls=0, rel_calls=0, refine_calls=169, qa_calls=34
+2026-05-22 01:33:43,022 - INFO - --- checkpoint k=34: ingesting (conv_id=34, 12 turns) ---
+2026-05-22 01:33:43,022 - INFO - natural finalize at boundary 33->34: 24 turns
+2026-05-22 01:33:43,022 - INFO - finalize_conv: conv_id=33, session_id=0, nodes_before=185
+2026-05-22 01:34:50,026 - INFO - finalize_conv: conv_id=33, session_id=0, nodes_created=15, llm_calls=46, linked_edges=16
+2026-05-22 01:34:50,026 - INFO - k=34: running QA over 35 questions (graph nodes=200)
+2026-05-22 01:35:21,228 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_34
+2026-05-22 01:35:21,230 - INFO - k=34 done. nodes=200, summ_calls=1, rel_calls=45, refine_calls=175, qa_calls=35
+2026-05-22 01:35:21,230 - INFO - --- checkpoint k=35: ingesting (conv_id=35, 10 turns) ---
+2026-05-22 01:35:21,230 - INFO - k=35: running QA over 36 questions (graph nodes=200)
+2026-05-22 01:36:00,170 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_35
+2026-05-22 01:36:00,171 - INFO - k=35 done. nodes=200, summ_calls=0, rel_calls=0, refine_calls=180, qa_calls=36
+2026-05-22 01:36:00,171 - INFO - --- checkpoint k=36: ingesting (conv_id=36, 12 turns) ---
+2026-05-22 01:36:00,171 - INFO - natural finalize at boundary 35->36: 22 turns
+2026-05-22 01:36:00,171 - INFO - finalize_conv: conv_id=35, session_id=0, nodes_before=200
+2026-05-22 01:36:56,809 - INFO - finalize_conv: conv_id=35, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 01:36:56,809 - INFO - k=36: running QA over 37 questions (graph nodes=215)
+2026-05-22 01:37:27,483 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_36
+2026-05-22 01:37:27,484 - INFO - k=36 done. nodes=215, summ_calls=1, rel_calls=45, refine_calls=185, qa_calls=37
+2026-05-22 01:37:27,484 - INFO - --- checkpoint k=37: ingesting (conv_id=37, 12 turns) ---
+2026-05-22 01:37:27,484 - INFO - k=37: running QA over 38 questions (graph nodes=215)
+2026-05-22 01:38:09,625 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_37
+2026-05-22 01:38:09,626 - INFO - k=37 done. nodes=215, summ_calls=0, rel_calls=0, refine_calls=190, qa_calls=38
+2026-05-22 01:38:09,626 - INFO - --- checkpoint k=38: ingesting (conv_id=38, 12 turns) ---
+2026-05-22 01:38:09,626 - INFO - natural finalize at boundary 37->38: 24 turns
+2026-05-22 01:38:09,626 - INFO - finalize_conv: conv_id=37, session_id=0, nodes_before=215
+2026-05-22 01:39:03,946 - INFO - finalize_conv: conv_id=37, session_id=0, nodes_created=13, llm_calls=40, linked_edges=13
+2026-05-22 01:39:03,946 - INFO - k=38: running QA over 39 questions (graph nodes=228)
+2026-05-22 01:39:39,334 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_38
+2026-05-22 01:39:39,335 - INFO - k=38 done. nodes=228, summ_calls=1, rel_calls=39, refine_calls=195, qa_calls=39
+2026-05-22 01:39:39,336 - INFO - --- checkpoint k=39: ingesting (conv_id=39, 10 turns) ---
+2026-05-22 01:39:39,336 - INFO - k=39: running QA over 40 questions (graph nodes=228)
+2026-05-22 01:40:28,109 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_39
+2026-05-22 01:40:28,112 - INFO - k=39 done. nodes=228, summ_calls=0, rel_calls=0, refine_calls=200, qa_calls=40
+2026-05-22 01:40:28,112 - INFO - --- checkpoint k=40: ingesting (conv_id=40, 10 turns) ---
+2026-05-22 01:40:28,112 - INFO - natural finalize at boundary 39->40: 22 turns
+2026-05-22 01:40:28,112 - INFO - finalize_conv: conv_id=39, session_id=0, nodes_before=228
+2026-05-22 01:41:17,564 - INFO - finalize_conv: conv_id=39, session_id=0, nodes_created=12, llm_calls=37, linked_edges=13
+2026-05-22 01:41:17,564 - INFO - k=40: running QA over 41 questions (graph nodes=240)
+2026-05-22 01:41:53,696 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_40
+2026-05-22 01:41:53,698 - INFO - k=40 done. nodes=240, summ_calls=1, rel_calls=36, refine_calls=205, qa_calls=41
+2026-05-22 01:41:53,698 - INFO - --- checkpoint k=41: ingesting (conv_id=41, 10 turns) ---
+2026-05-22 01:41:53,698 - INFO - k=41: running QA over 42 questions (graph nodes=240)
+2026-05-22 01:42:37,412 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_41
+2026-05-22 01:42:37,413 - INFO - k=41 done. nodes=240, summ_calls=0, rel_calls=0, refine_calls=209, qa_calls=42
+2026-05-22 01:42:37,413 - INFO - --- checkpoint k=42: ingesting (conv_id=42, 10 turns) ---
+2026-05-22 01:42:37,414 - INFO - natural finalize at boundary 41->42: 20 turns
+2026-05-22 01:42:37,414 - INFO - finalize_conv: conv_id=41, session_id=0, nodes_before=240
+2026-05-22 01:43:15,566 - INFO - finalize_conv: conv_id=41, session_id=0, nodes_created=9, llm_calls=28, linked_edges=9
+2026-05-22 01:43:15,566 - INFO - k=42: running QA over 43 questions (graph nodes=249)
+2026-05-22 01:43:53,995 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_42
+2026-05-22 01:43:53,996 - INFO - k=42 done. nodes=249, summ_calls=1, rel_calls=27, refine_calls=214, qa_calls=43
+2026-05-22 01:43:53,996 - INFO - --- checkpoint k=43: ingesting (conv_id=43, 10 turns) ---
+2026-05-22 01:43:53,996 - INFO - k=43: running QA over 44 questions (graph nodes=249)
+2026-05-22 01:44:47,919 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_43
+2026-05-22 01:44:47,920 - INFO - k=43 done. nodes=249, summ_calls=0, rel_calls=0, refine_calls=219, qa_calls=44
+2026-05-22 01:44:47,920 - INFO - --- checkpoint k=44: ingesting (conv_id=44, 12 turns) ---
+2026-05-22 01:44:47,920 - INFO - natural finalize at boundary 43->44: 20 turns
+2026-05-22 01:44:47,920 - INFO - finalize_conv: conv_id=43, session_id=0, nodes_before=249
+2026-05-22 01:45:40,258 - INFO - finalize_conv: conv_id=43, session_id=0, nodes_created=13, llm_calls=40, linked_edges=11
+2026-05-22 01:45:40,258 - INFO - k=44: running QA over 45 questions (graph nodes=262)
+2026-05-22 01:46:20,875 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_44
+2026-05-22 01:46:20,877 - INFO - k=44 done. nodes=262, summ_calls=1, rel_calls=39, refine_calls=224, qa_calls=45
+2026-05-22 01:46:20,877 - INFO - --- checkpoint k=45: ingesting (conv_id=45, 10 turns) ---
+2026-05-22 01:46:20,877 - INFO - k=45: running QA over 46 questions (graph nodes=262)
+2026-05-22 01:47:22,410 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_45
+2026-05-22 01:47:22,411 - INFO - k=45 done. nodes=262, summ_calls=0, rel_calls=0, refine_calls=230, qa_calls=46
+2026-05-22 01:47:22,411 - INFO - --- checkpoint k=46: ingesting (conv_id=46, 12 turns) ---
+2026-05-22 01:47:22,411 - INFO - natural finalize at boundary 45->46: 22 turns
+2026-05-22 01:47:22,411 - INFO - finalize_conv: conv_id=45, session_id=0, nodes_before=262
+2026-05-22 01:48:06,400 - INFO - finalize_conv: conv_id=45, session_id=0, nodes_created=10, llm_calls=31, linked_edges=10
+2026-05-22 01:48:06,400 - INFO - k=46: running QA over 47 questions (graph nodes=272)
+2026-05-22 01:48:46,431 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_46
+2026-05-22 01:48:46,432 - INFO - k=46 done. nodes=272, summ_calls=1, rel_calls=30, refine_calls=235, qa_calls=47
+2026-05-22 01:48:46,432 - INFO - --- checkpoint k=47: ingesting (conv_id=47, 10 turns) ---
+2026-05-22 01:48:46,432 - INFO - k=47: running QA over 48 questions (graph nodes=272)
+2026-05-22 01:49:41,825 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_47
+2026-05-22 01:49:41,826 - INFO - k=47 done. nodes=272, summ_calls=0, rel_calls=0, refine_calls=240, qa_calls=48
+2026-05-22 01:49:41,826 - INFO - --- checkpoint k=48: ingesting (conv_id=48, 10 turns) ---
+2026-05-22 01:49:41,826 - INFO - natural finalize at boundary 47->48: 22 turns
+2026-05-22 01:49:41,826 - INFO - finalize_conv: conv_id=47, session_id=0, nodes_before=272
+2026-05-22 01:50:47,955 - INFO - finalize_conv: conv_id=47, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 01:50:47,955 - INFO - k=48: running QA over 49 questions (graph nodes=287)
+2026-05-22 01:51:22,890 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_48
+2026-05-22 01:51:22,892 - INFO - k=48 done. nodes=287, summ_calls=1, rel_calls=45, refine_calls=244, qa_calls=49
+2026-05-22 01:51:22,892 - INFO - --- checkpoint k=49: ingesting (conv_id=49, 10 turns) ---
+2026-05-22 01:51:22,892 - INFO - k=49: running QA over 50 questions (graph nodes=287)
+2026-05-22 01:52:08,088 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_49
+2026-05-22 01:52:08,089 - INFO - k=49 done. nodes=287, summ_calls=0, rel_calls=0, refine_calls=249, qa_calls=50
+2026-05-22 01:52:08,089 - INFO - --- checkpoint k=50: ingesting (conv_id=50, 10 turns) ---
+2026-05-22 01:52:08,089 - INFO - natural finalize at boundary 49->50: 20 turns
+2026-05-22 01:52:08,089 - INFO - finalize_conv: conv_id=49, session_id=0, nodes_before=287
+2026-05-22 01:53:11,639 - INFO - finalize_conv: conv_id=49, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 01:53:11,639 - INFO - k=50: running QA over 51 questions (graph nodes=302)
+2026-05-22 01:53:47,735 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_50
+2026-05-22 01:53:47,737 - INFO - k=50 done. nodes=302, summ_calls=1, rel_calls=45, refine_calls=255, qa_calls=51
+2026-05-22 01:53:47,737 - INFO - --- checkpoint k=51: ingesting (conv_id=51, 10 turns) ---
+2026-05-22 01:53:47,737 - INFO - k=51: running QA over 52 questions (graph nodes=302)
+2026-05-22 01:54:43,996 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_51
+2026-05-22 01:54:43,997 - INFO - k=51 done. nodes=302, summ_calls=0, rel_calls=0, refine_calls=260, qa_calls=52
+2026-05-22 01:54:43,997 - INFO - --- checkpoint k=52: ingesting (conv_id=52, 10 turns) ---
+2026-05-22 01:54:43,997 - INFO - natural finalize at boundary 51->52: 20 turns
+2026-05-22 01:54:43,997 - INFO - finalize_conv: conv_id=51, session_id=0, nodes_before=302
+2026-05-22 01:55:27,542 - INFO - finalize_conv: conv_id=51, session_id=0, nodes_created=11, llm_calls=34, linked_edges=15
+2026-05-22 01:55:27,542 - INFO - k=52: running QA over 53 questions (graph nodes=313)
+2026-05-22 01:56:08,840 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_52
+2026-05-22 01:56:08,842 - INFO - k=52 done. nodes=313, summ_calls=1, rel_calls=33, refine_calls=265, qa_calls=53
+2026-05-22 01:56:08,842 - INFO - --- checkpoint k=53: ingesting (conv_id=53, 12 turns) ---
+2026-05-22 01:56:08,842 - INFO - k=53: running QA over 54 questions (graph nodes=313)
+2026-05-22 01:57:04,241 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_53
+2026-05-22 01:57:04,243 - INFO - k=53 done. nodes=313, summ_calls=0, rel_calls=0, refine_calls=270, qa_calls=54
+2026-05-22 01:57:04,243 - INFO - --- checkpoint k=54: ingesting (conv_id=54, 12 turns) ---
+2026-05-22 01:57:04,243 - INFO - natural finalize at boundary 53->54: 22 turns
+2026-05-22 01:57:04,243 - INFO - finalize_conv: conv_id=53, session_id=0, nodes_before=313
+2026-05-22 01:58:05,417 - INFO - finalize_conv: conv_id=53, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 01:58:05,417 - INFO - k=54: running QA over 55 questions (graph nodes=328)
+2026-05-22 01:58:50,975 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_54
+2026-05-22 01:58:50,976 - INFO - k=54 done. nodes=328, summ_calls=1, rel_calls=45, refine_calls=274, qa_calls=55
+2026-05-22 01:58:50,976 - INFO - --- checkpoint k=55: ingesting (conv_id=55, 12 turns) ---
+2026-05-22 01:58:50,976 - INFO - k=55: running QA over 56 questions (graph nodes=328)
+2026-05-22 02:00:24,515 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_55
+2026-05-22 02:00:24,517 - INFO - k=55 done. nodes=328, summ_calls=0, rel_calls=0, refine_calls=279, qa_calls=56
+2026-05-22 02:00:24,517 - INFO - --- checkpoint k=56: ingesting (conv_id=56, 12 turns) ---
+2026-05-22 02:00:24,517 - INFO - natural finalize at boundary 55->56: 24 turns
+2026-05-22 02:00:24,517 - INFO - finalize_conv: conv_id=55, session_id=0, nodes_before=328
+2026-05-22 02:01:28,092 - INFO - finalize_conv: conv_id=55, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 02:01:28,093 - INFO - k=56: running QA over 57 questions (graph nodes=343)
+2026-05-22 02:02:15,282 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_56
+2026-05-22 02:02:15,283 - INFO - k=56 done. nodes=343, summ_calls=1, rel_calls=45, refine_calls=283, qa_calls=57
+2026-05-22 02:02:15,284 - INFO - --- checkpoint k=57: ingesting (conv_id=57, 8 turns) ---
+2026-05-22 02:02:15,284 - INFO - k=57: running QA over 58 questions (graph nodes=343)
+2026-05-22 02:03:36,178 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_57
+2026-05-22 02:03:36,180 - INFO - k=57 done. nodes=343, summ_calls=0, rel_calls=0, refine_calls=289, qa_calls=58
+2026-05-22 02:03:36,180 - INFO - --- checkpoint k=58: ingesting (conv_id=58, 10 turns) ---
+2026-05-22 02:03:36,180 - INFO - natural finalize at boundary 57->58: 20 turns
+2026-05-22 02:03:36,180 - INFO - finalize_conv: conv_id=57, session_id=0, nodes_before=343
+2026-05-22 02:04:08,827 - INFO - finalize_conv: conv_id=57, session_id=0, nodes_created=7, llm_calls=22, linked_edges=7
+2026-05-22 02:04:08,827 - INFO - k=58: running QA over 59 questions (graph nodes=350)
+2026-05-22 02:05:16,334 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_58
+2026-05-22 02:05:16,336 - INFO - k=58 done. nodes=350, summ_calls=1, rel_calls=21, refine_calls=294, qa_calls=59
+2026-05-22 02:05:16,336 - INFO - --- checkpoint k=59: ingesting (conv_id=59, 10 turns) ---
+2026-05-22 02:05:16,336 - INFO - k=59: running QA over 60 questions (graph nodes=350)
+2026-05-22 02:06:57,742 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_59
+2026-05-22 02:06:57,743 - INFO - k=59 done. nodes=350, summ_calls=0, rel_calls=0, refine_calls=299, qa_calls=60
+2026-05-22 02:06:57,743 - INFO - --- checkpoint k=60: ingesting (conv_id=60, 12 turns) ---
+2026-05-22 02:06:57,744 - INFO - natural finalize at boundary 59->60: 20 turns
+2026-05-22 02:06:57,744 - INFO - finalize_conv: conv_id=59, session_id=0, nodes_before=350
+2026-05-22 02:07:39,959 - INFO - finalize_conv: conv_id=59, session_id=0, nodes_created=10, llm_calls=31, linked_edges=10
+2026-05-22 02:07:39,959 - INFO - k=60: running QA over 61 questions (graph nodes=360)
+2026-05-22 02:08:36,508 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_60
+2026-05-22 02:08:36,510 - INFO - k=60 done. nodes=360, summ_calls=1, rel_calls=30, refine_calls=304, qa_calls=61
+2026-05-22 02:08:36,510 - INFO - --- checkpoint k=61: ingesting (conv_id=61, 10 turns) ---
+2026-05-22 02:08:36,510 - INFO - k=61: running QA over 62 questions (graph nodes=360)
+2026-05-22 02:09:44,403 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_61
+2026-05-22 02:09:44,404 - INFO - k=61 done. nodes=360, summ_calls=0, rel_calls=0, refine_calls=309, qa_calls=62
+2026-05-22 02:09:44,404 - INFO - --- checkpoint k=62: ingesting (conv_id=62, 12 turns) ---
+2026-05-22 02:09:44,404 - INFO - natural finalize at boundary 61->62: 22 turns
+2026-05-22 02:09:44,404 - INFO - finalize_conv: conv_id=61, session_id=0, nodes_before=360
+2026-05-22 02:10:45,301 - INFO - finalize_conv: conv_id=61, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 02:10:45,301 - INFO - k=62: running QA over 63 questions (graph nodes=375)
+2026-05-22 02:11:32,002 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_62
+2026-05-22 02:11:32,003 - INFO - k=62 done. nodes=375, summ_calls=1, rel_calls=45, refine_calls=313, qa_calls=63
+2026-05-22 02:11:32,003 - INFO - --- checkpoint k=63: ingesting (conv_id=63, 10 turns) ---
+2026-05-22 02:11:32,003 - INFO - k=63: running QA over 64 questions (graph nodes=375)
+2026-05-22 02:12:34,833 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_63
+2026-05-22 02:12:34,834 - INFO - k=63 done. nodes=375, summ_calls=0, rel_calls=0, refine_calls=317, qa_calls=64
+2026-05-22 02:12:34,834 - INFO - --- checkpoint k=64: ingesting (conv_id=64, 10 turns) ---
+2026-05-22 02:12:34,834 - INFO - natural finalize at boundary 63->64: 22 turns
+2026-05-22 02:12:34,834 - INFO - finalize_conv: conv_id=63, session_id=0, nodes_before=375
+2026-05-22 02:13:28,398 - INFO - finalize_conv: conv_id=63, session_id=0, nodes_created=13, llm_calls=40, linked_edges=13
+2026-05-22 02:13:28,399 - INFO - k=64: running QA over 65 questions (graph nodes=388)
+2026-05-22 02:14:22,997 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_64
+2026-05-22 02:14:22,999 - INFO - k=64 done. nodes=388, summ_calls=1, rel_calls=39, refine_calls=322, qa_calls=65
+2026-05-22 02:14:22,999 - INFO - --- checkpoint k=65: ingesting (conv_id=65, 12 turns) ---
+2026-05-22 02:14:22,999 - INFO - k=65: running QA over 66 questions (graph nodes=388)
+2026-05-22 02:15:45,934 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_65
+2026-05-22 02:15:45,936 - INFO - k=65 done. nodes=388, summ_calls=0, rel_calls=0, refine_calls=327, qa_calls=66
+2026-05-22 02:15:45,936 - INFO - --- checkpoint k=66: ingesting (conv_id=66, 12 turns) ---
+2026-05-22 02:15:45,936 - INFO - natural finalize at boundary 65->66: 22 turns
+2026-05-22 02:15:45,936 - INFO - finalize_conv: conv_id=65, session_id=0, nodes_before=388
+2026-05-22 02:16:57,571 - INFO - finalize_conv: conv_id=65, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 02:16:57,571 - INFO - k=66: running QA over 67 questions (graph nodes=403)
+2026-05-22 02:17:53,467 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_66
+2026-05-22 02:17:53,468 - INFO - k=66 done. nodes=403, summ_calls=1, rel_calls=45, refine_calls=334, qa_calls=67
+2026-05-22 02:17:53,468 - INFO - --- checkpoint k=67: ingesting (conv_id=67, 12 turns) ---
+2026-05-22 02:17:53,468 - INFO - k=67: running QA over 68 questions (graph nodes=403)
+2026-05-22 02:19:22,677 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_67
+2026-05-22 02:19:22,679 - INFO - k=67 done. nodes=403, summ_calls=0, rel_calls=0, refine_calls=339, qa_calls=68
+2026-05-22 02:19:22,679 - INFO - --- checkpoint k=68: ingesting (conv_id=68, 10 turns) ---
+2026-05-22 02:19:22,679 - INFO - natural finalize at boundary 67->68: 24 turns
+2026-05-22 02:19:22,679 - INFO - finalize_conv: conv_id=67, session_id=0, nodes_before=403
+2026-05-22 02:20:01,540 - INFO - finalize_conv: conv_id=67, session_id=0, nodes_created=9, llm_calls=28, linked_edges=9
+2026-05-22 02:20:01,540 - INFO - k=68: running QA over 69 questions (graph nodes=412)
+2026-05-22 02:20:56,118 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_68
+2026-05-22 02:20:56,119 - INFO - k=68 done. nodes=412, summ_calls=1, rel_calls=27, refine_calls=344, qa_calls=69
+2026-05-22 02:20:56,119 - INFO - --- checkpoint k=69: ingesting (conv_id=69, 10 turns) ---
+2026-05-22 02:20:56,120 - INFO - k=69: running QA over 70 questions (graph nodes=412)
+2026-05-22 02:22:06,349 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_69
+2026-05-22 02:22:06,350 - INFO - k=69 done. nodes=412, summ_calls=0, rel_calls=0, refine_calls=349, qa_calls=70
+2026-05-22 02:22:06,350 - INFO - --- checkpoint k=70: ingesting (conv_id=70, 10 turns) ---
+2026-05-22 02:22:06,350 - INFO - natural finalize at boundary 69->70: 20 turns
+2026-05-22 02:22:06,350 - INFO - finalize_conv: conv_id=69, session_id=0, nodes_before=412
+2026-05-22 02:22:50,548 - INFO - finalize_conv: conv_id=69, session_id=0, nodes_created=12, llm_calls=37, linked_edges=12
+2026-05-22 02:22:50,548 - INFO - k=70: running QA over 71 questions (graph nodes=424)
+2026-05-22 02:23:50,913 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_70
+2026-05-22 02:23:50,914 - INFO - k=70 done. nodes=424, summ_calls=1, rel_calls=36, refine_calls=354, qa_calls=71
+2026-05-22 02:23:50,914 - INFO - --- checkpoint k=71: ingesting (conv_id=71, 10 turns) ---
+2026-05-22 02:23:50,915 - INFO - k=71: running QA over 72 questions (graph nodes=424)
+2026-05-22 02:25:09,872 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_71
+2026-05-22 02:25:09,874 - INFO - k=71 done. nodes=424, summ_calls=0, rel_calls=0, refine_calls=358, qa_calls=72
+2026-05-22 02:25:09,874 - INFO - --- checkpoint k=72: ingesting (conv_id=72, 12 turns) ---
+2026-05-22 02:25:09,874 - INFO - natural finalize at boundary 71->72: 20 turns
+2026-05-22 02:25:09,874 - INFO - finalize_conv: conv_id=71, session_id=0, nodes_before=424
+2026-05-22 02:26:00,775 - INFO - finalize_conv: conv_id=71, session_id=0, nodes_created=13, llm_calls=40, linked_edges=13
+2026-05-22 02:26:00,775 - INFO - k=72: running QA over 73 questions (graph nodes=437)
+2026-05-22 02:27:04,401 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_72
+2026-05-22 02:27:04,402 - INFO - k=72 done. nodes=437, summ_calls=1, rel_calls=39, refine_calls=364, qa_calls=73
+2026-05-22 02:27:04,403 - INFO - --- checkpoint k=73: ingesting (conv_id=73, 10 turns) ---
+2026-05-22 02:27:04,403 - INFO - k=73: running QA over 74 questions (graph nodes=437)
+2026-05-22 02:28:33,366 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_73
+2026-05-22 02:28:33,368 - INFO - k=73 done. nodes=437, summ_calls=0, rel_calls=0, refine_calls=369, qa_calls=74
+2026-05-22 02:28:33,368 - INFO - --- checkpoint k=74: ingesting (conv_id=74, 10 turns) ---
+2026-05-22 02:28:33,368 - INFO - natural finalize at boundary 73->74: 22 turns
+2026-05-22 02:28:33,368 - INFO - finalize_conv: conv_id=73, session_id=0, nodes_before=437
+2026-05-22 02:29:02,459 - INFO - finalize_conv: conv_id=73, session_id=0, nodes_created=7, llm_calls=22, linked_edges=7
+2026-05-22 02:29:02,459 - INFO - k=74: running QA over 75 questions (graph nodes=444)
+2026-05-22 02:29:58,157 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_74
+2026-05-22 02:29:58,158 - INFO - k=74 done. nodes=444, summ_calls=1, rel_calls=21, refine_calls=374, qa_calls=75
+2026-05-22 02:29:58,158 - INFO - --- checkpoint k=75: ingesting (conv_id=75, 12 turns) ---
+2026-05-22 02:29:58,159 - INFO - k=75: running QA over 76 questions (graph nodes=444)
+2026-05-22 02:31:26,045 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_75
+2026-05-22 02:31:26,047 - INFO - k=75 done. nodes=444, summ_calls=0, rel_calls=0, refine_calls=378, qa_calls=76
+2026-05-22 02:31:26,047 - INFO - --- checkpoint k=76: ingesting (conv_id=76, 12 turns) ---
+2026-05-22 02:31:26,047 - INFO - natural finalize at boundary 75->76: 22 turns
+2026-05-22 02:31:26,047 - INFO - finalize_conv: conv_id=75, session_id=0, nodes_before=444
+2026-05-22 02:32:15,736 - INFO - finalize_conv: conv_id=75, session_id=0, nodes_created=13, llm_calls=40, linked_edges=13
+2026-05-22 02:32:15,736 - INFO - k=76: running QA over 77 questions (graph nodes=457)
+2026-05-22 02:33:19,656 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_76
+2026-05-22 02:33:19,657 - INFO - k=76 done. nodes=457, summ_calls=1, rel_calls=39, refine_calls=384, qa_calls=77
+2026-05-22 02:33:19,657 - INFO - --- checkpoint k=77: ingesting (conv_id=77, 10 turns) ---
+2026-05-22 02:33:19,657 - INFO - k=77: running QA over 78 questions (graph nodes=457)
+2026-05-22 02:34:56,607 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_77
+2026-05-22 02:34:56,609 - INFO - k=77 done. nodes=457, summ_calls=0, rel_calls=0, refine_calls=388, qa_calls=78
+2026-05-22 02:34:56,609 - INFO - --- checkpoint k=78: ingesting (conv_id=78, 10 turns) ---
+2026-05-22 02:34:56,609 - INFO - natural finalize at boundary 77->78: 22 turns
+2026-05-22 02:34:56,609 - INFO - finalize_conv: conv_id=77, session_id=0, nodes_before=457
+2026-05-22 02:35:30,510 - INFO - finalize_conv: conv_id=77, session_id=0, nodes_created=9, llm_calls=28, linked_edges=9
+2026-05-22 02:35:30,510 - INFO - k=78: running QA over 79 questions (graph nodes=466)
+2026-05-22 02:36:30,043 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_78
+2026-05-22 02:36:30,044 - INFO - k=78 done. nodes=466, summ_calls=1, rel_calls=27, refine_calls=394, qa_calls=79
+2026-05-22 02:36:30,044 - INFO - --- checkpoint k=79: ingesting (conv_id=79, 10 turns) ---
+2026-05-22 02:36:30,044 - INFO - k=79: running QA over 80 questions (graph nodes=466)
+2026-05-22 02:37:48,046 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_79
+2026-05-22 02:37:48,047 - INFO - k=79 done. nodes=466, summ_calls=0, rel_calls=0, refine_calls=399, qa_calls=80
+2026-05-22 02:37:48,047 - INFO - --- checkpoint k=80: ingesting (conv_id=80, 12 turns) ---
+2026-05-22 02:37:48,048 - INFO - natural finalize at boundary 79->80: 20 turns
+2026-05-22 02:37:48,048 - INFO - finalize_conv: conv_id=79, session_id=0, nodes_before=466
+2026-05-22 02:38:53,495 - INFO - finalize_conv: conv_id=79, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 02:38:53,495 - INFO - k=80: running QA over 81 questions (graph nodes=481)
+2026-05-22 02:40:09,391 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_80
+2026-05-22 02:40:09,392 - INFO - k=80 done. nodes=481, summ_calls=1, rel_calls=45, refine_calls=403, qa_calls=81
+2026-05-22 02:40:09,393 - INFO - --- checkpoint k=81: ingesting (conv_id=81, 10 turns) ---
+2026-05-22 02:40:09,393 - INFO - k=81: running QA over 82 questions (graph nodes=481)
+2026-05-22 02:41:46,987 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_81
+2026-05-22 02:41:46,989 - INFO - k=81 done. nodes=481, summ_calls=0, rel_calls=0, refine_calls=409, qa_calls=82
+2026-05-22 02:41:46,989 - INFO - --- checkpoint k=82: ingesting (conv_id=82, 14 turns) ---
+2026-05-22 02:41:46,989 - INFO - natural finalize at boundary 81->82: 22 turns
+2026-05-22 02:41:46,989 - INFO - finalize_conv: conv_id=81, session_id=0, nodes_before=481
+2026-05-22 02:42:44,255 - INFO - finalize_conv: conv_id=81, session_id=0, nodes_created=14, llm_calls=43, linked_edges=14
+2026-05-22 02:42:44,255 - INFO - k=82: running QA over 83 questions (graph nodes=495)
+2026-05-22 02:44:14,219 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_82
+2026-05-22 02:44:14,220 - INFO - k=82 done. nodes=495, summ_calls=1, rel_calls=42, refine_calls=414, qa_calls=83
+2026-05-22 02:44:14,220 - INFO - --- checkpoint k=83: ingesting (conv_id=83, 10 turns) ---
+2026-05-22 02:44:14,220 - INFO - k=83: running QA over 84 questions (graph nodes=495)
+2026-05-22 02:46:04,902 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_83
+2026-05-22 02:46:04,903 - INFO - k=83 done. nodes=495, summ_calls=0, rel_calls=0, refine_calls=419, qa_calls=84
+2026-05-22 02:46:04,904 - INFO - --- checkpoint k=84: ingesting (conv_id=84, 10 turns) ---
+2026-05-22 02:46:04,904 - INFO - natural finalize at boundary 83->84: 24 turns
+2026-05-22 02:46:04,904 - INFO - finalize_conv: conv_id=83, session_id=0, nodes_before=495
+2026-05-22 02:47:12,907 - INFO - finalize_conv: conv_id=83, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 02:47:12,907 - INFO - k=84: running QA over 85 questions (graph nodes=510)
+2026-05-22 02:48:19,591 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_84
+2026-05-22 02:48:19,604 - INFO - k=84 done. nodes=510, summ_calls=1, rel_calls=45, refine_calls=423, qa_calls=85
+2026-05-22 02:48:19,604 - INFO - --- checkpoint k=85: ingesting (conv_id=85, 10 turns) ---
+2026-05-22 02:48:19,604 - INFO - k=85: running QA over 86 questions (graph nodes=510)
+2026-05-22 02:50:12,153 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_85
+2026-05-22 02:50:12,155 - INFO - k=85 done. nodes=510, summ_calls=0, rel_calls=0, refine_calls=429, qa_calls=86
+2026-05-22 02:50:12,155 - INFO - --- checkpoint k=86: ingesting (conv_id=86, 12 turns) ---
+2026-05-22 02:50:12,155 - INFO - natural finalize at boundary 85->86: 20 turns
+2026-05-22 02:50:12,155 - INFO - finalize_conv: conv_id=85, session_id=0, nodes_before=510
+2026-05-22 02:51:13,274 - INFO - finalize_conv: conv_id=85, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 02:51:13,275 - INFO - k=86: running QA over 87 questions (graph nodes=525)
+2026-05-22 02:52:28,825 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_86
+2026-05-22 02:52:28,826 - INFO - k=86 done. nodes=525, summ_calls=1, rel_calls=45, refine_calls=434, qa_calls=87
+2026-05-22 02:52:28,826 - INFO - --- checkpoint k=87: ingesting (conv_id=87, 10 turns) ---
+2026-05-22 02:52:28,826 - INFO - k=87: running QA over 88 questions (graph nodes=525)
+2026-05-22 02:54:18,034 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_87
+2026-05-22 02:54:18,036 - INFO - k=87 done. nodes=525, summ_calls=0, rel_calls=0, refine_calls=438, qa_calls=88
+2026-05-22 02:54:18,036 - INFO - --- checkpoint k=88: ingesting (conv_id=88, 10 turns) ---
+2026-05-22 02:54:18,036 - INFO - natural finalize at boundary 87->88: 22 turns
+2026-05-22 02:54:18,036 - INFO - finalize_conv: conv_id=87, session_id=0, nodes_before=525
+2026-05-22 02:55:12,272 - INFO - finalize_conv: conv_id=87, session_id=0, nodes_created=12, llm_calls=37, linked_edges=12
+2026-05-22 02:55:12,272 - INFO - k=88: running QA over 89 questions (graph nodes=537)
+2026-05-22 02:56:29,175 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_88
+2026-05-22 02:56:29,177 - INFO - k=88 done. nodes=537, summ_calls=1, rel_calls=36, refine_calls=442, qa_calls=89
+2026-05-22 02:56:29,177 - INFO - --- checkpoint k=89: ingesting (conv_id=89, 10 turns) ---
+2026-05-22 02:56:29,177 - INFO - k=89: running QA over 90 questions (graph nodes=537)
+2026-05-22 02:58:13,754 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_89
+2026-05-22 02:58:13,756 - INFO - k=89 done. nodes=537, summ_calls=0, rel_calls=0, refine_calls=447, qa_calls=90
+2026-05-22 02:58:13,756 - INFO - --- checkpoint k=90: ingesting (conv_id=90, 10 turns) ---
+2026-05-22 02:58:13,756 - INFO - natural finalize at boundary 89->90: 20 turns
+2026-05-22 02:58:13,756 - INFO - finalize_conv: conv_id=89, session_id=0, nodes_before=537
+2026-05-22 02:59:01,917 - INFO - finalize_conv: conv_id=89, session_id=0, nodes_created=11, llm_calls=34, linked_edges=11
+2026-05-22 02:59:01,917 - INFO - k=90: running QA over 91 questions (graph nodes=548)
+2026-05-22 03:00:19,829 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_90
+2026-05-22 03:00:19,831 - INFO - k=90 done. nodes=548, summ_calls=1, rel_calls=33, refine_calls=450, qa_calls=91
+2026-05-22 03:00:19,831 - INFO - --- checkpoint k=91: ingesting (conv_id=91, 12 turns) ---
+2026-05-22 03:00:19,831 - INFO - k=91: running QA over 92 questions (graph nodes=548)
+2026-05-22 03:02:18,729 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_91
+2026-05-22 03:02:18,731 - INFO - k=91 done. nodes=548, summ_calls=0, rel_calls=0, refine_calls=455, qa_calls=92
+2026-05-22 03:02:18,731 - INFO - --- checkpoint k=92: ingesting (conv_id=92, 10 turns) ---
+2026-05-22 03:02:18,731 - INFO - natural finalize at boundary 91->92: 22 turns
+2026-05-22 03:02:18,731 - INFO - finalize_conv: conv_id=91, session_id=0, nodes_before=548
+2026-05-22 03:03:10,227 - INFO - finalize_conv: conv_id=91, session_id=0, nodes_created=12, llm_calls=37, linked_edges=12
+2026-05-22 03:03:10,227 - INFO - k=92: running QA over 93 questions (graph nodes=560)
+2026-05-22 03:05:02,850 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_92
+2026-05-22 03:05:02,851 - INFO - k=92 done. nodes=560, summ_calls=1, rel_calls=36, refine_calls=458, qa_calls=93
+2026-05-22 03:05:02,851 - INFO - --- checkpoint k=93: ingesting (conv_id=93, 10 turns) ---
+2026-05-22 03:05:02,852 - INFO - k=93: running QA over 94 questions (graph nodes=560)
+2026-05-22 03:07:25,121 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_93
+2026-05-22 03:07:25,123 - INFO - k=93 done. nodes=560, summ_calls=0, rel_calls=0, refine_calls=461, qa_calls=94
+2026-05-22 03:07:25,123 - INFO - --- checkpoint k=94: ingesting (conv_id=94, 10 turns) ---
+2026-05-22 03:07:25,123 - INFO - natural finalize at boundary 93->94: 20 turns
+2026-05-22 03:07:25,123 - INFO - finalize_conv: conv_id=93, session_id=0, nodes_before=560
+2026-05-22 03:08:31,813 - INFO - finalize_conv: conv_id=93, session_id=0, nodes_created=15, llm_calls=46, linked_edges=15
+2026-05-22 03:08:31,813 - INFO - k=94: running QA over 95 questions (graph nodes=575)
+2026-05-22 03:09:48,080 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_94
+2026-05-22 03:09:48,081 - INFO - k=94 done. nodes=575, summ_calls=1, rel_calls=45, refine_calls=466, qa_calls=95
+2026-05-22 03:09:48,081 - INFO - --- checkpoint k=95: ingesting (conv_id=95, 10 turns) ---
+2026-05-22 03:09:48,081 - INFO - k=95: running QA over 96 questions (graph nodes=575)
+2026-05-22 03:11:45,065 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_95
+2026-05-22 03:11:45,067 - INFO - k=95 done. nodes=575, summ_calls=0, rel_calls=0, refine_calls=470, qa_calls=96
+2026-05-22 03:11:45,067 - INFO - --- checkpoint k=96: ingesting (conv_id=96, 10 turns) ---
+2026-05-22 03:11:45,067 - INFO - natural finalize at boundary 95->96: 20 turns
+2026-05-22 03:11:45,067 - INFO - finalize_conv: conv_id=95, session_id=0, nodes_before=575
+2026-05-22 03:12:23,320 - INFO - finalize_conv: conv_id=95, session_id=0, nodes_created=9, llm_calls=28, linked_edges=9
+2026-05-22 03:12:23,320 - INFO - k=96: running QA over 97 questions (graph nodes=584)
+2026-05-22 03:14:07,526 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_96
+2026-05-22 03:14:07,528 - INFO - k=96 done. nodes=584, summ_calls=1, rel_calls=27, refine_calls=475, qa_calls=97
+2026-05-22 03:14:07,528 - INFO - --- checkpoint k=97: ingesting (conv_id=97, 12 turns) ---
+2026-05-22 03:14:07,528 - INFO - k=97: running QA over 98 questions (graph nodes=584)
+2026-05-22 03:17:04,503 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_97
+2026-05-22 03:17:04,505 - INFO - k=97 done. nodes=584, summ_calls=0, rel_calls=0, refine_calls=480, qa_calls=98
+2026-05-22 03:17:04,505 - INFO - --- checkpoint k=98: ingesting (conv_id=98, 10 turns) ---
+2026-05-22 03:17:04,505 - INFO - natural finalize at boundary 97->98: 22 turns
+2026-05-22 03:17:04,505 - INFO - finalize_conv: conv_id=97, session_id=0, nodes_before=584
+2026-05-22 03:17:37,542 - INFO - finalize_conv: conv_id=97, session_id=0, nodes_created=8, llm_calls=25, linked_edges=8
+2026-05-22 03:17:37,542 - INFO - k=98: running QA over 99 questions (graph nodes=592)
+2026-05-22 03:19:00,059 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_98
+2026-05-22 03:19:00,061 - INFO - k=98 done. nodes=592, summ_calls=1, rel_calls=24, refine_calls=485, qa_calls=99
+2026-05-22 03:19:00,061 - INFO - --- checkpoint k=99: ingesting (conv_id=99, 10 turns) ---
+2026-05-22 03:19:00,061 - INFO - k=99: running QA over 100 questions (graph nodes=592)
+2026-05-22 03:21:01,896 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/theanine/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_99
+2026-05-22 03:21:01,897 - INFO - k=99 done. nodes=592, summ_calls=0, rel_calls=0, refine_calls=490, qa_calls=100

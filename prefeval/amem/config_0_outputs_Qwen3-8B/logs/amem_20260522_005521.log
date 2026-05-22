@@ -1,0 +1,9 @@
+2026-05-22 00:55:21,989 - INFO - ============================================================
+2026-05-22 00:55:21,989 - INFO - A-MEM PrefEval Chain
+2026-05-22 00:55:21,989 - INFO -   Config       : config_0
+2026-05-22 00:55:21,989 - INFO -   Model        : Qwen/Qwen3-8B
+2026-05-22 00:55:21,989 - INFO -   end_session  : 99
+2026-05-22 00:55:21,989 - INFO -   k_existing   : 99
+2026-05-22 00:55:21,989 - INFO -   Output dir   : /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B
+2026-05-22 00:55:21,989 - INFO - ============================================================
+2026-05-22 00:55:21,989 - INFO - Already complete up to k=99 (>= K=99). Nothing to do.

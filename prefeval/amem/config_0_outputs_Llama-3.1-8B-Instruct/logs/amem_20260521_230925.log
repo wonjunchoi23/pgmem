@@ -1,0 +1,476 @@
+2026-05-21 23:09:25,430 - INFO - ============================================================
+2026-05-21 23:09:25,430 - INFO - A-MEM PrefEval Chain
+2026-05-21 23:09:25,430 - INFO -   Config       : config_0
+2026-05-21 23:09:25,430 - INFO -   Model        : meta-llama/Llama-3.1-8B-Instruct
+2026-05-21 23:09:25,430 - INFO -   end_session  : 99
+2026-05-21 23:09:25,430 - INFO -   k_existing   : -1
+2026-05-21 23:09:25,430 - INFO -   Output dir   : /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct
+2026-05-21 23:09:25,430 - INFO - ============================================================
+2026-05-21 23:09:25,447 - INFO - Loading embedding model: all-MiniLM-L6-v2
+2026-05-21 23:09:31,747 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:31,755 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:31,791 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:31,799 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:31,834 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:31,841 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:31,874 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:31,881 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md "HTTP/1.1 200 OK"
+2026-05-21 23:09:31,917 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:31,922 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:31,959 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:31,965 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:32,003 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 23:09:32,041 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:32,047 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:32,142 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 23:09:32,174 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 23:09:32,212 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 23:09:32,257 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 23:09:32,287 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:32,295 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:32,334 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:32,341 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:32,377 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:32,384 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:32,425 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:32,432 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:32,472 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-05-21 23:09:32,517 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-05-21 23:09:32,576 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 23:09:32,582 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-05-21 23:09:32,625 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-05-21 23:09:32,626 - INFO - Initialising LLM client...
+2026-05-21 23:09:36,604 - INFO - Loading vLLM model from: meta-llama/Llama-3.1-8B-Instruct
+2026-05-21 23:09:36,604 - INFO - Using max_model_len=30000 for model meta-llama/Llama-3.1-8B-Instruct
+2026-05-21 23:09:57,455 - INFO - Tokenizer loaded for chat template support
+2026-05-21 23:09:57,455 - INFO - vLLM model loaded successfully
+2026-05-21 23:09:57,455 - INFO - Unified LLM client initialized with engine: vllm
+2026-05-21 23:09:57,462 - INFO - --- checkpoint k=0: ingesting session (conv_id=0, 12 turns) ---
+2026-05-21 23:10:42,928 - INFO - k=0: running QA over 1 questions
+2026-05-21 23:10:43,945 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_0
+2026-05-21 23:10:43,946 - INFO - k=0 done. mem=12, qa_in=3036, qa_out=74, qa_calls=1
+2026-05-21 23:10:43,946 - INFO - --- checkpoint k=1: ingesting session (conv_id=1, 10 turns) ---
+2026-05-21 23:11:25,187 - INFO - k=1: running QA over 2 questions
+2026-05-21 23:11:26,949 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_1
+2026-05-21 23:11:26,951 - INFO - k=1 done. mem=22, qa_in=7544, qa_out=182, qa_calls=2
+2026-05-21 23:11:26,951 - INFO - --- checkpoint k=2: ingesting session (conv_id=2, 10 turns) ---
+2026-05-21 23:12:11,505 - INFO - k=2: running QA over 3 questions
+2026-05-21 23:12:13,155 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_2
+2026-05-21 23:12:13,157 - INFO - k=2 done. mem=32, qa_in=9671, qa_out=255, qa_calls=3
+2026-05-21 23:12:13,157 - INFO - --- checkpoint k=3: ingesting session (conv_id=3, 10 turns) ---
+2026-05-21 23:13:02,672 - INFO - k=3: running QA over 4 questions
+2026-05-21 23:13:04,528 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_3
+2026-05-21 23:13:04,530 - INFO - k=3 done. mem=42, qa_in=14391, qa_out=326, qa_calls=4
+2026-05-21 23:13:04,530 - INFO - --- checkpoint k=4: ingesting session (conv_id=4, 10 turns) ---
+2026-05-21 23:13:48,871 - INFO - k=4: running QA over 5 questions
+2026-05-21 23:13:51,087 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_4
+2026-05-21 23:13:51,088 - INFO - k=4 done. mem=52, qa_in=18347, qa_out=376, qa_calls=5
+2026-05-21 23:13:51,088 - INFO - --- checkpoint k=5: ingesting session (conv_id=5, 12 turns) ---
+2026-05-21 23:15:00,168 - WARNING - JSON parse error (attempt 1/10): Unterminated string starting at: line 6 column 4702 (char 4921)
+2026-05-21 23:15:10,862 - INFO - k=5: running QA over 6 questions
+2026-05-21 23:15:13,985 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_5
+2026-05-21 23:15:13,987 - INFO - k=5 done. mem=64, qa_in=22845, qa_out=533, qa_calls=6
+2026-05-21 23:15:13,987 - INFO - --- checkpoint k=6: ingesting session (conv_id=6, 12 turns) ---
+2026-05-21 23:16:01,287 - INFO - k=6: running QA over 7 questions
+2026-05-21 23:16:04,606 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_6
+2026-05-21 23:16:04,631 - INFO - k=6 done. mem=76, qa_in=24900, qa_out=761, qa_calls=7
+2026-05-21 23:16:04,631 - INFO - --- checkpoint k=7: ingesting session (conv_id=7, 12 turns) ---
+2026-05-21 23:17:18,734 - INFO - k=7: running QA over 8 questions
+2026-05-21 23:17:21,768 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_7
+2026-05-21 23:17:21,769 - INFO - k=7 done. mem=88, qa_in=28765, qa_out=693, qa_calls=8
+2026-05-21 23:17:21,769 - INFO - --- checkpoint k=8: ingesting session (conv_id=8, 12 turns) ---
+2026-05-21 23:18:21,648 - INFO - k=8: running QA over 9 questions
+2026-05-21 23:18:25,072 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_8
+2026-05-21 23:18:25,073 - INFO - k=8 done. mem=100, qa_in=33405, qa_out=806, qa_calls=9
+2026-05-21 23:18:25,073 - INFO - --- checkpoint k=9: ingesting session (conv_id=9, 10 turns) ---
+2026-05-21 23:18:37,536 - INFO - Consolidated 102 memories
+2026-05-21 23:19:16,309 - INFO - k=9: running QA over 10 questions
+2026-05-21 23:19:20,113 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_9
+2026-05-21 23:19:20,114 - INFO - k=9 done. mem=110, qa_in=37488, qa_out=1005, qa_calls=10
+2026-05-21 23:19:20,114 - INFO - --- checkpoint k=10: ingesting session (conv_id=10, 10 turns) ---
+2026-05-21 23:20:01,089 - INFO - k=10: running QA over 11 questions
+2026-05-21 23:20:04,999 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_10
+2026-05-21 23:20:05,000 - INFO - k=10 done. mem=120, qa_in=40142, qa_out=1012, qa_calls=11
+2026-05-21 23:20:05,000 - INFO - --- checkpoint k=11: ingesting session (conv_id=11, 10 turns) ---
+2026-05-21 23:20:46,846 - INFO - k=11: running QA over 12 questions
+2026-05-21 23:20:50,841 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_11
+2026-05-21 23:20:50,842 - INFO - k=11 done. mem=130, qa_in=44803, qa_out=1172, qa_calls=12
+2026-05-21 23:20:50,842 - INFO - --- checkpoint k=12: ingesting session (conv_id=12, 10 turns) ---
+2026-05-21 23:21:41,067 - INFO - k=12: running QA over 13 questions
+2026-05-21 23:21:45,167 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_12
+2026-05-21 23:21:45,168 - INFO - k=12 done. mem=140, qa_in=47380, qa_out=1194, qa_calls=13
+2026-05-21 23:21:45,168 - INFO - --- checkpoint k=13: ingesting session (conv_id=13, 10 turns) ---
+2026-05-21 23:22:28,548 - INFO - k=13: running QA over 14 questions
+2026-05-21 23:22:33,271 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_13
+2026-05-21 23:22:33,272 - INFO - k=13 done. mem=150, qa_in=50223, qa_out=1368, qa_calls=14
+2026-05-21 23:22:33,272 - INFO - --- checkpoint k=14: ingesting session (conv_id=14, 10 turns) ---
+2026-05-21 23:23:26,173 - INFO - k=14: running QA over 15 questions
+2026-05-21 23:23:31,043 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_14
+2026-05-21 23:23:31,044 - INFO - k=14 done. mem=160, qa_in=55652, qa_out=1438, qa_calls=15
+2026-05-21 23:23:31,044 - INFO - --- checkpoint k=15: ingesting session (conv_id=15, 10 turns) ---
+2026-05-21 23:24:25,844 - INFO - k=15: running QA over 16 questions
+2026-05-21 23:24:31,144 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_15
+2026-05-21 23:24:31,146 - INFO - k=15 done. mem=170, qa_in=63763, qa_out=1611, qa_calls=16
+2026-05-21 23:24:31,146 - INFO - --- checkpoint k=16: ingesting session (conv_id=16, 12 turns) ---
+2026-05-21 23:25:33,732 - INFO - k=16: running QA over 17 questions
+2026-05-21 23:25:39,350 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_16
+2026-05-21 23:25:39,351 - INFO - k=16 done. mem=182, qa_in=69154, qa_out=1777, qa_calls=17
+2026-05-21 23:25:39,351 - INFO - --- checkpoint k=17: ingesting session (conv_id=17, 12 turns) ---
+2026-05-21 23:26:29,574 - INFO - k=17: running QA over 18 questions
+2026-05-21 23:26:35,788 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_17
+2026-05-21 23:26:35,790 - INFO - k=17 done. mem=194, qa_in=73539, qa_out=2054, qa_calls=18
+2026-05-21 23:26:35,790 - INFO - --- checkpoint k=18: ingesting session (conv_id=18, 10 turns) ---
+2026-05-21 23:27:22,658 - INFO - Consolidated 202 memories
+2026-05-21 23:27:32,372 - INFO - k=18: running QA over 19 questions
+2026-05-21 23:27:38,900 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_18
+2026-05-21 23:27:38,902 - INFO - k=18 done. mem=204, qa_in=78491, qa_out=1922, qa_calls=19
+2026-05-21 23:27:38,902 - INFO - --- checkpoint k=19: ingesting session (conv_id=19, 10 turns) ---
+2026-05-21 23:28:31,327 - INFO - k=19: running QA over 20 questions
+2026-05-21 23:28:37,842 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_19
+2026-05-21 23:28:37,843 - INFO - k=19 done. mem=214, qa_in=83002, qa_out=2052, qa_calls=20
+2026-05-21 23:28:37,843 - INFO - --- checkpoint k=20: ingesting session (conv_id=20, 12 turns) ---
+2026-05-21 23:29:39,142 - INFO - k=20: running QA over 21 questions
+2026-05-21 23:29:45,876 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_20
+2026-05-21 23:29:45,877 - INFO - k=20 done. mem=226, qa_in=86944, qa_out=2022, qa_calls=21
+2026-05-21 23:29:45,877 - INFO - --- checkpoint k=21: ingesting session (conv_id=21, 10 turns) ---
+2026-05-21 23:30:28,489 - INFO - k=21: running QA over 22 questions
+2026-05-21 23:30:35,261 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_21
+2026-05-21 23:30:35,262 - INFO - k=21 done. mem=236, qa_in=90327, qa_out=2151, qa_calls=22
+2026-05-21 23:30:35,262 - INFO - --- checkpoint k=22: ingesting session (conv_id=22, 12 turns) ---
+2026-05-21 23:31:32,509 - INFO - k=22: running QA over 23 questions
+2026-05-21 23:31:39,610 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_22
+2026-05-21 23:31:39,611 - INFO - k=22 done. mem=248, qa_in=93913, qa_out=2270, qa_calls=23
+2026-05-21 23:31:39,611 - INFO - --- checkpoint k=23: ingesting session (conv_id=23, 10 turns) ---
+2026-05-21 23:32:30,365 - INFO - k=23: running QA over 24 questions
+2026-05-21 23:32:37,936 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_23
+2026-05-21 23:32:37,937 - INFO - k=23 done. mem=258, qa_in=100540, qa_out=2546, qa_calls=24
+2026-05-21 23:32:37,937 - INFO - --- checkpoint k=24: ingesting session (conv_id=24, 12 turns) ---
+2026-05-21 23:33:39,189 - INFO - k=24: running QA over 25 questions
+2026-05-21 23:33:46,998 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_24
+2026-05-21 23:33:47,020 - INFO - k=24 done. mem=270, qa_in=103291, qa_out=2767, qa_calls=25
+2026-05-21 23:33:47,020 - INFO - --- checkpoint k=25: ingesting session (conv_id=25, 10 turns) ---
+2026-05-21 23:34:31,290 - INFO - k=25: running QA over 26 questions
+2026-05-21 23:34:39,259 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_25
+2026-05-21 23:34:39,261 - INFO - k=25 done. mem=280, qa_in=107776, qa_out=2689, qa_calls=26
+2026-05-21 23:34:39,261 - INFO - --- checkpoint k=26: ingesting session (conv_id=26, 8 turns) ---
+2026-05-21 23:35:13,675 - INFO - k=26: running QA over 27 questions
+2026-05-21 23:35:22,003 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_26
+2026-05-21 23:35:22,004 - INFO - k=26 done. mem=288, qa_in=111941, qa_out=2682, qa_calls=27
+2026-05-21 23:35:22,005 - INFO - --- checkpoint k=27: ingesting session (conv_id=27, 8 turns) ---
+2026-05-21 23:36:15,407 - INFO - k=27: running QA over 28 questions
+2026-05-21 23:36:23,943 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_27
+2026-05-21 23:36:23,945 - INFO - k=27 done. mem=296, qa_in=116499, qa_out=2912, qa_calls=28
+2026-05-21 23:36:23,945 - INFO - --- checkpoint k=28: ingesting session (conv_id=28, 8 turns) ---
+2026-05-21 23:37:02,069 - INFO - Consolidated 302 memories
+2026-05-21 23:37:13,484 - INFO - k=28: running QA over 29 questions
+2026-05-21 23:37:22,619 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_28
+2026-05-21 23:37:22,621 - INFO - k=28 done. mem=304, qa_in=123454, qa_out=2991, qa_calls=29
+2026-05-21 23:37:22,621 - INFO - --- checkpoint k=29: ingesting session (conv_id=29, 8 turns) ---
+2026-05-21 23:37:59,839 - INFO - k=29: running QA over 30 questions
+2026-05-21 23:38:08,733 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_29
+2026-05-21 23:38:08,735 - INFO - k=29 done. mem=312, qa_in=127034, qa_out=3073, qa_calls=30
+2026-05-21 23:38:08,735 - INFO - --- checkpoint k=30: ingesting session (conv_id=30, 8 turns) ---
+2026-05-21 23:38:52,043 - INFO - k=30: running QA over 31 questions
+2026-05-21 23:39:01,775 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_30
+2026-05-21 23:39:01,776 - INFO - k=30 done. mem=320, qa_in=133032, qa_out=3304, qa_calls=31
+2026-05-21 23:39:01,777 - INFO - --- checkpoint k=31: ingesting session (conv_id=31, 10 turns) ---
+2026-05-21 23:39:53,005 - INFO - k=31: running QA over 32 questions
+2026-05-21 23:40:02,772 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_31
+2026-05-21 23:40:02,774 - INFO - k=31 done. mem=330, qa_in=137015, qa_out=3295, qa_calls=32
+2026-05-21 23:40:02,774 - INFO - --- checkpoint k=32: ingesting session (conv_id=32, 12 turns) ---
+2026-05-21 23:41:11,123 - INFO - k=32: running QA over 33 questions
+2026-05-21 23:41:21,300 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_32
+2026-05-21 23:41:21,301 - INFO - k=32 done. mem=342, qa_in=143570, qa_out=3736, qa_calls=33
+2026-05-21 23:41:21,302 - INFO - --- checkpoint k=33: ingesting session (conv_id=33, 12 turns) ---
+2026-05-21 23:42:24,783 - INFO - k=33: running QA over 34 questions
+2026-05-21 23:42:35,182 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_33
+2026-05-21 23:42:35,183 - INFO - k=33 done. mem=354, qa_in=146362, qa_out=3696, qa_calls=34
+2026-05-21 23:42:35,183 - INFO - --- checkpoint k=34: ingesting session (conv_id=34, 12 turns) ---
+2026-05-21 23:43:44,638 - INFO - k=34: running QA over 35 questions
+2026-05-21 23:43:55,498 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_34
+2026-05-21 23:43:55,500 - INFO - k=34 done. mem=366, qa_in=151790, qa_out=3928, qa_calls=35
+2026-05-21 23:43:55,500 - INFO - --- checkpoint k=35: ingesting session (conv_id=35, 10 turns) ---
+2026-05-21 23:44:45,715 - INFO - k=35: running QA over 36 questions
+2026-05-21 23:44:56,917 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_35
+2026-05-21 23:44:56,919 - INFO - k=35 done. mem=376, qa_in=158842, qa_out=3917, qa_calls=36
+2026-05-21 23:44:56,919 - INFO - --- checkpoint k=36: ingesting session (conv_id=36, 12 turns) ---
+2026-05-21 23:45:51,602 - INFO - k=36: running QA over 37 questions
+2026-05-21 23:46:02,899 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_36
+2026-05-21 23:46:02,900 - INFO - k=36 done. mem=388, qa_in=162474, qa_out=3825, qa_calls=37
+2026-05-21 23:46:02,901 - INFO - --- checkpoint k=37: ingesting session (conv_id=37, 12 turns) ---
+2026-05-21 23:46:54,818 - INFO - k=37: running QA over 38 questions
+2026-05-21 23:47:06,595 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_37
+2026-05-21 23:47:06,598 - INFO - k=37 done. mem=400, qa_in=166424, qa_out=3915, qa_calls=38
+2026-05-21 23:47:06,598 - INFO - --- checkpoint k=38: ingesting session (conv_id=38, 12 turns) ---
+2026-05-21 23:47:28,750 - INFO - Consolidated 402 memories
+2026-05-21 23:47:44,039 - WARNING - JSON parse error (attempt 1/10): Unterminated string starting at: line 1 column 4810 (char 4809)
+2026-05-21 23:48:24,918 - INFO - k=38: running QA over 39 questions
+2026-05-21 23:48:37,021 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_38
+2026-05-21 23:48:37,022 - INFO - k=38 done. mem=412, qa_in=172724, qa_out=4600, qa_calls=39
+2026-05-21 23:48:37,022 - INFO - --- checkpoint k=39: ingesting session (conv_id=39, 10 turns) ---
+2026-05-21 23:49:20,658 - INFO - k=39: running QA over 40 questions
+2026-05-21 23:49:33,099 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_39
+2026-05-21 23:49:33,104 - INFO - k=39 done. mem=422, qa_in=175104, qa_out=4536, qa_calls=40
+2026-05-21 23:49:33,104 - INFO - --- checkpoint k=40: ingesting session (conv_id=40, 10 turns) ---
+2026-05-21 23:50:25,022 - INFO - k=40: running QA over 41 questions
+2026-05-21 23:50:37,758 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_40
+2026-05-21 23:50:37,759 - INFO - k=40 done. mem=432, qa_in=181776, qa_out=4410, qa_calls=41
+2026-05-21 23:50:37,759 - INFO - --- checkpoint k=41: ingesting session (conv_id=41, 10 turns) ---
+2026-05-21 23:51:28,327 - INFO - k=41: running QA over 42 questions
+2026-05-21 23:51:41,304 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_41
+2026-05-21 23:51:41,306 - INFO - k=41 done. mem=442, qa_in=185885, qa_out=4787, qa_calls=42
+2026-05-21 23:51:41,306 - INFO - --- checkpoint k=42: ingesting session (conv_id=42, 10 turns) ---
+2026-05-21 23:52:03,480 - WARNING - JSON parse error (attempt 1/10): Unterminated string starting at: line 1 column 2024 (char 2023)
+2026-05-21 23:52:53,689 - INFO - k=42: running QA over 43 questions
+2026-05-21 23:53:07,279 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_42
+2026-05-21 23:53:07,281 - INFO - k=42 done. mem=452, qa_in=191017, qa_out=4738, qa_calls=43
+2026-05-21 23:53:07,281 - INFO - --- checkpoint k=43: ingesting session (conv_id=43, 10 turns) ---
+2026-05-21 23:53:57,272 - INFO - k=43: running QA over 44 questions
+2026-05-21 23:54:10,805 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_43
+2026-05-21 23:54:10,807 - INFO - k=43 done. mem=462, qa_in=197715, qa_out=4811, qa_calls=44
+2026-05-21 23:54:10,807 - INFO - --- checkpoint k=44: ingesting session (conv_id=44, 12 turns) ---
+2026-05-21 23:55:08,875 - INFO - k=44: running QA over 45 questions
+2026-05-21 23:55:38,548 - WARNING - Batch item 4 failed JSON parse — retrying sequentially
+2026-05-21 23:55:39,984 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_44
+2026-05-21 23:55:39,985 - INFO - k=44 done. mem=474, qa_in=204628, qa_out=5038, qa_calls=45
+2026-05-21 23:55:39,985 - INFO - --- checkpoint k=45: ingesting session (conv_id=45, 10 turns) ---
+2026-05-21 23:56:42,488 - INFO - k=45: running QA over 46 questions
+2026-05-21 23:56:56,912 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_45
+2026-05-21 23:56:56,924 - INFO - k=45 done. mem=484, qa_in=211810, qa_out=4956, qa_calls=46
+2026-05-21 23:56:56,925 - INFO - --- checkpoint k=46: ingesting session (conv_id=46, 12 turns) ---
+2026-05-21 23:57:56,071 - INFO - k=46: running QA over 47 questions
+2026-05-21 23:58:10,621 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_46
+2026-05-21 23:58:10,622 - INFO - k=46 done. mem=496, qa_in=216919, qa_out=5154, qa_calls=47
+2026-05-21 23:58:10,623 - INFO - --- checkpoint k=47: ingesting session (conv_id=47, 10 turns) ---
+2026-05-21 23:59:01,418 - INFO - Consolidated 503 memories
+2026-05-21 23:59:17,727 - INFO - k=47: running QA over 48 questions
+2026-05-21 23:59:32,428 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_47
+2026-05-21 23:59:32,451 - INFO - k=47 done. mem=506, qa_in=219277, qa_out=5186, qa_calls=48
+2026-05-21 23:59:32,451 - INFO - --- checkpoint k=48: ingesting session (conv_id=48, 10 turns) ---
+2026-05-22 00:00:20,520 - INFO - k=48: running QA over 49 questions
+2026-05-22 00:00:35,708 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_48
+2026-05-22 00:00:35,709 - INFO - k=48 done. mem=516, qa_in=224010, qa_out=5074, qa_calls=49
+2026-05-22 00:00:35,709 - INFO - --- checkpoint k=49: ingesting session (conv_id=49, 10 turns) ---
+2026-05-22 00:01:32,025 - INFO - k=49: running QA over 50 questions
+2026-05-22 00:01:47,607 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_49
+2026-05-22 00:01:47,620 - INFO - k=49 done. mem=526, qa_in=230581, qa_out=5260, qa_calls=50
+2026-05-22 00:01:47,620 - INFO - --- checkpoint k=50: ingesting session (conv_id=50, 10 turns) ---
+2026-05-22 00:02:42,088 - INFO - k=50: running QA over 51 questions
+2026-05-22 00:02:58,124 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_50
+2026-05-22 00:02:58,125 - INFO - k=50 done. mem=536, qa_in=237223, qa_out=5491, qa_calls=51
+2026-05-22 00:02:58,125 - INFO - --- checkpoint k=51: ingesting session (conv_id=51, 10 turns) ---
+2026-05-22 00:03:47,431 - INFO - k=51: running QA over 52 questions
+2026-05-22 00:04:03,827 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_51
+2026-05-22 00:04:03,829 - INFO - k=51 done. mem=546, qa_in=243618, qa_out=5674, qa_calls=52
+2026-05-22 00:04:03,829 - INFO - --- checkpoint k=52: ingesting session (conv_id=52, 10 turns) ---
+2026-05-22 00:04:58,581 - INFO - k=52: running QA over 53 questions
+2026-05-22 00:05:15,739 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_52
+2026-05-22 00:05:15,740 - INFO - k=52 done. mem=556, qa_in=252273, qa_out=5959, qa_calls=53
+2026-05-22 00:05:15,740 - INFO - --- checkpoint k=53: ingesting session (conv_id=53, 12 turns) ---
+2026-05-22 00:06:09,492 - INFO - k=53: running QA over 54 questions
+2026-05-22 00:06:26,539 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_53
+2026-05-22 00:06:26,541 - INFO - k=53 done. mem=568, qa_in=254799, qa_out=6160, qa_calls=54
+2026-05-22 00:06:26,541 - INFO - --- checkpoint k=54: ingesting session (conv_id=54, 12 turns) ---
+2026-05-22 00:07:22,332 - INFO - k=54: running QA over 55 questions
+2026-05-22 00:07:39,518 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_54
+2026-05-22 00:07:39,520 - INFO - k=54 done. mem=580, qa_in=259273, qa_out=5708, qa_calls=55
+2026-05-22 00:07:39,520 - INFO - --- checkpoint k=55: ingesting session (conv_id=55, 12 turns) ---
+2026-05-22 00:08:36,624 - INFO - k=55: running QA over 56 questions
+2026-05-22 00:08:54,321 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_55
+2026-05-22 00:08:54,323 - INFO - k=55 done. mem=592, qa_in=264879, qa_out=6092, qa_calls=56
+2026-05-22 00:08:54,323 - INFO - --- checkpoint k=56: ingesting session (conv_id=56, 12 turns) ---
+2026-05-22 00:10:06,698 - INFO - Consolidated 603 memories
+2026-05-22 00:10:14,105 - INFO - k=56: running QA over 57 questions
+2026-05-22 00:10:31,814 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_56
+2026-05-22 00:10:31,816 - INFO - k=56 done. mem=604, qa_in=265718, qa_out=6060, qa_calls=57
+2026-05-22 00:10:31,816 - INFO - --- checkpoint k=57: ingesting session (conv_id=57, 8 turns) ---
+2026-05-22 00:11:16,269 - INFO - k=57: running QA over 58 questions
+2026-05-22 00:11:33,990 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_57
+2026-05-22 00:11:33,991 - INFO - k=57 done. mem=612, qa_in=268942, qa_out=5978, qa_calls=58
+2026-05-22 00:11:33,991 - INFO - --- checkpoint k=58: ingesting session (conv_id=58, 10 turns) ---
+2026-05-22 00:12:22,896 - INFO - k=58: running QA over 59 questions
+2026-05-22 00:12:40,816 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_58
+2026-05-22 00:12:40,817 - INFO - k=58 done. mem=622, qa_in=269873, qa_out=6555, qa_calls=59
+2026-05-22 00:12:40,817 - INFO - --- checkpoint k=59: ingesting session (conv_id=59, 10 turns) ---
+2026-05-22 00:13:33,638 - INFO - k=59: running QA over 60 questions
+2026-05-22 00:13:51,428 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_59
+2026-05-22 00:13:51,429 - INFO - k=59 done. mem=632, qa_in=274529, qa_out=5955, qa_calls=60
+2026-05-22 00:13:51,429 - INFO - --- checkpoint k=60: ingesting session (conv_id=60, 12 turns) ---
+2026-05-22 00:14:51,892 - INFO - k=60: running QA over 61 questions
+2026-05-22 00:15:25,750 - WARNING - Batch item 57 failed JSON parse — retrying sequentially
+2026-05-22 00:15:27,414 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_60
+2026-05-22 00:15:27,418 - INFO - k=60 done. mem=644, qa_in=278868, qa_out=6619, qa_calls=61
+2026-05-22 00:15:27,418 - INFO - --- checkpoint k=61: ingesting session (conv_id=61, 10 turns) ---
+2026-05-22 00:16:14,714 - INFO - k=61: running QA over 62 questions
+2026-05-22 00:16:33,555 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_61
+2026-05-22 00:16:33,557 - INFO - k=61 done. mem=654, qa_in=285466, qa_out=6652, qa_calls=62
+2026-05-22 00:16:33,558 - INFO - --- checkpoint k=62: ingesting session (conv_id=62, 12 turns) ---
+2026-05-22 00:17:37,074 - INFO - k=62: running QA over 63 questions
+2026-05-22 00:18:11,709 - WARNING - Batch item 5 failed JSON parse — retrying sequentially
+2026-05-22 00:18:12,272 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_62
+2026-05-22 00:18:12,273 - INFO - k=62 done. mem=666, qa_in=289406, qa_out=6873, qa_calls=63
+2026-05-22 00:18:12,273 - INFO - --- checkpoint k=63: ingesting session (conv_id=63, 10 turns) ---
+2026-05-22 00:19:07,304 - INFO - k=63: running QA over 64 questions
+2026-05-22 00:19:26,467 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_63
+2026-05-22 00:19:26,468 - INFO - k=63 done. mem=676, qa_in=296186, qa_out=6391, qa_calls=64
+2026-05-22 00:19:26,468 - INFO - --- checkpoint k=64: ingesting session (conv_id=64, 10 turns) ---
+2026-05-22 00:20:20,138 - INFO - k=64: running QA over 65 questions
+2026-05-22 00:20:40,462 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_64
+2026-05-22 00:20:40,464 - INFO - k=64 done. mem=686, qa_in=299723, qa_out=6681, qa_calls=65
+2026-05-22 00:20:40,464 - INFO - --- checkpoint k=65: ingesting session (conv_id=65, 12 turns) ---
+2026-05-22 00:21:49,160 - INFO - k=65: running QA over 66 questions
+2026-05-22 00:22:09,929 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_65
+2026-05-22 00:22:09,931 - INFO - k=65 done. mem=698, qa_in=305184, qa_out=6671, qa_calls=66
+2026-05-22 00:22:09,931 - INFO - --- checkpoint k=66: ingesting session (conv_id=66, 12 turns) ---
+2026-05-22 00:23:01,934 - INFO - Consolidated 703 memories
+2026-05-22 00:23:32,660 - INFO - k=66: running QA over 67 questions
+2026-05-22 00:23:53,787 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_66
+2026-05-22 00:23:53,789 - INFO - k=66 done. mem=710, qa_in=310687, qa_out=6640, qa_calls=67
+2026-05-22 00:23:53,789 - INFO - --- checkpoint k=67: ingesting session (conv_id=67, 12 turns) ---
+2026-05-22 00:24:56,057 - INFO - k=67: running QA over 68 questions
+2026-05-22 00:25:30,936 - WARNING - Batch item 57 failed JSON parse — retrying sequentially
+2026-05-22 00:25:34,763 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_67
+2026-05-22 00:25:34,764 - INFO - k=67 done. mem=722, qa_in=316185, qa_out=6710, qa_calls=68
+2026-05-22 00:25:34,764 - INFO - --- checkpoint k=68: ingesting session (conv_id=68, 10 turns) ---
+2026-05-22 00:26:18,376 - INFO - k=68: running QA over 69 questions
+2026-05-22 00:26:40,623 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_68
+2026-05-22 00:26:40,625 - INFO - k=68 done. mem=732, qa_in=318037, qa_out=7441, qa_calls=69
+2026-05-22 00:26:40,625 - INFO - --- checkpoint k=69: ingesting session (conv_id=69, 10 turns) ---
+2026-05-22 00:27:26,878 - INFO - k=69: running QA over 70 questions
+2026-05-22 00:28:01,789 - WARNING - Batch item 62 failed JSON parse — retrying sequentially
+2026-05-22 00:28:06,051 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_69
+2026-05-22 00:28:06,052 - INFO - k=69 done. mem=742, qa_in=322134, qa_out=6818, qa_calls=70
+2026-05-22 00:28:06,053 - INFO - --- checkpoint k=70: ingesting session (conv_id=70, 10 turns) ---
+2026-05-22 00:28:54,235 - INFO - k=70: running QA over 71 questions
+2026-05-22 00:29:17,187 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_70
+2026-05-22 00:29:17,188 - INFO - k=70 done. mem=752, qa_in=327014, qa_out=7754, qa_calls=71
+2026-05-22 00:29:17,188 - INFO - --- checkpoint k=71: ingesting session (conv_id=71, 10 turns) ---
+2026-05-22 00:30:15,818 - INFO - k=71: running QA over 72 questions
+2026-05-22 00:30:39,233 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_71
+2026-05-22 00:30:39,234 - INFO - k=71 done. mem=762, qa_in=331751, qa_out=7800, qa_calls=72
+2026-05-22 00:30:39,235 - INFO - --- checkpoint k=72: ingesting session (conv_id=72, 12 turns) ---
+2026-05-22 00:31:35,134 - INFO - k=72: running QA over 73 questions
+2026-05-22 00:31:58,758 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_72
+2026-05-22 00:31:58,760 - INFO - k=72 done. mem=774, qa_in=335399, qa_out=7661, qa_calls=73
+2026-05-22 00:31:58,760 - INFO - --- checkpoint k=73: ingesting session (conv_id=73, 10 turns) ---
+2026-05-22 00:32:43,092 - INFO - k=73: running QA over 74 questions
+2026-05-22 00:33:18,358 - WARNING - Batch item 33 failed JSON parse — retrying sequentially
+2026-05-22 00:33:23,254 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_73
+2026-05-22 00:33:23,256 - INFO - k=73 done. mem=784, qa_in=338689, qa_out=8135, qa_calls=74
+2026-05-22 00:33:23,256 - INFO - --- checkpoint k=74: ingesting session (conv_id=74, 10 turns) ---
+2026-05-22 00:34:00,102 - WARNING - JSON parse error (attempt 1/10): Expecting ',' delimiter: line 1 column 3256 (char 3255)
+2026-05-22 00:34:23,461 - INFO - k=74: running QA over 75 questions
+2026-05-22 00:34:47,053 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_74
+2026-05-22 00:34:47,054 - INFO - k=74 done. mem=794, qa_in=343357, qa_out=7604, qa_calls=75
+2026-05-22 00:34:47,054 - INFO - --- checkpoint k=75: ingesting session (conv_id=75, 12 turns) ---
+2026-05-22 00:36:01,449 - INFO - Consolidated 803 memories
+2026-05-22 00:36:15,295 - INFO - k=75: running QA over 76 questions
+2026-05-22 00:36:39,416 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_75
+2026-05-22 00:36:39,419 - INFO - k=75 done. mem=806, qa_in=353133, qa_out=7753, qa_calls=76
+2026-05-22 00:36:39,419 - INFO - --- checkpoint k=76: ingesting session (conv_id=76, 12 turns) ---
+2026-05-22 00:37:37,220 - INFO - k=76: running QA over 77 questions
+2026-05-22 00:38:01,583 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_76
+2026-05-22 00:38:01,585 - INFO - k=76 done. mem=818, qa_in=358388, qa_out=7408, qa_calls=77
+2026-05-22 00:38:01,585 - INFO - --- checkpoint k=77: ingesting session (conv_id=77, 10 turns) ---
+2026-05-22 00:38:54,610 - INFO - k=77: running QA over 78 questions
+2026-05-22 00:39:19,655 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_77
+2026-05-22 00:39:19,656 - INFO - k=77 done. mem=828, qa_in=363039, qa_out=8258, qa_calls=78
+2026-05-22 00:39:19,656 - INFO - --- checkpoint k=78: ingesting session (conv_id=78, 10 turns) ---
+2026-05-22 00:40:04,454 - INFO - k=78: running QA over 79 questions
+2026-05-22 00:40:29,807 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_78
+2026-05-22 00:40:29,808 - INFO - k=78 done. mem=838, qa_in=366749, qa_out=8120, qa_calls=79
+2026-05-22 00:40:29,808 - INFO - --- checkpoint k=79: ingesting session (conv_id=79, 10 turns) ---
+2026-05-22 00:41:15,590 - INFO - k=79: running QA over 80 questions
+2026-05-22 00:41:41,057 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_79
+2026-05-22 00:41:41,059 - INFO - k=79 done. mem=848, qa_in=371398, qa_out=8319, qa_calls=80
+2026-05-22 00:41:41,059 - INFO - --- checkpoint k=80: ingesting session (conv_id=80, 12 turns) ---
+2026-05-22 00:42:36,117 - INFO - k=80: running QA over 81 questions
+2026-05-22 00:43:02,373 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_80
+2026-05-22 00:43:02,374 - INFO - k=80 done. mem=860, qa_in=376363, qa_out=9039, qa_calls=81
+2026-05-22 00:43:02,375 - INFO - --- checkpoint k=81: ingesting session (conv_id=81, 10 turns) ---
+2026-05-22 00:43:59,478 - INFO - k=81: running QA over 82 questions
+2026-05-22 00:44:25,407 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_81
+2026-05-22 00:44:25,408 - INFO - k=81 done. mem=870, qa_in=380908, qa_out=8210, qa_calls=82
+2026-05-22 00:44:25,408 - INFO - --- checkpoint k=82: ingesting session (conv_id=82, 14 turns) ---
+2026-05-22 00:45:34,433 - INFO - k=82: running QA over 83 questions
+2026-05-22 00:46:01,452 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_82
+2026-05-22 00:46:01,454 - INFO - k=82 done. mem=884, qa_in=388964, qa_out=9062, qa_calls=83
+2026-05-22 00:46:01,454 - INFO - --- checkpoint k=83: ingesting session (conv_id=83, 10 turns) ---
+2026-05-22 00:46:47,892 - INFO - k=83: running QA over 84 questions
+2026-05-22 00:47:15,242 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_83
+2026-05-22 00:47:15,244 - INFO - k=83 done. mem=894, qa_in=395191, qa_out=9009, qa_calls=84
+2026-05-22 00:47:15,244 - INFO - --- checkpoint k=84: ingesting session (conv_id=84, 10 turns) ---
+2026-05-22 00:48:05,503 - WARNING - JSON parse error (attempt 1/10): Unterminated string starting at: line 1 column 4716 (char 4715)
+2026-05-22 00:48:41,049 - INFO - Consolidated 903 memories
+2026-05-22 00:48:46,017 - INFO - k=84: running QA over 85 questions
+2026-05-22 00:49:13,506 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_84
+2026-05-22 00:49:13,508 - INFO - k=84 done. mem=904, qa_in=399559, qa_out=9048, qa_calls=85
+2026-05-22 00:49:13,508 - INFO - --- checkpoint k=85: ingesting session (conv_id=85, 10 turns) ---
+2026-05-22 00:50:21,969 - INFO - k=85: running QA over 86 questions
+2026-05-22 00:50:49,705 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_85
+2026-05-22 00:50:49,706 - INFO - k=85 done. mem=914, qa_in=406040, qa_out=9155, qa_calls=86
+2026-05-22 00:50:49,707 - INFO - --- checkpoint k=86: ingesting session (conv_id=86, 12 turns) ---
+2026-05-22 00:51:40,432 - WARNING - JSON parse error (attempt 1/10): Unterminated string starting at: line 1 column 4949 (char 4948)
+2026-05-22 00:52:02,609 - INFO - k=86: running QA over 87 questions
+2026-05-22 00:52:30,691 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_86
+2026-05-22 00:52:30,693 - INFO - k=86 done. mem=926, qa_in=410659, qa_out=9112, qa_calls=87
+2026-05-22 00:52:30,693 - INFO - --- checkpoint k=87: ingesting session (conv_id=87, 10 turns) ---
+2026-05-22 00:53:29,420 - INFO - k=87: running QA over 88 questions
+2026-05-22 00:53:57,449 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_87
+2026-05-22 00:53:57,451 - INFO - k=87 done. mem=936, qa_in=415174, qa_out=8740, qa_calls=88
+2026-05-22 00:53:57,451 - INFO - --- checkpoint k=88: ingesting session (conv_id=88, 10 turns) ---
+2026-05-22 00:54:45,467 - INFO - k=88: running QA over 89 questions
+2026-05-22 00:55:14,374 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_88
+2026-05-22 00:55:14,378 - INFO - k=88 done. mem=946, qa_in=420515, qa_out=9108, qa_calls=89
+2026-05-22 00:55:14,378 - INFO - --- checkpoint k=89: ingesting session (conv_id=89, 10 turns) ---
+2026-05-22 00:56:08,445 - INFO - k=89: running QA over 90 questions
+2026-05-22 00:56:37,530 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_89
+2026-05-22 00:56:37,531 - INFO - k=89 done. mem=956, qa_in=422978, qa_out=9067, qa_calls=90
+2026-05-22 00:56:37,532 - INFO - --- checkpoint k=90: ingesting session (conv_id=90, 10 turns) ---
+2026-05-22 00:57:17,943 - INFO - k=90: running QA over 91 questions
+2026-05-22 00:57:53,832 - WARNING - Batch item 62 failed JSON parse — retrying sequentially
+2026-05-22 00:58:04,058 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_90
+2026-05-22 00:58:04,060 - INFO - k=90 done. mem=966, qa_in=425769, qa_out=9777, qa_calls=91
+2026-05-22 00:58:04,060 - INFO - --- checkpoint k=91: ingesting session (conv_id=91, 12 turns) ---
+2026-05-22 00:59:03,963 - INFO - k=91: running QA over 92 questions
+2026-05-22 00:59:33,244 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_91
+2026-05-22 00:59:33,246 - INFO - k=91 done. mem=978, qa_in=431253, qa_out=9438, qa_calls=92
+2026-05-22 00:59:33,246 - INFO - --- checkpoint k=92: ingesting session (conv_id=92, 10 turns) ---
+2026-05-22 01:00:25,572 - WARNING - JSON parse error (attempt 1/10): Expecting value: line 7 column 403 (char 5107)
+2026-05-22 01:00:34,713 - INFO - k=92: running QA over 93 questions
+2026-05-22 01:01:04,417 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_92
+2026-05-22 01:01:04,419 - INFO - k=92 done. mem=988, qa_in=438105, qa_out=9488, qa_calls=93
+2026-05-22 01:01:04,419 - INFO - --- checkpoint k=93: ingesting session (conv_id=93, 10 turns) ---
+2026-05-22 01:01:37,353 - WARNING - JSON parse error (attempt 1/10): Unterminated string starting at: line 1 column 4107 (char 4106)
+2026-05-22 01:02:04,425 - INFO - k=93: running QA over 94 questions
+2026-05-22 01:02:34,058 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_93
+2026-05-22 01:02:34,059 - INFO - k=93 done. mem=998, qa_in=442481, qa_out=10109, qa_calls=94
+2026-05-22 01:02:34,059 - INFO - --- checkpoint k=94: ingesting session (conv_id=94, 10 turns) ---
+2026-05-22 01:03:39,153 - INFO - Consolidated 1003 memories
+2026-05-22 01:04:03,411 - INFO - k=94: running QA over 95 questions
+2026-05-22 01:04:33,706 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_94
+2026-05-22 01:04:33,708 - INFO - k=94 done. mem=1008, qa_in=450379, qa_out=10245, qa_calls=95
+2026-05-22 01:04:33,708 - INFO - --- checkpoint k=95: ingesting session (conv_id=95, 10 turns) ---
+2026-05-22 01:05:23,269 - INFO - k=95: running QA over 96 questions
+2026-05-22 01:05:59,458 - WARNING - Batch item 23 failed JSON parse — retrying sequentially
+2026-05-22 01:06:00,163 - WARNING - Batch item 55 failed JSON parse — retrying sequentially
+2026-05-22 01:06:11,485 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_95
+2026-05-22 01:06:11,487 - INFO - k=95 done. mem=1018, qa_in=455372, qa_out=10027, qa_calls=96
+2026-05-22 01:06:11,487 - INFO - --- checkpoint k=96: ingesting session (conv_id=96, 10 turns) ---
+2026-05-22 01:06:57,589 - INFO - k=96: running QA over 97 questions
+2026-05-22 01:07:33,578 - WARNING - Batch item 40 failed JSON parse — retrying sequentially
+2026-05-22 01:07:46,527 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_96
+2026-05-22 01:07:46,529 - INFO - k=96 done. mem=1028, qa_in=461837, qa_out=10232, qa_calls=97
+2026-05-22 01:07:46,529 - INFO - --- checkpoint k=97: ingesting session (conv_id=97, 12 turns) ---
+2026-05-22 01:08:12,934 - WARNING - JSON parse error (attempt 1/10): Expecting ',' delimiter: line 1 column 3203 (char 3202)
+2026-05-22 01:08:52,509 - INFO - k=97: running QA over 98 questions
+2026-05-22 01:09:23,881 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_97
+2026-05-22 01:09:23,882 - INFO - k=97 done. mem=1040, qa_in=467148, qa_out=10070, qa_calls=98
+2026-05-22 01:09:23,882 - INFO - --- checkpoint k=98: ingesting session (conv_id=98, 10 turns) ---
+2026-05-22 01:10:13,766 - INFO - k=98: running QA over 99 questions
+2026-05-22 01:10:45,456 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_98
+2026-05-22 01:10:45,458 - INFO - k=98 done. mem=1050, qa_in=474450, qa_out=10839, qa_calls=99
+2026-05-22 01:10:45,458 - INFO - --- checkpoint k=99: ingesting session (conv_id=99, 10 turns) ---
+2026-05-22 01:11:40,695 - INFO - k=99: running QA over 100 questions
+2026-05-22 01:12:12,914 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Llama-3.1-8B-Instruct/memory_snapshots/m_99
+2026-05-22 01:12:12,915 - INFO - k=99 done. mem=1060, qa_in=479724, qa_out=10700, qa_calls=100

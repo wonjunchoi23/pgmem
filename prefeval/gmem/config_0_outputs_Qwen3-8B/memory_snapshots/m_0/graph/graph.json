@@ -1,0 +1,482 @@
+{
+  "creation_order": [
+    "dd9a63f8-f895-4047-b452-566c2e98ce33",
+    "3a5ecac3-9dfb-4972-9e5a-8022926bdf46",
+    "2b3ed544-c452-4207-b0e9-0cb7f1463c3b",
+    "c9486fae-f67a-4b10-a783-619a87ab9e0a",
+    "3b2dba8e-0989-43c9-b9d6-0eb85cc08b39",
+    "756144b1-070d-410a-bf89-14652e113b40",
+    "9bd4aa29-51b7-4f60-a2c2-4a207cc18950",
+    "c5ba9452-1264-41ad-9ad3-b9022c36bd4e",
+    "4968a559-f499-4fd9-8813-cdbf6c7f071e",
+    "5c6b56bf-f2c4-404c-8645-d3b60afd675e",
+    "3cbd395e-9640-4027-9b65-5bd7063ba640",
+    "2d4aeab5-eede-469c-a8c5-c0965847823c",
+    "5ed9088a-08ac-4c72-bc0c-376fb81cb8b1"
+  ],
+  "nodes": {
+    "dd9a63f8-f895-4047-b452-566c2e98ce33": {
+      "node_type": "c",
+      "content": "User: Hello there! I've been thinking about taking up a new hobby now that I'm retired from the postal service. Any suggestions for an old-timer like me?\nAgent: Hello! It's great that you're looking to explore new hobbies in retirement. There are many options suitable for retirees. Have you considered activities like gardening, woodworking, or joining a local book club? These can be enjoyable and social ways to spend your time. What kind of activities did you enjoy before retirement?",
+      "keywords": [
+        "woodworking",
+        "activity",
+        "it",
+        "club",
+        "suggestion",
+        "way",
+        "time",
+        "you",
+        "gardening",
+        "retirement",
+        "i",
+        "hobby",
+        "kind",
+        "option",
+        "these",
+        "timer",
+        "retiree",
+        "service"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 0,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 0,
+      "retrieval_count": 1
+    },
+    "3a5ecac3-9dfb-4972-9e5a-8022926bdf46": {
+      "node_type": "s",
+      "content": "The user is retired from the postal service and is looking for a new hobby.",
+      "keywords": [
+        "retired",
+        "hobby"
+      ],
+      "domain_label": [
+        "retirement",
+        "hobbies",
+        "work",
+        "leisure",
+        "general"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 0,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 0,
+      "retrieval_count": 7
+    },
+    "2b3ed544-c452-4207-b0e9-0cb7f1463c3b": {
+      "node_type": "c",
+      "content": "User: I've always enjoyed working with my hands, so woodworking sounds interesting. Are there any local classes or workshops you know of? I usually prefer in-person learning over online stuff - can't stand those digital courses everyone's talking about these days.\nAgent: I understand your interest in hands-on activities like woodworking. Many community centers and local hardware stores offer in-person woodworking classes for beginners. These workshops can be a great way to learn new skills and meet people with similar interests. Have you checked with your local community center or nearby woodworking shops for upcoming classes? They often have schedules posted or can provide information about beginner-friendly workshops.",
+      "keywords": [
+        "class",
+        "day",
+        "information",
+        "they",
+        "woodworking",
+        "center",
+        "activity",
+        "you",
+        "skill",
+        "stuff",
+        "schedule",
+        "beginner",
+        "course",
+        "i",
+        "everyone",
+        "shop",
+        "people",
+        "way",
+        "person",
+        "workshop",
+        "interest",
+        "hand",
+        "store"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 1,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 2,
+      "retrieval_count": 1
+    },
+    "c9486fae-f67a-4b10-a783-619a87ab9e0a": {
+      "node_type": "s",
+      "content": "The user prefers in-person learning over online courses.",
+      "keywords": [
+        "in-person",
+        "online",
+        "courses"
+      ],
+      "domain_label": [
+        "education",
+        "learning",
+        "preference",
+        "general",
+        "general_4"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 1,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 2,
+      "retrieval_count": 6
+    },
+    "3b2dba8e-0989-43c9-b9d6-0eb85cc08b39": {
+      "node_type": "c",
+      "content": "User: That's a good idea. I'll give the community center a call tomorrow. Speaking of my postal days, I've been thinking about collecting stamps. Is that still a popular hobby?\nAgent: Stamp collecting, or philately, is indeed still a popular hobby, especially among those with an interest in history and postal services. Given your background as a postal worker, you might find it particularly fascinating. Many collectors enjoy the hunt for rare stamps, learning about different countries and cultures through their postal history, and the meticulous nature of organizing a collection. Have you kept any interesting stamps from your time working at the post office?",
+      "keywords": [
+        "call",
+        "day",
+        "background",
+        "that",
+        "culture",
+        "nature",
+        "country",
+        "those",
+        "center",
+        "time",
+        "you",
+        "service",
+        "stamp",
+        "history",
+        "it",
+        "collection",
+        "collector",
+        "worker",
+        "office",
+        "i",
+        "collecting",
+        "hobby",
+        "interest",
+        "hunt",
+        "idea"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 2,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 4,
+      "retrieval_count": 1
+    },
+    "756144b1-070d-410a-bf89-14652e113b40": {
+      "node_type": "s",
+      "content": "The user is considering collecting stamps as a hobby due to their postal service background.",
+      "keywords": [
+        "stamps",
+        "collecting",
+        "hobby",
+        "background"
+      ],
+      "domain_label": [
+        "hobbies",
+        "work",
+        "interests",
+        "retirement",
+        "activities"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 2,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 4,
+      "retrieval_count": 5
+    },
+    "9bd4aa29-51b7-4f60-a2c2-4a207cc18950": {
+      "node_type": "c",
+      "content": "User: I wish I had! But I do remember some of the unique stamps that came through over the years. How would I go about starting a collection now?\nAgent: Starting a stamp collection can be an exciting journey! To begin, you could visit your local post office and ask about their current stamp selections. Many post offices sell commemorative stamps that make great additions to a collection. You might also consider joining a local stamp collecting club - they often have meetings where members trade stamps and share knowledge. Additionally, stamp shows and exhibitions can be excellent places to find rare stamps and meet fellow enthusiasts. Is there a particular theme or country you'd be interested in focusing on for your collection?",
+      "keywords": [
+        "show",
+        "selection",
+        "that",
+        "they",
+        "meeting",
+        "country",
+        "you",
+        "member",
+        "exhibition",
+        "journey",
+        "stamp",
+        "enthusiast",
+        "collection",
+        "club",
+        "office",
+        "place",
+        "i",
+        "some",
+        "addition",
+        "year",
+        "knowledge",
+        "theme"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 3,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 6,
+      "retrieval_count": 1
+    },
+    "c5ba9452-1264-41ad-9ad3-b9022c36bd4e": {
+      "node_type": "s",
+      "content": "The user wants to start a stamp collection now.",
+      "keywords": [
+        "collection",
+        "starting",
+        "stamps"
+      ],
+      "domain_label": [
+        "hobbies",
+        "collecting",
+        "postal_service",
+        "interests",
+        "activities"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 3,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 6,
+      "retrieval_count": 4
+    },
+    "4968a559-f499-4fd9-8813-cdbf6c7f071e": {
+      "node_type": "c",
+      "content": "User: I think I'd like to focus on American stamps, given my career. Are there any good books or resources you'd recommend for learning more about stamp collecting?\nAgent: Focusing on American stamps is a great choice given your background! There are several excellent resources for learning about stamp collecting, particularly for U.S. stamps. The Scott Specialized Catalogue of United States Stamps and Covers is considered a must-have reference for American stamp collectors. The American Philatelic Society also offers numerous publications and online resources. Your local library might have books on stamp collecting basics. Additionally, many collectors find joining a stamp club invaluable for learning from experienced collectors. Have you considered reaching out to any local philatelic societies to see if they have meetings or events you could attend?",
+      "keywords": [
+        "book",
+        "basic",
+        "background",
+        "they",
+        "meeting",
+        "catalogue",
+        "event",
+        "career",
+        "you",
+        "reference",
+        "covers",
+        "stamp",
+        "resource",
+        "club",
+        "collector",
+        "society",
+        "stamps",
+        "library",
+        "i",
+        "publication",
+        "choice",
+        "collecting"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 4,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 8,
+      "retrieval_count": 1
+    },
+    "5c6b56bf-f2c4-404c-8645-d3b60afd675e": {
+      "node_type": "s",
+      "content": "The user wants to focus on American stamps due to their career background.",
+      "keywords": [
+        "american",
+        "stamps",
+        "career",
+        "focus"
+      ],
+      "domain_label": [
+        "hobby",
+        "collecting",
+        "stamp",
+        "interest",
+        "general"
+      ],
+      "scope": "BROAD",
+      "recall_priority": "HIGH",
+      "created_at": 4,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 8,
+      "retrieval_count": 3
+    },
+    "3cbd395e-9640-4027-9b65-5bd7063ba640": {
+      "node_type": "c",
+      "content": "User: That's a good suggestion. I'll look into local clubs and check out those resources. It'll be nice to connect with other collectors and learn from them in person. Thanks for all your help!\nAgent: You're welcome! I'm glad I could help. Joining a local club is an excellent way to immerse yourself in the hobby and learn from experienced collectors. The social aspect of stamp collecting can be just as rewarding as the collecting itself. As you begin your journey into philately, remember to take your time and enjoy the process of learning and discovering. If you have any more questions as you get started with your collection, don't hesitate to ask. Good luck with your new hobby, and enjoy this exciting chapter of your retirement!",
+      "keywords": [
+        "suggestion",
+        "that",
+        "luck",
+        "they",
+        "process",
+        "yourself",
+        "time",
+        "you",
+        "discovering",
+        "retirement",
+        "thank",
+        "journey",
+        "chapter",
+        "resource",
+        "aspect",
+        "it",
+        "club",
+        "collection",
+        "collector",
+        "i",
+        "way",
+        "help",
+        "question",
+        "person",
+        "collecting",
+        "itself",
+        "hobby"
+      ],
+      "domain_label": [],
+      "scope": null,
+      "recall_priority": null,
+      "created_at": 5,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 10,
+      "retrieval_count": 1
+    },
+    "2d4aeab5-eede-469c-a8c5-c0965847823c": {
+      "node_type": "s",
+      "content": "The user intends to connect with other collectors in person through local clubs.",
+      "keywords": [
+        "connect",
+        "collectors"
+      ],
+      "domain_label": [
+        "hobby",
+        "social",
+        "philately",
+        "community",
+        "local"
+      ],
+      "scope": "NARROW",
+      "recall_priority": "HIGH",
+      "created_at": 5,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 10,
+      "retrieval_count": 2
+    },
+    "5ed9088a-08ac-4c72-bc0c-376fb81cb8b1": {
+      "node_type": "e",
+      "content": "The user is interested in starting a stamp collection and has expressed a preference for American stamps, seeking recommendations on books, local clubs, and resources for learning about philately.",
+      "keywords": [
+        "stamp",
+        "collection",
+        "american",
+        "books",
+        "clubs",
+        "resources",
+        "philately"
+      ],
+      "domain_label": [
+        "hobby",
+        "collecting",
+        "stamps",
+        "education",
+        "community",
+        "retirement",
+        "interests"
+      ],
+      "scope": "BROAD",
+      "recall_priority": null,
+      "created_at": 6,
+      "session_id": 0,
+      "conv_id": 0,
+      "turn_id": 10,
+      "retrieval_count": 2
+    }
+  },
+  "src_out": {
+    "dd9a63f8-f895-4047-b452-566c2e98ce33": [
+      "3a5ecac3-9dfb-4972-9e5a-8022926bdf46",
+      "5ed9088a-08ac-4c72-bc0c-376fb81cb8b1"
+    ],
+    "3a5ecac3-9dfb-4972-9e5a-8022926bdf46": [],
+    "2b3ed544-c452-4207-b0e9-0cb7f1463c3b": [
+      "c9486fae-f67a-4b10-a783-619a87ab9e0a",
+      "5ed9088a-08ac-4c72-bc0c-376fb81cb8b1"
+    ],
+    "c9486fae-f67a-4b10-a783-619a87ab9e0a": [],
+    "3b2dba8e-0989-43c9-b9d6-0eb85cc08b39": [
+      "756144b1-070d-410a-bf89-14652e113b40",
+      "5ed9088a-08ac-4c72-bc0c-376fb81cb8b1"
+    ],
+    "756144b1-070d-410a-bf89-14652e113b40": [],
+    "9bd4aa29-51b7-4f60-a2c2-4a207cc18950": [
+      "c5ba9452-1264-41ad-9ad3-b9022c36bd4e",
+      "5ed9088a-08ac-4c72-bc0c-376fb81cb8b1"
+    ],
+    "c5ba9452-1264-41ad-9ad3-b9022c36bd4e": [],
+    "4968a559-f499-4fd9-8813-cdbf6c7f071e": [
+      "5c6b56bf-f2c4-404c-8645-d3b60afd675e",
+      "5ed9088a-08ac-4c72-bc0c-376fb81cb8b1"
+    ],
+    "5c6b56bf-f2c4-404c-8645-d3b60afd675e": [],
+    "3cbd395e-9640-4027-9b65-5bd7063ba640": [
+      "2d4aeab5-eede-469c-a8c5-c0965847823c",
+      "5ed9088a-08ac-4c72-bc0c-376fb81cb8b1"
+    ],
+    "2d4aeab5-eede-469c-a8c5-c0965847823c": [],
+    "5ed9088a-08ac-4c72-bc0c-376fb81cb8b1": []
+  },
+  "evid_out": {
+    "dd9a63f8-f895-4047-b452-566c2e98ce33": {},
+    "3a5ecac3-9dfb-4972-9e5a-8022926bdf46": {
+      "c9486fae-f67a-4b10-a783-619a87ab9e0a": "IRRELEVANT",
+      "756144b1-070d-410a-bf89-14652e113b40": "SUPPORT",
+      "c5ba9452-1264-41ad-9ad3-b9022c36bd4e": "SUPPORT",
+      "5c6b56bf-f2c4-404c-8645-d3b60afd675e": "SUPPORT",
+      "2d4aeab5-eede-469c-a8c5-c0965847823c": "SUPPORT"
+    },
+    "2b3ed544-c452-4207-b0e9-0cb7f1463c3b": {},
+    "c9486fae-f67a-4b10-a783-619a87ab9e0a": {
+      "756144b1-070d-410a-bf89-14652e113b40": "IRRELEVANT",
+      "c5ba9452-1264-41ad-9ad3-b9022c36bd4e": "IRRELEVANT",
+      "5c6b56bf-f2c4-404c-8645-d3b60afd675e": "IRRELEVANT",
+      "2d4aeab5-eede-469c-a8c5-c0965847823c": "IRRELEVANT"
+    },
+    "3b2dba8e-0989-43c9-b9d6-0eb85cc08b39": {},
+    "756144b1-070d-410a-bf89-14652e113b40": {
+      "c5ba9452-1264-41ad-9ad3-b9022c36bd4e": "SHIFT_TO",
+      "5c6b56bf-f2c4-404c-8645-d3b60afd675e": "SUPPORT",
+      "2d4aeab5-eede-469c-a8c5-c0965847823c": "SUPPORT"
+    },
+    "9bd4aa29-51b7-4f60-a2c2-4a207cc18950": {},
+    "c5ba9452-1264-41ad-9ad3-b9022c36bd4e": {
+      "5c6b56bf-f2c4-404c-8645-d3b60afd675e": "CONTRADICT",
+      "2d4aeab5-eede-469c-a8c5-c0965847823c": "SUPPORT"
+    },
+    "4968a559-f499-4fd9-8813-cdbf6c7f071e": {},
+    "5c6b56bf-f2c4-404c-8645-d3b60afd675e": {
+      "2d4aeab5-eede-469c-a8c5-c0965847823c": "IRRELEVANT"
+    },
+    "3cbd395e-9640-4027-9b65-5bd7063ba640": {},
+    "2d4aeab5-eede-469c-a8c5-c0965847823c": {},
+    "5ed9088a-08ac-4c72-bc0c-376fb81cb8b1": {
+      "3a5ecac3-9dfb-4972-9e5a-8022926bdf46": "SUPPORT",
+      "c9486fae-f67a-4b10-a783-619a87ab9e0a": "CONTRADICT",
+      "756144b1-070d-410a-bf89-14652e113b40": "SUPPORT",
+      "c5ba9452-1264-41ad-9ad3-b9022c36bd4e": "SHIFT_TO",
+      "5c6b56bf-f2c4-404c-8645-d3b60afd675e": "SUPPORT",
+      "2d4aeab5-eede-469c-a8c5-c0965847823c": "SUPPORT"
+    }
+  }
+}

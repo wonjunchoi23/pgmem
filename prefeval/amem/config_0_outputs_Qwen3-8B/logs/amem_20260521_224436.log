@@ -1,0 +1,457 @@
+2026-05-21 22:44:36,792 - INFO - ============================================================
+2026-05-21 22:44:36,792 - INFO - A-MEM PrefEval Chain
+2026-05-21 22:44:36,792 - INFO -   Config       : config_0
+2026-05-21 22:44:36,792 - INFO -   Model        : Qwen/Qwen3-8B
+2026-05-21 22:44:36,792 - INFO -   end_session  : 99
+2026-05-21 22:44:36,792 - INFO -   k_existing   : -1
+2026-05-21 22:44:36,792 - INFO -   Output dir   : /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B
+2026-05-21 22:44:36,792 - INFO - ============================================================
+2026-05-21 22:44:36,808 - INFO - Loading embedding model: all-MiniLM-L6-v2
+2026-05-21 22:44:43,207 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:43,216 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:43,288 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:43,297 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:43,399 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:43,406 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:43,444 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:43,451 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md "HTTP/1.1 200 OK"
+2026-05-21 22:44:43,487 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:43,496 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:43,545 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:43,553 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:43,666 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 22:44:43,735 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:43,744 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:43,849 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 22:44:43,881 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 22:44:43,930 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 22:44:43,965 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 22:44:43,997 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:44,003 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:44,076 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:44,082 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:44,114 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:44,121 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:44,152 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:44,158 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:44,197 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-05-21 22:44:44,239 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-05-21 22:44:44,416 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 22:44:44,424 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-05-21 22:44:44,473 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-05-21 22:44:44,474 - INFO - Initialising LLM client...
+2026-05-21 22:44:48,244 - INFO - Loading vLLM model from: Qwen/Qwen3-8B
+2026-05-21 22:44:48,244 - INFO - Using max_model_len=30000 for model Qwen/Qwen3-8B
+2026-05-21 22:45:09,794 - INFO - Tokenizer loaded for chat template support
+2026-05-21 22:45:09,794 - INFO - vLLM model loaded successfully
+2026-05-21 22:45:09,794 - INFO - Unified LLM client initialized with engine: vllm
+2026-05-21 22:45:09,860 - INFO - --- checkpoint k=0: ingesting session (conv_id=0, 12 turns) ---
+2026-05-21 22:45:43,541 - INFO - k=0: running QA over 1 questions
+2026-05-21 22:45:44,708 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_0
+2026-05-21 22:45:44,710 - INFO - k=0 done. mem=12, qa_in=2898, qa_out=86, qa_calls=1
+2026-05-21 22:45:44,710 - INFO - --- checkpoint k=1: ingesting session (conv_id=1, 10 turns) ---
+2026-05-21 22:46:21,539 - INFO - k=1: running QA over 2 questions
+2026-05-21 22:46:23,347 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_1
+2026-05-21 22:46:23,348 - INFO - k=1 done. mem=22, qa_in=4687, qa_out=220, qa_calls=2
+2026-05-21 22:46:23,348 - INFO - --- checkpoint k=2: ingesting session (conv_id=2, 10 turns) ---
+2026-05-21 22:47:00,185 - INFO - k=2: running QA over 3 questions
+2026-05-21 22:47:02,312 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_2
+2026-05-21 22:47:02,313 - INFO - k=2 done. mem=32, qa_in=7182, qa_out=330, qa_calls=3
+2026-05-21 22:47:02,313 - INFO - --- checkpoint k=3: ingesting session (conv_id=3, 10 turns) ---
+2026-05-21 22:47:42,256 - INFO - k=3: running QA over 4 questions
+2026-05-21 22:47:45,033 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_3
+2026-05-21 22:47:45,034 - INFO - k=3 done. mem=42, qa_in=12443, qa_out=450, qa_calls=4
+2026-05-21 22:47:45,034 - INFO - --- checkpoint k=4: ingesting session (conv_id=4, 10 turns) ---
+2026-05-21 22:48:22,226 - INFO - k=4: running QA over 5 questions
+2026-05-21 22:48:24,940 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_4
+2026-05-21 22:48:24,941 - INFO - k=4 done. mem=52, qa_in=15319, qa_out=531, qa_calls=5
+2026-05-21 22:48:24,941 - INFO - --- checkpoint k=5: ingesting session (conv_id=5, 12 turns) ---
+2026-05-21 22:49:13,347 - INFO - k=5: running QA over 6 questions
+2026-05-21 22:49:16,230 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_5
+2026-05-21 22:49:16,231 - INFO - k=5 done. mem=64, qa_in=18722, qa_out=761, qa_calls=6
+2026-05-21 22:49:16,231 - INFO - --- checkpoint k=6: ingesting session (conv_id=6, 12 turns) ---
+2026-05-21 22:49:57,760 - INFO - k=6: running QA over 7 questions
+2026-05-21 22:50:00,953 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_6
+2026-05-21 22:50:00,954 - INFO - k=6 done. mem=76, qa_in=20516, qa_out=970, qa_calls=7
+2026-05-21 22:50:00,954 - INFO - --- checkpoint k=7: ingesting session (conv_id=7, 12 turns) ---
+2026-05-21 22:50:49,504 - INFO - k=7: running QA over 8 questions
+2026-05-21 22:50:52,920 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_7
+2026-05-21 22:50:52,921 - INFO - k=7 done. mem=88, qa_in=23800, qa_out=1003, qa_calls=8
+2026-05-21 22:50:52,922 - INFO - --- checkpoint k=8: ingesting session (conv_id=8, 12 turns) ---
+2026-05-21 22:51:38,287 - INFO - k=8: running QA over 9 questions
+2026-05-21 22:51:41,852 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_8
+2026-05-21 22:51:41,853 - INFO - k=8 done. mem=100, qa_in=25930, qa_out=1239, qa_calls=9
+2026-05-21 22:51:41,853 - INFO - --- checkpoint k=9: ingesting session (conv_id=9, 10 turns) ---
+2026-05-21 22:51:48,608 - INFO - Consolidated 101 memories
+2026-05-21 22:52:40,235 - INFO - k=9: running QA over 10 questions
+2026-05-21 22:52:44,063 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_9
+2026-05-21 22:52:44,064 - INFO - k=9 done. mem=110, qa_in=32059, qa_out=1212, qa_calls=10
+2026-05-21 22:52:44,065 - INFO - --- checkpoint k=10: ingesting session (conv_id=10, 10 turns) ---
+2026-05-21 22:53:19,151 - INFO - k=10: running QA over 11 questions
+2026-05-21 22:53:23,274 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_10
+2026-05-21 22:53:23,275 - INFO - k=10 done. mem=120, qa_in=34621, qa_out=1487, qa_calls=11
+2026-05-21 22:53:23,275 - INFO - --- checkpoint k=11: ingesting session (conv_id=11, 10 turns) ---
+2026-05-21 22:53:57,593 - INFO - k=11: running QA over 12 questions
+2026-05-21 22:54:01,898 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_11
+2026-05-21 22:54:01,899 - INFO - k=11 done. mem=130, qa_in=37838, qa_out=1616, qa_calls=12
+2026-05-21 22:54:01,899 - INFO - --- checkpoint k=12: ingesting session (conv_id=12, 10 turns) ---
+2026-05-21 22:54:40,126 - INFO - k=12: running QA over 13 questions
+2026-05-21 22:54:44,877 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_12
+2026-05-21 22:54:44,878 - INFO - k=12 done. mem=140, qa_in=42199, qa_out=1673, qa_calls=13
+2026-05-21 22:54:44,878 - INFO - --- checkpoint k=13: ingesting session (conv_id=13, 10 turns) ---
+2026-05-21 22:55:16,269 - INFO - k=13: running QA over 14 questions
+2026-05-21 22:55:20,938 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_13
+2026-05-21 22:55:20,939 - INFO - k=13 done. mem=150, qa_in=43443, qa_out=1766, qa_calls=14
+2026-05-21 22:55:20,939 - INFO - --- checkpoint k=14: ingesting session (conv_id=14, 10 turns) ---
+2026-05-21 22:56:02,096 - INFO - k=14: running QA over 15 questions
+2026-05-21 22:56:07,156 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_14
+2026-05-21 22:56:07,158 - INFO - k=14 done. mem=160, qa_in=48628, qa_out=1924, qa_calls=15
+2026-05-21 22:56:07,158 - INFO - --- checkpoint k=15: ingesting session (conv_id=15, 10 turns) ---
+2026-05-21 22:56:45,772 - INFO - k=15: running QA over 16 questions
+2026-05-21 22:56:51,314 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_15
+2026-05-21 22:56:51,315 - INFO - k=15 done. mem=170, qa_in=56333, qa_out=2150, qa_calls=16
+2026-05-21 22:56:51,315 - INFO - --- checkpoint k=16: ingesting session (conv_id=16, 12 turns) ---
+2026-05-21 22:57:37,376 - INFO - k=16: running QA over 17 questions
+2026-05-21 22:57:43,474 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_16
+2026-05-21 22:57:43,476 - INFO - k=16 done. mem=182, qa_in=58504, qa_out=2446, qa_calls=17
+2026-05-21 22:57:43,476 - INFO - --- checkpoint k=17: ingesting session (conv_id=17, 12 turns) ---
+2026-05-21 22:58:30,454 - INFO - k=17: running QA over 18 questions
+2026-05-21 22:58:36,542 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_17
+2026-05-21 22:58:36,543 - INFO - k=17 done. mem=194, qa_in=61373, qa_out=2406, qa_calls=18
+2026-05-21 22:58:36,543 - INFO - --- checkpoint k=18: ingesting session (conv_id=18, 10 turns) ---
+2026-05-21 22:59:06,119 - INFO - Consolidated 201 memories
+2026-05-21 22:59:17,576 - INFO - k=18: running QA over 19 questions
+2026-05-21 22:59:24,059 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_18
+2026-05-21 22:59:24,061 - INFO - k=18 done. mem=204, qa_in=63764, qa_out=2741, qa_calls=19
+2026-05-21 22:59:24,061 - INFO - --- checkpoint k=19: ingesting session (conv_id=19, 10 turns) ---
+2026-05-21 23:00:05,914 - INFO - k=19: running QA over 20 questions
+2026-05-21 23:00:12,273 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_19
+2026-05-21 23:00:12,274 - INFO - k=19 done. mem=214, qa_in=66110, qa_out=2712, qa_calls=20
+2026-05-21 23:00:12,274 - INFO - --- checkpoint k=20: ingesting session (conv_id=20, 12 turns) ---
+2026-05-21 23:01:04,411 - INFO - k=20: running QA over 21 questions
+2026-05-21 23:01:11,570 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_20
+2026-05-21 23:01:11,571 - INFO - k=20 done. mem=226, qa_in=71136, qa_out=2905, qa_calls=21
+2026-05-21 23:01:11,571 - INFO - --- checkpoint k=21: ingesting session (conv_id=21, 10 turns) ---
+2026-05-21 23:01:53,746 - INFO - k=21: running QA over 22 questions
+2026-05-21 23:02:00,728 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_21
+2026-05-21 23:02:00,730 - INFO - k=21 done. mem=236, qa_in=75058, qa_out=3073, qa_calls=22
+2026-05-21 23:02:00,730 - INFO - --- checkpoint k=22: ingesting session (conv_id=22, 12 turns) ---
+2026-05-21 23:02:53,989 - INFO - k=22: running QA over 23 questions
+2026-05-21 23:03:01,255 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_22
+2026-05-21 23:03:01,258 - INFO - k=22 done. mem=248, qa_in=78130, qa_out=3176, qa_calls=23
+2026-05-21 23:03:01,258 - INFO - --- checkpoint k=23: ingesting session (conv_id=23, 10 turns) ---
+2026-05-21 23:03:40,352 - INFO - k=23: running QA over 24 questions
+2026-05-21 23:03:47,967 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_23
+2026-05-21 23:03:47,969 - INFO - k=23 done. mem=258, qa_in=82967, qa_out=3423, qa_calls=24
+2026-05-21 23:03:47,969 - INFO - --- checkpoint k=24: ingesting session (conv_id=24, 12 turns) ---
+2026-05-21 23:04:34,533 - INFO - k=24: running QA over 25 questions
+2026-05-21 23:04:42,796 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_24
+2026-05-21 23:04:42,798 - INFO - k=24 done. mem=270, qa_in=89023, qa_out=3718, qa_calls=25
+2026-05-21 23:04:42,798 - INFO - --- checkpoint k=25: ingesting session (conv_id=25, 10 turns) ---
+2026-05-21 23:05:20,644 - INFO - k=25: running QA over 26 questions
+2026-05-21 23:05:29,139 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_25
+2026-05-21 23:05:29,141 - INFO - k=25 done. mem=280, qa_in=92196, qa_out=3902, qa_calls=26
+2026-05-21 23:05:29,141 - INFO - --- checkpoint k=26: ingesting session (conv_id=26, 8 turns) ---
+2026-05-21 23:06:03,841 - INFO - k=26: running QA over 27 questions
+2026-05-21 23:06:12,227 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_26
+2026-05-21 23:06:12,252 - INFO - k=26 done. mem=288, qa_in=95660, qa_out=3929, qa_calls=27
+2026-05-21 23:06:12,252 - INFO - --- checkpoint k=27: ingesting session (conv_id=27, 8 turns) ---
+2026-05-21 23:06:47,728 - INFO - k=27: running QA over 28 questions
+2026-05-21 23:06:56,482 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_27
+2026-05-21 23:06:56,484 - INFO - k=27 done. mem=296, qa_in=100005, qa_out=4029, qa_calls=28
+2026-05-21 23:06:56,484 - INFO - --- checkpoint k=28: ingesting session (conv_id=28, 8 turns) ---
+2026-05-21 23:07:27,704 - INFO - Consolidated 301 memories
+2026-05-21 23:07:40,082 - INFO - k=28: running QA over 29 questions
+2026-05-21 23:07:49,230 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_28
+2026-05-21 23:07:49,253 - INFO - k=28 done. mem=304, qa_in=105614, qa_out=4316, qa_calls=29
+2026-05-21 23:07:49,253 - INFO - --- checkpoint k=29: ingesting session (conv_id=29, 8 turns) ---
+2026-05-21 23:08:19,937 - INFO - k=29: running QA over 30 questions
+2026-05-21 23:08:29,082 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_29
+2026-05-21 23:08:29,083 - INFO - k=29 done. mem=312, qa_in=108648, qa_out=4367, qa_calls=30
+2026-05-21 23:08:29,083 - INFO - --- checkpoint k=30: ingesting session (conv_id=30, 8 turns) ---
+2026-05-21 23:09:04,214 - INFO - k=30: running QA over 31 questions
+2026-05-21 23:09:14,143 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_30
+2026-05-21 23:09:14,144 - INFO - k=30 done. mem=320, qa_in=113428, qa_out=4501, qa_calls=31
+2026-05-21 23:09:14,144 - INFO - --- checkpoint k=31: ingesting session (conv_id=31, 10 turns) ---
+2026-05-21 23:09:49,047 - INFO - k=31: running QA over 32 questions
+2026-05-21 23:09:58,899 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_31
+2026-05-21 23:09:58,900 - INFO - k=31 done. mem=330, qa_in=116161, qa_out=4672, qa_calls=32
+2026-05-21 23:09:58,900 - INFO - --- checkpoint k=32: ingesting session (conv_id=32, 12 turns) ---
+2026-05-21 23:10:38,082 - INFO - k=32: running QA over 33 questions
+2026-05-21 23:10:48,505 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_32
+2026-05-21 23:10:48,506 - INFO - k=32 done. mem=342, qa_in=124091, qa_out=5059, qa_calls=33
+2026-05-21 23:10:48,506 - INFO - --- checkpoint k=33: ingesting session (conv_id=33, 12 turns) ---
+2026-05-21 23:11:35,369 - INFO - k=33: running QA over 34 questions
+2026-05-21 23:11:45,858 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_33
+2026-05-21 23:11:45,859 - INFO - k=33 done. mem=354, qa_in=128055, qa_out=4815, qa_calls=34
+2026-05-21 23:11:45,859 - INFO - --- checkpoint k=34: ingesting session (conv_id=34, 12 turns) ---
+2026-05-21 23:12:39,226 - INFO - k=34: running QA over 35 questions
+2026-05-21 23:12:50,203 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_34
+2026-05-21 23:12:50,204 - INFO - k=34 done. mem=366, qa_in=132368, qa_out=5117, qa_calls=35
+2026-05-21 23:12:50,204 - INFO - --- checkpoint k=35: ingesting session (conv_id=35, 10 turns) ---
+2026-05-21 23:13:27,806 - INFO - k=35: running QA over 36 questions
+2026-05-21 23:13:38,904 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_35
+2026-05-21 23:13:38,905 - INFO - k=35 done. mem=376, qa_in=135667, qa_out=5368, qa_calls=36
+2026-05-21 23:13:38,905 - INFO - --- checkpoint k=36: ingesting session (conv_id=36, 12 turns) ---
+2026-05-21 23:14:27,403 - INFO - k=36: running QA over 37 questions
+2026-05-21 23:14:39,044 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_36
+2026-05-21 23:14:39,045 - INFO - k=36 done. mem=388, qa_in=139733, qa_out=5718, qa_calls=37
+2026-05-21 23:14:39,045 - INFO - --- checkpoint k=37: ingesting session (conv_id=37, 12 turns) ---
+2026-05-21 23:15:31,842 - INFO - k=37: running QA over 38 questions
+2026-05-21 23:15:43,639 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_37
+2026-05-21 23:15:43,662 - INFO - k=37 done. mem=400, qa_in=143788, qa_out=5480, qa_calls=38
+2026-05-21 23:15:43,663 - INFO - --- checkpoint k=38: ingesting session (conv_id=38, 12 turns) ---
+2026-05-21 23:16:01,769 - INFO - Consolidated 401 memories
+2026-05-21 23:16:48,217 - INFO - k=38: running QA over 39 questions
+2026-05-21 23:17:00,160 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_38
+2026-05-21 23:17:00,162 - INFO - k=38 done. mem=412, qa_in=146686, qa_out=5892, qa_calls=39
+2026-05-21 23:17:00,162 - INFO - --- checkpoint k=39: ingesting session (conv_id=39, 10 turns) ---
+2026-05-21 23:17:38,722 - INFO - k=39: running QA over 40 questions
+2026-05-21 23:17:51,159 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_39
+2026-05-21 23:17:51,160 - INFO - k=39 done. mem=422, qa_in=151581, qa_out=6007, qa_calls=40
+2026-05-21 23:17:51,160 - INFO - --- checkpoint k=40: ingesting session (conv_id=40, 10 turns) ---
+2026-05-21 23:18:31,835 - INFO - k=40: running QA over 41 questions
+2026-05-21 23:18:44,441 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_40
+2026-05-21 23:18:44,442 - INFO - k=40 done. mem=432, qa_in=156459, qa_out=6058, qa_calls=41
+2026-05-21 23:18:44,442 - INFO - --- checkpoint k=41: ingesting session (conv_id=41, 10 turns) ---
+2026-05-21 23:19:26,283 - INFO - k=41: running QA over 42 questions
+2026-05-21 23:19:39,210 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_41
+2026-05-21 23:19:39,211 - INFO - k=41 done. mem=442, qa_in=160460, qa_out=6152, qa_calls=42
+2026-05-21 23:19:39,211 - INFO - --- checkpoint k=42: ingesting session (conv_id=42, 10 turns) ---
+2026-05-21 23:20:19,140 - INFO - k=42: running QA over 43 questions
+2026-05-21 23:20:32,315 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_42
+2026-05-21 23:20:32,317 - INFO - k=42 done. mem=452, qa_in=163822, qa_out=6413, qa_calls=43
+2026-05-21 23:20:32,317 - INFO - --- checkpoint k=43: ingesting session (conv_id=43, 10 turns) ---
+2026-05-21 23:21:08,315 - INFO - k=43: running QA over 44 questions
+2026-05-21 23:21:21,268 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_43
+2026-05-21 23:21:21,269 - INFO - k=43 done. mem=462, qa_in=167234, qa_out=6138, qa_calls=44
+2026-05-21 23:21:21,269 - INFO - --- checkpoint k=44: ingesting session (conv_id=44, 12 turns) ---
+2026-05-21 23:22:08,849 - INFO - k=44: running QA over 45 questions
+2026-05-21 23:22:22,498 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_44
+2026-05-21 23:22:22,499 - INFO - k=44 done. mem=474, qa_in=169767, qa_out=6624, qa_calls=45
+2026-05-21 23:22:22,499 - INFO - --- checkpoint k=45: ingesting session (conv_id=45, 10 turns) ---
+2026-05-21 23:23:01,647 - INFO - k=45: running QA over 46 questions
+2026-05-21 23:23:15,230 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_45
+2026-05-21 23:23:15,232 - INFO - k=45 done. mem=484, qa_in=173041, qa_out=6293, qa_calls=46
+2026-05-21 23:23:15,232 - INFO - --- checkpoint k=46: ingesting session (conv_id=46, 12 turns) ---
+2026-05-21 23:24:04,266 - INFO - k=46: running QA over 47 questions
+2026-05-21 23:24:18,129 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_46
+2026-05-21 23:24:18,130 - INFO - k=46 done. mem=496, qa_in=176198, qa_out=6689, qa_calls=47
+2026-05-21 23:24:18,130 - INFO - --- checkpoint k=47: ingesting session (conv_id=47, 10 turns) ---
+2026-05-21 23:24:53,577 - INFO - Consolidated 501 memories
+2026-05-21 23:25:12,650 - INFO - k=47: running QA over 48 questions
+2026-05-21 23:25:26,780 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_47
+2026-05-21 23:25:26,782 - INFO - k=47 done. mem=506, qa_in=177233, qa_out=7009, qa_calls=48
+2026-05-21 23:25:26,782 - INFO - --- checkpoint k=48: ingesting session (conv_id=48, 10 turns) ---
+2026-05-21 23:26:04,283 - INFO - k=48: running QA over 49 questions
+2026-05-21 23:26:18,494 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_48
+2026-05-21 23:26:18,495 - INFO - k=48 done. mem=516, qa_in=181133, qa_out=7214, qa_calls=49
+2026-05-21 23:26:18,495 - INFO - --- checkpoint k=49: ingesting session (conv_id=49, 10 turns) ---
+2026-05-21 23:27:01,003 - INFO - k=49: running QA over 50 questions
+2026-05-21 23:27:15,510 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_49
+2026-05-21 23:27:15,511 - INFO - k=49 done. mem=526, qa_in=185304, qa_out=7341, qa_calls=50
+2026-05-21 23:27:15,511 - INFO - --- checkpoint k=50: ingesting session (conv_id=50, 10 turns) ---
+2026-05-21 23:27:59,587 - INFO - k=50: running QA over 51 questions
+2026-05-21 23:28:14,722 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_50
+2026-05-21 23:28:14,724 - INFO - k=50 done. mem=536, qa_in=192176, qa_out=7754, qa_calls=51
+2026-05-21 23:28:14,724 - INFO - --- checkpoint k=51: ingesting session (conv_id=51, 10 turns) ---
+2026-05-21 23:28:54,016 - INFO - k=51: running QA over 52 questions
+2026-05-21 23:29:09,129 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_51
+2026-05-21 23:29:09,130 - INFO - k=51 done. mem=546, qa_in=196327, qa_out=7472, qa_calls=52
+2026-05-21 23:29:09,130 - INFO - --- checkpoint k=52: ingesting session (conv_id=52, 10 turns) ---
+2026-05-21 23:29:48,164 - INFO - k=52: running QA over 53 questions
+2026-05-21 23:30:03,960 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_52
+2026-05-21 23:30:03,961 - INFO - k=52 done. mem=556, qa_in=203584, qa_out=8076, qa_calls=53
+2026-05-21 23:30:03,961 - INFO - --- checkpoint k=53: ingesting session (conv_id=53, 12 turns) ---
+2026-05-21 23:30:44,240 - INFO - k=53: running QA over 54 questions
+2026-05-21 23:31:00,529 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_53
+2026-05-21 23:31:00,530 - INFO - k=53 done. mem=568, qa_in=209522, qa_out=8181, qa_calls=54
+2026-05-21 23:31:00,530 - INFO - --- checkpoint k=54: ingesting session (conv_id=54, 12 turns) ---
+2026-05-21 23:31:52,169 - INFO - k=54: running QA over 55 questions
+2026-05-21 23:32:08,837 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_54
+2026-05-21 23:32:08,838 - INFO - k=54 done. mem=580, qa_in=214004, qa_out=8342, qa_calls=55
+2026-05-21 23:32:08,838 - INFO - --- checkpoint k=55: ingesting session (conv_id=55, 12 turns) ---
+2026-05-21 23:33:00,361 - INFO - k=55: running QA over 56 questions
+2026-05-21 23:33:17,544 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_55
+2026-05-21 23:33:17,545 - INFO - k=55 done. mem=592, qa_in=219572, qa_out=8280, qa_calls=56
+2026-05-21 23:33:17,545 - INFO - --- checkpoint k=56: ingesting session (conv_id=56, 12 turns) ---
+2026-05-21 23:34:12,898 - INFO - Consolidated 601 memories
+2026-05-21 23:34:24,130 - INFO - k=56: running QA over 57 questions
+2026-05-21 23:34:41,645 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_56
+2026-05-21 23:34:41,646 - INFO - k=56 done. mem=604, qa_in=223115, qa_out=8631, qa_calls=57
+2026-05-21 23:34:41,646 - INFO - --- checkpoint k=57: ingesting session (conv_id=57, 8 turns) ---
+2026-05-21 23:35:16,425 - INFO - k=57: running QA over 58 questions
+2026-05-21 23:35:33,823 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_57
+2026-05-21 23:35:33,826 - INFO - k=57 done. mem=612, qa_in=226517, qa_out=8542, qa_calls=58
+2026-05-21 23:35:33,826 - INFO - --- checkpoint k=58: ingesting session (conv_id=58, 10 turns) ---
+2026-05-21 23:36:13,420 - INFO - k=58: running QA over 59 questions
+2026-05-21 23:36:31,882 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_58
+2026-05-21 23:36:31,906 - INFO - k=58 done. mem=622, qa_in=236332, qa_out=9199, qa_calls=59
+2026-05-21 23:36:31,906 - INFO - --- checkpoint k=59: ingesting session (conv_id=59, 10 turns) ---
+2026-05-21 23:37:11,103 - INFO - k=59: running QA over 60 questions
+2026-05-21 23:37:31,130 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_59
+2026-05-21 23:37:31,131 - INFO - k=59 done. mem=632, qa_in=239174, qa_out=9369, qa_calls=60
+2026-05-21 23:37:31,131 - INFO - --- checkpoint k=60: ingesting session (conv_id=60, 12 turns) ---
+2026-05-21 23:38:16,734 - INFO - k=60: running QA over 61 questions
+2026-05-21 23:38:35,409 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_60
+2026-05-21 23:38:35,411 - INFO - k=60 done. mem=644, qa_in=242285, qa_out=9206, qa_calls=61
+2026-05-21 23:38:35,411 - INFO - --- checkpoint k=61: ingesting session (conv_id=61, 10 turns) ---
+2026-05-21 23:39:17,322 - INFO - k=61: running QA over 62 questions
+2026-05-21 23:39:36,229 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_61
+2026-05-21 23:39:36,231 - INFO - k=61 done. mem=654, qa_in=246185, qa_out=9234, qa_calls=62
+2026-05-21 23:39:36,231 - INFO - --- checkpoint k=62: ingesting session (conv_id=62, 12 turns) ---
+2026-05-21 23:40:29,377 - INFO - k=62: running QA over 63 questions
+2026-05-21 23:40:48,554 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_62
+2026-05-21 23:40:48,555 - INFO - k=62 done. mem=666, qa_in=249972, qa_out=9680, qa_calls=63
+2026-05-21 23:40:48,555 - INFO - --- checkpoint k=63: ingesting session (conv_id=63, 10 turns) ---
+2026-05-21 23:41:27,301 - INFO - k=63: running QA over 64 questions
+2026-05-21 23:41:46,481 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_63
+2026-05-21 23:41:46,506 - INFO - k=63 done. mem=676, qa_in=253752, qa_out=9670, qa_calls=64
+2026-05-21 23:41:46,506 - INFO - --- checkpoint k=64: ingesting session (conv_id=64, 10 turns) ---
+2026-05-21 23:42:31,732 - INFO - k=64: running QA over 65 questions
+2026-05-21 23:42:52,444 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_64
+2026-05-21 23:42:52,445 - INFO - k=64 done. mem=686, qa_in=257877, qa_out=9750, qa_calls=65
+2026-05-21 23:42:52,445 - INFO - --- checkpoint k=65: ingesting session (conv_id=65, 12 turns) ---
+2026-05-21 23:43:43,293 - INFO - k=65: running QA over 66 questions
+2026-05-21 23:44:05,216 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_65
+2026-05-21 23:44:05,217 - INFO - k=65 done. mem=698, qa_in=260521, qa_out=9896, qa_calls=66
+2026-05-21 23:44:05,217 - INFO - --- checkpoint k=66: ingesting session (conv_id=66, 12 turns) ---
+2026-05-21 23:44:41,523 - INFO - Consolidated 701 memories
+2026-05-21 23:45:16,216 - INFO - k=66: running QA over 67 questions
+2026-05-21 23:45:38,353 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_66
+2026-05-21 23:45:38,354 - INFO - k=66 done. mem=710, qa_in=262088, qa_out=10237, qa_calls=67
+2026-05-21 23:45:38,355 - INFO - --- checkpoint k=67: ingesting session (conv_id=67, 12 turns) ---
+2026-05-21 23:46:26,356 - INFO - k=67: running QA over 68 questions
+2026-05-21 23:46:48,422 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_67
+2026-05-21 23:46:48,423 - INFO - k=67 done. mem=722, qa_in=266005, qa_out=10376, qa_calls=68
+2026-05-21 23:46:48,423 - INFO - --- checkpoint k=68: ingesting session (conv_id=68, 10 turns) ---
+2026-05-21 23:47:31,220 - INFO - k=68: running QA over 69 questions
+2026-05-21 23:47:53,553 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_68
+2026-05-21 23:47:53,554 - INFO - k=68 done. mem=732, qa_in=270783, qa_out=10096, qa_calls=69
+2026-05-21 23:47:53,554 - INFO - --- checkpoint k=69: ingesting session (conv_id=69, 10 turns) ---
+2026-05-21 23:48:29,702 - INFO - k=69: running QA over 70 questions
+2026-05-21 23:48:52,298 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_69
+2026-05-21 23:48:52,300 - INFO - k=69 done. mem=742, qa_in=274378, qa_out=10298, qa_calls=70
+2026-05-21 23:48:52,300 - INFO - --- checkpoint k=70: ingesting session (conv_id=70, 10 turns) ---
+2026-05-21 23:49:37,052 - INFO - k=70: running QA over 71 questions
+2026-05-21 23:50:00,154 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_70
+2026-05-21 23:50:00,155 - INFO - k=70 done. mem=752, qa_in=279802, qa_out=10233, qa_calls=71
+2026-05-21 23:50:00,155 - INFO - --- checkpoint k=71: ingesting session (conv_id=71, 10 turns) ---
+2026-05-21 23:50:38,494 - INFO - k=71: running QA over 72 questions
+2026-05-21 23:51:01,640 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_71
+2026-05-21 23:51:01,641 - INFO - k=71 done. mem=762, qa_in=284463, qa_out=10646, qa_calls=72
+2026-05-21 23:51:01,641 - INFO - --- checkpoint k=72: ingesting session (conv_id=72, 12 turns) ---
+2026-05-21 23:51:53,969 - INFO - k=72: running QA over 73 questions
+2026-05-21 23:52:17,913 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_72
+2026-05-21 23:52:17,914 - INFO - k=72 done. mem=774, qa_in=287494, qa_out=11087, qa_calls=73
+2026-05-21 23:52:17,914 - INFO - --- checkpoint k=73: ingesting session (conv_id=73, 10 turns) ---
+2026-05-21 23:52:59,213 - INFO - k=73: running QA over 74 questions
+2026-05-21 23:53:22,918 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_73
+2026-05-21 23:53:22,920 - INFO - k=73 done. mem=784, qa_in=291096, qa_out=10975, qa_calls=74
+2026-05-21 23:53:22,920 - INFO - --- checkpoint k=74: ingesting session (conv_id=74, 10 turns) ---
+2026-05-21 23:54:04,541 - INFO - k=74: running QA over 75 questions
+2026-05-21 23:54:28,691 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_74
+2026-05-21 23:54:28,692 - INFO - k=74 done. mem=794, qa_in=295739, qa_out=11255, qa_calls=75
+2026-05-21 23:54:28,692 - INFO - --- checkpoint k=75: ingesting session (conv_id=75, 12 turns) ---
+2026-05-21 23:55:22,319 - INFO - Consolidated 801 memories
+2026-05-21 23:55:43,041 - INFO - k=75: running QA over 76 questions
+2026-05-21 23:56:07,476 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_75
+2026-05-21 23:56:07,478 - INFO - k=75 done. mem=806, qa_in=301079, qa_out=11178, qa_calls=76
+2026-05-21 23:56:07,478 - INFO - --- checkpoint k=76: ingesting session (conv_id=76, 12 turns) ---
+2026-05-21 23:56:53,499 - INFO - k=76: running QA over 77 questions
+2026-05-21 23:57:18,180 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_76
+2026-05-21 23:57:18,181 - INFO - k=76 done. mem=818, qa_in=303742, qa_out=11803, qa_calls=77
+2026-05-21 23:57:18,182 - INFO - --- checkpoint k=77: ingesting session (conv_id=77, 10 turns) ---
+2026-05-21 23:58:00,189 - INFO - k=77: running QA over 78 questions
+2026-05-21 23:58:25,180 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_77
+2026-05-21 23:58:25,182 - INFO - k=77 done. mem=828, qa_in=306762, qa_out=11724, qa_calls=78
+2026-05-21 23:58:25,182 - INFO - --- checkpoint k=78: ingesting session (conv_id=78, 10 turns) ---
+2026-05-21 23:59:05,933 - INFO - k=78: running QA over 79 questions
+2026-05-21 23:59:31,148 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_78
+2026-05-21 23:59:31,174 - INFO - k=78 done. mem=838, qa_in=310245, qa_out=12177, qa_calls=79
+2026-05-21 23:59:31,174 - INFO - --- checkpoint k=79: ingesting session (conv_id=79, 10 turns) ---
+2026-05-22 00:00:07,726 - INFO - k=79: running QA over 80 questions
+2026-05-22 00:00:33,073 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_79
+2026-05-22 00:00:33,096 - INFO - k=79 done. mem=848, qa_in=313968, qa_out=11784, qa_calls=80
+2026-05-22 00:00:33,096 - INFO - --- checkpoint k=80: ingesting session (conv_id=80, 12 turns) ---
+2026-05-22 00:01:20,246 - INFO - k=80: running QA over 81 questions
+2026-05-22 00:01:46,297 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_80
+2026-05-22 00:01:46,308 - INFO - k=80 done. mem=860, qa_in=318227, qa_out=12123, qa_calls=81
+2026-05-22 00:01:46,308 - INFO - --- checkpoint k=81: ingesting session (conv_id=81, 10 turns) ---
+2026-05-22 00:02:31,564 - INFO - k=81: running QA over 82 questions
+2026-05-22 00:02:58,133 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_81
+2026-05-22 00:02:58,135 - INFO - k=81 done. mem=870, qa_in=322804, qa_out=12299, qa_calls=82
+2026-05-22 00:02:58,135 - INFO - --- checkpoint k=82: ingesting session (conv_id=82, 14 turns) ---
+2026-05-22 00:03:53,758 - INFO - k=82: running QA over 83 questions
+2026-05-22 00:04:20,373 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_82
+2026-05-22 00:04:20,374 - INFO - k=82 done. mem=884, qa_in=327252, qa_out=12419, qa_calls=83
+2026-05-22 00:04:20,374 - INFO - --- checkpoint k=83: ingesting session (conv_id=83, 10 turns) ---
+2026-05-22 00:04:57,755 - INFO - k=83: running QA over 84 questions
+2026-05-22 00:05:24,381 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_83
+2026-05-22 00:05:24,382 - INFO - k=83 done. mem=894, qa_in=330024, qa_out=12861, qa_calls=84
+2026-05-22 00:05:24,382 - INFO - --- checkpoint k=84: ingesting session (conv_id=84, 10 turns) ---
+2026-05-22 00:06:24,878 - INFO - Consolidated 901 memories
+2026-05-22 00:06:38,801 - INFO - k=84: running QA over 85 questions
+2026-05-22 00:07:05,433 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_84
+2026-05-22 00:07:05,434 - INFO - k=84 done. mem=904, qa_in=332365, qa_out=12751, qa_calls=85
+2026-05-22 00:07:05,434 - INFO - --- checkpoint k=85: ingesting session (conv_id=85, 10 turns) ---
+2026-05-22 00:07:44,862 - INFO - k=85: running QA over 86 questions
+2026-05-22 00:08:12,171 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_85
+2026-05-22 00:08:12,173 - INFO - k=85 done. mem=914, qa_in=336693, qa_out=13020, qa_calls=86
+2026-05-22 00:08:12,173 - INFO - --- checkpoint k=86: ingesting session (conv_id=86, 12 turns) ---
+2026-05-22 00:08:57,668 - INFO - k=86: running QA over 87 questions
+2026-05-22 00:09:25,134 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_86
+2026-05-22 00:09:25,136 - INFO - k=86 done. mem=926, qa_in=341765, qa_out=13260, qa_calls=87
+2026-05-22 00:09:25,136 - INFO - --- checkpoint k=87: ingesting session (conv_id=87, 10 turns) ---
+2026-05-22 00:10:07,671 - INFO - k=87: running QA over 88 questions
+2026-05-22 00:10:35,443 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_87
+2026-05-22 00:10:35,445 - INFO - k=87 done. mem=936, qa_in=345953, qa_out=13286, qa_calls=88
+2026-05-22 00:10:35,445 - INFO - --- checkpoint k=88: ingesting session (conv_id=88, 10 turns) ---
+2026-05-22 00:11:18,582 - INFO - k=88: running QA over 89 questions
+2026-05-22 00:11:46,594 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_88
+2026-05-22 00:11:46,596 - INFO - k=88 done. mem=946, qa_in=349948, qa_out=13106, qa_calls=89
+2026-05-22 00:11:46,596 - INFO - --- checkpoint k=89: ingesting session (conv_id=89, 10 turns) ---
+2026-05-22 00:12:26,497 - INFO - k=89: running QA over 90 questions
+2026-05-22 00:12:54,981 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_89
+2026-05-22 00:12:54,982 - INFO - k=89 done. mem=956, qa_in=354330, qa_out=13642, qa_calls=90
+2026-05-22 00:12:54,982 - INFO - --- checkpoint k=90: ingesting session (conv_id=90, 10 turns) ---
+2026-05-22 00:13:34,271 - INFO - k=90: running QA over 91 questions
+2026-05-22 00:14:03,218 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_90
+2026-05-22 00:14:03,220 - INFO - k=90 done. mem=966, qa_in=356859, qa_out=13727, qa_calls=91
+2026-05-22 00:14:03,220 - INFO - --- checkpoint k=91: ingesting session (conv_id=91, 12 turns) ---
+2026-05-22 00:14:52,180 - INFO - k=91: running QA over 92 questions
+2026-05-22 00:15:20,700 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_91
+2026-05-22 00:15:20,702 - INFO - k=91 done. mem=978, qa_in=361821, qa_out=13519, qa_calls=92
+2026-05-22 00:15:20,703 - INFO - --- checkpoint k=92: ingesting session (conv_id=92, 10 turns) ---
+2026-05-22 00:15:58,773 - INFO - k=92: running QA over 93 questions
+2026-05-22 00:16:27,471 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_92
+2026-05-22 00:16:27,474 - INFO - k=92 done. mem=988, qa_in=363662, qa_out=13450, qa_calls=93
+2026-05-22 00:16:27,474 - INFO - --- checkpoint k=93: ingesting session (conv_id=93, 10 turns) ---
+2026-05-22 00:17:09,566 - INFO - k=93: running QA over 94 questions
+2026-05-22 00:17:38,613 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_93
+2026-05-22 00:17:38,615 - INFO - k=93 done. mem=998, qa_in=367421, qa_out=13737, qa_calls=94
+2026-05-22 00:17:38,615 - INFO - --- checkpoint k=94: ingesting session (conv_id=94, 10 turns) ---
+2026-05-22 00:18:24,916 - INFO - Consolidated 1001 memories
+2026-05-22 00:18:57,520 - INFO - k=94: running QA over 95 questions
+2026-05-22 00:19:26,905 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_94
+2026-05-22 00:19:26,906 - INFO - k=94 done. mem=1008, qa_in=373047, qa_out=13963, qa_calls=95
+2026-05-22 00:19:26,906 - INFO - --- checkpoint k=95: ingesting session (conv_id=95, 10 turns) ---
+2026-05-22 00:20:11,744 - INFO - k=95: running QA over 96 questions
+2026-05-22 00:20:41,396 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_95
+2026-05-22 00:20:41,398 - INFO - k=95 done. mem=1018, qa_in=376667, qa_out=14172, qa_calls=96
+2026-05-22 00:20:41,398 - INFO - --- checkpoint k=96: ingesting session (conv_id=96, 10 turns) ---
+2026-05-22 00:21:22,401 - INFO - k=96: running QA over 97 questions
+2026-05-22 00:21:51,850 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_96
+2026-05-22 00:21:51,851 - INFO - k=96 done. mem=1028, qa_in=377990, qa_out=14026, qa_calls=97
+2026-05-22 00:21:51,852 - INFO - --- checkpoint k=97: ingesting session (conv_id=97, 12 turns) ---
+2026-05-22 00:22:38,056 - INFO - k=97: running QA over 98 questions
+2026-05-22 00:23:08,059 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_97
+2026-05-22 00:23:08,060 - INFO - k=97 done. mem=1040, qa_in=384074, qa_out=14101, qa_calls=98
+2026-05-22 00:23:08,060 - INFO - --- checkpoint k=98: ingesting session (conv_id=98, 10 turns) ---
+2026-05-22 00:23:48,537 - INFO - k=98: running QA over 99 questions
+2026-05-22 00:24:18,978 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_98
+2026-05-22 00:24:18,979 - INFO - k=98 done. mem=1050, qa_in=390323, qa_out=14230, qa_calls=99
+2026-05-22 00:24:18,979 - INFO - --- checkpoint k=99: ingesting session (conv_id=99, 10 turns) ---
+2026-05-22 00:24:56,103 - INFO - k=99: running QA over 100 questions
+2026-05-22 00:25:27,336 - INFO - Saved snapshot /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/amem/config_0_outputs_Qwen3-8B/memory_snapshots/m_99
+2026-05-22 00:25:27,338 - INFO - k=99 done. mem=1060, qa_in=394515, qa_out=14706, qa_calls=100

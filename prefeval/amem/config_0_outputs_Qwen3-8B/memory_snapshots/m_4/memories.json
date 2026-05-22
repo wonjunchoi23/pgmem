@@ -1,0 +1,1313 @@
+{
+  "4a0f0085-f779-487a-83c4-9e2817e92b36": {
+    "content": "Speaker user says: Hello there! I've been thinking about taking up a new hobby now that I'm retired from the postal service. Any suggestions for an old-timer like me?",
+    "id": "4a0f0085-f779-487a-83c4-9e2817e92b36",
+    "timestamp": "0000_0000_0000",
+    "keywords": [
+      "hobby",
+      "retired",
+      "postal service"
+    ],
+    "tags": [
+      "Hobbies",
+      "Postal Services",
+      "History"
+    ],
+    "context": "Starting a stamp collection can be an exciting journey! To begin, you could visit your local post office and ask about their current stamp selections.",
+    "links": [],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "4fe92f18-a179-4cdd-a732-df3675c39107": {
+    "content": "Speaker assistant says: Hello! It's great that you're looking to explore new hobbies in retirement. There are many options suitable for retirees. Have you considered activities like gardening, woodworking, or joining a local book club? These can be enjoyable and social ways to spend your time. What kind of activities did you enjoy before retirement?",
+    "id": "4fe92f18-a179-4cdd-a732-df3675c39107",
+    "timestamp": "0000_0000_0001",
+    "keywords": [
+      "retirement",
+      "hobbies",
+      "activities"
+    ],
+    "tags": [
+      "Education Savings",
+      "Financial Planning",
+      "Budgeting Tips"
+    ],
+    "context": "The content provides financial tips for saving on a tight budget to support a daughter's education.",
+    "links": [
+      0
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "41cea2b6-36f0-4077-b7c1-8c60934416e8": {
+    "content": "Speaker user says: I've always enjoyed working with my hands, so woodworking sounds interesting. Are there any local classes or workshops you know of? I usually prefer in-person learning over online stuff - can't stand those digital courses everyone's talking about these days.",
+    "id": "41cea2b6-36f0-4077-b7c1-8c60934416e8",
+    "timestamp": "0000_0000_0002",
+    "keywords": [
+      "woodworking",
+      "in-person learning",
+      "digital courses"
+    ],
+    "tags": [
+      "In-person Learning",
+      "Woodworking"
+    ],
+    "context": "The speaker is interested in woodworking and prefers in-person classes over online digital courses.",
+    "links": [
+      1,
+      0
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "c055be4a-0198-4908-ae78-f8a7625752ca": {
+    "content": "Speaker assistant says: I understand your interest in hands-on activities like woodworking. Many community centers and local hardware stores offer in-person woodworking classes for beginners. These workshops can be a great way to learn new skills and meet people with similar interests. Have you checked with your local community center or nearby woodworking shops for upcoming classes? They often have schedules posted or can provide information about beginner-friendly workshops.",
+    "id": "c055be4a-0198-4908-ae78-f8a7625752ca",
+    "timestamp": "0000_0000_0003",
+    "keywords": [
+      "woodworking",
+      "community centers",
+      "beginner classes"
+    ],
+    "tags": [
+      "In-person Learning",
+      "Woodworking",
+      "Hobbies",
+      "Community Centers"
+    ],
+    "context": "The content provides information on finding beginner-friendly woodworking classes through community centers and local hardware stores.",
+    "links": [
+      0,
+      1,
+      2
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "be14ac03-0dd5-4b67-ba4c-291765960807": {
+    "content": "Speaker user says: That's a good idea. I'll give the community center a call tomorrow. Speaking of my postal days, I've been thinking about collecting stamps. Is that still a popular hobby?",
+    "id": "be14ac03-0dd5-4b67-ba4c-291765960807",
+    "timestamp": "0000_0000_0004",
+    "keywords": [
+      "community center",
+      "collecting stamps",
+      "postal days"
+    ],
+    "tags": [
+      "Hobbies",
+      "Community Centers",
+      "Retirement"
+    ],
+    "context": "The speaker discusses plans to contact the community center and reflects on the hobby of stamp collecting from their postal days.",
+    "links": [
+      0,
+      1,
+      3
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "3a2c23e1-f888-41c0-853b-f2d34d3f480a": {
+    "content": "Speaker assistant says: Stamp collecting, or philately, is indeed still a popular hobby, especially among those with an interest in history and postal services. Given your background as a postal worker, you might find it particularly fascinating. Many collectors enjoy the hunt for rare stamps, learning about different countries and cultures through their postal history, and the meticulous nature of organizing a collection. Have you kept any interesting stamps from your time working at the post office?",
+    "id": "3a2c23e1-f888-41c0-853b-f2d34d3f480a",
+    "timestamp": "0000_0000_0005",
+    "keywords": [
+      "stamp collecting",
+      "postal services",
+      "history"
+    ],
+    "tags": [
+      "Hobbies",
+      "Postal Services",
+      "History"
+    ],
+    "context": "Stamp collecting, or philately, is indeed still a popular hobby, especially among those with an interest in history and postal services.",
+    "links": [
+      0,
+      1,
+      4
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "7ae3a794-7516-4428-98f4-92db925bc3d5": {
+    "content": "Speaker user says: I wish I had! But I do remember some of the unique stamps that came through over the years. How would I go about starting a collection now?",
+    "id": "7ae3a794-7516-4428-98f4-92db925bc3d5",
+    "timestamp": "0000_0000_0006",
+    "keywords": [
+      "stamps",
+      "collection",
+      "starting"
+    ],
+    "tags": [
+      "Hobbies",
+      "Retirement",
+      "Personal Development"
+    ],
+    "context": "A retired postal service worker seeks suggestions for a new hobby.",
+    "links": [
+      4,
+      0,
+      1
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "5ce06e1e-6665-4754-b778-692b9cff689d": {
+    "content": "Speaker assistant says: Starting a stamp collection can be an exciting journey! To begin, you could visit your local post office and ask about their current stamp selections. Many post offices sell commemorative stamps that make great additions to a collection. You might also consider joining a local stamp collecting club - they often have meetings where members trade stamps and share knowledge. Additionally, stamp shows and exhibitions can be excellent places to find rare stamps and meet fellow enthusiasts. Is there a particular theme or country you'd be interested in focusing on for your collection?",
+    "id": "5ce06e1e-6665-4754-b778-692b9cff689d",
+    "timestamp": "0000_0000_0007",
+    "keywords": [
+      "stamp collection",
+      "post office",
+      "stamp club"
+    ],
+    "tags": [
+      "Photography",
+      "Travel",
+      "Landscapes",
+      "Landmarks"
+    ],
+    "context": "The speaker is seeking recommendations for unique landscapes and landmarks to photograph during a long-haul trip from Chicago to LA.",
+    "links": [
+      6,
+      5,
+      4,
+      0,
+      3
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "2f87084e-744b-4f17-8a13-9651368eeab0": {
+    "content": "Speaker user says: I think I'd like to focus on American stamps, given my career. Are there any good books or resources you'd recommend for learning more about stamp collecting?",
+    "id": "2f87084e-744b-4f17-8a13-9651368eeab0",
+    "timestamp": "0000_0000_0008",
+    "keywords": [
+      "stamp collecting",
+      "American stamps",
+      "resources"
+    ],
+    "tags": [
+      "Hobbies",
+      "Postal Services",
+      "Resources"
+    ],
+    "context": "The speaker is seeking recommendations for resources to learn more about American stamp collecting.",
+    "links": [
+      5,
+      4,
+      0
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "5962fa73-eab9-417f-b6a5-df1b44754667": {
+    "content": "Speaker assistant says: Focusing on American stamps is a great choice given your background! There are several excellent resources for learning about stamp collecting, particularly for U.S. stamps. The Scott Specialized Catalogue of United States Stamps and Covers is considered a must-have reference for American stamp collectors. The American Philatelic Society also offers numerous publications and online resources. Your local library might have books on stamp collecting basics. Additionally, many collectors find joining a stamp club invaluable for learning from experienced collectors. Have you considered reaching out to any local philatelic societies to see if they have meetings or events you could attend?",
+    "id": "5962fa73-eab9-417f-b6a5-df1b44754667",
+    "timestamp": "0000_0000_0009",
+    "keywords": [
+      "stamp collecting",
+      "American stamps",
+      "philatelic societies"
+    ],
+    "tags": [
+      "Hobbies",
+      "Postal Services",
+      "Resources"
+    ],
+    "context": "The content discusses resources and methods for learning about American stamp collecting, including references and community involvement.",
+    "links": [
+      7,
+      8,
+      5,
+      6,
+      4
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "35c267b6-ed5d-476a-a069-27896419ad2f": {
+    "content": "Speaker user says: That's a good suggestion. I'll look into local clubs and check out those resources. It'll be nice to connect with other collectors and learn from them in person. Thanks for all your help!",
+    "id": "35c267b6-ed5d-476a-a069-27896419ad2f",
+    "timestamp": "0000_0000_0010",
+    "keywords": [
+      "collectors",
+      "resources",
+      "connection"
+    ],
+    "tags": [
+      "Hobbies",
+      "Retirement",
+      "Social Activities",
+      "Connection"
+    ],
+    "context": "The speaker is interested in exploring new hobbies in retirement and is open to suggestions for enjoyable activities.",
+    "links": [
+      7,
+      8,
+      9
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "b7148c05-3b07-48b2-94fe-527eb2c682a1": {
+    "content": "Speaker assistant says: You're welcome! I'm glad I could help. Joining a local club is an excellent way to immerse yourself in the hobby and learn from experienced collectors. The social aspect of stamp collecting can be just as rewarding as the collecting itself. As you begin your journey into philately, remember to take your time and enjoy the process of learning and discovering. If you have any more questions as you get started with your collection, don't hesitate to ask. Good luck with your new hobby, and enjoy this exciting chapter of your retirement!",
+    "id": "b7148c05-3b07-48b2-94fe-527eb2c682a1",
+    "timestamp": "0000_0000_0011",
+    "keywords": [
+      "stamp collecting",
+      "philately",
+      "retirement"
+    ],
+    "tags": [
+      "Hobbies",
+      "Retirement",
+      "Personal Development"
+    ],
+    "context": "A retired postal service worker seeks suggestions for a new hobby.",
+    "links": [
+      5,
+      7,
+      8
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "ed80e25c-1282-46d8-b454-f3ad118d601e": {
+    "content": "Speaker user says: Hey there! I'm on a long haul from Chicago to LA and looking for some interesting spots to photograph along the way. Any suggestions for unique landscapes or landmarks?",
+    "id": "ed80e25c-1282-46d8-b454-f3ad118d601e",
+    "timestamp": "0000_0001_0000",
+    "keywords": [
+      "photography",
+      "landscapes",
+      "landmarks"
+    ],
+    "tags": [
+      "Photography",
+      "Landscape",
+      "Techniques",
+      "Light and Shadow",
+      "Post-Processing"
+    ],
+    "context": "The content discusses techniques for enhancing sky photos in landscape photography, focusing on tools like the graduated filter and the interplay of light and shadow.",
+    "links": [
+      1,
+      0,
+      4,
+      11,
+      7
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "7e72d0c9-0d79-4c33-a57a-c0402333187d": {
+    "content": "Speaker assistant says: Hello! That's an exciting journey. For unique landscapes, consider stopping at the Badlands National Park in South Dakota for its striking rock formations. In Colorado, the Garden of the Gods offers beautiful red rock scenery. As you approach LA, Joshua Tree National Park has fascinating desert landscapes. Remember to plan your stops carefully to fit your driving schedule and rest periods.",
+    "id": "7e72d0c9-0d79-4c33-a57a-c0402333187d",
+    "timestamp": "0000_0001_0001",
+    "keywords": [
+      "National Park",
+      "Landscape",
+      "Driving Schedule"
+    ],
+    "tags": [
+      "Travel",
+      "Landscapes",
+      "Driving Schedule"
+    ],
+    "context": "The content provides recommendations for scenic stops along a driving route, highlighting national parks known for their unique landscapes and suggesting considerations for planning the trip.",
+    "links": [
+      12
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "5eca4c8f-5b75-41ac-b594-886ae7ca1d31": {
+    "content": "Speaker user says: Thanks for the tips! I'm always on the lookout for new photography subjects. By the way, do you know any good ways to remember all the different camera settings? I usually prefer learning through stories rather than dry facts, as I find flashcards and rote memorization ineffective.",
+    "id": "5eca4c8f-5b75-41ac-b594-886ae7ca1d31",
+    "timestamp": "0000_0001_0002",
+    "keywords": [
+      "photography",
+      "camera settings",
+      "learning"
+    ],
+    "tags": [
+      "Photography",
+      "Learning Techniques",
+      "Storytelling"
+    ],
+    "context": "The speaker is seeking effective methods for learning camera settings through storytelling rather than traditional memorization techniques.",
+    "links": [
+      12
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "71c39828-42a7-4ef3-8282-45d41da4a468": {
+    "content": "Speaker assistant says: I'm glad you found the suggestions helpful! As for remembering camera settings, many photographers find it useful to practice regularly and experiment with different scenarios. You could try creating mental associations between settings and specific scenes you've photographed. For example, linking a particular aperture setting with a memorable sunset you captured. This hands-on approach often helps reinforce the knowledge. Are there any specific settings you find particularly challenging to remember?",
+    "id": "71c39828-42a7-4ef3-8282-45d41da4a468",
+    "timestamp": "0000_0001_0003",
+    "keywords": [
+      "camera settings",
+      "mental associations",
+      "photography"
+    ],
+    "tags": [
+      "Night Shift",
+      "Alertness",
+      "Workplace Safety"
+    ],
+    "context": "The content discusses methods to maintain alertness during night patrols.",
+    "links": [
+      14
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "b015b1c1-3b3a-4f9a-8a35-5cbba9da9f03": {
+    "content": "Speaker user says: The exposure triangle can be tricky sometimes. Speaking of sunsets, I caught an amazing one in Arizona last week. The colors were unreal! Do you have any tips for capturing the best sunset photos from the road?",
+    "id": "b015b1c1-3b3a-4f9a-8a35-5cbba9da9f03",
+    "timestamp": "0000_0001_0004",
+    "keywords": [
+      "sunset",
+      "exposure triangle",
+      "tips"
+    ],
+    "tags": [
+      "Photography",
+      "Travel",
+      "Landscape",
+      "Tips",
+      "Learning Techniques"
+    ],
+    "context": "The content provides tips on capturing stunning sunset photographs while traveling, emphasizing timing, equipment, and post-processing techniques.",
+    "links": [
+      12,
+      13,
+      15,
+      14,
+      7
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212245",
+    "evolution_history": []
+  },
+  "55af67b3-d4d1-4347-8795-89d05dab96da": {
+    "content": "Speaker assistant says: Wow, Arizona sunsets are truly spectacular! For capturing great sunset photos from the road, timing is crucial. Try to scout locations in advance if possible, arriving about an hour before sunset to set up. Use a wide-angle lens to capture the expansive sky, and experiment with including foreground elements like your truck or the road for added interest. Don't forget to shoot in RAW format for better post-processing flexibility. Also, stick around after the sun dips below the horizon \u2013 often, the most vibrant colors appear 15-20 minutes later. Do you have a favorite type of landscape to photograph during your travels?",
+    "id": "55af67b3-d4d1-4347-8795-89d05dab96da",
+    "timestamp": "0000_0001_0005",
+    "keywords": [
+      "sunset",
+      "photography",
+      "landscape"
+    ],
+    "tags": [
+      "Photography",
+      "Editing Software",
+      "Long-Haul Driving"
+    ],
+    "context": "The content discusses recommended editing software for photographers during long-haul driving and asks about preferred editing techniques for dramatic sky photos.",
+    "links": [
+      12,
+      13,
+      15,
+      16
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "de6626ad-5a9e-46bc-b4b7-ece6f8ac5413": {
+    "content": "Speaker user says: I love shooting wide-open spaces with dramatic skies. It really captures the feeling of freedom on the road. How about editing software? Any recommendations for something I can use on my laptop during downtime at truck stops?",
+    "id": "de6626ad-5a9e-46bc-b4b7-ece6f8ac5413",
+    "timestamp": "0000_0001_0006",
+    "keywords": [
+      "wide-open spaces",
+      "editing software",
+      "laptop"
+    ],
+    "tags": [
+      "Photography",
+      "Travel",
+      "Editing Software",
+      "Laptop",
+      "Wide-Open Spaces"
+    ],
+    "context": "The content discusses capturing dramatic skies in wide-open spaces and seeking recommendations for editing software on a laptop.",
+    "links": [
+      17,
+      13
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "c82ccdb5-1b20-46f5-bef4-97f9002e0819": {
+    "content": "Speaker assistant says: That's a great subject choice \u2013 it really embodies the spirit of long-haul driving! For editing software that you can use on your laptop during breaks, Adobe Lightroom is a popular choice among photographers. It's powerful yet user-friendly, and great for organizing your photos too. If you're looking for a free option, GIMP is a robust alternative. Capture One is another professional-grade option, though it has a steeper learning curve. These all work well offline, which is perfect for truck stop editing sessions. Do you have any specific editing techniques you like to apply to your dramatic sky photos?",
+    "id": "c82ccdb5-1b20-46f5-bef4-97f9002e0819",
+    "timestamp": "0000_0001_0007",
+    "keywords": [
+      "editing software",
+      "long-haul driving",
+      "dramatic sky photos"
+    ],
+    "tags": [
+      "Photography",
+      "Learning Techniques",
+      "Camera Settings",
+      "Practice",
+      "Mental Associations"
+    ],
+    "context": "The content discusses strategies for remembering camera settings through practice, experimentation, and mental associations with specific photographic scenarios.",
+    "links": [
+      18
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "0e2c315e-21a5-4fa4-8417-856bfac3eeaa": {
+    "content": "Speaker user says: I usually play around with the contrast and highlights to make the clouds pop. Sometimes I'll add a graduated filter to balance the exposure between sky and ground. It's amazing how much you can transform a photo with just a few tweaks!",
+    "id": "0e2c315e-21a5-4fa4-8417-856bfac3eeaa",
+    "timestamp": "0000_0001_0008",
+    "keywords": [
+      "contrast",
+      "highlights",
+      "graduated filter"
+    ],
+    "tags": [
+      "Photography",
+      "Editing Techniques",
+      "Post-Processing",
+      "Learning Techniques",
+      "Travel"
+    ],
+    "context": "The content discusses techniques for enhancing photos by adjusting contrast, highlights, and using a graduated filter to improve exposure balance.",
+    "links": [
+      19,
+      18,
+      17,
+      16,
+      12
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "0aa89731-1be2-436a-93e6-a41e7e5e60a6": {
+    "content": "Speaker assistant says: You're absolutely right! Those techniques can really bring out the drama in sky photos. The graduated filter is especially useful for balancing bright skies with darker foregrounds \u2013 a common challenge in landscape photography. It's great that you're exploring these tools to enhance your images. As you continue your journey, you might find interesting opportunities to capture the interplay of light and shadow across different landscapes. The changing scenery along your route must provide a wealth of diverse photographic subjects. Is there a particular region or state you're looking forward to photographing on this trip?",
+    "id": "0aa89731-1be2-436a-93e6-a41e7e5e60a6",
+    "timestamp": "0000_0001_0009",
+    "keywords": [
+      "photography",
+      "landscape",
+      "techniques"
+    ],
+    "tags": [
+      "Photography",
+      "Editing Techniques",
+      "Post-Processing",
+      "Learning Techniques",
+      "Travel"
+    ],
+    "context": "The content discusses techniques for enhancing sky photos in landscape photography, focusing on tools like the graduated filter and the interplay of light and shadow.",
+    "links": [
+      17,
+      19
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "8df83e7f-bd09-42b1-8172-a30607df6c24": {
+    "content": "Speaker user says: Hey there! I've been working in the ER for over a decade now, and I'm looking for ways to keep my skills sharp. Do you have any suggestions for continuing education courses that might be beneficial for an emergency room nurse?",
+    "id": "8df83e7f-bd09-42b1-8172-a30607df6c24",
+    "timestamp": "0000_0002_0000",
+    "keywords": [
+      "continuing education",
+      "emergency room nurse",
+      "skills"
+    ],
+    "tags": [
+      "Emergency Room",
+      "Continuing Education",
+      "Professional Development"
+    ],
+    "context": "The speaker is seeking recommendations for continuing education courses to maintain and enhance their skills as an emergency room nurse.",
+    "links": [
+      14,
+      15
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "06df3231-7e87-4151-bcfa-2374086eec4a": {
+    "content": "Speaker assistant says: Absolutely! Continuing education is crucial in the fast-paced world of emergency medicine. There are many options available, from online courses to hands-on workshops. Some popular topics include advanced cardiac life support, trauma care, and pediatric emergency nursing. Do you have any specific areas you'd like to focus on?",
+    "id": "06df3231-7e87-4151-bcfa-2374086eec4a",
+    "timestamp": "0000_0002_0001",
+    "keywords": [
+      "continuing education",
+      "emergency medicine",
+      "advanced cardiac life support"
+    ],
+    "tags": [
+      "Simulation-Based Learning",
+      "Trauma Care",
+      "Hands-On Learning"
+    ],
+    "context": "The content discusses simulation-based trauma care training programs that use high-fidelity simulations to provide realistic emergency scenario training for medical professionals.",
+    "links": [
+      22
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "7a953a9a-d07e-41d2-bd45-f4d59e54b808": {
+    "content": "Speaker user says: I'm particularly interested in improving my trauma care skills. I usually prefer hands-on learning experiences over traditional lectures. Are there any simulation-based courses you'd recommend?",
+    "id": "7a953a9a-d07e-41d2-bd45-f4d59e54b808",
+    "timestamp": "0000_0002_0002",
+    "keywords": [
+      "trauma care",
+      "simulation-based courses",
+      "hands-on learning"
+    ],
+    "tags": [
+      "Triage Systems",
+      "Machine Learning",
+      "Patient Outcomes",
+      "Trauma Care"
+    ],
+    "context": "The content discusses advancements in triage systems, including electronic systems using machine learning to improve patient outcomes and streamline emergency room operations.",
+    "links": [
+      22,
+      23
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "818e0f1c-5528-4f9d-8ece-3f530b2902dd": {
+    "content": "Speaker assistant says: Simulation-based trauma care courses are an excellent choice! Many hospitals and medical centers offer high-fidelity simulation programs that replicate real-life emergency scenarios. These courses often use advanced mannequins and immersive environments to create realistic training experiences. The American College of Surgeons also offers the Advanced Trauma Life Support (ATLS) course, which includes hands-on skills stations. Have you participated in any simulation-based training before?",
+    "id": "818e0f1c-5528-4f9d-8ece-3f530b2902dd",
+    "timestamp": "0000_0002_0003",
+    "keywords": [
+      "simulation-based training",
+      "trauma care",
+      "high-fidelity simulation"
+    ],
+    "tags": [
+      "Emergency Medicine",
+      "Continuing Education",
+      "Advanced Cardiac Life Support"
+    ],
+    "context": "The content emphasizes the importance of continuing education in emergency medicine, highlighting specific areas like advanced cardiac life support.",
+    "links": [
+      24
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "959d8102-947e-457c-b4eb-56e9d2c68c48": {
+    "content": "Speaker user says: Yes, I've done a few simulation courses in the past and found them really valuable. Speaking of which, our hospital is considering updating our triage protocols. Do you know of any recent developments or best practices in emergency department triage systems?",
+    "id": "959d8102-947e-457c-b4eb-56e9d2c68c48",
+    "timestamp": "0000_0002_0004",
+    "keywords": [
+      "triage protocols",
+      "simulation courses",
+      "emergency department"
+    ],
+    "tags": [
+      "Triage Systems",
+      "Machine Learning",
+      "Patient Outcomes"
+    ],
+    "context": "The speaker discusses the value of simulation courses and inquires about recent developments in emergency department triage systems.",
+    "links": [
+      24,
+      25
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "e3bc40db-afcd-4fc4-a181-425324d14812": {
+    "content": "Speaker assistant says: Certainly! Triage systems are constantly evolving to improve patient outcomes and streamline ER operations. One recent development is the implementation of electronic triage systems that use machine learning algorithms to assist in decision-making. The Emergency Severity Index (ESI) is still widely used but has been updated to include more specific criteria for certain conditions. Some hospitals are also experimenting with \"split-flow\" models to reduce wait times. Are there any specific challenges your ER is facing with its current triage system?",
+    "id": "e3bc40db-afcd-4fc4-a181-425324d14812",
+    "timestamp": "0000_0002_0005",
+    "keywords": [
+      "triage systems",
+      "machine learning",
+      "patient outcomes"
+    ],
+    "tags": [
+      "Trauma Care",
+      "Simulation-Based Learning",
+      "Hands-On Learning"
+    ],
+    "context": "The speaker is seeking simulation-based courses to enhance their trauma care skills through hands-on learning.",
+    "links": [
+      26,
+      25
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "7e3810c7-e359-490f-9edc-b99b9d81760c": {
+    "content": "Speaker user says: Our main issue is managing the increasing patient volume while ensuring accurate assessments. I tend to learn best through interactive experiences, so I'm wondering if there are any triage simulation tools we could use for staff training. Do you know of any good options?",
+    "id": "7e3810c7-e359-490f-9edc-b99b9d81760c",
+    "timestamp": "0000_0002_0006",
+    "keywords": [
+      "patient volume",
+      "triage simulation",
+      "staff training"
+    ],
+    "tags": [
+      "Simulation-Based Learning",
+      "Triage Systems",
+      "Emergency Department",
+      "Machine Learning",
+      "Continuing Education"
+    ],
+    "context": "The speaker is seeking triage simulation tools to manage increasing patient volume through interactive staff training.",
+    "links": [
+      24,
+      25,
+      26,
+      27,
+      22
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "bcaadc5d-3b68-412e-900d-93f3fa2d7ae1": {
+    "content": "Speaker assistant says: Interactive triage simulation tools are an excellent way to train staff and improve efficiency. There are several options available, such as virtual reality-based triage simulators that allow nurses to practice decision-making in various scenarios. Some popular choices include \"Full Code\" and \"Triage Trainer,\" which offer realistic patient cases and immediate feedback. Additionally, some hospitals have developed their own custom triage simulation software tailored to their specific needs. Would you like more information on implementing these tools in your hospital's training program?",
+    "id": "bcaadc5d-3b68-412e-900d-93f3fa2d7ae1",
+    "timestamp": "0000_0002_0007",
+    "keywords": [
+      "triage simulation",
+      "virtual reality",
+      "training program"
+    ],
+    "tags": [
+      "Virtual Reality",
+      "Simulation-Based Learning",
+      "Triage Systems",
+      "Emergency Department",
+      "Training Programs"
+    ],
+    "context": "The content discusses the use of interactive triage simulation tools, including virtual reality-based options, to enhance staff training and efficiency.",
+    "links": [
+      28,
+      26,
+      27,
+      25,
+      24
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "0e82112f-2a70-4e13-ae95-f11f1b211248": {
+    "content": "Speaker user says: That sounds really interesting! Yes, I'd love to know more about implementing triage simulation tools in our training program. Also, do you have any tips for managing stress and preventing burnout in a busy ER environment?",
+    "id": "0e82112f-2a70-4e13-ae95-f11f1b211248",
+    "timestamp": "0000_0002_0008",
+    "keywords": [
+      "triage simulation tools",
+      "stress management",
+      "burnout prevention"
+    ],
+    "tags": [
+      "Stress Management",
+      "Burnout Prevention",
+      "Triage Simulation Tools"
+    ],
+    "context": "The content discusses interest in implementing triage simulation tools for training and seeks advice on managing stress and preventing burnout in an ER setting.",
+    "links": [
+      29,
+      28,
+      27,
+      26,
+      25
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "3b38ba0b-4cc7-448e-98f8-d45fe5a863d7": {
+    "content": "Speaker assistant says: Certainly! I'd be happy to provide more information on implementing triage simulation tools. As for managing stress and preventing burnout, it's a crucial aspect of working in a busy ER. Some effective strategies include practicing mindfulness techniques, maintaining a healthy work-life balance, and participating in regular debriefing sessions with colleagues. Many hospitals also offer employee assistance programs and wellness initiatives. Regular exercise, proper nutrition, and adequate sleep are also essential. Have you tried any specific stress management techniques that have worked well for you in the past?",
+    "id": "3b38ba0b-4cc7-448e-98f8-d45fe5a863d7",
+    "timestamp": "0000_0002_0009",
+    "keywords": [
+      "triage simulation tools",
+      "stress management",
+      "burnout prevention"
+    ],
+    "tags": [
+      "Stress Management",
+      "Burnout Prevention",
+      "Mindfulness"
+    ],
+    "context": "The content discusses strategies for managing stress and preventing burnout in a busy ER setting, including mindfulness, work-life balance, debriefing sessions, and wellness initiatives.",
+    "links": [
+      29,
+      30
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212246",
+    "evolution_history": []
+  },
+  "28f9e459-1e0c-424c-b2f4-35006a7d87f3": {
+    "content": "Speaker user says: Hey there, I'm on night patrol and it's pretty quiet. Got any tips for staying alert during these long shifts?",
+    "id": "28f9e459-1e0c-424c-b2f4-35006a7d87f3",
+    "timestamp": "0000_0003_0000",
+    "keywords": [
+      "patrol",
+      "alert",
+      "shifts"
+    ],
+    "tags": [
+      "Night Shift",
+      "Alertness",
+      "Workplace Safety"
+    ],
+    "context": "The speaker is asking for tips to stay alert during long night shifts on patrol.",
+    "links": [
+      22,
+      31,
+      30,
+      17,
+      27
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "805ea07f-f939-4f12-8386-6a964ca29e23": {
+    "content": "Speaker assistant says: Hello, Officer! Staying alert during night patrols can be challenging. Some effective strategies include taking short walks when possible, engaging in light conversation with your partner if you have one, and periodically changing your patrol route to keep things interesting. Have you tried any of these methods?",
+    "id": "805ea07f-f939-4f12-8386-6a964ca29e23",
+    "timestamp": "0000_0003_0001",
+    "keywords": [
+      "patrol",
+      "strategies",
+      "alertness"
+    ],
+    "tags": [
+      "Learning Techniques",
+      "Storytelling",
+      "Procedures"
+    ],
+    "context": "The speaker is seeking ways to improve their understanding of procedures through storytelling and real-life examples instead of traditional manuals.",
+    "links": [
+      32
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "9e230e71-aca8-4e26-8287-93743e191599": {
+    "content": "Speaker user says: Yeah, I've been trying to mix things up with the routes. Say, I've been meaning to brush up on some procedures. I usually prefer learning through stories or real-life examples rather than dry manuals. Any ideas on how I can improve my knowledge that way?",
+    "id": "9e230e71-aca8-4e26-8287-93743e191599",
+    "timestamp": "0000_0003_0002",
+    "keywords": [
+      "learning",
+      "procedures",
+      "examples"
+    ],
+    "tags": [
+      "Stress Management",
+      "Burnout Prevention",
+      "Mindfulness"
+    ],
+    "context": "The content discusses strategies for managing stress and preventing burnout in a busy ER setting, including mindfulness, work-life balance, debriefing sessions, and wellness initiatives.",
+    "links": [
+      14,
+      24,
+      3,
+      10,
+      15
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "7002366e-e8d0-4857-8011-99d26e56b335": {
+    "content": "Speaker assistant says: That's a great approach to learning! One effective method is to connect with more experienced officers and ask them to share their experiences. Many departments also have mentorship programs that pair rookies with veterans. Additionally, you could look into police podcasts or documentaries that feature real-life case studies. These often provide valuable insights into procedure application in various situations. Have you had the chance to work with any seasoned officers yet?",
+    "id": "7002366e-e8d0-4857-8011-99d26e56b335",
+    "timestamp": "0000_0003_0003",
+    "keywords": [
+      "learning",
+      "mentorship",
+      "experience"
+    ],
+    "tags": [
+      "Mentorship",
+      "Real-Life Experiences",
+      "Learning Techniques"
+    ],
+    "context": "The content discusses effective methods for learning through mentorship and real-life experiences in law enforcement.",
+    "links": [
+      34
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "7ec73de5-09ea-452f-9002-c65afb553a8e": {
+    "content": "Speaker user says: Not too much yet, but I'm looking forward to it. Speaking of real situations, I responded to a domestic dispute call last week and felt a bit out of my depth. How can I better prepare for these types of calls?",
+    "id": "7ec73de5-09ea-452f-9002-c65afb553a8e",
+    "timestamp": "0000_0003_0004",
+    "keywords": [
+      "domestic dispute",
+      "preparation",
+      "real situations"
+    ],
+    "tags": [
+      "Domestic Dispute",
+      "Preparation",
+      "Real-Life Situations"
+    ],
+    "context": "The speaker reflects on a recent domestic dispute call and seeks advice on how to better prepare for challenging real-life situations.",
+    "links": [
+      35,
+      34
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "59d4717a-3d22-4a36-a802-58b87aa4b243": {
+    "content": "Speaker assistant says: Domestic dispute calls can be challenging, even for experienced officers. It's great that you're looking to improve. Preparation is key: review your department's protocols for these situations, practice de-escalation techniques, and always prioritize safety for all parties involved, including yourself. Role-playing scenarios with fellow officers can also be helpful. Remember, each situation is unique, so staying calm and adaptable is crucial. Is there a specific aspect of handling domestic disputes that you find particularly challenging?",
+    "id": "59d4717a-3d22-4a36-a802-58b87aa4b243",
+    "timestamp": "0000_0003_0005",
+    "keywords": [
+      "domestic dispute",
+      "de-escalation techniques",
+      "safety"
+    ],
+    "tags": [
+      "Domestic Dispute",
+      "De-escalation Techniques",
+      "Safety"
+    ],
+    "context": "The content focuses on the challenges of handling domestic disputes and emphasizes the importance of preparation, de-escalation techniques, and safety.",
+    "links": [
+      36,
+      35
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "4ddc98e8-fd5f-4038-9054-b924e72d9b49": {
+    "content": "Speaker user says: I think it's mostly about reading the situation quickly and knowing how to de-escalate effectively. Do you have any resources or training exercises that could help with that?",
+    "id": "4ddc98e8-fd5f-4038-9054-b924e72d9b49",
+    "timestamp": "0000_0003_0006",
+    "keywords": [
+      "de-escalate",
+      "reading",
+      "situation"
+    ],
+    "tags": [
+      "De-escalation Techniques",
+      "Learning Techniques",
+      "Stress Management",
+      "Mentorship"
+    ],
+    "context": "The content discusses the importance of quickly assessing a situation and effectively de-escalating it, seeking resources or training exercises to improve these skills.",
+    "links": [
+      37,
+      35,
+      33,
+      34
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "d7137417-8359-4e67-a1e8-f9b3dad5ca53": {
+    "content": "Speaker assistant says: Absolutely! De-escalation is a crucial skill in law enforcement. Many departments offer specialized training in this area. You could look into courses on crisis intervention and conflict resolution. Additionally, there are online resources like webinars and interactive training modules that focus on scenario-based learning for de-escalation techniques. Some officers find it helpful to practice these skills through role-playing exercises with colleagues. It might also be worth checking if your department has any virtual reality training programs, as these can provide immersive, realistic scenarios to practice in. Have you had any specific de-escalation training so far?",
+    "id": "d7137417-8359-4e67-a1e8-f9b3dad5ca53",
+    "timestamp": "0000_0003_0007",
+    "keywords": [
+      "de-escalation",
+      "training",
+      "techniques"
+    ],
+    "tags": [
+      "De-escalation Techniques",
+      "Training Methods",
+      "Learning Techniques"
+    ],
+    "context": "The content discusses the importance of de-escalation skills in law enforcement and suggests various training methods such as courses, online resources, role-playing, and virtual reality programs.",
+    "links": [
+      38,
+      37
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "6faec49b-1d7f-45ed-93b3-b7b398751a69": {
+    "content": "Speaker user says: We had some basic training at the academy, but I'd love to dive deeper. On a different note, I've been wondering about advancing my career. What are some good steps for a rookie to take towards becoming a detective someday?",
+    "id": "6faec49b-1d7f-45ed-93b3-b7b398751a69",
+    "timestamp": "0000_0003_0008",
+    "keywords": [
+      "career",
+      "training",
+      "detective"
+    ],
+    "tags": [
+      "Career Development",
+      "Training",
+      "Detective Aspirations"
+    ],
+    "context": "The speaker discusses their experience with basic training and aspirations to advance their career towards becoming a detective.",
+    "links": [
+      35,
+      39
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "fe03891a-848d-45fd-8fa1-96ee664ea945": {
+    "content": "Speaker assistant says: It's great that you're thinking about your long-term career goals! Becoming a detective typically requires several years of experience as a patrol officer first. In the meantime, you can take steps to prepare:\n\n1. Excel in your current role and build a strong reputation.\n2. Pursue additional education, such as criminal justice courses.\n3. Develop your investigative skills by being thorough in your report writing and evidence collection.\n4. Volunteer for special assignments or task forces when possible.\n5. Network with detectives in your department and learn from their experiences.\n6. Stay updated on new investigative techniques and technologies.\n\nRemember, each department may have specific requirements. Have you spoken with any detectives about their career paths?",
+    "id": "fe03891a-848d-45fd-8fa1-96ee664ea945",
+    "timestamp": "0000_0003_0009",
+    "keywords": [
+      "career goals",
+      "investigative skills",
+      "detective"
+    ],
+    "tags": [
+      "Career Development",
+      "Training",
+      "Detective Aspirations"
+    ],
+    "context": "The content provides guidance on preparing for a career as a detective by building experience, education, and skills.",
+    "links": [
+      40,
+      35,
+      39,
+      33,
+      37
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "5aca44ce-68c8-49db-8602-627906f8700a": {
+    "content": "Speaker user says: Hi there! I'm looking for some advice on managing my time better. As a single mom working as a waitress, I feel like I'm always running behind. Any tips?",
+    "id": "5aca44ce-68c8-49db-8602-627906f8700a",
+    "timestamp": "0000_0004_0000",
+    "keywords": [
+      "time management",
+      "single mom",
+      "waitress"
+    ],
+    "tags": [
+      "Stress Management",
+      "Time Management",
+      "Single Parenting"
+    ],
+    "context": "A single mom working as a waitress seeks advice on improving her time management skills to reduce stress and stay organized.",
+    "links": [
+      31,
+      38
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "5dc57410-dafa-4cda-adce-478de347edac": {
+    "content": "Speaker assistant says: Hello! I understand how challenging it can be to balance work and family life. Some effective time management strategies include creating a daily schedule, prioritizing tasks, and using any downtime efficiently. Have you tried any specific methods to organize your day?",
+    "id": "5dc57410-dafa-4cda-adce-478de347edac",
+    "timestamp": "0000_0004_0001",
+    "keywords": [
+      "time management",
+      "work",
+      "family life"
+    ],
+    "tags": [
+      "Hobbies",
+      "Retirement",
+      "Community Centers"
+    ],
+    "context": "The content discusses the benefits of joining a local club for stamp collecting and emphasizes the social and educational aspects of the hobby, particularly for retirees.",
+    "links": [
+      42,
+      31,
+      38,
+      33,
+      15
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "b3bc169b-0710-4bc8-bdf0-aef4c44fbe0c": {
+    "content": "Speaker user says: I've tried making to-do lists, but I often get overwhelmed. I'm thinking about taking some online courses to improve my skills, but I usually prefer learning in group settings. Do you know of any local community classes that might be good for busy moms?",
+    "id": "b3bc169b-0710-4bc8-bdf0-aef4c44fbe0c",
+    "timestamp": "0000_0004_0002",
+    "keywords": [
+      "to-do lists",
+      "online courses",
+      "community classes"
+    ],
+    "tags": [
+      "Community Learning",
+      "Busy Moms",
+      "Skill Development"
+    ],
+    "context": "The speaker is seeking alternatives to to-do lists and online courses for skill development, specifically looking for community-based classes suitable for busy moms.",
+    "links": [
+      3,
+      2,
+      42,
+      43,
+      10
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "cd5caf51-eb8e-4f74-803a-10b435e62613": {
+    "content": "Speaker assistant says: That's a great idea to look into skill-building opportunities! Many community centers and libraries offer classes designed for busy adults. These often include evening or weekend sessions in various subjects. Have you checked with your local community college or adult education center? They might have programs that fit your schedule and interests.",
+    "id": "cd5caf51-eb8e-4f74-803a-10b435e62613",
+    "timestamp": "0000_0004_0003",
+    "keywords": [
+      "skill-building",
+      "community centers",
+      "adult education"
+    ],
+    "tags": [
+      "Community Learning",
+      "Skill Development",
+      "Busy Adults",
+      "In-person Learning"
+    ],
+    "context": "The content discusses opportunities for skill-building through community resources and adult education programs.",
+    "links": [
+      3,
+      2
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212247",
+    "evolution_history": []
+  },
+  "05d0ecf2-b3a6-4f93-b94c-39d0c2b43c33": {
+    "content": "Speaker user says: I haven't looked into those yet, thanks for the suggestion! Speaking of my schedule, do you have any advice on meal planning for a picky eater? My daughter is so particular about her food, and I don't always have time to cook separate meals.",
+    "id": "05d0ecf2-b3a6-4f93-b94c-39d0c2b43c33",
+    "timestamp": "0000_0004_0004",
+    "keywords": [
+      "meal planning",
+      "picky eater",
+      "schedule"
+    ],
+    "tags": [
+      "Meal Planning",
+      "Picky Eater",
+      "Time Management"
+    ],
+    "context": "The speaker is seeking advice on meal planning for a picky eater while managing their schedule.",
+    "links": [
+      42,
+      43
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212248",
+    "evolution_history": []
+  },
+  "7313530e-2d57-4e25-9923-1b71c1944d2d": {
+    "content": "Speaker assistant says: Meal planning for picky eaters can be challenging! One approach is to involve your daughter in the process. Let her help choose meals for the week or assist with simple cooking tasks. This can make her more interested in trying new foods. Also, try preparing versatile base ingredients that can be customized easily. For example, a plain pasta dish that can be topped differently for each of you. Do you have any go-to meals that work well for both of you?",
+    "id": "7313530e-2d57-4e25-9923-1b71c1944d2d",
+    "timestamp": "0000_0004_0005",
+    "keywords": [
+      "meal planning",
+      "picky eaters",
+      "cooking tasks"
+    ],
+    "tags": [
+      "Meal Planning",
+      "Picky Eater",
+      "Time Management"
+    ],
+    "context": "The speaker is seeking advice on meal planning for a picky eater while managing their schedule.",
+    "links": [
+      46
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212248",
+    "evolution_history": []
+  },
+  "fe426c43-f026-4d05-9c84-0fc081db2542": {
+    "content": "Speaker user says: We both love tacos, so that's our fail-safe option. On another note, I'm trying to save money for my daughter's future education. Any tips for a waitress on a tight budget?",
+    "id": "fe426c43-f026-4d05-9c84-0fc081db2542",
+    "timestamp": "0000_0004_0006",
+    "keywords": [
+      "tacos",
+      "save money",
+      "future education"
+    ],
+    "tags": [
+      "Financial Planning",
+      "Education Savings",
+      "Budgeting Tips"
+    ],
+    "context": "The conversation discusses shared interests, financial planning for a child's education, and budgeting tips for a waitress.",
+    "links": [
+      46,
+      42
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212248",
+    "evolution_history": []
+  },
+  "217afae3-a4fe-4d9f-bd6e-65749e1079ad": {
+    "content": "Speaker assistant says: It's great that you're thinking ahead about your daughter's education! For saving on a tight budget, consider these tips:\n1. Set up automatic transfers to a savings account, even if it's a small amount.\n2. Look into high-yield savings accounts or 529 college savings plans.\n3. Cut unnecessary expenses by reviewing your monthly bills.\n4. Take advantage of cash-back credit cards for everyday purchases.\n5. Consider picking up extra shifts during busy seasons if possible.\nHave you explored any government assistance programs that might help with your current expenses?",
+    "id": "217afae3-a4fe-4d9f-bd6e-65749e1079ad",
+    "timestamp": "0000_0004_0007",
+    "keywords": [
+      "education",
+      "savings",
+      "budget"
+    ],
+    "tags": [
+      "Time Management",
+      "Work-Life Balance",
+      "Stress Management",
+      "Single Parenting",
+      "Burnout Prevention"
+    ],
+    "context": "The content discusses strategies for balancing work and family life through effective time management techniques.",
+    "links": [
+      48
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212248",
+    "evolution_history": []
+  },
+  "e8503144-edbf-4242-8798-446b56230140": {
+    "content": "Speaker user says: I haven't looked into assistance programs yet. That's a good idea, thanks! One last question - do you know of any fun, free activities I can do with my daughter on my days off? We're always looking for new adventures.",
+    "id": "e8503144-edbf-4242-8798-446b56230140",
+    "timestamp": "0000_0004_0008",
+    "keywords": [
+      "assistance programs",
+      "free activities",
+      "daughter"
+    ],
+    "tags": [
+      "Free Activities",
+      "Parenting",
+      "Family Time"
+    ],
+    "context": "The speaker is seeking information on assistance programs and free activities to do with their daughter on days off.",
+    "links": [
+      49,
+      43,
+      1
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212248",
+    "evolution_history": []
+  },
+  "0c7d349d-7fe3-4e59-81a0-100af1023706": {
+    "content": "Speaker assistant says: Absolutely! There are many fun, free activities you can enjoy with your daughter:\n1. Visit local parks or nature trails for picnics or hikes.\n2. Check out free days at museums or art galleries in your area.\n3. Attend community events like festivals or outdoor concerts.\n4. Have a movie night at home with homemade snacks.\n5. Start a small garden or plant flowers together.\n6. Visit your local library for storytime sessions or to borrow books and games.\n7. Have a craft day using materials you already have at home.\nThese activities can be great for bonding and creating memories without straining your budget. Do any of these appeal to you and your daughter?",
+    "id": "0c7d349d-7fe3-4e59-81a0-100af1023706",
+    "timestamp": "0000_0004_0009",
+    "keywords": [
+      "activities",
+      "bonding",
+      "budget"
+    ],
+    "tags": [
+      "Free Activities",
+      "Parenting",
+      "Family Time"
+    ],
+    "context": "The content provides a list of free and fun activities for parents and children to bond and create memories without spending money.",
+    "links": [
+      50,
+      49,
+      43,
+      47,
+      1
+    ],
+    "importance_score": 1.0,
+    "retrieval_count": 0,
+    "last_accessed": "202605212248",
+    "evolution_history": []
+  }
+}
