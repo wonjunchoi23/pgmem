@@ -1,0 +1,16 @@
+2026-05-21 21:35:40,426 - INFO - ============================================================
+2026-05-21 21:35:40,426 - INFO - GraphMem v5 Experiment — LoComo
+2026-05-21 21:35:40,426 - INFO -   Config          : config_8
+2026-05-21 21:35:40,426 - INFO -   Mode            : full (Phase1 + QA)
+2026-05-21 21:35:40,426 - INFO -   Model           : meta-llama/Llama-3.1-8B-Instruct
+2026-05-21 21:35:40,426 - INFO -   Samples         : [0, 9]
+2026-05-21 21:35:40,426 - INFO -   Batch size      : 4
+2026-05-21 21:35:40,426 - INFO -   QA batch size   : 64
+2026-05-21 21:35:40,426 - INFO -   Embedding model : sentence-transformers/all-MiniLM-L6-v2
+2026-05-21 21:35:40,426 - INFO -   Temperature C5  : 0.5
+2026-05-21 21:35:40,426 - INFO -   JUDGMENT_RETRY  : 3
+2026-05-21 21:35:40,426 - INFO -   Log first N     : 10
+2026-05-21 21:35:40,426 - INFO - ============================================================
+2026-05-21 21:35:40,426 - INFO - Loading dataset...
+2026-05-21 21:35:40,436 - INFO - Resuming: 10 samples already completed
+2026-05-21 21:35:40,436 - INFO - All samples already completed.
