@@ -1,0 +1,10 @@
+{
+  "sample_id": "ldagent_Ministral-3-3B-Instruct-2512_20",
+  "current_virtual_seconds": 361200.0,
+  "last_conv_id": 4,
+  "pending_conv_count": 0,
+  "overall_retrieve_score": 5.875101037545923,
+  "overall_retrieve_count": 16,
+  "long_term_count": 4,
+  "short_term_count": 28
+}

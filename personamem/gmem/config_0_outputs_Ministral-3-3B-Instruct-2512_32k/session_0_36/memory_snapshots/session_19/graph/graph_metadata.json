@@ -1,0 +1,15 @@
+{
+  "node_counts": {
+    "c": 113,
+    "e": 10,
+    "s": 65,
+    "t": 1
+  },
+  "source_edges": 238,
+  "evidence_edges": {
+    "SUPPORT": 177,
+    "CONTRADICT": 54,
+    "SHIFT_TO": 79,
+    "IRRELEVANT": 160
+  }
+}
