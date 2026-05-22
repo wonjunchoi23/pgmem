@@ -1,0 +1,15 @@
+2026-05-21 21:38:10,216 - INFO - ============================================================
+2026-05-21 21:38:10,216 - INFO - A-MEM Batch Experiment — LoComo
+2026-05-21 21:38:10,216 - INFO -   Config          : config_0
+2026-05-21 21:38:10,216 - INFO -   Model           : Qwen/Qwen3-8B
+2026-05-21 21:38:10,216 - INFO -   Samples         : [0, 9]
+2026-05-21 21:38:10,216 - INFO -   Batch size      : 4
+2026-05-21 21:38:10,216 - INFO -   QA batch size   : 64
+2026-05-21 21:38:10,216 - INFO -   Embedding model : all-MiniLM-L6-v2
+2026-05-21 21:38:10,216 - INFO -   Retrieve K      : 5
+2026-05-21 21:38:10,216 - INFO -   Save snapshots  : True
+2026-05-21 21:38:10,216 - INFO -   LLM call log    : True
+2026-05-21 21:38:10,216 - INFO - ============================================================
+2026-05-21 21:38:10,216 - INFO - Loading dataset...
+2026-05-21 21:38:10,376 - INFO - Resuming: 10 samples already completed
+2026-05-21 21:38:10,376 - INFO - All samples already completed.

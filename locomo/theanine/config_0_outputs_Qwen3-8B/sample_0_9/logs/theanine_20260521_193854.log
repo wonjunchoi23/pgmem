@@ -1,0 +1,373 @@
+2026-05-21 19:38:54,786 - INFO - ============================================================
+2026-05-21 19:38:54,786 - INFO - Theanine Batch Experiment — LoComo
+2026-05-21 19:38:54,786 - INFO -   Config               : config_0
+2026-05-21 19:38:54,786 - INFO -   Model                : Qwen/Qwen3-8B
+2026-05-21 19:38:54,786 - INFO -   Samples              : [0, 9]
+2026-05-21 19:38:54,786 - INFO -   Batch size           : 4
+2026-05-21 19:38:54,786 - INFO -   Summarize batch size : 32
+2026-05-21 19:38:54,786 - INFO -   Relation batch size  : 64
+2026-05-21 19:38:54,786 - INFO -   Refine batch size    : 64
+2026-05-21 19:38:54,786 - INFO -   QA batch size        : 64
+2026-05-21 19:38:54,786 - INFO -   Embedding model      : all-MiniLM-L6-v2
+2026-05-21 19:38:54,786 - INFO -   Linking top_j        : 3
+2026-05-21 19:38:54,786 - INFO -   Retrieve top_k       : 5
+2026-05-21 19:38:54,786 - INFO -   Save snapshots       : True
+2026-05-21 19:38:54,786 - INFO -   LLM call logging     : True
+2026-05-21 19:38:54,786 - INFO - ============================================================
+2026-05-21 19:38:54,786 - INFO - Loading dataset...
+2026-05-21 19:38:54,971 - INFO - Loading shared embedding model: all-MiniLM-L6-v2
+2026-05-21 19:38:55,022 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,032 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,077 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,084 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,123 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,132 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,173 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,181 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,216 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,225 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,263 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,270 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,308 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 19:38:55,355 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,361 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,460 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 19:38:55,495 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 19:38:55,529 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 19:38:55,574 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-21 19:38:55,607 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,617 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,653 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,659 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,691 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,697 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,742 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,748 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,785 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-05-21 19:38:55,822 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,878 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-21 19:38:55,886 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,926 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-05-21 19:38:55,927 - INFO - Embedding model loaded.
+2026-05-21 19:38:55,927 - INFO - Initialising LLM client...
+2026-05-21 19:38:59,878 - INFO - Loading vLLM model from: Qwen/Qwen3-8B
+2026-05-21 19:38:59,879 - INFO - Using max_model_len=30000 for model Qwen/Qwen3-8B
+2026-05-21 19:39:21,902 - INFO - Tokenizer loaded for chat template support
+2026-05-21 19:39:21,902 - INFO - vLLM model loaded successfully
+2026-05-21 19:39:21,902 - INFO - Unified LLM client initialized with engine: vllm
+2026-05-21 19:39:21,902 - INFO - LLM client ready.
+2026-05-21 19:39:21,902 - INFO - Batch 1/3: samples ['conv-26', 'conv-30', 'conv-41', 'conv-42']
+2026-05-21 19:39:24,917 - INFO - finalize_conv: finalize_idx=0, sample_id=conv-26, sessions=[1], nodes_created=9, linked_edges=0
+2026-05-21 19:39:24,917 - INFO - finalize_conv: finalize_idx=0, sample_id=conv-30, sessions=[1], nodes_created=8, linked_edges=0
+2026-05-21 19:39:24,917 - INFO - finalize_conv: finalize_idx=0, sample_id=conv-41, sessions=[1], nodes_created=7, linked_edges=0
+2026-05-21 19:39:24,917 - INFO - finalize_conv: finalize_idx=0, sample_id=conv-42, sessions=[1], nodes_created=9, linked_edges=0
+2026-05-21 19:39:35,573 - INFO - finalize_conv: finalize_idx=1, sample_id=conv-26, sessions=[2], nodes_created=9, linked_edges=24
+2026-05-21 19:39:35,573 - INFO - finalize_conv: finalize_idx=1, sample_id=conv-30, sessions=[2], nodes_created=11, linked_edges=22
+2026-05-21 19:39:35,574 - INFO - finalize_conv: finalize_idx=1, sample_id=conv-41, sessions=[2], nodes_created=15, linked_edges=37
+2026-05-21 19:39:35,574 - INFO - finalize_conv: finalize_idx=1, sample_id=conv-42, sessions=[2], nodes_created=9, linked_edges=19
+2026-05-21 19:39:44,778 - INFO - finalize_conv: finalize_idx=2, sample_id=conv-26, sessions=[3], nodes_created=12, linked_edges=11
+2026-05-21 19:39:44,778 - INFO - finalize_conv: finalize_idx=2, sample_id=conv-30, sessions=[3], nodes_created=9, linked_edges=10
+2026-05-21 19:39:44,778 - INFO - finalize_conv: finalize_idx=2, sample_id=conv-41, sessions=[3], nodes_created=10, linked_edges=8
+2026-05-21 19:39:44,778 - INFO - finalize_conv: finalize_idx=2, sample_id=conv-42, sessions=[3], nodes_created=10, linked_edges=14
+2026-05-21 19:39:53,373 - INFO - finalize_conv: finalize_idx=3, sample_id=conv-26, sessions=[4], nodes_created=9, linked_edges=11
+2026-05-21 19:39:53,373 - INFO - finalize_conv: finalize_idx=3, sample_id=conv-30, sessions=[4], nodes_created=7, linked_edges=7
+2026-05-21 19:39:53,373 - INFO - finalize_conv: finalize_idx=3, sample_id=conv-41, sessions=[4], nodes_created=11, linked_edges=11
+2026-05-21 19:39:53,374 - INFO - finalize_conv: finalize_idx=3, sample_id=conv-42, sessions=[4], nodes_created=9, linked_edges=11
+2026-05-21 19:40:03,804 - INFO - finalize_conv: finalize_idx=4, sample_id=conv-26, sessions=[5], nodes_created=9, linked_edges=9
+2026-05-21 19:40:03,804 - INFO - finalize_conv: finalize_idx=4, sample_id=conv-30, sessions=[5], nodes_created=15, linked_edges=15
+2026-05-21 19:40:03,805 - INFO - finalize_conv: finalize_idx=4, sample_id=conv-41, sessions=[5], nodes_created=7, linked_edges=7
+2026-05-21 19:40:03,805 - INFO - finalize_conv: finalize_idx=4, sample_id=conv-42, sessions=[5], nodes_created=10, linked_edges=10
+2026-05-21 19:40:12,993 - INFO - finalize_conv: finalize_idx=5, sample_id=conv-26, sessions=[6], nodes_created=8, linked_edges=8
+2026-05-21 19:40:12,993 - INFO - finalize_conv: finalize_idx=5, sample_id=conv-30, sessions=[6], nodes_created=10, linked_edges=10
+2026-05-21 19:40:12,994 - INFO - finalize_conv: finalize_idx=5, sample_id=conv-41, sessions=[6], nodes_created=10, linked_edges=10
+2026-05-21 19:40:12,994 - INFO - finalize_conv: finalize_idx=5, sample_id=conv-42, sessions=[6], nodes_created=8, linked_edges=8
+2026-05-21 19:40:22,332 - INFO - finalize_conv: finalize_idx=6, sample_id=conv-26, sessions=[7], nodes_created=13, linked_edges=12
+2026-05-21 19:40:22,333 - INFO - finalize_conv: finalize_idx=6, sample_id=conv-30, sessions=[7], nodes_created=9, linked_edges=9
+2026-05-21 19:40:22,333 - INFO - finalize_conv: finalize_idx=6, sample_id=conv-41, sessions=[7], nodes_created=9, linked_edges=8
+2026-05-21 19:40:22,333 - INFO - finalize_conv: finalize_idx=6, sample_id=conv-42, sessions=[7], nodes_created=7, linked_edges=6
+2026-05-21 19:40:35,713 - INFO - finalize_conv: finalize_idx=7, sample_id=conv-26, sessions=[8], nodes_created=13, linked_edges=15
+2026-05-21 19:40:35,713 - INFO - finalize_conv: finalize_idx=7, sample_id=conv-30, sessions=[8], nodes_created=9, linked_edges=9
+2026-05-21 19:40:35,714 - INFO - finalize_conv: finalize_idx=7, sample_id=conv-41, sessions=[8], nodes_created=15, linked_edges=15
+2026-05-21 19:40:35,714 - INFO - finalize_conv: finalize_idx=7, sample_id=conv-42, sessions=[8], nodes_created=11, linked_edges=10
+2026-05-21 19:40:44,899 - INFO - finalize_conv: finalize_idx=8, sample_id=conv-26, sessions=[9], nodes_created=9, linked_edges=9
+2026-05-21 19:40:44,900 - INFO - finalize_conv: finalize_idx=8, sample_id=conv-30, sessions=[9], nodes_created=11, linked_edges=11
+2026-05-21 19:40:44,900 - INFO - finalize_conv: finalize_idx=8, sample_id=conv-41, sessions=[9], nodes_created=7, linked_edges=7
+2026-05-21 19:40:44,901 - INFO - finalize_conv: finalize_idx=8, sample_id=conv-42, sessions=[9], nodes_created=10, linked_edges=10
+2026-05-21 19:40:54,639 - INFO - finalize_conv: finalize_idx=9, sample_id=conv-26, sessions=[10], nodes_created=9, linked_edges=9
+2026-05-21 19:40:54,640 - INFO - finalize_conv: finalize_idx=9, sample_id=conv-30, sessions=[10], nodes_created=12, linked_edges=12
+2026-05-21 19:40:54,640 - INFO - finalize_conv: finalize_idx=9, sample_id=conv-41, sessions=[10], nodes_created=9, linked_edges=13
+2026-05-21 19:40:54,641 - INFO - finalize_conv: finalize_idx=9, sample_id=conv-42, sessions=[10], nodes_created=9, linked_edges=9
+2026-05-21 19:41:04,313 - INFO - finalize_conv: finalize_idx=10, sample_id=conv-26, sessions=[11], nodes_created=10, linked_edges=10
+2026-05-21 19:41:04,313 - INFO - finalize_conv: finalize_idx=10, sample_id=conv-30, sessions=[11], nodes_created=10, linked_edges=10
+2026-05-21 19:41:04,314 - INFO - finalize_conv: finalize_idx=10, sample_id=conv-41, sessions=[11], nodes_created=10, linked_edges=11
+2026-05-21 19:41:04,314 - INFO - finalize_conv: finalize_idx=10, sample_id=conv-42, sessions=[11], nodes_created=9, linked_edges=9
+2026-05-21 19:41:13,667 - INFO - finalize_conv: finalize_idx=11, sample_id=conv-26, sessions=[12], nodes_created=10, linked_edges=10
+2026-05-21 19:41:13,668 - INFO - finalize_conv: finalize_idx=11, sample_id=conv-30, sessions=[12], nodes_created=8, linked_edges=8
+2026-05-21 19:41:13,669 - INFO - finalize_conv: finalize_idx=11, sample_id=conv-41, sessions=[12], nodes_created=9, linked_edges=9
+2026-05-21 19:41:13,670 - INFO - finalize_conv: finalize_idx=11, sample_id=conv-42, sessions=[12], nodes_created=10, linked_edges=10
+2026-05-21 19:41:23,555 - INFO - finalize_conv: finalize_idx=12, sample_id=conv-26, sessions=[13], nodes_created=9, linked_edges=9
+2026-05-21 19:41:23,556 - INFO - finalize_conv: finalize_idx=12, sample_id=conv-30, sessions=[13], nodes_created=11, linked_edges=11
+2026-05-21 19:41:23,557 - INFO - finalize_conv: finalize_idx=12, sample_id=conv-41, sessions=[13], nodes_created=12, linked_edges=12
+2026-05-21 19:41:23,557 - INFO - finalize_conv: finalize_idx=12, sample_id=conv-42, sessions=[13], nodes_created=9, linked_edges=9
+2026-05-21 19:41:37,747 - INFO - finalize_conv: finalize_idx=13, sample_id=conv-26, sessions=[14], nodes_created=13, linked_edges=13
+2026-05-21 19:41:37,748 - INFO - finalize_conv: finalize_idx=13, sample_id=conv-30, sessions=[14], nodes_created=13, linked_edges=13
+2026-05-21 19:41:37,749 - INFO - finalize_conv: finalize_idx=13, sample_id=conv-41, sessions=[14], nodes_created=13, linked_edges=13
+2026-05-21 19:41:37,750 - INFO - finalize_conv: finalize_idx=13, sample_id=conv-42, sessions=[14], nodes_created=10, linked_edges=10
+2026-05-21 19:41:48,233 - INFO - finalize_conv: finalize_idx=14, sample_id=conv-26, sessions=[15], nodes_created=13, linked_edges=13
+2026-05-21 19:41:48,234 - INFO - finalize_conv: finalize_idx=14, sample_id=conv-30, sessions=[15], nodes_created=9, linked_edges=9
+2026-05-21 19:41:48,234 - INFO - finalize_conv: finalize_idx=14, sample_id=conv-41, sessions=[15], nodes_created=9, linked_edges=8
+2026-05-21 19:41:48,235 - INFO - finalize_conv: finalize_idx=14, sample_id=conv-42, sessions=[15], nodes_created=9, linked_edges=9
+2026-05-21 19:41:57,883 - INFO - finalize_conv: finalize_idx=15, sample_id=conv-26, sessions=[16], nodes_created=9, linked_edges=8
+2026-05-21 19:41:57,884 - INFO - finalize_conv: finalize_idx=15, sample_id=conv-30, sessions=[16], nodes_created=9, linked_edges=9
+2026-05-21 19:41:57,885 - INFO - finalize_conv: finalize_idx=15, sample_id=conv-41, sessions=[16], nodes_created=11, linked_edges=12
+2026-05-21 19:41:57,886 - INFO - finalize_conv: finalize_idx=15, sample_id=conv-42, sessions=[16], nodes_created=8, linked_edges=8
+2026-05-21 19:42:09,367 - INFO - finalize_conv: finalize_idx=16, sample_id=conv-26, sessions=[17], nodes_created=13, linked_edges=13
+2026-05-21 19:42:09,369 - INFO - finalize_conv: finalize_idx=16, sample_id=conv-30, sessions=[17], nodes_created=10, linked_edges=10
+2026-05-21 19:42:09,369 - INFO - finalize_conv: finalize_idx=16, sample_id=conv-41, sessions=[17], nodes_created=10, linked_edges=9
+2026-05-21 19:42:09,370 - INFO - finalize_conv: finalize_idx=16, sample_id=conv-42, sessions=[17], nodes_created=9, linked_edges=9
+2026-05-21 19:42:19,971 - INFO - finalize_conv: finalize_idx=17, sample_id=conv-26, sessions=[18], nodes_created=10, linked_edges=10
+2026-05-21 19:42:19,973 - INFO - finalize_conv: finalize_idx=17, sample_id=conv-30, sessions=[18], nodes_created=11, linked_edges=11
+2026-05-21 19:42:19,974 - INFO - finalize_conv: finalize_idx=17, sample_id=conv-41, sessions=[18], nodes_created=10, linked_edges=10
+2026-05-21 19:42:19,975 - INFO - finalize_conv: finalize_idx=17, sample_id=conv-42, sessions=[18], nodes_created=9, linked_edges=9
+2026-05-21 19:42:27,296 - INFO - finalize_conv: finalize_idx=18, sample_id=conv-41, sessions=[19], nodes_created=10, linked_edges=9
+2026-05-21 19:42:27,297 - INFO - finalize_conv: finalize_idx=18, sample_id=conv-42, sessions=[19], nodes_created=11, linked_edges=11
+2026-05-21 19:42:33,405 - INFO - finalize_conv: finalize_idx=19, sample_id=conv-41, sessions=[20], nodes_created=9, linked_edges=9
+2026-05-21 19:42:33,406 - INFO - finalize_conv: finalize_idx=19, sample_id=conv-42, sessions=[20], nodes_created=10, linked_edges=10
+2026-05-21 19:42:42,499 - INFO - finalize_conv: finalize_idx=20, sample_id=conv-41, sessions=[21], nodes_created=13, linked_edges=13
+2026-05-21 19:42:42,501 - INFO - finalize_conv: finalize_idx=20, sample_id=conv-42, sessions=[21], nodes_created=12, linked_edges=12
+2026-05-21 19:42:50,947 - INFO - finalize_conv: finalize_idx=21, sample_id=conv-41, sessions=[22], nodes_created=13, linked_edges=13
+2026-05-21 19:42:50,948 - INFO - finalize_conv: finalize_idx=21, sample_id=conv-42, sessions=[22], nodes_created=10, linked_edges=10
+2026-05-21 19:42:58,122 - INFO - finalize_conv: finalize_idx=22, sample_id=conv-41, sessions=[23], nodes_created=5, linked_edges=5
+2026-05-21 19:42:58,123 - INFO - finalize_conv: finalize_idx=22, sample_id=conv-42, sessions=[23], nodes_created=12, linked_edges=12
+2026-05-21 19:43:03,229 - INFO - finalize_conv: finalize_idx=23, sample_id=conv-41, sessions=[24], nodes_created=9, linked_edges=9
+2026-05-21 19:43:03,231 - INFO - finalize_conv: finalize_idx=23, sample_id=conv-42, sessions=[24], nodes_created=8, linked_edges=8
+2026-05-21 19:43:10,746 - INFO - finalize_conv: finalize_idx=24, sample_id=conv-41, sessions=[25], nodes_created=9, linked_edges=9
+2026-05-21 19:43:10,747 - INFO - finalize_conv: finalize_idx=24, sample_id=conv-42, sessions=[25], nodes_created=11, linked_edges=11
+2026-05-21 19:43:19,034 - INFO - finalize_conv: finalize_idx=25, sample_id=conv-41, sessions=[26], nodes_created=13, linked_edges=12
+2026-05-21 19:43:19,035 - INFO - finalize_conv: finalize_idx=25, sample_id=conv-42, sessions=[26], nodes_created=10, linked_edges=10
+2026-05-21 19:43:28,871 - INFO - finalize_conv: finalize_idx=26, sample_id=conv-41, sessions=[27], nodes_created=9, linked_edges=9
+2026-05-21 19:43:28,873 - INFO - finalize_conv: finalize_idx=26, sample_id=conv-42, sessions=[27], nodes_created=15, linked_edges=15
+2026-05-21 19:43:37,590 - INFO - finalize_conv: finalize_idx=27, sample_id=conv-41, sessions=[28], nodes_created=9, linked_edges=8
+2026-05-21 19:43:37,592 - INFO - finalize_conv: finalize_idx=27, sample_id=conv-42, sessions=[28], nodes_created=13, linked_edges=12
+2026-05-21 19:43:42,457 - INFO - finalize_conv: finalize_idx=28, sample_id=conv-41, sessions=[29], nodes_created=10, linked_edges=10
+2026-05-21 19:43:47,761 - INFO - finalize_conv: finalize_idx=29, sample_id=conv-41, sessions=[30], nodes_created=10, linked_edges=11
+2026-05-21 19:43:52,500 - INFO - finalize_conv: finalize_idx=30, sample_id=conv-41, sessions=[31], nodes_created=9, linked_edges=9
+2026-05-21 19:44:02,471 - INFO - finalize_conv: finalize_idx=18, sample_id=conv-26, sessions=[19], nodes_created=9, linked_edges=9
+2026-05-21 19:44:02,473 - INFO - finalize_conv: finalize_idx=18, sample_id=conv-30, sessions=[19], nodes_created=9, linked_edges=9
+2026-05-21 19:44:02,474 - INFO - finalize_conv: finalize_idx=31, sample_id=conv-41, sessions=[32], nodes_created=10, linked_edges=10
+2026-05-21 19:44:02,476 - INFO - finalize_conv: finalize_idx=28, sample_id=conv-42, sessions=[29], nodes_created=10, linked_edges=10
+2026-05-21 19:44:02,476 - INFO - Phase 1 done: sample conv-26, memory nodes=196, finalize batches=19
+2026-05-21 19:44:02,476 - INFO - Phase 1 done: sample conv-30, memory nodes=191, finalize batches=19
+2026-05-21 19:44:02,476 - INFO - Phase 1 done: sample conv-41, memory nodes=322, finalize batches=32
+2026-05-21 19:44:02,476 - INFO - Phase 1 done: sample conv-42, memory nodes=287, finalize batches=29
+2026-05-21 19:48:16,397 - INFO - Memory snapshot saved: sample conv-26
+2026-05-21 19:48:16,398 - INFO - Memory cleared: sample conv-26
+2026-05-21 19:48:16,403 - INFO - Memory snapshot saved: sample conv-30
+2026-05-21 19:48:16,403 - INFO - Memory cleared: sample conv-30
+2026-05-21 19:48:16,411 - INFO - Memory snapshot saved: sample conv-41
+2026-05-21 19:48:16,411 - INFO - Memory cleared: sample conv-41
+2026-05-21 19:48:16,418 - INFO - Memory snapshot saved: sample conv-42
+2026-05-21 19:48:16,418 - INFO - Memory cleared: sample conv-42
+2026-05-21 19:48:16,430 - INFO - Sample conv-26 done. QA: 199, Total LLM calls: 1767
+2026-05-21 19:48:16,445 - INFO - Sample conv-30 done. QA: 105, Total LLM calls: 1179
+2026-05-21 19:48:16,469 - INFO - Sample conv-41 done. QA: 193, Total LLM calls: 2135
+2026-05-21 19:48:16,505 - INFO - Sample conv-42 done. QA: 260, Total LLM calls: 2372
+2026-05-21 19:48:16,505 - INFO - Batch 2/3: samples ['conv-43', 'conv-44', 'conv-47', 'conv-48']
+2026-05-21 19:48:19,833 - INFO - finalize_conv: finalize_idx=0, sample_id=conv-43, sessions=[1], nodes_created=10, linked_edges=0
+2026-05-21 19:48:19,833 - INFO - finalize_conv: finalize_idx=0, sample_id=conv-44, sessions=[1], nodes_created=8, linked_edges=0
+2026-05-21 19:48:19,833 - INFO - finalize_conv: finalize_idx=0, sample_id=conv-47, sessions=[1], nodes_created=11, linked_edges=0
+2026-05-21 19:48:19,833 - INFO - finalize_conv: finalize_idx=0, sample_id=conv-48, sessions=[1], nodes_created=10, linked_edges=0
+2026-05-21 19:48:29,287 - INFO - finalize_conv: finalize_idx=1, sample_id=conv-43, sessions=[2], nodes_created=8, linked_edges=21
+2026-05-21 19:48:29,287 - INFO - finalize_conv: finalize_idx=1, sample_id=conv-44, sessions=[2], nodes_created=9, linked_edges=26
+2026-05-21 19:48:29,287 - INFO - finalize_conv: finalize_idx=1, sample_id=conv-47, sessions=[2], nodes_created=10, linked_edges=20
+2026-05-21 19:48:29,287 - INFO - finalize_conv: finalize_idx=1, sample_id=conv-48, sessions=[2], nodes_created=10, linked_edges=24
+2026-05-21 19:48:38,632 - INFO - finalize_conv: finalize_idx=2, sample_id=conv-43, sessions=[3], nodes_created=9, linked_edges=10
+2026-05-21 19:48:38,633 - INFO - finalize_conv: finalize_idx=2, sample_id=conv-44, sessions=[3], nodes_created=11, linked_edges=9
+2026-05-21 19:48:38,633 - INFO - finalize_conv: finalize_idx=2, sample_id=conv-47, sessions=[3], nodes_created=10, linked_edges=10
+2026-05-21 19:48:38,633 - INFO - finalize_conv: finalize_idx=2, sample_id=conv-48, sessions=[3], nodes_created=8, linked_edges=7
+2026-05-21 19:48:48,849 - INFO - finalize_conv: finalize_idx=3, sample_id=conv-43, sessions=[4], nodes_created=7, linked_edges=8
+2026-05-21 19:48:48,850 - INFO - finalize_conv: finalize_idx=3, sample_id=conv-44, sessions=[4], nodes_created=13, linked_edges=14
+2026-05-21 19:48:48,850 - INFO - finalize_conv: finalize_idx=3, sample_id=conv-47, sessions=[4], nodes_created=10, linked_edges=10
+2026-05-21 19:48:48,850 - INFO - finalize_conv: finalize_idx=3, sample_id=conv-48, sessions=[4], nodes_created=12, linked_edges=16
+2026-05-21 19:48:57,858 - INFO - finalize_conv: finalize_idx=4, sample_id=conv-43, sessions=[5], nodes_created=7, linked_edges=7
+2026-05-21 19:48:57,858 - INFO - finalize_conv: finalize_idx=4, sample_id=conv-44, sessions=[5], nodes_created=10, linked_edges=10
+2026-05-21 19:48:57,858 - INFO - finalize_conv: finalize_idx=4, sample_id=conv-47, sessions=[5], nodes_created=8, linked_edges=8
+2026-05-21 19:48:57,859 - INFO - finalize_conv: finalize_idx=4, sample_id=conv-48, sessions=[5], nodes_created=11, linked_edges=9
+2026-05-21 19:49:08,297 - INFO - finalize_conv: finalize_idx=5, sample_id=conv-43, sessions=[6], nodes_created=13, linked_edges=13
+2026-05-21 19:49:08,297 - INFO - finalize_conv: finalize_idx=5, sample_id=conv-44, sessions=[6], nodes_created=9, linked_edges=9
+2026-05-21 19:49:08,297 - INFO - finalize_conv: finalize_idx=5, sample_id=conv-47, sessions=[6], nodes_created=10, linked_edges=11
+2026-05-21 19:49:08,298 - INFO - finalize_conv: finalize_idx=5, sample_id=conv-48, sessions=[6], nodes_created=7, linked_edges=5
+2026-05-21 19:49:17,267 - INFO - finalize_conv: finalize_idx=6, sample_id=conv-43, sessions=[7], nodes_created=9, linked_edges=9
+2026-05-21 19:49:17,268 - INFO - finalize_conv: finalize_idx=6, sample_id=conv-44, sessions=[7], nodes_created=8, linked_edges=8
+2026-05-21 19:49:17,268 - INFO - finalize_conv: finalize_idx=6, sample_id=conv-47, sessions=[7], nodes_created=9, linked_edges=7
+2026-05-21 19:49:17,268 - INFO - finalize_conv: finalize_idx=6, sample_id=conv-48, sessions=[7], nodes_created=10, linked_edges=11
+2026-05-21 19:49:29,698 - INFO - finalize_conv: finalize_idx=7, sample_id=conv-43, sessions=[8], nodes_created=13, linked_edges=14
+2026-05-21 19:49:29,699 - INFO - finalize_conv: finalize_idx=7, sample_id=conv-44, sessions=[8], nodes_created=8, linked_edges=8
+2026-05-21 19:49:29,699 - INFO - finalize_conv: finalize_idx=7, sample_id=conv-47, sessions=[8], nodes_created=13, linked_edges=17
+2026-05-21 19:49:29,700 - INFO - finalize_conv: finalize_idx=7, sample_id=conv-48, sessions=[8], nodes_created=13, linked_edges=13
+2026-05-21 19:49:38,478 - INFO - finalize_conv: finalize_idx=8, sample_id=conv-43, sessions=[9], nodes_created=7, linked_edges=7
+2026-05-21 19:49:38,478 - INFO - finalize_conv: finalize_idx=8, sample_id=conv-44, sessions=[9], nodes_created=9, linked_edges=9
+2026-05-21 19:49:38,479 - INFO - finalize_conv: finalize_idx=8, sample_id=conv-47, sessions=[9], nodes_created=10, linked_edges=10
+2026-05-21 19:49:38,479 - INFO - finalize_conv: finalize_idx=8, sample_id=conv-48, sessions=[9], nodes_created=8, linked_edges=8
+2026-05-21 19:49:49,202 - INFO - finalize_conv: finalize_idx=9, sample_id=conv-43, sessions=[10], nodes_created=10, linked_edges=8
+2026-05-21 19:49:49,202 - INFO - finalize_conv: finalize_idx=9, sample_id=conv-44, sessions=[10], nodes_created=13, linked_edges=14
+2026-05-21 19:49:49,203 - INFO - finalize_conv: finalize_idx=9, sample_id=conv-47, sessions=[10], nodes_created=7, linked_edges=9
+2026-05-21 19:49:49,203 - INFO - finalize_conv: finalize_idx=9, sample_id=conv-48, sessions=[10], nodes_created=8, linked_edges=8
+2026-05-21 19:50:02,031 - INFO - finalize_conv: finalize_idx=10, sample_id=conv-43, sessions=[11], nodes_created=13, linked_edges=13
+2026-05-21 19:50:02,032 - INFO - finalize_conv: finalize_idx=10, sample_id=conv-44, sessions=[11], nodes_created=14, linked_edges=14
+2026-05-21 19:50:02,032 - INFO - finalize_conv: finalize_idx=10, sample_id=conv-47, sessions=[11], nodes_created=10, linked_edges=10
+2026-05-21 19:50:02,033 - INFO - finalize_conv: finalize_idx=10, sample_id=conv-48, sessions=[11], nodes_created=11, linked_edges=10
+2026-05-21 19:50:12,133 - INFO - finalize_conv: finalize_idx=11, sample_id=conv-43, sessions=[12], nodes_created=13, linked_edges=9
+2026-05-21 19:50:12,133 - INFO - finalize_conv: finalize_idx=11, sample_id=conv-44, sessions=[12], nodes_created=7, linked_edges=7
+2026-05-21 19:50:12,134 - INFO - finalize_conv: finalize_idx=11, sample_id=conv-47, sessions=[12], nodes_created=10, linked_edges=8
+2026-05-21 19:50:12,134 - INFO - finalize_conv: finalize_idx=11, sample_id=conv-48, sessions=[12], nodes_created=9, linked_edges=9
+2026-05-21 19:50:22,307 - INFO - finalize_conv: finalize_idx=12, sample_id=conv-43, sessions=[13], nodes_created=9, linked_edges=8
+2026-05-21 19:50:22,308 - INFO - finalize_conv: finalize_idx=12, sample_id=conv-44, sessions=[13], nodes_created=9, linked_edges=9
+2026-05-21 19:50:22,308 - INFO - finalize_conv: finalize_idx=12, sample_id=conv-47, sessions=[13], nodes_created=11, linked_edges=9
+2026-05-21 19:50:22,309 - INFO - finalize_conv: finalize_idx=12, sample_id=conv-48, sessions=[13], nodes_created=10, linked_edges=10
+2026-05-21 19:50:32,999 - INFO - finalize_conv: finalize_idx=13, sample_id=conv-43, sessions=[14], nodes_created=13, linked_edges=12
+2026-05-21 19:50:32,999 - INFO - finalize_conv: finalize_idx=13, sample_id=conv-44, sessions=[14], nodes_created=10, linked_edges=10
+2026-05-21 19:50:33,000 - INFO - finalize_conv: finalize_idx=13, sample_id=conv-47, sessions=[14], nodes_created=9, linked_edges=9
+2026-05-21 19:50:33,001 - INFO - finalize_conv: finalize_idx=13, sample_id=conv-48, sessions=[14], nodes_created=9, linked_edges=9
+2026-05-21 19:50:47,910 - INFO - finalize_conv: finalize_idx=14, sample_id=conv-43, sessions=[15], nodes_created=14, linked_edges=14
+2026-05-21 19:50:47,911 - INFO - finalize_conv: finalize_idx=14, sample_id=conv-44, sessions=[15], nodes_created=11, linked_edges=11
+2026-05-21 19:50:47,912 - INFO - finalize_conv: finalize_idx=14, sample_id=conv-47, sessions=[15], nodes_created=9, linked_edges=9
+2026-05-21 19:50:47,913 - INFO - finalize_conv: finalize_idx=14, sample_id=conv-48, sessions=[15], nodes_created=15, linked_edges=15
+2026-05-21 19:50:57,498 - INFO - finalize_conv: finalize_idx=15, sample_id=conv-43, sessions=[16], nodes_created=9, linked_edges=9
+2026-05-21 19:50:57,499 - INFO - finalize_conv: finalize_idx=15, sample_id=conv-44, sessions=[16], nodes_created=12, linked_edges=12
+2026-05-21 19:50:57,500 - INFO - finalize_conv: finalize_idx=15, sample_id=conv-47, sessions=[16], nodes_created=7, linked_edges=6
+2026-05-21 19:50:57,501 - INFO - finalize_conv: finalize_idx=15, sample_id=conv-48, sessions=[16], nodes_created=7, linked_edges=6
+2026-05-21 19:51:08,049 - INFO - finalize_conv: finalize_idx=16, sample_id=conv-43, sessions=[17], nodes_created=9, linked_edges=10
+2026-05-21 19:51:08,050 - INFO - finalize_conv: finalize_idx=16, sample_id=conv-44, sessions=[17], nodes_created=9, linked_edges=9
+2026-05-21 19:51:08,051 - INFO - finalize_conv: finalize_idx=16, sample_id=conv-47, sessions=[17], nodes_created=13, linked_edges=12
+2026-05-21 19:51:08,051 - INFO - finalize_conv: finalize_idx=16, sample_id=conv-48, sessions=[17], nodes_created=7, linked_edges=8
+2026-05-21 19:51:17,713 - INFO - finalize_conv: finalize_idx=17, sample_id=conv-43, sessions=[18], nodes_created=9, linked_edges=8
+2026-05-21 19:51:17,714 - INFO - finalize_conv: finalize_idx=17, sample_id=conv-44, sessions=[18], nodes_created=9, linked_edges=9
+2026-05-21 19:51:17,715 - INFO - finalize_conv: finalize_idx=17, sample_id=conv-47, sessions=[18], nodes_created=10, linked_edges=10
+2026-05-21 19:51:17,716 - INFO - finalize_conv: finalize_idx=17, sample_id=conv-48, sessions=[18], nodes_created=8, linked_edges=8
+2026-05-21 19:51:29,774 - INFO - finalize_conv: finalize_idx=18, sample_id=conv-43, sessions=[19], nodes_created=13, linked_edges=14
+2026-05-21 19:51:29,775 - INFO - finalize_conv: finalize_idx=18, sample_id=conv-44, sessions=[19], nodes_created=8, linked_edges=8
+2026-05-21 19:51:29,775 - INFO - finalize_conv: finalize_idx=18, sample_id=conv-47, sessions=[19], nodes_created=6, linked_edges=6
+2026-05-21 19:51:29,777 - INFO - finalize_conv: finalize_idx=18, sample_id=conv-48, sessions=[19], nodes_created=11, linked_edges=11
+2026-05-21 19:51:44,540 - INFO - finalize_conv: finalize_idx=19, sample_id=conv-43, sessions=[20], nodes_created=14, linked_edges=14
+2026-05-21 19:51:44,542 - INFO - finalize_conv: finalize_idx=19, sample_id=conv-44, sessions=[20], nodes_created=13, linked_edges=14
+2026-05-21 19:51:44,543 - INFO - finalize_conv: finalize_idx=19, sample_id=conv-47, sessions=[20], nodes_created=13, linked_edges=13
+2026-05-21 19:51:44,545 - INFO - finalize_conv: finalize_idx=19, sample_id=conv-48, sessions=[20], nodes_created=10, linked_edges=10
+2026-05-21 19:51:55,684 - INFO - finalize_conv: finalize_idx=20, sample_id=conv-43, sessions=[21], nodes_created=15, linked_edges=15
+2026-05-21 19:51:55,686 - INFO - finalize_conv: finalize_idx=20, sample_id=conv-44, sessions=[21], nodes_created=10, linked_edges=9
+2026-05-21 19:51:55,686 - INFO - finalize_conv: finalize_idx=20, sample_id=conv-47, sessions=[21], nodes_created=6, linked_edges=6
+2026-05-21 19:51:55,687 - INFO - finalize_conv: finalize_idx=20, sample_id=conv-48, sessions=[21], nodes_created=9, linked_edges=9
+2026-05-21 19:52:07,831 - INFO - finalize_conv: finalize_idx=21, sample_id=conv-43, sessions=[22], nodes_created=10, linked_edges=10
+2026-05-21 19:52:07,832 - INFO - finalize_conv: finalize_idx=21, sample_id=conv-44, sessions=[22], nodes_created=8, linked_edges=8
+2026-05-21 19:52:07,833 - INFO - finalize_conv: finalize_idx=21, sample_id=conv-47, sessions=[22], nodes_created=10, linked_edges=10
+2026-05-21 19:52:07,835 - INFO - finalize_conv: finalize_idx=21, sample_id=conv-48, sessions=[22], nodes_created=11, linked_edges=11
+2026-05-21 19:52:21,839 - INFO - finalize_conv: finalize_idx=22, sample_id=conv-43, sessions=[23], nodes_created=11, linked_edges=11
+2026-05-21 19:52:21,840 - INFO - finalize_conv: finalize_idx=22, sample_id=conv-44, sessions=[23], nodes_created=10, linked_edges=10
+2026-05-21 19:52:21,841 - INFO - finalize_conv: finalize_idx=22, sample_id=conv-47, sessions=[23], nodes_created=10, linked_edges=10
+2026-05-21 19:52:21,843 - INFO - finalize_conv: finalize_idx=22, sample_id=conv-48, sessions=[23], nodes_created=12, linked_edges=12
+2026-05-21 19:52:31,733 - INFO - finalize_conv: finalize_idx=23, sample_id=conv-43, sessions=[24], nodes_created=9, linked_edges=9
+2026-05-21 19:52:31,735 - INFO - finalize_conv: finalize_idx=23, sample_id=conv-44, sessions=[24], nodes_created=9, linked_edges=9
+2026-05-21 19:52:31,736 - INFO - finalize_conv: finalize_idx=23, sample_id=conv-47, sessions=[24], nodes_created=9, linked_edges=9
+2026-05-21 19:52:31,737 - INFO - finalize_conv: finalize_idx=23, sample_id=conv-48, sessions=[24], nodes_created=9, linked_edges=9
+2026-05-21 19:52:42,750 - INFO - finalize_conv: finalize_idx=24, sample_id=conv-43, sessions=[25], nodes_created=8, linked_edges=8
+2026-05-21 19:52:42,751 - INFO - finalize_conv: finalize_idx=24, sample_id=conv-44, sessions=[25], nodes_created=9, linked_edges=9
+2026-05-21 19:52:42,752 - INFO - finalize_conv: finalize_idx=24, sample_id=conv-47, sessions=[25], nodes_created=13, linked_edges=11
+2026-05-21 19:52:42,753 - INFO - finalize_conv: finalize_idx=24, sample_id=conv-48, sessions=[25], nodes_created=7, linked_edges=7
+2026-05-21 19:52:54,296 - INFO - finalize_conv: finalize_idx=25, sample_id=conv-43, sessions=[26], nodes_created=11, linked_edges=11
+2026-05-21 19:52:54,298 - INFO - finalize_conv: finalize_idx=25, sample_id=conv-44, sessions=[26], nodes_created=10, linked_edges=10
+2026-05-21 19:52:54,299 - INFO - finalize_conv: finalize_idx=25, sample_id=conv-47, sessions=[26], nodes_created=7, linked_edges=7
+2026-05-21 19:52:54,300 - INFO - finalize_conv: finalize_idx=25, sample_id=conv-48, sessions=[26], nodes_created=9, linked_edges=7
+2026-05-21 19:53:05,533 - INFO - finalize_conv: finalize_idx=26, sample_id=conv-43, sessions=[27], nodes_created=11, linked_edges=11
+2026-05-21 19:53:05,534 - INFO - finalize_conv: finalize_idx=26, sample_id=conv-44, sessions=[27], nodes_created=9, linked_edges=9
+2026-05-21 19:53:05,536 - INFO - finalize_conv: finalize_idx=26, sample_id=conv-47, sessions=[27], nodes_created=8, linked_edges=8
+2026-05-21 19:53:05,537 - INFO - finalize_conv: finalize_idx=26, sample_id=conv-48, sessions=[27], nodes_created=7, linked_edges=7
+2026-05-21 19:53:16,012 - INFO - finalize_conv: finalize_idx=27, sample_id=conv-43, sessions=[28], nodes_created=7, linked_edges=7
+2026-05-21 19:53:16,014 - INFO - finalize_conv: finalize_idx=27, sample_id=conv-47, sessions=[28], nodes_created=11, linked_edges=11
+2026-05-21 19:53:16,015 - INFO - finalize_conv: finalize_idx=27, sample_id=conv-48, sessions=[28], nodes_created=11, linked_edges=11
+2026-05-21 19:53:24,168 - INFO - finalize_conv: finalize_idx=28, sample_id=conv-47, sessions=[29], nodes_created=8, linked_edges=10
+2026-05-21 19:53:24,170 - INFO - finalize_conv: finalize_idx=28, sample_id=conv-48, sessions=[29], nodes_created=13, linked_edges=13
+2026-05-21 19:53:28,556 - INFO - finalize_conv: finalize_idx=29, sample_id=conv-47, sessions=[30], nodes_created=8, linked_edges=8
+2026-05-21 19:53:39,543 - INFO - finalize_conv: finalize_idx=28, sample_id=conv-43, sessions=[29], nodes_created=7, linked_edges=7
+2026-05-21 19:53:39,544 - INFO - finalize_conv: finalize_idx=27, sample_id=conv-44, sessions=[28], nodes_created=12, linked_edges=12
+2026-05-21 19:53:39,546 - INFO - finalize_conv: finalize_idx=30, sample_id=conv-47, sessions=[31], nodes_created=8, linked_edges=8
+2026-05-21 19:53:39,547 - INFO - finalize_conv: finalize_idx=29, sample_id=conv-48, sessions=[30], nodes_created=10, linked_edges=10
+2026-05-21 19:53:39,547 - INFO - Phase 1 done: sample conv-43, memory nodes=298, finalize batches=29
+2026-05-21 19:53:39,547 - INFO - Phase 1 done: sample conv-44, memory nodes=277, finalize batches=28
+2026-05-21 19:53:39,547 - INFO - Phase 1 done: sample conv-47, memory nodes=294, finalize batches=31
+2026-05-21 19:53:39,548 - INFO - Phase 1 done: sample conv-48, memory nodes=292, finalize batches=30
+2026-05-21 19:58:40,808 - INFO - Memory snapshot saved: sample conv-43
+2026-05-21 19:58:40,808 - INFO - Memory cleared: sample conv-43
+2026-05-21 19:58:40,816 - INFO - Memory snapshot saved: sample conv-44
+2026-05-21 19:58:40,816 - INFO - Memory cleared: sample conv-44
+2026-05-21 19:58:40,823 - INFO - Memory snapshot saved: sample conv-47
+2026-05-21 19:58:40,824 - INFO - Memory cleared: sample conv-47
+2026-05-21 19:58:40,833 - INFO - Memory snapshot saved: sample conv-48
+2026-05-21 19:58:40,833 - INFO - Memory cleared: sample conv-48
+2026-05-21 19:58:40,884 - INFO - Sample conv-43 done. QA: 242, Total LLM calls: 2337
+2026-05-21 19:58:40,939 - INFO - Sample conv-44 done. QA: 158, Total LLM calls: 1777
+2026-05-21 19:58:41,004 - INFO - Sample conv-47 done. QA: 190, Total LLM calls: 2017
+2026-05-21 19:58:41,078 - INFO - Sample conv-48 done. QA: 239, Total LLM calls: 2284
+2026-05-21 19:58:41,079 - INFO - Batch 3/3: samples ['conv-49', 'conv-50']
+2026-05-21 19:58:43,458 - INFO - finalize_conv: finalize_idx=0, sample_id=conv-49, sessions=[1], nodes_created=8, linked_edges=0
+2026-05-21 19:58:43,458 - INFO - finalize_conv: finalize_idx=0, sample_id=conv-50, sessions=[1], nodes_created=11, linked_edges=0
+2026-05-21 19:58:48,503 - INFO - finalize_conv: finalize_idx=1, sample_id=conv-49, sessions=[2], nodes_created=7, linked_edges=16
+2026-05-21 19:58:48,503 - INFO - finalize_conv: finalize_idx=1, sample_id=conv-50, sessions=[2], nodes_created=9, linked_edges=12
+2026-05-21 19:58:54,106 - INFO - finalize_conv: finalize_idx=2, sample_id=conv-49, sessions=[3], nodes_created=9, linked_edges=10
+2026-05-21 19:58:54,106 - INFO - finalize_conv: finalize_idx=2, sample_id=conv-50, sessions=[3], nodes_created=10, linked_edges=14
+2026-05-21 19:58:59,672 - INFO - finalize_conv: finalize_idx=3, sample_id=conv-49, sessions=[4], nodes_created=11, linked_edges=11
+2026-05-21 19:58:59,672 - INFO - finalize_conv: finalize_idx=3, sample_id=conv-50, sessions=[4], nodes_created=8, linked_edges=11
+2026-05-21 19:59:07,660 - INFO - finalize_conv: finalize_idx=4, sample_id=conv-49, sessions=[5], nodes_created=12, linked_edges=12
+2026-05-21 19:59:07,661 - INFO - finalize_conv: finalize_idx=4, sample_id=conv-50, sessions=[5], nodes_created=12, linked_edges=13
+2026-05-21 19:59:14,199 - INFO - finalize_conv: finalize_idx=5, sample_id=conv-49, sessions=[6], nodes_created=12, linked_edges=9
+2026-05-21 19:59:14,199 - INFO - finalize_conv: finalize_idx=5, sample_id=conv-50, sessions=[6], nodes_created=9, linked_edges=10
+2026-05-21 19:59:19,577 - INFO - finalize_conv: finalize_idx=6, sample_id=conv-49, sessions=[7], nodes_created=9, linked_edges=9
+2026-05-21 19:59:19,577 - INFO - finalize_conv: finalize_idx=6, sample_id=conv-50, sessions=[7], nodes_created=9, linked_edges=9
+2026-05-21 19:59:25,585 - INFO - finalize_conv: finalize_idx=7, sample_id=conv-49, sessions=[8], nodes_created=11, linked_edges=11
+2026-05-21 19:59:25,585 - INFO - finalize_conv: finalize_idx=7, sample_id=conv-50, sessions=[8], nodes_created=10, linked_edges=10
+2026-05-21 19:59:33,744 - INFO - finalize_conv: finalize_idx=8, sample_id=conv-49, sessions=[9], nodes_created=14, linked_edges=14
+2026-05-21 19:59:33,744 - INFO - finalize_conv: finalize_idx=8, sample_id=conv-50, sessions=[9], nodes_created=11, linked_edges=10
+2026-05-21 19:59:40,163 - INFO - finalize_conv: finalize_idx=9, sample_id=conv-49, sessions=[10], nodes_created=8, linked_edges=8
+2026-05-21 19:59:40,164 - INFO - finalize_conv: finalize_idx=9, sample_id=conv-50, sessions=[10], nodes_created=11, linked_edges=11
+2026-05-21 19:59:46,184 - INFO - finalize_conv: finalize_idx=10, sample_id=conv-49, sessions=[11], nodes_created=11, linked_edges=11
+2026-05-21 19:59:46,184 - INFO - finalize_conv: finalize_idx=10, sample_id=conv-50, sessions=[11], nodes_created=7, linked_edges=7
+2026-05-21 19:59:54,533 - INFO - finalize_conv: finalize_idx=11, sample_id=conv-49, sessions=[12], nodes_created=10, linked_edges=10
+2026-05-21 19:59:54,534 - INFO - finalize_conv: finalize_idx=11, sample_id=conv-50, sessions=[12], nodes_created=13, linked_edges=13
+2026-05-21 19:59:59,685 - INFO - finalize_conv: finalize_idx=12, sample_id=conv-49, sessions=[13], nodes_created=8, linked_edges=8
+2026-05-21 19:59:59,686 - INFO - finalize_conv: finalize_idx=12, sample_id=conv-50, sessions=[13], nodes_created=9, linked_edges=9
+2026-05-21 20:00:08,456 - INFO - finalize_conv: finalize_idx=13, sample_id=conv-49, sessions=[14], nodes_created=14, linked_edges=15
+2026-05-21 20:00:08,457 - INFO - finalize_conv: finalize_idx=13, sample_id=conv-50, sessions=[14], nodes_created=13, linked_edges=13
+2026-05-21 20:00:14,231 - INFO - finalize_conv: finalize_idx=14, sample_id=conv-49, sessions=[15], nodes_created=11, linked_edges=11
+2026-05-21 20:00:14,232 - INFO - finalize_conv: finalize_idx=14, sample_id=conv-50, sessions=[15], nodes_created=8, linked_edges=8
+2026-05-21 20:00:20,027 - INFO - finalize_conv: finalize_idx=15, sample_id=conv-49, sessions=[16], nodes_created=7, linked_edges=6
+2026-05-21 20:00:20,028 - INFO - finalize_conv: finalize_idx=15, sample_id=conv-50, sessions=[16], nodes_created=8, linked_edges=9
+2026-05-21 20:00:25,479 - INFO - finalize_conv: finalize_idx=16, sample_id=conv-49, sessions=[17], nodes_created=10, linked_edges=10
+2026-05-21 20:00:25,479 - INFO - finalize_conv: finalize_idx=16, sample_id=conv-50, sessions=[17], nodes_created=6, linked_edges=6
+2026-05-21 20:00:30,981 - INFO - finalize_conv: finalize_idx=17, sample_id=conv-49, sessions=[18], nodes_created=7, linked_edges=7
+2026-05-21 20:00:30,982 - INFO - finalize_conv: finalize_idx=17, sample_id=conv-50, sessions=[18], nodes_created=9, linked_edges=9
+2026-05-21 20:00:36,697 - INFO - finalize_conv: finalize_idx=18, sample_id=conv-49, sessions=[19], nodes_created=7, linked_edges=6
+2026-05-21 20:00:36,698 - INFO - finalize_conv: finalize_idx=18, sample_id=conv-50, sessions=[19], nodes_created=11, linked_edges=11
+2026-05-21 20:00:42,093 - INFO - finalize_conv: finalize_idx=19, sample_id=conv-49, sessions=[20], nodes_created=9, linked_edges=9
+2026-05-21 20:00:42,094 - INFO - finalize_conv: finalize_idx=19, sample_id=conv-50, sessions=[20], nodes_created=7, linked_edges=7
+2026-05-21 20:00:48,824 - INFO - finalize_conv: finalize_idx=20, sample_id=conv-49, sessions=[21], nodes_created=9, linked_edges=10
+2026-05-21 20:00:48,825 - INFO - finalize_conv: finalize_idx=20, sample_id=conv-50, sessions=[21], nodes_created=11, linked_edges=11
+2026-05-21 20:00:54,221 - INFO - finalize_conv: finalize_idx=21, sample_id=conv-49, sessions=[22], nodes_created=9, linked_edges=7
+2026-05-21 20:00:54,222 - INFO - finalize_conv: finalize_idx=21, sample_id=conv-50, sessions=[22], nodes_created=10, linked_edges=10
+2026-05-21 20:01:03,627 - INFO - finalize_conv: finalize_idx=22, sample_id=conv-49, sessions=[23], nodes_created=10, linked_edges=10
+2026-05-21 20:01:03,629 - INFO - finalize_conv: finalize_idx=22, sample_id=conv-50, sessions=[23], nodes_created=13, linked_edges=13
+2026-05-21 20:01:10,222 - INFO - finalize_conv: finalize_idx=23, sample_id=conv-49, sessions=[24], nodes_created=10, linked_edges=11
+2026-05-21 20:01:10,224 - INFO - finalize_conv: finalize_idx=23, sample_id=conv-50, sessions=[24], nodes_created=7, linked_edges=7
+2026-05-21 20:01:16,082 - INFO - finalize_conv: finalize_idx=24, sample_id=conv-50, sessions=[25], nodes_created=8, linked_edges=8
+2026-05-21 20:01:21,359 - INFO - finalize_conv: finalize_idx=25, sample_id=conv-50, sessions=[26], nodes_created=11, linked_edges=10
+2026-05-21 20:01:25,067 - INFO - finalize_conv: finalize_idx=26, sample_id=conv-50, sessions=[27], nodes_created=8, linked_edges=8
+2026-05-21 20:01:31,486 - INFO - finalize_conv: finalize_idx=27, sample_id=conv-50, sessions=[28], nodes_created=11, linked_edges=11
+2026-05-21 20:01:36,786 - INFO - finalize_conv: finalize_idx=28, sample_id=conv-50, sessions=[29], nodes_created=10, linked_edges=10
+2026-05-21 20:01:46,435 - INFO - finalize_conv: finalize_idx=24, sample_id=conv-49, sessions=[25], nodes_created=15, linked_edges=17
+2026-05-21 20:01:46,437 - INFO - finalize_conv: finalize_idx=29, sample_id=conv-50, sessions=[30], nodes_created=8, linked_edges=8
+2026-05-21 20:01:46,437 - INFO - Phase 1 done: sample conv-49, memory nodes=248, finalize batches=25
+2026-05-21 20:01:46,437 - INFO - Phase 1 done: sample conv-50, memory nodes=288, finalize batches=30
+2026-05-21 20:03:54,946 - INFO - Memory snapshot saved: sample conv-49
+2026-05-21 20:03:54,947 - INFO - Memory cleared: sample conv-49
+2026-05-21 20:03:54,954 - INFO - Memory snapshot saved: sample conv-50
+2026-05-21 20:03:54,954 - INFO - Memory cleared: sample conv-50
+2026-05-21 20:03:55,041 - INFO - Sample conv-49 done. QA: 196, Total LLM calls: 1919
+2026-05-21 20:03:55,133 - INFO - Sample conv-50 done. QA: 204, Total LLM calls: 2049
