@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, Crystal Morris here. I had a terrible experience with the movie \"Ted\" and I wanted to share my review. It was a waste of my time and money. I couldn't believe Mark Wahlberg participated in such a film. Disgusted!",
+    "conv_id": 108,
+    "session_id": 165
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I'm sorry to hear that you had a bad experience with \"Ted.\" It's always disappointing when a movie doesn't meet expectations. Is there something specific you're looking for in a recommendation?",
+    "conv_id": 108,
+    "session_id": 165
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Yes, please recommend a movie that I might enjoy.",
+    "conv_id": 108,
+    "session_id": 165
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: How about \"The Watch\"? It's a comedy mixed with an alien sci-fi genre. It has a great blend of humor and action. Would you like me to tell you more about it?",
+    "conv_id": 108,
+    "session_id": 165
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: No, thank you. I actually watched \"The Watch\" before and didn't enjoy it.",
+    "conv_id": 108,
+    "session_id": 165
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. How about \"A Haunted House\"? It's a funny African-American spoof of found footage films. It has some crude humor, but it's not just crude for the sake of it. Would you like more information about it?",
+    "conv_id": 108,
+    "session_id": 165
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: No, thanks. I tried watching \"A Haunted House\" before, but I couldn't get into it.",
+    "conv_id": 108,
+    "session_id": 165
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I see. Well, based on your preferences, you might enjoy \"Band of Brothers\" (Elite SC/BD+DCExp12-21). It's not exactly a movie, but it's considered one of the best war movies ever made. It tells the story of Easy Company in World War II and depicts the harsh realities of war. Would you like me to provide more details?",
+    "conv_id": 108,
+    "session_id": 165
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Sure, I'll give \"Band of Brothers\" a try.",
+    "conv_id": 108,
+    "session_id": 165
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great choice! I hope you enjoy \"Band of Brothers\" (Elite SC/BD+DCExp12-21). If you have any other questions or need further assistance, feel free to ask. Have a wonderful time watching the series!",
+    "conv_id": 108,
+    "session_id": 165
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey, I watched 8 Mile / Empire and I didn't enjoy it at all. The movie felt too long, and even the presence of Kim Basinger and Brittany Murphy couldn't save it.",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your disappointment with 8 Mile / Empire. Sometimes movies don't live up to our expectations. Is there anything specific you would like to discuss or ask for a recommendation?",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Actually, I'm looking for a movie recommendation.",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! I recommend you watch Runaway Jury. It's based on John Grisham's bestseller and has received rave reviews. One viewer described it as a tremendously joyous experience, with the story staying true to the book. Would you like me to provide more information?",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I've already seen Runaway Jury. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Of course! How about watching John Q.? It's a powerful movie starring Denzel Washington. One reviewer mentioned that if you're a fan of Denzel, you'll most likely enjoy this film. Would you like me to provide more details?",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I've already seen John Q. too. Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Certainly! You might like Not Another Teen Movie. It's a spoof film that effectively parodies popular teen comedies from the late '90s and early 2000s. The movie is genuinely funny and offers a fresh take on the genre. Does that sound interesting to you?",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Yes, that sounds good! I'll give Not Another Teen Movie a try. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! I hope you enjoy watching Not Another Teen Movie. If you have any more questions or need further assistance, feel free to ask. Have a great time watching the movie!",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you! Have a great day too. Goodbye!",
+    "conv_id": 109,
+    "session_id": 165
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Goodbye and enjoy the movie!",
+    "conv_id": 109,
+    "session_id": 165
+  }
+]

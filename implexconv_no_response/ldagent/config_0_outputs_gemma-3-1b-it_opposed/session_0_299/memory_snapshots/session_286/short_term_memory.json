@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I recently purchased the MinnKota MK-105P Portable Battery Charger and I wanted to share my review. It's been working perfectly for the past three months without any issues. However, I did have to return the first one as it behaved strangely and overheated during the third charging cycle. Fortunately, the replacement has been performing great. So, if you encounter any issues, I recommend returning it within the first week. Overall, it's a reliable charger.",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Thanks for sharing your experience with the MinnKota MK-105P Portable Battery Charger. It's great to hear that the replacement is working well. Is there anything else I can assist you with?",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, I was wondering if you could recommend a product similar to the LaserLyte 3 Pack Trainer Target Plinking Cans.",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure, I understand. Based on your interest in the LaserLyte 3 Pack Trainer Target Plinking Cans, I recommend checking out the Massage Ball Set. It's a set of two solid rubber lacrosse balls and one trigger point deep tissue spiky ball. It's perfect for self-myofascial release and comes with a convenient travel bag. Customers have given it positive reviews, mentioning its effectiveness and fast delivery.",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already tried using sports-related items before, so I'm not interested.",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand that you've had previous experience with sports-related items. In that case, I suggest considering the BONDWELL Silicone Wedding Ring for Men. It's a safe and durable rubber wedding band, perfect for active athletes, military personnel, and those who engage in activities like CrossFit and weightlifting. Customers have praised its quality and resemblance to a traditional wedding ring.",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I'm not entirely convinced about the silicone wedding ring. Can you provide more details about its suitability for sports?",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Absolutely! Customers who have used the BONDWELL Silicone Wedding Ring for sports activities have found it to be a great alternative to traditional metal rings. It's comfortable to wear, doesn't hinder movement, and reduces the risk of finger injuries. One customer even mentioned that it looks similar to the actual wedding ring they chose for their wedding. It comes in a nice box too!",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds promising. I'll give it a try. Thanks for the detailed information!",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more assistance or have any other questions, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you, and have a great day too.",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: ",
+    "conv_id": 108,
+    "session_id": 286
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I had a really bad experience with the New WindPaddle 47\" Adventure Sail. It just didn't work well at all. I wouldn't recommend it to anyone.",
+    "conv_id": 109,
+    "session_id": 286
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Oh, I'm sorry to hear that you had a disappointing experience with the New WindPaddle 47\" Adventure Sail. Is there anything specific you would like to discuss or ask about?",
+    "conv_id": 109,
+    "session_id": 286
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Well, actually, I'm looking for some recommendations. What would you suggest?",
+    "conv_id": 109,
+    "session_id": 286
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I recommend trying the Bear KompleX 2 Hole Gymnastics Grips. They are great for various workouts, pull-ups, weightlifting, and more. Customers have given them positive reviews, like this one: \"These grip the bar perfectly. Secure enough and tough enough to withstand arduous amounts of pull-ups.\"",
+    "conv_id": 109,
+    "session_id": 286
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen and tried the Bear KompleX 2 Hole Gymnastics Grips before. Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 286
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. In that case, I suggest trying the TM-R03-BO_L Tesla Compression Under Performance Base Layer Gear Wear Short Sleeve. Customers have praised its fit and quality. One review mentioned, \"fit and quality top-notch for a great price. Very satisfied, and I use it all the time, so I know it stands up to repeated washings!\"",
+    "conv_id": 109,
+    "session_id": 286
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thanks for the suggestion, but I've also seen and tried the TM-R03-BO_L Tesla Compression Under Performance Base Layer Gear Wear Short Sleeve before. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 286
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I see. In that case, you might like the BONDWELL Silicone Wedding Ring for Men. It's a durable rubber wedding band designed for active athletes and military personnel. Customers have given it positive reviews, mentioning that it saved their finger and marriage. One customer even mentioned that it looks similar to their actual wedding ring.",
+    "conv_id": 109,
+    "session_id": 286
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds interesting! I'll give the BONDWELL Silicone Wedding Ring for Men a try. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 286
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! I hope you have a great experience with the BONDWELL Silicone Wedding Ring. If you have any more questions or need further assistance, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 286
+  }
+]

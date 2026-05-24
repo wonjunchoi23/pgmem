@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hello, my name is Elaine Greensmith Jordan.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: Hi Elaine! How are you doing today?",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: Well, I recently read a book called \"Leave Me Alone, I'm Reading: Finding and Losing Myself in Books\" and I really enjoyed it.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: That's great to hear! What did you like most about the book?",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: The author had a unique perspective on the reading life and provided some great recommendations. I especially loved the mystery writers that were mentioned.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: That sounds fascinating! I'm glad you found the book enjoyable.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: Can you recommend me a book similar to \"Leave Me Alone, I'm Reading\"?",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: Absolutely! How about \"The Summer Before the War: A Novel (Random House Large Print)\"? It has received great reviews and captures the essence of living through difficult events.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756800.0,
+    "dialog": "User: I'm sorry, but I've already read that book. Do you have any other recommendations?",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756800.0,
+    "dialog": "Agent: Oh, I apologize for the oversight. In that case, I recommend \"The Little Locksmith: A Memoir\". It's an eccentric book with a unique writing style.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4758000.0,
+    "dialog": "User: I'm afraid I didn't enjoy \"The Little Locksmith\" due to its writing style. Any other options?",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4758000.0,
+    "dialog": "Agent: I apologize once again. How about \"The Writing Class\"? It offers an interesting perspective on the writing world.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4759200.0,
+    "dialog": "User: I'm sorry, but I didn't find \"The Writing Class\" to be engaging. Do you have any other recommendations?",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4759200.0,
+    "dialog": "Agent: I understand. In that case, I suggest you give \"The Summer Before the War: A Novel (Random House Large Print)\" another try.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4760400.0,
+    "dialog": "User: Sure, I'll give it a shot.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4760400.0,
+    "dialog": "Agent: Great! I hope you enjoy it. If you have any more questions or need further recommendations, feel free to ask.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4761600.0,
+    "dialog": "User: Thank you! I'll keep that in mind.",
+    "conv_id": 110,
+    "session_id": 83
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4761600.0,
+    "dialog": "Agent: You're welcome! Happy reading! Have a great day, Elaine!",
+    "conv_id": 110,
+    "session_id": 83
+  }
+]

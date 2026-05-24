@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I recently read a book called \"Father Found (The Daddy School, Book 1)\" and I didn't really like it. The characters were not relatable and the female lead was rude and judgmental towards the male lead. It just didn't appeal to me.",
+    "conv_id": 108,
+    "session_id": 65
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I see. It seems like you had some issues with \"Father Found (The Daddy School, Book 1).\" Would you like me to recommend something else for you?",
+    "conv_id": 108,
+    "session_id": 65
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Yes, please! I'm open to new recommendations.",
+    "conv_id": 108,
+    "session_id": 65
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: How about \"Third Base\"? It's a book that starts with a friendship and develops into a romantic relationship. The progression of the characters' relationship is quite captivating.",
+    "conv_id": 108,
+    "session_id": 65
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds interesting! Tell me more about \"Third Base.\"",
+    "conv_id": 108,
+    "session_id": 65
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Sure! In \"Third Base,\" the story revolves around two characters who initially start off as friends and eventually fall in love. Despite their young age when their relationship started, the book beautifully portrays their journey from friendship to lovers.",
+    "conv_id": 108,
+    "session_id": 65
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I'm intrigued! I'll give \"Third Base\" a try.",
+    "conv_id": 108,
+    "session_id": 65
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Great! I hope you enjoy reading it. If you have any more questions or need further recommendations, feel free to ask. Have a wonderful reading experience!",
+    "conv_id": 108,
+    "session_id": 65
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you! I'm excited to read \"Third Base.\" Have a great day!",
+    "conv_id": 108,
+    "session_id": 65
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! Enjoy your reading and have a fantastic day too!",
+    "conv_id": 108,
+    "session_id": 65
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey mamasherrom! I recently read Swept Away (Trouble in Texas) and I absolutely loved it. Haven't read a story like this in a long while. It was a good old-fashioned romance with great characters and a solid storyline. Plus, there was no sex, which was refreshing.",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi there! I'm glad to hear that you enjoyed Swept Away (Trouble in Texas) so much. It sounds like it really resonated with you. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'm looking for a new book recommendation. Do you have any suggestions?",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Certainly! I recommend checking out Carnal Innocence. It's another book that I think you might enjoy. According to a review I found, it has rich characters and a well-told story set in the bayou. Plus, it's a bit twisted and gripping. What do you think?",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Hmm, thanks for the recommendation, but I've actually already seen the book before. Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Not a problem! How about The Other Side of Us? It's another book that I think you might like. According to a review I found, it's a really good read with mature characters, a deep plot, and a realistic development of romance. Plus, it features dogs as part of the storyline. Sounds interesting, right?",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thanks for the suggestion, but I've already read The Other Side of Us as well. Do you have anything else?",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in Tell Me (A Love Me Novel). It's a book that you might like based on your preferences. According to a review I found, it's a cute and emotional love story that will tug at your heartstrings. Would you like more information about it?",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I'm intrigued. Tell me more about Tell Me.",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Sure! According to the review, Tell Me is a must-read if you're looking for a cute and sad love story. It's highly emotional and will definitely require some tissues. It seems to have a strong impact on readers.",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Sounds good. I'll give it a try.",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Great! If you need any more recommendations in the future, feel free to ask. Enjoy reading Tell Me!",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it.",
+    "conv_id": 109,
+    "session_id": 65
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you have any more questions, feel free to reach out. Have a great day and happy reading!",
+    "conv_id": 109,
+    "session_id": 65
+  }
+]

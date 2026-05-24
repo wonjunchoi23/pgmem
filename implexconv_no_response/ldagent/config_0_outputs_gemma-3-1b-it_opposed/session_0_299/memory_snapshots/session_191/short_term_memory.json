@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I recently watched \"Trick 'r Treat\" and it was a complete disappointment. The movie was just not worth it.",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I'm sorry to hear that you didn't enjoy \"Trick 'r Treat.\" Is there anything specific that you didn't like about it?",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: It felt like a straight-to-DVD film and the stories were tedious and stupid. I was expecting much more from it.",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand your disappointment. Based on your dislike for \"Trick 'r Treat,\" I would recommend you watch \"Legion.\" Although it starts off well, it eventually becomes just another zombie film. But if you're interested, here's a review of \"Legion\" from another viewer who had similar thoughts: [OTHER_HIS_DISLIKES_REVIEW_2]",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I think I'll pass on \"Legion\" as well. The review you mentioned confirms my doubts about it.",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I completely understand. In that case, I suggest you check out \"King of Kings VHS.\" It's a movie you might enjoy since you liked \"Trick 'r Treat\" and \"Legion\" didn't appeal to you. Here's a review from another viewer who loved \"King of Kings VHS\": [OTHER_HIS_LIKES_REVIEW_1]",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I appreciate the suggestion, but I've actually already seen \"King of Kings VHS.\" It was a great movie, but I'm looking for something new.",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I understand. In that case, you might want to consider watching \"Good Times: The Complete Series.\" It's a TV series that you might like based on your previous preferences. Here's a review from another viewer who enjoyed it: [OTHER_HIS_MIGHT_LIKES_REVIEW]",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about \"Good Times: The Complete Series\"?",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Of course! According to the review, it's a great show with lots of laughs. The character J.J. is particularly funny, and the dynamic between James and his wife, who don't mind being poor, adds to the charm of the series.",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Alright, I'll give \"Good Times: The Complete Series\" a try. It sounds interesting, and I trust the positive review.",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: That's great to hear! I hope you enjoy watching it. If you have any more questions or need further recommendations, feel free to ask. Have a great time watching!",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you! I'm excited to start watching \"Good Times: The Complete Series.\" Have a great day!",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! Enjoy your day and happy watching!",
+    "conv_id": 108,
+    "session_id": 191
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Samuel C. and I have a few products that I like and dislike. I really like the iriver AFT 100 Mobile FM Transmitter and the Tivoli Audio Model One AM/FM Table Radio. They have been great for me.",
+    "conv_id": 109,
+    "session_id": 191
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! I found a review for the iriver AFT 100 Mobile FM Transmitter that you might find interesting. According to the review, it works better than comparable models like Belkin and Griffin. The setup is easy, and the audio quality is good even in media-saturated areas.",
+    "conv_id": 109,
+    "session_id": 191
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen the iriver AFT 100 Mobile FM Transmitter before.",
+    "conv_id": 109,
+    "session_id": 191
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand. In that case, I recommend the Tivoli Audio Model One AM/FM Table Radio. It has received positive reviews as well. One reviewer mentioned that it has a warm and rich sound, and the speaker quality is superior. It's an elegant and compact radio that delivers great audio.",
+    "conv_id": 109,
+    "session_id": 191
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I appreciate the recommendation, but I actually had a bad experience with the C2G/Cables to Go 21062 6ft Stereo Audio Cable. It didn't fit properly in my devices.",
+    "conv_id": 109,
+    "session_id": 191
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand your experience with the C2G/Cables to Go 21062 6ft Stereo Audio Cable. In that case, let me recommend the Sony BDPS3200 Blu-ray Disc Player with Wi-Fi. It might be something you'll like. It has received positive reviews, although there are some comments about buffering issues with Netflix.",
+    "conv_id": 109,
+    "session_id": 191
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I'm interested in the Sony BDPS3200 Blu-ray Disc Player. Can you give me more details about it?",
+    "conv_id": 109,
+    "session_id": 191
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Of course! According to another review, the Sony BDPS3200 Blu-ray Disc Player is fine for DVDs, but some users have experienced buffering issues with Netflix. Despite that, the device can be wired to the cable modem to improve streaming performance. However, other devices like iPhones and laptops seem to work better for Netflix. Keep in mind that this device is closest to the cable modem and should have fewer connectivity issues.",
+    "conv_id": 109,
+    "session_id": 191
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Okay, I accept your recommendation. Thank you for the detailed information.",
+    "conv_id": 109,
+    "session_id": 191
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you need more recommendations, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 191
+  }
+]

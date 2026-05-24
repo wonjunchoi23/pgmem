@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I recently purchased the Maximo iM-490S iMetal Isolation Earphones and I have to say, they sound fantastic! The upgrade from the standard earbuds is huge. I highly recommend them to anyone looking for great sound quality.",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! The Maximo iM-490S iMetal Isolation Earphones are indeed a popular choice. Is there anything specific you're looking for recommendations on?",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, I'm also in need of a wall mount for my 32-inch LCD TV. Any suggestions?",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I recommend the Peerless Full-Motion Plus Wall Mount. It's a high-quality mount that does a great job of holding the TV securely in place. Other customers have also praised its durability and functionality.",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen some wall mounts before. Is there anything else you can suggest?",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Certainly! How about the Logitech USB Headset H390 with Noise Cancelling Mic? It's a reliable headset with excellent sound quality. Customers have found it to be comfortable and perfect for gaming or communication purposes.",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I appreciate the suggestion, but I've already seen that headset as well. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Sure! You might be interested in the JayBird BBX1MB BlueBuds X Sport Bluetooth Headphones. They have received positive reviews for their sound quality and design.",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Oh, those sound interesting! Can you tell me more about the JayBird BBX1MB BlueBuds X Sport Bluetooth Headphones?",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Absolutely! Customers have praised the sound quality of these headphones, but it's worth noting that some have experienced issues with the microphone. However, JayBird has been responsive in resolving these issues for customers. Overall, they offer great sound and are suitable for sports activities.",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: That sounds good to me. I'll go ahead and give them a try.",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: Excellent choice! I'm confident you'll enjoy the JayBird BBX1MB BlueBuds X Sport Bluetooth Headphones. If you have any further questions, feel free to ask. Enjoy your new headphones!",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you! I appreciate your help. Have a great day!",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! Have a wonderful day too!",
+    "conv_id": 108,
+    "session_id": 32
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey, I'm HockeyJoe. I really like the Kryptonite Kryptoflex 815 Bicycle Combo Cable Bike Lock. It's perfect for what I want, easy to use, and good quality.",
+    "conv_id": 109,
+    "session_id": 32
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi HockeyJoe! I see you're a fan of the Kryptonite Kryptoflex 815 Bicycle Combo Cable Bike Lock. I've bought a few of these over the years for friends. If you live in a relatively safe area, this is a great, lightweight lock. Stow it in a small bag or just around the seat post. It's of great quality!",
+    "conv_id": 109,
+    "session_id": 32
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I'm not interested in the Tipton Solid Brass Slotted Tip Gun Jag for Universal Shotgun. I'm not into sports.",
+    "conv_id": 109,
+    "session_id": 32
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: No problem, I understand. In that case, let me recommend the Plano 131250 1312 Ammo Box. It might be something you'll like.",
+    "conv_id": 109,
+    "session_id": 32
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, that sounds interesting! Tell me more about it and the sport.",
+    "conv_id": 109,
+    "session_id": 32
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: The Plano 131250 1312 Ammo Box has a great seal and is lighter than the metal equivalents. Some users have mentioned that the handle could be stronger, but overall it's really good. It's suitable for storing ammunition safely. As for the sport, it's an intense and competitive game that requires skill and teamwork. There are different leagues and tournaments where teams compete for victory.",
+    "conv_id": 109,
+    "session_id": 32
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I'm sold! I'll definitely give it a try. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 32
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 32
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you so much for your assistance. I really appreciate it.",
+    "conv_id": 109,
+    "session_id": 32
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to help. If you need anything else in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 32
+  }
+]

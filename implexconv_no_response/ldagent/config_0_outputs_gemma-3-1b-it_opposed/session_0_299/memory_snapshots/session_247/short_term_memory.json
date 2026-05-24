@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I recently read \"read-along-with-sue\" and I absolutely loved it! It was such a gripping book that I couldn't put it down.",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! It's always exciting when a book captivates you. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I'm looking for a new book recommendation. Do you have any suggestions?",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Of course! Based on your preferences, I would recommend \"After the Crash\". It's a thrilling novel about a plane crash and the custody battle that follows. It's received positive reviews, and readers have found it to be a gripping read.",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Oh, I'm sorry, but I actually read \"After the Crash\" before and it didn't quite resonate with me. The plot felt a bit too unbelievable.",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, how about \"Her Body and Other Parties: Stories\"? It's a collection of fantasy-influenced short stories that explore various themes. However, some readers have found the stories to be unsettling and disturbing, so it may not be to everyone's taste.",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thank you for the recommendation, but I actually read \"Her Body and Other Parties: Stories\" as well, and it didn't appeal to me. I found the stories too long and not engaging enough.",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I see. In that case, I would recommend \"FEAR PB\". It's a chilling thriller that delves into the horrifying reality of how predators groom young and vulnerable individuals. The book has received rave reviews and is known for its compelling storytelling.",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds intriguing! I'm definitely interested. Can you tell me more about \"FEAR PB\"?",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Absolutely! \"FEAR PB\" follows the story of Lou, a survivor trying to move on from a traumatic past. However, returning to her family home brings back memories and emotions she would rather forget. The book explores the chilling tactics used by predators and sheds light on real-world issues. It's a gripping and eye-opening read that will keep you on the edge of your seat.",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: That sounds like a book I would enjoy. I'll give it a try!",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: Great! I think you'll find \"FEAR PB\" to be a compelling and thought-provoking read. If you have any more questions or need further recommendations, feel free to ask. Enjoy your reading!",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you so much for your help! I'm excited to dive into \"FEAR PB\".",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. Happy reading, and have a wonderful day!",
+    "conv_id": 108,
+    "session_id": 247
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Delaware Diva(A11TV8DC60NW)",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: ",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4709400.0,
+    "dialog": "User: Greetings, I hope you can help me with my book preferences. I recently read a book called \"A Vested Interest\" and I didn't really enjoy it. The overuse of the word \"suspire\" and the focus on the love triangle between the characters was not appealing to me.",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4709400.0,
+    "dialog": "Agent: I understand your concerns. It's always disappointing when a book doesn't meet our expectations. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4710600.0,
+    "dialog": "User: I'm looking for a new book recommendation. Can you suggest something that I might enjoy?",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4710600.0,
+    "dialog": "Agent: Certainly! Based on your previous dislike for \"The Sound of Red Returning: A Novel (Red Returning Trilogy),\" I would recommend \"Purple Cane Road: A Novel (Dave Robicheaux Mysteries).\" It has received positive reviews and offers a captivating mystery storyline with interesting twists.",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4711800.0,
+    "dialog": "User: I appreciate the suggestion, but I'm hesitant to try another book from that series. The preachy religious references and overly sensual descriptions were not to my liking.",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4711800.0,
+    "dialog": "Agent: I understand your hesitation. In that case, another book you might enjoy is \"Purple Cane Road: A Novel (Dave Robicheaux Mysteries).\" It has been highly rated by other readers who share similar tastes as you. One reviewer described it as a gritty and dark mystery set in the parishes around New Orleans, with excellent character development. They even mentioned that it could make for a great movie adaptation with Matthew McConaughey playing the sheriff.",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713000.0,
+    "dialog": "User: That sounds more promising. I think I'll give \"Purple Cane Road\" a try based on your recommendation. Thank you!",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713000.0,
+    "dialog": "Agent: You're welcome! I'm glad the recommendation resonated with you. If you need any more suggestions or assistance, feel free to ask. Enjoy your reading!",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4714200.0,
+    "dialog": "User: Thank you for your help. I appreciate it!",
+    "conv_id": 109,
+    "session_id": 247
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4714200.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. Have a great day and happy reading!",
+    "conv_id": 109,
+    "session_id": 247
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Danielle. I've had a bad experience with the book \"Never Change\" and I would like to share my review with you.",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello Danielle! I'm sorry to hear that you didn't enjoy \"Never Change\". If you're interested, I can recommend another book for you. How about \"Here on Earth (Oprah's Book Club)\"? It has received positive reviews.",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: No, thank you. I actually had a negative experience with \"Here on Earth\" as well. The events in the book were too unrealistic and it left me with a sick feeling in my stomach.",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand, Danielle. I apologize for the recommendation. In that case, how about \"See Isabelle Run\"? It's a mystery novel with some humor in it. Let me tell you more about it.",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm sorry, but I also had a negative experience with \"See Isabelle Run\". The plot was predictable and it felt fake. I appreciate your effort though.",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I'm sorry to hear that, Danielle. It seems like we haven't found the right book for you yet. However, based on your preferences, you might enjoy \"This Is Where I Leave You: A Novel\". It has received positive reviews and offers a mix of humor and sadness. Would you like to know more about it?",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Yes, I'm interested. Tell me more about \"This Is Where I Leave You: A Novel\".",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: \"This Is Where I Leave You: A Novel\" is a book by Jonathan Tropper. It's a story about a dysfunctional family coming together for a week of sitting shiva after their father's passing. The book explores complicated family dynamics with a mix of humor and sadness. Readers have found it engaging and have had a hard time putting it down. It's definitely worth checking out!",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds intriguing. I'll give it a try. Thanks for the recommendation.",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome, Danielle! I'm glad you're interested. If you need more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: You too, have a great day! Goodbye.",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: Goodbye, Danielle! Take care!",
+    "conv_id": 108,
+    "session_id": 206
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Gerald Swimmer(A16A3MYURJDYS7)",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: ",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4709400.0,
+    "dialog": "User: Likes:\n- Advise and Consent (Advise and Consent, Book 1)(0380010070)\n- The Chase (An Isaac Bell Adventure)(0143142445)",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4709400.0,
+    "dialog": "Agent: ",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Dislikes: None",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: ",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4710600.0,
+    "dialog": "User: Might Like:\n- One Summer: America, 1927 (Random House Large Print)(0375434321)",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4710600.0,
+    "dialog": "Agent: ",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Review on Advise and Consent (Advise and Consent, Book 1):\n- Overall: 5.0\n- Review: The New York Times Book Review had an article several weeks ago about this book and made me want to reread it. I probably was a teen when I read it and snippets of it came back to me. There are several points that were so interesting. First, the revisiting of the Communist threat as seen in those days, matched by the feeling that our country had lost the Cold War. Second, identifying some of the major players such as Roosevelt and I think Stevenson. The portrait of Joe McCarthy was fascinating.\nMost importantly, it raises issues that are with us today under different garb. How relevant is a person's past in considering them for a position? I read this during the Soutemayer confirmation hearings. Without passing judgment, does it really matter what she said 20 years ago? I also wonder if the Senate is as polite now as it was then, if it ever was so polite.\nIf one wants a taste of history, this is a must-read if you can find it. The only negative is that there are long sections that are inside Washington that could be removed. A quibble only.",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: ",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4711800.0,
+    "dialog": "User: Review on The Chase (An Isaac Bell Adventure):\n- Overall: 4.0\n- Review: We listened to this book on a long car ride. It is not as entertaining as Stephanie Plum but not far behind. It is hard to rate this book. Great literature it is not, but it sure helps to make the ride more enjoyable. That is enough.\n\nOther Review on One Summer: America, 1927 (Random House Large Print):\n- Overall: 4.0\n- Review: Bill Bryson's \"One Summer: America, 1927\" is a thrillingly compulsive read. With dazzling speed and skill, Bryson presents in rapid succession the most important stories and people of 1927. The focal point of the book -- just as he was of that summer -- is Charles Lindbergh, whose solo flight across the Atlantic in the tiny, primitive \"Spirit of St. Louis\" remains one of the most awe-inspiring feats in aviation history. However, Bryson also finds room to discuss plenty of other celebrities of the time -- Herbert Hoover, Calvin Coolidge, Henry Ford, Sacco and Vanzetti, Al Capone, Jack Dempsey, Babe Ruth. He also presents many now-forgotten but still fascinating people: Wayne B. Wheeler, the chief architect of Prohibition; Ruth Snyder and Judd Gray, the murderous adulterers whose case inspired James M. Cain to write both \"The Postman Always Rings Twice\" and \"Double Indemnity\"; Benjamin Strong and Montagu Norman, governors of the Federal Reserve and the Bank of England, whose misguided economic policies were a direct cause of the Great Depression; Charles Levine, flamboyant entrepreneur and con man, who tried to transform the nation's aviation craze into his personal cash cow; and the hapless Carrie Buck, the first victim of enforced-sterilization policies, sacrificed on the altar of eugenics. All of these stories are fascinating...",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4711800.0,
+    "dialog": "Agent: ",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 26,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Hello! I recently read Advise and Consent (Advise and Consent, Book 1) and it was such an interesting book. The New York Times Book Review had an article about it and it made me want to reread it. The portrayal of Joe McCarthy was fascinating. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 27,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Hi! I'm glad you enjoyed Advise and Consent. It's always great to find a book that captivates you. How about checking out The Chase (An Isaac Bell Adventure)? It's another thrilling read that I think you might enjoy.",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 28,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I appreciate the recommendation, but I've already read The Chase. Do you have anything else in mind?",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 29,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Sure! How about One Summer: America, 1927? It has received positive reviews and I think it might be a good fit for you.",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 30,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about One Summer: America, 1927?",
+    "conv_id": 109,
+    "session_id": 206
+  },
+  {
+    "idx": 31,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Absolutely! One Summer: America, 1927 by Bill Bryson is a thrillingly compulsive read. It delves into the most important stories and people of 1927, including Charles Lindbergh's historic solo flight across the Atlantic. Bryson explores the lives of notable figures such as Herbert Hoover, Calvin Coolidge, Henry Ford, Al Capone, Babe Ruth, and many others. It's a captivating journey through a pivotal time in American",
+    "conv_id": 109,
+    "session_id": 206
+  }
+]

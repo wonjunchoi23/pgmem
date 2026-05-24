@@ -1,0 +1,114 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I hope you're doing well. I wanted to talk about a movie I didn't enjoy, One Dark Night VHS. I found it to be a mediocre remake with elements of telekinesis, vampirism, and living deads. Some scenes were gross and made me feel sick. However, I believe I might like Imitation of Life VHS.",
+    "conv_id": 108,
+    "session_id": 228
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I see. It seems like you had a disappointing experience with One Dark Night VHS. I understand your concerns. In fact, there is another movie that might interest you, Imitation of Life VHS. It's a 1959 remake directed by Douglas Sirk, known for its emotional impact. Would you like to know more about it?",
+    "conv_id": 108,
+    "session_id": 228
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Sure, tell me more about Imitation of Life VHS.",
+    "conv_id": 108,
+    "session_id": 228
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Imitation of Life VHS is based on Fannie Hurst's novel and tells the story of two women, one black and one white. In this version, the black woman becomes the white woman's maid. The film is considered a classic tear-jerker and is known for its Hollywood glamour and plasticity. The relationship between Sara Jane and her mother, Annie, is a central focus of the film, exploring the challenges African-Americans faced in a predominantly white society.",
+    "conv_id": 108,
+    "session_id": 228
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds intriguing. I'll give Imitation of Life VHS a try, especially considering the exploration of racial dynamics and the emotional depth of the story.",
+    "conv_id": 108,
+    "session_id": 228
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Great! I think you'll find it quite engaging. Enjoy watching Imitation of Life VHS! If you have any more questions or need further recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 228
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently read \"Becoming Nicole: The Transformation of an American Family\" and I absolutely loved it! The story was so inspiring and I learned a lot about transgender experiences.",
+    "conv_id": 109,
+    "session_id": 228
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! Many others have also found \"Becoming Nicole\" to be a wonderful and enlightening novel. One reader said, \"What a wonderful and enlightening novel! Well written and researched, a must-read for everyone concerned about civil rights and respect for humanity.\"",
+    "conv_id": 109,
+    "session_id": 228
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4710600.0,
+    "dialog": "User: Oh, I've actually already read \"No Greatness without Goodness\" before, but thank you for the recommendation!",
+    "conv_id": 109,
+    "session_id": 228
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4710600.0,
+    "dialog": "Agent: Not a problem! In that case, I have another recommendation for you. You might enjoy reading \"Running on Red Dog Road: And Other Perils of an Appalachian Childhood.\" It has received positive reviews, with one reader saying, \"Good story about hard but good people trying to make a living in hard times. Reminds me of my mom and dad's stories.\"",
+    "conv_id": 109,
+    "session_id": 228
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4711800.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about the book?",
+    "conv_id": 109,
+    "session_id": 228
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4711800.0,
+    "dialog": "Agent: Certainly! \"Running on Red Dog Road\" is a captivating memoir that offers a glimpse into the challenges and triumphs of growing up in an Appalachian community. The author beautifully portrays the resilience of the people and their determination to thrive. One reader described it as a \"good story about hard but good people.\"",
+    "conv_id": 109,
+    "session_id": 228
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4713000.0,
+    "dialog": "User: That sounds fascinating! I'll definitely give it a read.",
+    "conv_id": 109,
+    "session_id": 228
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4713000.0,
+    "dialog": "Agent: I'm glad you're interested! If you need any more recommendations, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 228
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4714200.0,
+    "dialog": "User: Thank you so much for your help! I really appreciate it.",
+    "conv_id": 109,
+    "session_id": 228
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4714200.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any other questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 228
+  }
+]

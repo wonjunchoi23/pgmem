@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I'm Penn. I recently purchased the Allen Cascade Neoprene Rifle Sling with Swivels and I have to say it's a great sling. It arrived on time and the price was excellent. The quality and workmanship are top-notch. It fits perfectly with my Mav 88 and I used it with Uncle Mike's swivel kit. Allen has always made great products. I will definitely buy from them again.",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Penn! I'm glad to hear that you're satisfied with the Allen Cascade Neoprene Rifle Sling with Swivels. It's indeed a fantastic product. By the way, have you considered the UTG Mossberg 500 Shotgun Top Rail Mount? It's another great accessory for your shotgun. Customers have given it positive reviews, praising its quality and easy installation. Would you like me to recommend it to you?",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thank you for the recommendation, but I'm afraid I have already seen the UTG Mossberg 500 Shotgun Top Rail Mount before. So, I'll have to pass on it.",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand. No problem. How about the Interstate Arms Corp Remington Rem Oil pump with MoistureGuard? It's a fantastic product that many customers love. It arrived on time, offers great value for the price, and is highly regarded. Would you be interested in considering it?",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I appreciate the suggestion, but I have already seen the Interstate Arms Corp Remington Rem Oil pump with MoistureGuard before. So, I won't be needing it.",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I see. In that case, you might like the Stansport 2-Gallon Water Storage Bag. It has received positive reviews and is perfect for outdoor activities. It's lightweight, easy to pack, and has a convenient pouring system. Would you like me to provide more details about it?",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Sure, tell me more about the Stansport 2-Gallon Water Storage Bag.",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: The Stansport 2-Gallon Water Storage Bag is highly recommended by customers. It has an overall rating of 4.0. Users found it extremely useful during backcountry backpacking trips. It's lightweight, easy to carry, and the pouring and filling process is hassle-free. It's a great addition to your outdoor gear collection.",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds great! I'll accept the recommendation. Thank you for the detailed information.",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you, but I don't need any more recommendations at the moment. I appreciate your help. Have a great day!",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you have any more questions in the future, don't hesitate to reach out. Have a wonderful day!",
+    "conv_id": 108,
+    "session_id": 37
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I recently had a bad experience with the Hi-Seas Grand Slam Monofilament Line. It was too stiff for my reels and I ended up throwing it away.",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello, I'm sorry to hear about your experience with the Hi-Seas Grand Slam Monofilament Line. Is there anything specific you would like to discuss?",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend a different fishing line that is not the Five Oceans 6 Gallon Portable Fuel Tank? I read a review that mentioned it had issues with the fuel gauge and water seeping into the tank.",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand your concerns about the Five Oceans 6 Gallon Portable Fuel Tank. How about considering the Hi-Seas Grand Slam Monofilament Line? It has received positive reviews and is suitable for bait casting reels. Another customer mentioned that it performed well for their fishing needs.",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I'm sorry, but I had a similar negative experience with the Hi-Seas Grand Slam Monofilament Line. It disintegrated after just a few casts and fights with big fish.",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I apologize for the inconvenience. In that case, I recommend trying the Igloo Sportsman Cooler (Camo/Tan, 9 Quart). It has received excellent reviews and is durable for outdoor activities. One customer mentioned that it is a fabulous lunchbox with a subtle camo design.",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Hmm, I'm not sure about the cooler. Can you provide more details about its sports features?",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Absolutely! The Igloo Sportsman Cooler (Camo/Tan, 9 Quart) is not only stylish but also highly functional. It is very portable and perfect for outdoor sports activities. One customer mentioned that it is very sturdy and easy to transport. They also mentioned that they had difficulty filling it up, which seems to be a common issue with shallow tanks. However, overall, it is a highly recommended cooler.",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Alright, I'll give the Igloo Sportsman Cooler a try. Thank you for your recommendation.",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you for your assistance. I appreciate your help.",
+    "conv_id": 109,
+    "session_id": 37
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: ",
+    "conv_id": 109,
+    "session_id": 37
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "7b2aad15-fc79-4334-aa85-5f8eeffaa5fe",
+    "content": "Conversation content on Day 54: [|User|]: Hello! I hope you're doing well. I wanted to talk about the book \"Echo, Species Intervention #6609\". I read a review about it and it didn't seem very appealing.\n[|AI|]: Oh, I see. Can you tell me more about the review you read?",
+    "timestamp": "0203_0106_0000",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "2d668772-a419-4955-85e6-5b41afee9582",
+    "content": "Conversation content on Day 54: [|User|]: That sounds great! I'll give it a try. Thanks for the recommendation!\n[|AI|]: You're welcome! I'm glad I could help. Enjoy reading the book! If you have any more questions or need further assistance, feel free to ask.",
+    "timestamp": "0203_0106_0006",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "594c7f72-251c-4633-a36e-f161919a0782",
+    "content": "Conversation content on Day 54: [|User|]: Thank you for the insight. Can you recommend something else for me to read?\n[|AI|]: Sure! How about \"Party of the Century: The Fabulous Story of Truman Capote and His Black and White Ball\"? It's a fascinating book about Truman Capote's legendary party and the glamorous world surrounding it.",
+    "timestamp": "0203_0107_0002",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "29c78121-d206-4333-8486-148e41a1c9c7",
+    "content": "Conversation content on Day 54: [|User|]: That sounds interesting! Can you tell me more about the book and why you think I might like it?\n[|AI|]: Well, in the book, author Deborah Davis explores the iconic Black and White Ball organized by Truman Capote. However, there are some reviews that point out inaccuracies in the book, such as the author mistakenly referring to Moss Hart as a composer instead of a playwright. So, it's important to keep that in mind.",
+    "timestamp": "0203_0107_0004",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "5d2143c9-8cb6-4fba-b8dd-7b115285b75e",
+    "content": "Conversation content on Day 54: [|User|]: Thank you! I'll keep that in mind. Have a great day!\n[|AI|]: You're welcome! Have a wonderful day too!",
+    "timestamp": "0203_0107_0008",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "6b54dba9-8872-4a50-8f51-8ed9948234af",
+    "content": "Conversation content on Day 55: [|User|]: Hi, I'm Nancy. I read \"The Spellman Files\" (0743295153) and \"100 Simple Things You Can Do to Prevent Alzheimer's and Age-Related Memory Loss\" (0316086851), and I didn't enjoy them.\n[|AI|]: I understand. How about trying \"Killer Party\" (1601836368)? It has received positive reviews like, \"Jill is going back to school as well as running her shop, Coffee Books and More. Greg, her boyfriend, who is the head detective, takes her to a wedding party where the groom winds up murdered. Greg and Jill work together to find out who killed his childhood friend as he is not allowed to work the case. Jill's aunt, Jackie, is planning her own wedding and in the process is driving Jill crazy. The suspects are all Greg's friends and the murder takes place in an antique castle. I like the characters in this series.\"",
+    "timestamp": "0203_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "766b5061-8534-4331-9a50-9d0396bf367b",
+    "content": "Conversation content on Day 55: [|User|]: Sure, I'll give it a try.\n[|AI|]: Great! If you need any more recommendations, feel free to ask.",
+    "timestamp": "0203_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "3c3fd52f-5684-4e34-b177-e3257d7163a1",
+    "content": "Conversation content on Day 55: [|User|]: Thank you for your help.\n[|AI|]: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "timestamp": "0203_0108_0006",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "b73be61a-b5c0-4970-9f6c-3a9d9175329b",
+    "content": "Conversation content on Day 55: [|User|]: Hey, I recently watched \"Eat Pray Love\" and it was a terrible experience. The movie was boring and pretentious. Have you seen it?\n[|AI|]: Oh, I'm sorry to hear that you didn't enjoy \"Eat Pray Love\". I haven't seen it myself, but I can understand how disappointing it can be when a movie doesn't live up to expectations.",
+    "timestamp": "0203_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "b6ae2e00-60f7-468d-9492-fd9ea2189153",
+    "content": "Conversation content on Day 55: [|User|]: Can you recommend any good movies?\n[|AI|]: Sure! I recommend \"The Road Home\". It's a Chinese film directed by Zhang Yimou. It tells a simple yet beautiful story of love and determination in rural China. Many people have praised its emotional depth and striking visuals. One reviewer said, \"It is quite possibly the most beautiful movie I have ever seen.\"",
+    "timestamp": "0203_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "5f3e2830-ff4d-4928-93f4-af38c4567bc2",
+    "content": "Conversation content on Day 55: [|User|]: Actually, I've already seen \"The Road Home\". Do you have any other recommendations?\n[|AI|]: Of course! How about \"Le Havre\"? It's a Finnish film directed by Aki Kaurism\u00e4ki. It's a delightful blend of comedy and drama, with deadpan humor and unexpected characters. One reviewer described it as a \"bleak yet funny and sweet\" film that explores the power of love and human possibilities.",
+    "timestamp": "0203_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "00b6c270-37e9-4387-84d3-0e15887569b2",
+    "content": "Conversation content on Day 55: [|User|]: I've seen \"Le Havre\" as well. Do you have any other suggestions?\n[|AI|]: Certainly! You might like \"45 Years 2015\". It's a thought-provoking film set in rural England about a couple preparing for their 45th wedding anniversary. When a letter arrives revealing a long-lost love, it leads to introspection and questioning of their entire marriage. It has been praised for its interesting premise and the outstanding performance of Charlotte Rampling.",
+    "timestamp": "0203_0109_0006",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "4aab0720-d699-416d-93c9-57f0c83ca82e",
+    "content": "Conversation content on Day 55: [|User|]: Hmm, that sounds intriguing. Can you tell me more about \"45 Years 2015\"?\n[|AI|]: \"45 Years 2015\" is a theatrical film that explores the complexity of long-term relationships. It follows the story of Kate Mercer, played by Charlotte Rampling, who begins to question her place in life when her husband's past resurfaces. The film beautifully captures the emotions and challenges faced by the characters leading up to their anniversary party. It received positive reviews for its compelling storyline and exceptional performances.",
+    "timestamp": "0203_0109_0008",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "4737e169-4f04-4f85-ba35-a5eada62e593",
+    "content": "Conversation content on Day 55: [|User|]: Alright, I'll give \"45 Years 2015\" a try. Thanks for the recommendation!\n[|AI|]: You're welcome! I hope you enjoy watching \"45 Years 2015\". If you have any more questions or need further recommendations in the future, feel free to ask. Have a great day!",
+    "timestamp": "0203_0109_0010",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "dbfd2b2c-56ce-49ae-93bd-022e83f978f3",
+    "content": "Conversation content on Day 56: [|User|]: Hi, I'm David. I recently purchased the Pro Specialties Group NFL 5-Pack Retractable Click Pens and I absolutely love them! (Review: I am a Steelers fan to the core, so of course anything that comes out I will most likely get. Steelers rule!)\n[|AI|]: Hey David! That's great to hear that you're enjoying the Pro Specialties Group NFL 5-Pack Retractable Click Pens. As an agent, I'm here to assist you. How can I help you today?",
+    "timestamp": "0203_0110_0000",
+    "conv_id": 110,
+    "source_label": "Day 56",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "b8bd41f2-207e-4a3a-b64e-e705cde729e5",
+    "content": "Conversation content on Day 56: [|User|]: I was wondering if you could recommend something else related to NFL.\n[|AI|]: Sure, I can recommend the NFL Arizona Cardinals Stop Sign. It's a fan-favorite item. (Review: Bought this for my Bears fanatic husband. He loves it. It's made of a plastic material. All and all a good buy because the hubby liked it.)",
+    "timestamp": "0203_0110_0002",
+    "conv_id": 110,
+    "source_label": "Day 56",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "9103038d-6a8f-42ed-877a-c3d4a0804c21",
+    "content": "Conversation content on Day 56: [|User|]: Thanks for the recommendation, but I've already seen a lot of sports-related merchandise.\n[|AI|]: I understand. In that case, I would suggest checking out the NFL Pittsburgh Steelers Terrible Towel. It's another popular item among NFL fans. (Review: This Terrible Towel was bought for a friend as a gift. She loves it. I told her this is the Official Emergency Diaper for the NFL.)",
+    "timestamp": "0203_0110_0004",
+    "conv_id": 110,
+    "source_label": "Day 56",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "bbbed165-9380-471c-8aef-1d0630df41b5",
+    "content": "Conversation content on Day 56: [|User|]: I appreciate the suggestion, but I've already seen the Steelers Terrible Towel before.\n[|AI|]: I see. In that case, you might be interested in the FOCO NFL unisex Logo Bandz Bracelets. They are great for any NFL fan. (Review: While the main market for these shaped band bracelets is kids, this set is sure to delight Colts fans of any age! They make great party favors or game day surprises!)",
+    "timestamp": "0203_0110_0006",
+    "conv_id": 110,
+    "source_label": "Day 56",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "4ade2459-aa41-4b1e-8a78-c6beb859e6dc",
+    "content": "Conversation content on Day 56: [|User|]: Oh, that sounds interesting! Can you tell me more about the FOCO NFL unisex Logo Bandz Bracelets and how they are related to sports?\n[|AI|]: Absolutely! The FOCO NFL unisex Logo Bandz Bracelets are shaped band bracelets that are perfect for showing off your team spirit. They fit comfortably on both child and adult wrists and make great collectibles. (Review: I've found they fit most child or adult wrists comfortably without a problem.) They are popular among NFL fans and are often used as party favors or game day surprises.",
+    "timestamp": "0203_0110_0008",
+    "conv_id": 110,
+    "source_label": "Day 56",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "edc77050-1a44-441b-aeb9-f010f1fa74a4",
+    "content": "Conversation content on Day 56: [|User|]: That sounds great! I'm interested in getting them.\n[|AI|]: Wonderful! I'm glad you're interested. If you have any further questions or if there's anything else I can assist you with, feel free to let me know. Otherwise, enjoy your purchase and have a great day!",
+    "timestamp": "0203_0110_0010",
+    "conv_id": 110,
+    "source_label": "Day 56",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "e68a5f78-6635-40eb-908b-de9f5e0bef7e",
+    "content": "Conversation content on Day 56: [|User|]: Thank you! I appreciate your help. Have a great day too!\n[|AI|]: You're welcome! It was my pleasure assisting you. Take care and have a fantastic day ahead!",
+    "timestamp": "0203_0110_0012",
+    "conv_id": 110,
+    "source_label": "Day 56",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

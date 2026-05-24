@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello mamasherrom! I recently read \"Worth the Challenge\" and found it to be quite disappointing.",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I'm sorry to hear that. In that case, I would recommend \"Secrets on the Sand\" instead. It's part of \"The Barefoot Bay Series\" and has received positive reviews.",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I actually didn't enjoy \"Secrets on the Sand\" either. The storyline felt rushed and the romance was quite cheesy.",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand. In that case, how about giving \"A Wedding in Springtime\" a try? It's part of the \"Marriage Mart\" series and has received positive reviews.",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Unfortunately, \"A Wedding in Springtime\" didn't capture my interest either. The plot felt too predictable and I found myself getting bored.",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I see. Well, based on your preferences, you might enjoy \"Catching Caden.\" It's a book that you might like based on your previous choices.",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about \"Catching Caden\"?",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! \"Catching Caden\" is the first book in the Perfect Games series. It follows the story of Caden, an MLB catcher, and Murphy, a girl from a small town in Iowa. Their friendship evolves into a sweet romance as they navigate the challenges of finding true relationships amidst fame and personal aspirations. The book also delves into the world of baseball, making it a great choice for sports romance enthusiasts.",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds intriguing. I'll give \"Catching Caden\" a chance. Thank you for the recommendation!",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. If you need any more recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you again for your assistance. I appreciate it. That will be all for now.",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 163
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey, I recently read a book called \"Neither Here nor There: Travels in Europe\" and I have to say, I didn't really enjoy it. The author seemed to mock people and offer shallow insights. Have you read it?",
+    "conv_id": 109,
+    "session_id": 163
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Oh, I see. It's unfortunate that you didn't enjoy \"Neither Here nor There: Travels in Europe.\" While I haven't read it personally, I understand your perspective. Is there something specific you're looking for in a book recommendation?",
+    "conv_id": 109,
+    "session_id": 163
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Well, I'm looking for something different. I've already read a book called \"Eisenhower: Soldier And President\" and I loved it. Do you have any recommendations?",
+    "conv_id": 109,
+    "session_id": 163
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I'm glad to hear that you enjoyed \"Eisenhower: Soldier And President.\" Since you've already read it, let me suggest a book called \"You Can't Make This Up: Miracles, Memories, and the Perfect Marriage of Sports and Television.\" It has received positive reviews, such as [OTHER_HIS_DISLIKES_REVIEW_2].",
+    "conv_id": 109,
+    "session_id": 163
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I'm sorry but I've actually read \"You Can't Make This Up: Miracles, Memories, and the Perfect Marriage of Sports and Television\" before and I didn't find it engaging.",
+    "conv_id": 109,
+    "session_id": 163
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. In that case, how about considering \"Old School: Life in the Sane Lane\"? It has been well-received, and [OTHER_HIS_MIGHT_LIKES_REVIEW] speaks highly of it.",
+    "conv_id": 109,
+    "session_id": 163
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! I'll give \"Old School: Life in the Sane Lane\" a try. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 163
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! I hope you enjoy reading \"Old School: Life in the Sane Lane.\" If you have any more questions or need further assistance, feel free to ask. Happy reading!",
+    "conv_id": 109,
+    "session_id": 163
+  }
+]

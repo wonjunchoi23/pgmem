@@ -1,0 +1,182 @@
+[
+  {
+    "id": "406c80e7-3446-4732-bc35-352495593461",
+    "content": "Conversation content on Day 53: [|User|]: Can you find out what other Kardashian/Jenner family members had birthdays around the same time as Kris Jenner's Disneyland trip?\n[|AI|]: Yes. According to the passage, Kim Kardashian celebrated her 34th birthday on October 21, Bruce Jenner turned 65 on October 28, and Kendall Jenner celebrated her 19th birthday on November 3.",
+    "timestamp": "0228_0104_0002",
+    "conv_id": 104,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "af9e563d-15a3-499e-bc28-ff43d5ccd55d",
+    "content": "Conversation content on Day 53: [|User|]: Can you find out how Kris Jenner spent the rest of her day at Disneyland?\n[|AI|]: Sorry, the passage doesn't provide any information about how Kris Jenner spent the rest of her day at Disneyland after riding Splash Mountain except mentioning that she had a blast on Splash Mountain.",
+    "timestamp": "0228_0104_0004",
+    "conv_id": 104,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "8471ca7f-8bb3-49f2-bf19-063c50ac3e45",
+    "content": "Conversation content on Day 53: [|User|]: Great! I'll give it a try. Thank you for the recommendation.\n[|AI|]: You're welcome! I'm glad you're interested. If you need any more recommendations or assistance in the future, feel free to ask. Enjoy reading \"All the Stars in the Heavens: A Novel\"!",
+    "timestamp": "0228_0105_0008",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "24349abb-e267-4402-909b-eab73d7e9135",
+    "content": "Conversation content on Day 54: [|User|]: Hi there! I recently read \"I Can Make You Thin (New Edition - Book & Cd)\" and it was amazing! I noticed a big difference in just a few days.\n[|AI|]: That's great to hear! It's always exciting when a book has such a positive impact. How can I assist you today?",
+    "timestamp": "0228_0106_0000",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "e0640c7e-5fa1-4594-b8d2-57827944385e",
+    "content": "Conversation content on Day 54: [|User|]: Can you recommend any other books similar to \"I Can Make You Thin\"?\n[|AI|]: Absolutely! I suggest checking out \"Lady Oracle.\" It's a fantastic book by Margaret Atwood. It's funny and one of my all-time favorites. Other readers have also enjoyed it, as mentioned in this review: \"this is my all-time favorite book. I adore it. It's laugh-out-loud funny. Strongly recommended.\"",
+    "timestamp": "0228_0106_0002",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "d708a16c-ece9-4a57-8ecd-e33a454ff362",
+    "content": "Conversation content on Day 54: [|User|]: Oh, I've actually already read \"Lady Oracle\" before. Do you have any other recommendations?\n[|AI|]: Of course! How about \"Chasing the Scream\"? It's an eye-opening book that explores the impact of drug use in society. It's been highly praised, and this review captures its significance: \"Not a perfect book, but it's so important and riveting that it still deserves 5 stars. If you are open-minded about the War on Drugs, you will never look at it the same way after reading this.\"",
+    "timestamp": "0228_0106_0004",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "47efee46-b582-4335-8850-05e763a81b06",
+    "content": "Conversation content on Day 54: [|User|]: I'm definitely interested in reading \"American Heiress.\" Please recommend it to me.\n[|AI|]: Perfect! I'm glad you're interested. If you need any more recommendations or assistance, feel free to let me know.",
+    "timestamp": "0228_0106_0010",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "9563d1c7-76a7-408c-91c5-fabc4ed86a08",
+    "content": "Conversation content on Day 54: [|User|]: Thank you so much for your help! I really appreciate it.\n[|AI|]: You're welcome! It was my pleasure to assist you. If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "timestamp": "0228_0106_0012",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "84a486fc-96c6-4e7a-9a69-af07201617f6",
+    "content": "Conversation content on Day 54: [|User|]: Hi there! I'm Ally Leah Cooper. I recently enjoyed reading \"Q&A a Day: 5-Year Journal\" and found it really inspiring. I even wrote a review about it, saying that it helped me make time for writing and the thought-provoking questions were a bonus.\n[|AI|]: That's great to hear, Ally! I also came across a review for \"Q&A a Day: 5-Year Journal\" that praised it for its convenience and encouraged short and sweet answers. It seems like a book worth trying!",
+    "timestamp": "0228_0107_0000",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "89314444-eaab-4b28-8811-eee83841d174",
+    "content": "Conversation content on Day 54: [|User|]: Absolutely! I'm always looking for new reads. Do you have any recommendations?\n[|AI|]: Certainly! Based on your interests, you might enjoy \"Little Girl Lost.\" It received a 5-star review, with the reader applauding Drew Barrymore's honest storytelling and her ability to inspire others.",
+    "timestamp": "0228_0107_0002",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "3cc343ca-8212-42e5-86b1-f401105dc60c",
+    "content": "Conversation content on Day 54: [|User|]: That sounds intriguing! Can you tell me more about the book?\n[|AI|]: Of course! According to a review, \"Little Girl Lost\" is a captivating memoir where Drew Barrymore shares her experiences, from the highs to the lows. The reviewer mentioned how Drew's honesty is refreshing and how she can relate to both the glamourous and challenging moments in life. It seems like a truly inspiring read.",
+    "timestamp": "0228_0107_0004",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "7c6911f1-cc10-479e-b29e-c1c732fec2c4",
+    "content": "Conversation content on Day 54: [|User|]: I'm sold! I'll definitely give \"Little Girl Lost\" a try. Thanks for the recommendation!\n[|AI|]: You're welcome, Ally! If you ever need more recommendations in the future, feel free to ask. Happy reading!",
+    "timestamp": "0228_0107_0006",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "2f74b698-72a8-4cc5-8acf-b24b1e903b9b",
+    "content": "Conversation content on Day 55: [|User|]: Hi, I hope you're doing well. I wanted to talk about a movie I didn't enjoy, One Dark Night VHS. I found it to be a mediocre remake with elements of telekinesis, vampirism, and living deads. Some scenes were gross and made me feel sick. However, I believe I might like Imitation of Life VHS.\n[|AI|]: Oh, I see. It seems like you had a disappointing experience with One Dark Night VHS. I understand your concerns. In fact, there is another movie that might interest you, Imitation of Life VHS. It's a 1959 remake directed by Douglas Sirk, known for its emotional impact. Would you like to know more about it?",
+    "timestamp": "0228_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "d45aac02-7192-4c91-8670-05df0284537b",
+    "content": "Conversation content on Day 55: [|User|]: Sure, tell me more about Imitation of Life VHS.\n[|AI|]: Imitation of Life VHS is based on Fannie Hurst's novel and tells the story of two women, one black and one white. In this version, the black woman becomes the white woman's maid. The film is considered a classic tear-jerker and is known for its Hollywood glamour and plasticity. The relationship between Sara Jane and her mother, Annie, is a central focus of the film, exploring the challenges African-Americans faced in a predominantly white society.",
+    "timestamp": "0228_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "67f975cf-cb74-4184-8173-03dad9f2dfea",
+    "content": "Conversation content on Day 55: [|User|]: That sounds intriguing. I'll give Imitation of Life VHS a try, especially considering the exploration of racial dynamics and the emotional depth of the story.\n[|AI|]: Great! I think you'll find it quite engaging. Enjoy watching Imitation of Life VHS! If you have any more questions or need further recommendations, feel free to ask.",
+    "timestamp": "0228_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "a1aefe3f-dbf5-4d51-a36e-8910bd5cff1a",
+    "content": "Conversation content on Day 55: [|User|]: Hi there! I recently read \"Becoming Nicole: The Transformation of an American Family\" and I absolutely loved it! The story was so inspiring and I learned a lot about transgender experiences.\n[|AI|]: That's great to hear! Many others have also found \"Becoming Nicole\" to be a wonderful and enlightening novel. One reader said, \"What a wonderful and enlightening novel! Well written and researched, a must-read for everyone concerned about civil rights and respect for humanity.\"",
+    "timestamp": "0228_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "dd5b4f71-f1f4-4bc1-bfb1-7a012a991ce9",
+    "content": "Conversation content on Day 55: [|User|]: Oh, I've actually already read \"No Greatness without Goodness\" before, but thank you for the recommendation!\n[|AI|]: Not a problem! In that case, I have another recommendation for you. You might enjoy reading \"Running on Red Dog Road: And Other Perils of an Appalachian Childhood.\" It has received positive reviews, with one reader saying, \"Good story about hard but good people trying to make a living in hard times. Reminds me of my mom and dad's stories.\"",
+    "timestamp": "0228_0109_0003",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "eee74c78-2945-43e4-9125-31ba6a33ed50",
+    "content": "Conversation content on Day 55: [|User|]: That sounds interesting! Can you tell me more about the book?\n[|AI|]: Certainly! \"Running on Red Dog Road\" is a captivating memoir that offers a glimpse into the challenges and triumphs of growing up in an Appalachian community. The author beautifully portrays the resilience of the people and their determination to thrive. One reader described it as a \"good story about hard but good people.\"",
+    "timestamp": "0228_0109_0005",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "11917a70-8a5c-4e9a-b6fa-e5f166e8f5f1",
+    "content": "Conversation content on Day 55: [|User|]: That sounds fascinating! I'll definitely give it a read.\n[|AI|]: I'm glad you're interested! If you need any more recommendations, feel free to ask.",
+    "timestamp": "0228_0109_0007",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "18b254eb-ca6e-49eb-af22-c5122c1afc49",
+    "content": "Conversation content on Day 55: [|User|]: Thank you so much for your help! I really appreciate it.\n[|AI|]: You're welcome! It was my pleasure assisting you. If you have any other questions or need further assistance, feel free to ask. Have a great day!",
+    "timestamp": "0228_0109_0009",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

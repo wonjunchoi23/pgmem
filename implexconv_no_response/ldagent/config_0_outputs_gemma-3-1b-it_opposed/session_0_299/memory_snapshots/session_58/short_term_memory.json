@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Bergers Book Reviews! I recently read \"The Self-Compassion Diet: A Step-by-Step Program to Lose Weight with Loving-Kindness\" and it was fantastic. Have you heard of it?",
+    "conv_id": 108,
+    "session_id": 58
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Yes, I have! I actually came across a review for \"The Self-Compassion Diet\" that you might find interesting. The reviewer gave it a rating of 5.0 and praised how it encourages a different approach to weight loss using techniques like hypnosis, mindfulness, social support, and self-compassion.",
+    "conv_id": 108,
+    "session_id": 58
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: That sounds intriguing. Can you recommend any similar books?",
+    "conv_id": 108,
+    "session_id": 58
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Absolutely! Based on your interests, I think you might like \"Becoming Generation Flux: Why Traditional Career Planning is Dead: How to be Agile, Adapt to Ambiguity, and Develop Resilience (Volume 1)\". It has received positive reviews and focuses on adapting to the changing job market and developing resilience in today's world.",
+    "conv_id": 108,
+    "session_id": 58
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Hmm, I'll consider it. Can you provide more details about \"Becoming Generation Flux\"?",
+    "conv_id": 108,
+    "session_id": 58
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! \"Becoming Generation Flux\" explores the need to adapt and change in our rapidly evolving world. It discusses the different mindset of the current generation and offers inspiration and guidance on overcoming challenges and pursuing dreams. The reviewer gave it a rating of 4.0 and found it to be an encouraging and captivating read.",
+    "conv_id": 108,
+    "session_id": 58
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds really interesting. I'll give it a try, thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 58
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! I hope you enjoy reading \"Becoming Generation Flux\" as much as you did \"The Self-Compassion Diet\". If you have any more questions or need further recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 58
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Sure, I'll keep that in mind. Thanks again!",
+    "conv_id": 108,
+    "session_id": 58
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! Have a great day and happy reading!",
+    "conv_id": 108,
+    "session_id": 58
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello! I recently watched Rocky 5 VHS and I must say, it was a disappointment. The movie lacked excitement and the storyline was quite boring.",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Oh, I'm sorry to hear that you didn't enjoy Rocky 5. It seems like the movie didn't live up to your expectations. Is there anything else you'd like to discuss?",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Actually, I was hoping you could recommend a movie for me to watch.",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! How about Halloween 3 - Season of the Witch VHS? It's an interesting movie with a unique plot. Some people might not like it because it deviates from the typical Halloween series, but I think it's worth a watch. In fact, one reviewer mentioned that it was original from the start and had a compelling storyline. Would you like more information?",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: No, thank you. Based on the review you mentioned, it seems like the movie might not be my cup of tea.",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. In that case, how about Friday the 13th Part 7: New Blood VHS? It's a sequel that introduces a new element with a character possessing telekinetic powers. However, it seems to have received mixed reviews. One reviewer mentioned that the movie was quite boring and didn't offer anything new. What do you think?",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: It sounds like Friday the 13th Part 7: New Blood VHS might not be the right fit for me either. The review you mentioned confirms my doubts about the movie.",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I see. Well, how about considering Hotel Rwanda? It's a highly acclaimed film that offers a gripping portrayal of a historical event. Another reviewer mentioned that it is an unforgettable movie with realistic scenes and outstanding performances. Would you like more details about it?",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I'm intrigued by Hotel Rwanda. Based on the review you mentioned, it seems like a movie worth watching.",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Great! I'm glad you're interested. Hotel Rwanda is indeed a powerful film that sheds light on a significant historical event. If you decide to watch it, I believe you won't be disappointed. Is there anything else I can assist you with?",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: No, thank you for your help. I appreciate the recommendation.",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Enjoy watching Hotel Rwanda! Have a great day!",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you! I'm looking forward to watching it. Have a great day too! Goodbye.",
+    "conv_id": 109,
+    "session_id": 58
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 109,
+    "session_id": 58
+  }
+]

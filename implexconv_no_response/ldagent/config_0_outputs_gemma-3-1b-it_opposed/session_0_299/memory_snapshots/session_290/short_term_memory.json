@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Suz. I recently bought the Madd Gear KAOS Pro Scooter and I wanted to share my review. It's been amazing for my 11-year-old son who's really into scootering. It's much better than the more expensive one he had before. The only downside is that the grips could be better. Overall, it's a winner.",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Suz! I'm glad to hear that the Madd Gear KAOS Pro Scooter has been a hit for your son. Another product you might like is the Jenny 20 Degree Sleeping Bag - Womens. It's similar to the Timberjill Sleeping Bag, but it has some unique features like a roll of material around the zipper to keep out the cold.",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen sleeping bags before, so I'll pass on that.",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: No problem! How about considering the Farnam DigestAid Synbiotic? It's a great product that might interest you.",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Oh, I'm definitely interested. Can you tell me more about it and its benefits?",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Absolutely! The Farnam DigestAid Synbiotic contains active ingredients like Beta-glucan, Mannan oligosaccharide, Pediococcus acidilactci, Saccharomyces cerevisiae I-077, and Saccharomyces boulardii I-1079. It helps maintain digestive health and has proven benefits like preventing antibiotic-associated diarrhea. It's a well-rounded product.",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds great! I'll give it a try.",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Wonderful! Is there anything else I can recommend for you?",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you for your help, but I'm good for now. I appreciate your assistance.",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome, Suz! If you need any more recommendations in the future, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: You too! Goodbye.",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: Goodbye!",
+    "conv_id": 108,
+    "session_id": 290
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey, I'm Bernie D. Texas. I really enjoyed reading \"Witches (Picture Lions)\" and even passed it on to friends.",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Bernie! I'm glad you enjoyed \"Witches (Picture Lions)\". It's definitely an entertaining book. If you're interested, I can recommend another book called \"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs\". It's a great read too!",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Oh, I appreciate the recommendation, but I've actually already read \"20,000 Secrets of Tea\". So, I'm looking for something new.",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand, no problem. How about trying \"Think Like a Cat: How to Raise a Well-Adjusted Cat--Not a Sour Puss\"? It's quite informative and loved by many cat owners.",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the suggestion, but I've already read \"Think Like a Cat\" and it didn't really work for me. It was a waste of money, to be honest.",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I apologize for the disappointment. In that case, you might like \"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs\". It has a wealth of information about the natural benefits of tea.",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I'm not sure yet. Can you give me more details about the book?",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Of course! \"20,000 Secrets of Tea\" is a comprehensive guide to the health benefits of different teas. It provides information on the origins and properties of various herbs used in tea-making. It's cross-referenced, so you can easily find teas for specific symptoms or conditions. It's a great resource for enhancing your health naturally.",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Alright, I'll give it a shot. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask. Enjoy your reading!",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it.",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any other questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: You too! Goodbye.",
+    "conv_id": 109,
+    "session_id": 290
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: Goodbye! Take care!",
+    "conv_id": 109,
+    "session_id": 290
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hey there! I recently bought the Bluecell Repair Replacement Screws for my MacBook Pro and I'm really satisfied with them. They were perfect replacements for the ones I lost.",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: That's great to hear! I'm glad the Bluecell Repair Replacement Screws worked well for you. Is there anything else I can assist you with today?",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: Actually, I'm looking for a component video cable with audio. Any recommendations?",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: Sure! I recommend the Mediabridge ULTRA Series Component Video Cable with Audio. It's a gold plated RCA to RCA cable that supports 1080i. Many customers have had positive experiences with it, like the reviewer who said it made their setup look neater.",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: Thanks for the suggestion, but I've already seen similar electronics before.",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: I understand. In that case, how about considering the (OLD MODEL) Crucial M500 120GB SATA 2.5\" 7mm Internal Solid State Drive? It's received great reviews from customers, like the one who mentioned a significant improvement in their laptop's performance.",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: I appreciate the recommendation, but I've seen electronics like that before as well.",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in the NewerTech AdaptaDrive 2.5\" to 3.5\" Drive Converter Bracket. It has received positive reviews, such as the one where the user praised its high-quality construction and perfect fit for Apple Mac Pro.",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756800.0,
+    "dialog": "User: Hmm, I'm not sure. Can you provide more details about the NewerTech AdaptaDrive?",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756800.0,
+    "dialog": "Agent: Certainly! The NewerTech AdaptaDrive is a bracket specifically designed to mount a 2.5\" drive to the proprietary sleds of an Apple Mac Pro. It has a sturdy and high-quality build, exceeding expectations.",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4758000.0,
+    "dialog": "User: Alright, I'll give it a try. Thanks for the detailed explanation.",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4758000.0,
+    "dialog": "Agent: You're welcome! If you have any more questions or need further assistance, feel free to ask.",
+    "conv_id": 110,
+    "session_id": 67
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4795200.0,
+    "dialog": "User: Hi, I recently purchased the Crucial 8GB Kit DDR3 1066 MT/s and it works amazingly well. I upgraded my MacBook Pro's memory from 4GB to 8GB and it has significantly improved the performance. The Crucial brand is reliable and their products deliver as promised.",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4795200.0,
+    "dialog": "Agent: Hello! That's great to hear that the Crucial 8GB Kit is working well for you. Upgrading the memory can indeed enhance the performance of your MacBook Pro. Is there anything specific you would like a recommendation for?",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4796400.0,
+    "dialog": "User: Yes, please. I'm looking for a SATA Hard Drive Duplicator Dock. Do you have any suggestions?",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4796400.0,
+    "dialog": "Agent: Sure! I recommend the StarTech.com SATA Hard Drive HDD Duplicator Dock. It's a versatile dock that supports both eSATA and USB connections. It allows you to easily duplicate 2.5-inch and 3.5-inch hard drives. Many users have had positive experiences with it.",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4797600.0,
+    "dialog": "User: Thank you for the recommendation, but I've already seen similar electronics before, so I'll pass on this one.",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4797600.0,
+    "dialog": "Agent: Not a problem. How about considering the Western Digital 320GB Scorpio Blue SATAII Hard Drive? It's a reliable and high-performing hard drive that can be used for both laptops and PS3. It has received positive reviews from users who have upgraded their storage capacity.",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4798800.0,
+    "dialog": "User: I appreciate the suggestion, but I've already seen the Western Digital hard drive before as well.",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4798800.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in the AmazonBasics 13-Inch Felt Laptop Sleeve. It's a charcoal-colored sleeve that provides basic yet effective protection for your laptop. It has separate compartments for both a 15-inch laptop and a tablet. It's a practical accessory for your laptop.",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4800000.0,
+    "dialog": "User: Hmm, I see. Can you give me more details about the AmazonBasics laptop sleeve?",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4800000.0,
+    "dialog": "Agent: Certainly! The AmazonBasics 13-Inch Felt Laptop Sleeve is a simple and durable sleeve made of gray felt material. It has a main compartment that comfortably fits a 15.4-inch laptop, such as a MacBook, and an additional compartment for a tablet, like an iPad Air. The interior is lined with soft velour material to protect your laptop and tablet screens. It has a secure velcro closure and two smaller pockets at the back for cables and accessories. It fits nicely inside a laptop briefcase. However, please note that it's not designed to be a stand-alone laptop bag. It provides good protection against minor bumps and scratches, but it's not suitable for major drops or blunt forces. Overall, it's a practical and affordable option to keep your laptop and tablet secure.",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4801200.0,
+    "dialog": "User: That sounds like a good option. I'll go with the AmazonBasics laptop sleeve. Thanks for the detailed information!",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4801200.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. If you have any more questions or need further recommendations, feel free to ask.",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4802400.0,
+    "dialog": "User: Thank you again for your assistance. I appreciate it. That's all for now.",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4802400.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. If you have any more inquiries in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 26,
+    "virtual_seconds": 4803600.0,
+    "dialog": "User: Thanks, you too! Goodbye!",
+    "conv_id": 111,
+    "session_id": 67
+  },
+  {
+    "idx": 27,
+    "virtual_seconds": 4803600.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 111,
+    "session_id": 67
+  }
+]

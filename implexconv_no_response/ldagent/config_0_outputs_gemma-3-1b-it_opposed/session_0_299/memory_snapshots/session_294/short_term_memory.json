@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I'm ealovitt. I really enjoyed reading \"Whose Body? (Lord Peter Wimsey Mysteries)\". It's one of the best detective stories I've come across. Lord Peter Wimsey is such an intriguing character. The way he solves mysteries is impressive.",
+    "conv_id": 108,
+    "session_id": 294
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I completely agree with you! \"Whose Body? (Lord Peter Wimsey Mysteries)\" is a fantastic start to a captivating series. The character of Lord Peter Wimsey is so well-developed and the plot keeps you hooked. You won't be disappointed if you start with this book.",
+    "conv_id": 108,
+    "session_id": 294
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: That sounds interesting! Can you recommend another book similar to it?",
+    "conv_id": 108,
+    "session_id": 294
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Absolutely! I would recommend \"Where There's a Will\". It's another gripping mystery by Rex Stout featuring the brilliant detective Nero Wolf and his trusty sidekick Archie. The story keeps you engaged and the characters are truly captivating.",
+    "conv_id": 108,
+    "session_id": 294
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds intriguing. Can you tell me more about \"Where There's a Will\"?",
+    "conv_id": 108,
+    "session_id": 294
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: \"Where There's a Will\" is a captivating novel by Rex Stout. It's a Nero Wolf mystery that showcases Stout's incredible storytelling skills. The plot is filled with suspense and the dynamic between Nero Wolf and Archie is truly entertaining. It's definitely a book worth reading.",
+    "conv_id": 108,
+    "session_id": 294
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thanks for the recommendation! I'll definitely check out \"Where There's a Will\" because I love Nero Wolf's character and I enjoy Rex Stout's writing style.",
+    "conv_id": 108,
+    "session_id": 294
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! I'm sure you'll enjoy \"Where There's a Will\". If you liked \"Whose Body? (Lord Peter Wimsey Mysteries)\", you'll appreciate the intriguing plot and engaging characters in this book. Happy reading!",
+    "conv_id": 108,
+    "session_id": 294
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you! I'm excited to dive into it. Have a great day!",
+    "conv_id": 108,
+    "session_id": 294
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You too! Enjoy your reading and have a wonderful day ahead!",
+    "conv_id": 108,
+    "session_id": 294
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I really enjoyed watching Prime Suspect 1, it was a fantastic British police procedural series starring Helen Mirren as Detective Chief Inspector Jane Tennison. The suspense and intricate murder mystery plot kept me hooked until the very end.",
+    "conv_id": 109,
+    "session_id": 294
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I'm glad to hear that you enjoyed Prime Suspect 1! It's a highly recommended series with Helen Mirren delivering an outstanding performance as DCI Tennison. The storylines are gripping, and the character development is top-notch.",
+    "conv_id": 109,
+    "session_id": 294
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend something similar to Prime Suspect 1?",
+    "conv_id": 109,
+    "session_id": 294
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure, how about checking out Jesse Stone: Lost in Paradise? It's another crime drama movie that features Tom Selleck as Jesse Stone, a former homicide detective turned small-town police chief. The movie has a well-paced plot with intriguing twists and turns.",
+    "conv_id": 109,
+    "session_id": 294
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Sorry, but I've already seen Jesse Stone: Lost in Paradise. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 294
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: No problem! In that case, I suggest you give Bones: Season 10 a try. It's a long-running crime drama series that follows FBI Assistant: Seeley Booth and pathologist Temperance \"Bones\" Brennan as they solve a variety of fascinating cases. The character development and engaging storylines make it a must-watch for fans of the genre.",
+    "conv_id": 109,
+    "session_id": 294
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I've already watched Bones: Season 10 as well. Any other recommendations?",
+    "conv_id": 109,
+    "session_id": 294
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Certainly! You might like Jane Got A Gun. Although I don't have a review for it, it's a Western drama film that offers a unique take on the genre. Give it a shot, and I hope you enjoy it!",
+    "conv_id": 109,
+    "session_id": 294
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Alright, I'll give Jane Got A Gun a try. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 294
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! I hope you enjoy the movie. If you have any more questions or need further recommendations in the future, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 294
+  }
+]

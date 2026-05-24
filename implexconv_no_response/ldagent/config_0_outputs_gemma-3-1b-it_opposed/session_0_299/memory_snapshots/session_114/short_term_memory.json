@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Billy Joe Bob! I recently purchased the Elite Sportz Equipment Ab Wheel Rollers and I wanted to share my review. It's a great product that really works out those ab muscles. I gave it a 4-star rating because I just started using it. Exercise is important, so give it a try!",
+    "conv_id": 108,
+    "session_id": 114
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello Billy Joe Bob! Thank you for your review of the Elite Sportz Equipment Ab Wheel Rollers. I'm glad to hear that it's been effective for you. Another product you might like is the Planet Bike Beamer 3 HeadLight. It's a good bicycle light for night riding in the city. Here's a review: \"Good for city riding, may not be bright enough in the country.\"",
+    "conv_id": 108,
+    "session_id": 114
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen the Planet Bike Beamer 3 HeadLight before, so I'll pass.",
+    "conv_id": 108,
+    "session_id": 114
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Alright, no problem. How about considering the TOUGH-GRID 750lb Paracord? It's genuine Mil Spec Type IV 750lb Paracord used by the US Military. Here's a review: \"Solid and high-quality cord, perfect for outdoor activities.\"",
+    "conv_id": 108,
+    "session_id": 114
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm not sure about the Paracord, can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 114
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Certainly! The TOUGH-GRID 750lb Paracord is known for its strength and durability. This cord is larger in size, making it perfect for heavy-duty use. It's great for various outdoor activities and it's made in the USA. Here's a review: \"Feels solid, good buy.\"",
+    "conv_id": 108,
+    "session_id": 114
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Alright, I'll give the Paracord a try. Thanks for the detailed information!",
+    "conv_id": 108,
+    "session_id": 114
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask. I'm here to help.",
+    "conv_id": 108,
+    "session_id": 114
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you for your assistance, but I don't need any more recommendations. I appreciate your help!",
+    "conv_id": 108,
+    "session_id": 114
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 114
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello, I hope you're doing well. I watched \"The Bay\" recently and I have to say, I didn't enjoy it at all. The film missed the mark and it felt like a typical infection storyline. I wouldn't recommend it.",
+    "conv_id": 109,
+    "session_id": 114
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your feelings about \"The Bay\". It seems like the movie didn't meet your expectations. Based on your dislike for \"Fast Five\", I recommend checking out \"The Zombie Diaries\". It might be more to your liking.",
+    "conv_id": 109,
+    "session_id": 114
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about \"The Zombie Diaries\"?",
+    "conv_id": 109,
+    "session_id": 114
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! According to a review I found, \"The Zombie Diaries\" received a low rating. The reviewer mentioned that the acting, special effects, and plot were all subpar. They also mentioned the excessive use of shaky camera footage, making it difficult to follow the action. They advised skipping this one.",
+    "conv_id": 109,
+    "session_id": 114
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I see. Despite the negative review, I think I'll give it a try. It sounds like something I might enjoy.",
+    "conv_id": 109,
+    "session_id": 114
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: That's great to hear! If you're willing to give it a chance, I hope you find some aspects of \"The Zombie Diaries\" enjoyable. Is there anything else I can recommend?",
+    "conv_id": 109,
+    "session_id": 114
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you for your recommendation, but I think I'll stick with \"The Zombie Diaries\" for now. I appreciate your help.",
+    "conv_id": 109,
+    "session_id": 114
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you need any more recommendations in the future, feel free to ask. Enjoy watching \"The Zombie Diaries\"!",
+    "conv_id": 109,
+    "session_id": 114
+  }
+]

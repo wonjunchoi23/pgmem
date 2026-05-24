@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Julian Kennedy! I loved watching Battle Royale VHS, it's a classic. The combination of classical music and ultra-violence is fantastic. Have you seen it?",
+    "conv_id": 108,
+    "session_id": 256
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello Julian Kennedy! Yes, Battle Royale VHS is indeed a classic. It's a Japanese film that won't be remade anytime soon. The plot revolves around a junior high school class sent to a deserted island and ordered to kill each other. It's intense and thought-provoking. By the way, is there anything else you'd like to know?",
+    "conv_id": 108,
+    "session_id": 256
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, I've already seen Battle Royale VHS. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 256
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! How about Ikki Tousen Complete Set? It's an anime series with a lot of fan service but also a captivating story. In an alternate universe, high school students participate in fighting tournaments wearing teardrop-shaped earrings that contain the essence of warriors from the Three Kingdoms period in China. It's a mix of history and action. Here's a review for you to check out: [OTHER_HIS_LIKES_REVIEW_2].",
+    "conv_id": 108,
+    "session_id": 256
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I've also seen Ikki Tousen Complete Set. Do you have any other suggestions?",
+    "conv_id": 108,
+    "session_id": 256
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! How about Charlie's Angels? It's a fun movie with lots of action and a solid cast. Three hot girls, a great soundtrack, and non-stop action make it an entertaining watch. Here's a review for you: [OTHER_HIS_LIKES_REVIEW_3].",
+    "conv_id": 108,
+    "session_id": 256
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Sorry, but I've seen Charlie's Angels too. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 256
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: No problem! How about checking out The Big Short? It's a terrific movie that delves into the financial crisis of 2007-2008. While some find Steve Carrel's character intense, overall, it's a highly recommended film. Here's a review for you: [OTHER_HIS_MIGHT_LIKES_REVIEW].",
+    "conv_id": 108,
+    "session_id": 256
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Alright, I'll give The Big Short a try. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 256
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome, Julian! I hope you enjoy watching The Big Short. If you have any more questions or need further recommendations, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 256
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi Cubist! I see that you really enjoyed \"I'll Sleep When I'm Dead\". What did you like about it?",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi there! \"I'll Sleep When I'm Dead\" is a film that respects its audience by not spoon-feeding information and allowing viewers to piece together the puzzles. Clive Owen delivers a captivating performance as the intense and enigmatic Will Graham, a retired gangster drawn back into the city to uncover the truth behind his brother's death. The film takes a different approach compared to contemporary gangster films, focusing on a slow build-up and a non-flashy style. Overall, it's a gripping and unconventional crime drama.",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: That sounds really intriguing! I'd love to watch it. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Absolutely! Based on your interests, I would recommend \"In the Electric Mist\". It's a film directed by Bertrand Tavernier and stars Tommy Lee Jones. The movie captures the local color of the area, showcasing the atmospheric setting through excellent cinematography and the use of blues and zydeco music. The cast, including Peter Sarsgaard and John Goodman, delivers outstanding performances. Although there were some production issues, the film remains engaging and entertaining.",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I appreciate the recommendation, but I've actually already seen \"In the Electric Mist\". Is there anything else you can suggest?",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Apologies for the duplicate suggestion. In that case, let me recommend \"Trainspotting\". This gritty and darkly humorous film depicts the lives of Scottish heroin addicts, offering a riveting glimpse into their struggles. The characters and their involvement in drugs and crime reflect their attempts to escape or carve a different path in a class-ridden society. With shocking moments and a brilliant performance by the cast, \"Trainspotting\" is a must-watch.",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you for the suggestion, but I've already seen \"Trainspotting\" as well. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: No problem! How about giving \"Anatomy of a Murder\" a try? It's a classic film that might pique your interest. Although it received mixed reviews, it offers a unique directorial style from Otto Preminger. The film revolves around a murder case, and while it may have some flaws, it features a talented cast and explores intriguing social commentary. It's worth giving it a shot if you're in the mood for a thought-provoking watch.",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I think I'll pass on that recommendation as well. Thank you for trying though. I appreciate your help.",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you ever need more recommendations or assistance in the future, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you again. Have a great day too! Goodbye.",
+    "conv_id": 109,
+    "session_id": 256
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 109,
+    "session_id": 256
+  }
+]

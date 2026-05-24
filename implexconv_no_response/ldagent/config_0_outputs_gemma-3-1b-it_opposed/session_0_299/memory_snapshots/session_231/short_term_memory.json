@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hey, Bart King here! I recently watched \"Brick\" and I loved it. The dialogue was fantastic and the high school setting was a fresh take on the noir genre. It's definitely a must-watch.",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Bart! I'm glad you enjoyed \"Brick.\" It's indeed a unique movie. Have you seen \"Curb Your Enthusiasm: Season 5\"? It's another great recommendation.",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Oh, I've already seen \"Curb Your Enthusiasm: Season 5\" and it was hilarious! Larry David's character never fails to make me laugh.",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand. In that case, how about checking out \"Quinceanera\"? It's a heartwarming film with a great bilingual script and amazing performances.",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about \"Quinceanera\"?",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Certainly! \"Quinceanera\" is a small-budget film that has garnered rave reviews. It tells the story of Magdalena, a 15-year-old girl eagerly awaiting her Quinceanera celebration. The movie explores her journey and the challenges she faces. The performances by the actors, especially Emily Rios, are exceptional.",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I'm sold! I'll definitely give \"Quinceanera\" a watch.",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Great! If you need any more recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you so much for your help. I appreciate it.",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! Enjoy your movie marathon. If you have any more questions, feel free to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: You too! Bye!",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: ",
+    "conv_id": 108,
+    "session_id": 231
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, my name is Fernando Silva. I really enjoyed watching \"Nothing Sacred\" on VHS. It was a great movie with Carole Lombard and Fredric March.",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello, Fernando! I'm glad to hear that you enjoyed \"Nothing Sacred.\" It's indeed a fantastic movie. By the way, have you seen \"The Thief of Bagdad\"? It's another VHS film that I think you might like.",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Actually, I have seen \"The Thief of Bagdad\" before, so I'll have to pass on that recommendation.",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: No problem, Fernando. How about \"Gentlemen Prefer Blondes\"? It's another VHS movie that I think you might enjoy.",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I've actually seen \"Gentlemen Prefer Blondes\" as well. It's a great movie, but I've already watched it.",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Alright, no worries. How about \"Wedding Night\"? It's a VHS movie you might like.",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I'm not sure, can you tell me more about \"Wedding Night\"?",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Of course! \"Wedding Night\" is a 1930s American film starring Anna Sten and Gary Cooper. It's a romantic drama with a wonderful chemistry between the lead actors. The film has a terrific look and captures the clash of cultures between Polish immigrants. Overall, it offers a very rewarding viewing experience.",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Sounds interesting! I'll give \"Wedding Night\" a try.",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Great! I'm glad you're interested. Is there anything else I can recommend to you?",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: No, thank you. I appreciate your recommendations.",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome, Fernando. If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you, I appreciate your help. Have a great day too!",
+    "conv_id": 109,
+    "session_id": 231
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: ",
+    "conv_id": 109,
+    "session_id": 231
+  }
+]

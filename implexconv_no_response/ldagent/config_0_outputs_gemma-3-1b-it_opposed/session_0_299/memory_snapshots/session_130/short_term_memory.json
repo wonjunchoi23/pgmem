@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I recently watched Jackass - The Movie VHS and I have to say, I was not impressed. The movie was just too gross and stupid for my taste.",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I understand. It's disappointing when a movie doesn't meet our expectations. Is there anything specific you'd like a recommendation for?",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Yes, please! I'm looking for something new to watch. Got any suggestions?",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! How about checking out Tessellations: How to Create Them VHS? It's a fascinating film that explores the art of creating tessellations. Many viewers have found it engaging and educational.",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Oh, I'm sorry, but I've already seen that one. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! Another movie you might enjoy is North by Northwest VHS. It's a classic Hitchcock film with an intriguing plot and captivating performances. Many viewers consider it one of Hitchcock's best works.",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Ah, I've seen North by Northwest before as well. Do you have anything else in mind?",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Absolutely! How about giving Zombeavers Region Free a try? It's a fun and entertaining horror film that doesn't take itself too seriously. It has fantastic practical effects, funny characters, and a good mix of humor and horror.",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds interesting! Tell me more about Zombeavers.",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Zombeavers is a movie that follows a group of friends on a getaway to a remote cabin, only to be attacked by mutant zombie beavers. It's filled with great dialogue, cheesy beaver jokes, and even some topless nudity. The film has a good balance of humor and horror, making it a gem for horror enthusiasts. The Blu-ray release also includes some behind-the-scenes footage and deleted scenes.",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: I'm sold! I'll definitely check out Zombeavers. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! Enjoy watching Zombeavers, and if you have any more questions or need further recommendations, feel free to ask. Have a great time!",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you! Goodbye!",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: ",
+    "conv_id": 108,
+    "session_id": 130
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently watched \"The Black Dahlia\" and I have to say, it was quite disappointing. The acting was unconvincing and the direction was sloppy. I was hoping for so much more.",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your disappointment with \"The Black Dahlia\". It's unfortunate when a film with such potential falls short. However, let's not dwell on that. Is there anything else you'd like to discuss?",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Actually, I was hoping you could recommend a movie for me.",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Of course! Based on your previous dislikes, I would recommend \"Hyde Park on Hudson\". Although it didn't resonate with me personally, it might be worth a watch. I can provide you with more information if you're interested.",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I'm sorry, but I've already seen \"Hyde Park on Hudson\" and it didn't appeal to me either. The film lacked depth and the characters were uninteresting.",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand your perspective. In that case, how about \"Mr. Sardonicus\"? It's a film you might enjoy based on your liking for \"Mr. Sardonicus\" and the positive review from another Speaker1: who shares your taste. Let me give you more details.",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you for the recommendation, but I've actually seen \"Mr. Sardonicus\" before. Is there anything else you could suggest?",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Certainly! How about considering \"Dead Again VHS\"? It has received positive reviews and is known for its plot twists and surprises. Would you like more information about it?",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds intriguing! Tell me more about \"Dead Again VHS\".",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: \"Dead Again VHS\" is a masterpiece that keeps you engaged with its unexpected plot twists and surprises. The direction and acting are top-notch, making it a must-watch for thriller enthusiasts. It may require multiple viewings to fully grasp its essence. Overall, it has received great reviews from other users as well.",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: I'm convinced! I'll definitely give \"Dead Again VHS\" a watch. Thank you for the recommendation.",
+    "conv_id": 109,
+    "session_id": 130
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. If you need any more recommendations in the future, feel free to ask. Enjoy watching \"Dead Again VHS\"!",
+    "conv_id": 109,
+    "session_id": 130
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "2bb616c3-7680-47f4-b8e7-072cd747ec42",
+    "content": "Conversation content on Day 53: [|User|]: Hello! I hope you can help me find a good book to read. I recently read \"The Best American Travel Writing 2010\" and I didn't enjoy it.\n[|AI|]: Oh, I understand. Have you considered reading \"Psychiatric Mental Health: Davis Essential Nursing Content + Practice Questions\"? It might interest you.",
+    "timestamp": "0129_0105_0000",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "bf26abd8-930c-4502-8ea6-c2fec9103ba1",
+    "content": "Conversation content on Day 53: [|User|]: That sounds interesting. Can you tell me more about the book?\n[|AI|]: \"Psychiatric Mental Health: Davis Essential Nursing Content + Practice Questions\" is a highly recommended resource for current psych nurses or those studying psychiatric nursing. It offers more than just the printed pages, with great online resources that complement the book. It's organized in a user-friendly manner, and the case studies are both interesting and logical. It's a valuable reference for healthcare providers and can even spark dialogue among the staff.",
+    "timestamp": "0129_0105_0002",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "61dd3753-a529-4148-805d-de278cc672ef",
+    "content": "Conversation content on Day 53: [|User|]: That sounds great! I'll give it a try. Thank you for the recommendation.\n[|AI|]: You're welcome! If you need any more book recommendations, feel free to ask.",
+    "timestamp": "0129_0105_0004",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "e5bb4baf-295c-4350-ab77-9cf117f3611e",
+    "content": "Conversation content on Day 53: [|User|]: No, that's enough for now. I appreciate your help.\n[|AI|]: Not a problem! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "timestamp": "0129_0105_0006",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "3b2d7ca0-7dab-4aac-9d79-ba61cc0f96d5",
+    "content": "Conversation content on Day 54: [|User|]: Hi, I'm William E. Adams. I really enjoyed watching 9 to 5 VHS. Jane Fonda, Lily Tomlin, and Dolly Parton were fantastic in their roles. Dabney Coleman as the evil boss was also impressive. It was a fun movie to watch for a couple of hours.\n[|AI|]: Hello William! I'm glad to hear that you enjoyed 9 to 5 VHS. The performances by Jane Fonda, Lily Tomlin, and Dolly Parton were indeed remarkable. Dabney Coleman's portrayal of the evil boss added an interesting dynamic to the story. Is there anything specific you'd like a recommendation for?",
+    "timestamp": "0129_0106_0000",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "d335a1be-7bf3-4e8f-9334-be8962bc675b",
+    "content": "Conversation content on Day 54: [|User|]: I appreciate the recommendation, but I have already seen \"Extraordinary Measures\".\n[|AI|]: I understand. In that case, how about \"The Doctor\" on VHS? It's a thought-provoking movie where a high-level surgeon, played by William Hurt, is forced to reevaluate healthcare from the perspective of a patient. It's a well-done film that explores the challenges and complexities of the healthcare system.",
+    "timestamp": "0129_0106_0004",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "7f204fbf-70ed-465f-b63b-74774785ad0f",
+    "content": "Conversation content on Day 54: [|User|]: I've actually already seen \"The Doctor\" as well.\n[|AI|]: I see. In that case, you might be interested in \"Quartet\". It's a film directed by Dustin Hoffman, which takes a balanced approach in depicting the realities of old age while also portraying the triumphs of its elderly characters. It's set in a home for retired musicians and follows the residents as they prepare for their annual gala. Would you like more details about the movie?",
+    "timestamp": "0129_0106_0006",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "02d70f06-59f3-4c40-aa63-ae5acbf03d0b",
+    "content": "Conversation content on Day 54: [|User|]: That sounds interesting. I'll give \"Quartet\" a try.\n[|AI|]: Great! I hope you enjoy watching \"Quartet\". If you need any more recommendations, feel free to ask.",
+    "timestamp": "0129_0106_0010",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "f240b37a-bc98-4173-bb85-981d341e3b1d",
+    "content": "Conversation content on Day 54: [|User|]: You too. Goodbye!\n[|AI|]: Goodbye and take care!",
+    "timestamp": "0129_0106_0014",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "4e0a74da-4848-4bee-84c6-f223503cc201",
+    "content": "Conversation content on Day 54: [|User|]: Hello! I recently read \"Life on Earth: Understanding Who We Are, How We Got Here, and What May Lie Ahead\" and it was truly life-changing! I can't wait to learn more. What other book would you recommend?\n[|AI|]: I'm glad you enjoyed \"Life on Earth\"! Another book I highly recommend is \"Undoctored: Why Health Care Has Failed You and How You Can Become Smarter Than Your Doctor\". It's written by Dr. Davis and he emphasizes the importance of taking control of our own health through nutrition and exercise. It has received great reviews from readers.",
+    "timestamp": "0129_0107_0000",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "53d26dd2-ee73-4f93-8fa1-f0ead71c3b50",
+    "content": "Conversation content on Day 54: [|User|]: That sounds interesting. Can you tell me more about \"Undoctored\"?\n[|AI|]: Certainly! \"Undoctored\" is a book that empowers individuals to take charge of their own health. Dr. Davis explains how traditional healthcare has failed us and provides practical advice on how to become smarter about our own well-being. The book emphasizes the role of nutrition and exercise in achieving optimal health. Many readers have found it helpful in improving their overall well-being.",
+    "timestamp": "0129_0107_0002",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "fe17cd59-03c2-44ab-a145-c06dc7c36f91",
+    "content": "Conversation content on Day 54: [|User|]: I'll give it a try. Thanks for the recommendation!\n[|AI|]: You're welcome! I hope you find \"Undoctored\" insightful and beneficial. If you have any more questions or need further recommendations, feel free to ask. Enjoy your reading!",
+    "timestamp": "0129_0107_0004",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "a1087761-4942-4af7-91db-a54cad071d62",
+    "content": "Conversation content on Day 55: [|User|]: Both Professional and Fun(A17GR3A17H5NHC)\n[|AI|]: Hi there! How can I assist you today?",
+    "timestamp": "0129_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "86143b88-dad2-4cd6-b265-1730e0f78155",
+    "content": "Conversation content on Day 55: [|User|]: Do you have any book recommendations for me?\n[|AI|]: Sure, I have a suggestion for you. Have you heard of the book \"My Not So Perfect Life: A Novel\"? It's a great read!",
+    "timestamp": "0129_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "52b81c68-d835-4f96-93e0-0eded95f9a32",
+    "content": "Conversation content on Day 55: [|User|]: Oh, I've already read that book. Do you have any other recommendations?\n[|AI|]: Absolutely! How about \"Be Frank With Me: A Novel\"? It received positive reviews, and it's an enjoyable and light-hearted story.",
+    "timestamp": "0129_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "20dbcc69-2d0b-44a1-a6ca-7604fea3d6ea",
+    "content": "Conversation content on Day 55: [|User|]: Hmm, I'm not sure. Can you tell me more about the book?\n[|AI|]: Of course! \"Be Frank With Me: A Novel\" is written by an author who has received high praise. It's a captivating read that will keep you hooked from start to finish.",
+    "timestamp": "0129_0108_0006",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "2c84ce67-7152-4b94-a7ed-d4257ea09239",
+    "content": "Conversation content on Day 55: [|User|]: Alright, I'll give it a try. Thanks for the recommendation!\n[|AI|]: You're welcome! If you need any more suggestions in the future, feel free to ask. Enjoy reading!",
+    "timestamp": "0129_0108_0008",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "c32ca26b-6068-441f-b1ad-56ac6e246c0a",
+    "content": "Conversation content on Day 55: [|User|]: I appreciate your help. Thanks again!\n[|AI|]: It was my pleasure assisting you. Have a great day!",
+    "timestamp": "0129_0108_0010",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "22c84e0c-2859-4215-9f6f-46fb1370d65c",
+    "content": "Conversation content on Day 55: [|User|]: Hello, I hope you're doing well. I wanted to talk about a book called \"The Art of Possibility: Transforming Professional and Personal Life.\" I didn't really enjoy it, to be honest.\n[|AI|]: Oh, I see. Well, I came across a review of the book that might interest you. According to the review, \"The Zanders have created a thought-provoking, entertaining, informative, and challenging work that approaches inspiration and life-purpose from a very different perspective. They wonder aloud how WE can become the best WE we can be and fulfill our individual longings for meaning and significance in life.\"",
+    "timestamp": "0129_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "400d8591-9209-44c6-83da-1bfc24b6037f",
+    "content": "Conversation content on Day 55: [|User|]: Thanks for the recommendation. I'll check it out.\n[|AI|]: You're welcome! If you have any more questions or need further recommendations, feel free to ask. Have a great day!",
+    "timestamp": "0129_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "c14a17cf-5057-4dba-ac8d-18f9a1c5752e",
+    "content": "Conversation content on Day 55: [|User|]: Thank you, have a great day too. Goodbye!",
+    "timestamp": "0129_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

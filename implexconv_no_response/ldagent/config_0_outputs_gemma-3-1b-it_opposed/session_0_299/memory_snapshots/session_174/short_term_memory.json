@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm ITGeek. How are you today? By the way, I had a bad experience with the XtremepowerUS Deer Cart Game Hauler Utility Hunting Accessories Gear Dolly Cart 500lb. It started rusting after just a few days, and the wheels were not straight. Can you help me with that?",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi ITGeek! I understand your concern. Let me recommend the Iron Gloves Rifle Scope Cover, Black, 12-Inch - 13.5-Inch. It has received positive reviews. One customer mentioned that it fits various scopes and works better than a rubber cover. They found it to be durable and protective.",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thank you for the recommendation, but I have already seen the Iron Gloves Rifle Scope Cover before, so I'll have to pass on it.",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: No problem! In that case, I recommend the MTM Load Labels (Pack of 50). Another customer found them to be just what they needed for labeling their reloads. The detailed reload logs and multiple labels of each color were particularly useful for them.",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the suggestion, but I have also seen the MTM Load Labels before. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Sure! How about considering the Eric_Leon 2 Set of Luggage Suitcase Replacement Wheels with ABEC 608zz Bearings? Customers have mentioned that these wheels have transformed their travel experience. They found it much easier to drag their suitcases without feeling the weight.",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds interesting. Can you provide more details about these wheels and their functionality?",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Absolutely! According to another customer review, the Eric_Leon suitcase replacement wheels have made their luggage feel like a magic carpet. They highly recommend investing in these wheels to transform your traveling experience. The smooth movement and reduced effort in dragging the bags have made a significant difference for them.",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds great! I'll give the Eric_Leon suitcase replacement wheels a try. Thank you for the recommendation.",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your help and suggestions. I really appreciate it.",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: It was my pleasure assisting you. If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 174
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello, my name is Peter DP. I recently purchased the ProSource Puzzle Exercise Mat and I'm very satisfied with it. The tiles are clean, easy to clip together, and provide a secure flooring for my gym. It's a great investment for a complete gym setup.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Peter! I'm glad to hear that you're satisfied with the ProSource Puzzle Exercise Mat. If you're looking for another useful product, I recommend the Inf-way Fire Blanket. It's a fiberglass fire flame retardant emergency survival shelter safety cover. It's handy to have around, especially if you live in a fire-prone area.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thank you for the recommendation, but I've already seen the Inf-way Fire Blanket before.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand. In that case, I suggest taking a look at the Sport-Brella Versa-Brella. It's an all-position umbrella with a universal clamp. It's well made and effective for protecting yourself from the sun when attached to a lounge chair.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I appreciate the suggestion, but I've already seen the Sport-Brella Versa-Brella before.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Alright, how about considering the OUTAD Waterproof Outdoor Hiking Legging Gaiters? They are perfect for keeping the bottom part of your legs dry while hiking, walking, climbing, hunting, or in the snow. They are waterproof and easily slip over or around your pants.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Hmm, I'm interested. Can you provide more details about the OUTAD Waterproof Outdoor Hiking Legging Gaiters?",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Absolutely! The OUTAD Waterproof Outdoor Hiking Legging Gaiters are made of high-quality materials and are designed to be durable. They have a loop that goes under your boot or shoe to keep them in place, and an elastic band at the top that can be tightened for a secure fit. They are waterproof and will keep you dry and comfortable in various weather conditions. Customers have found them to be very useful, especially in wet or snowy environments.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Sounds good! I'll give them a try.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Great! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you for your help and recommendations. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: You too! Goodbye.",
+    "conv_id": 109,
+    "session_id": 174
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 109,
+    "session_id": 174
+  }
+]

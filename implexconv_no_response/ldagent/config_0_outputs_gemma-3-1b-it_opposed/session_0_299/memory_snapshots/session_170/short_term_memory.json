@@ -1,0 +1,198 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi! I recently purchased the Bose SoundDock digital music system for iPod and I wanted to share my thoughts on it. It's a great accessory for bringing music into a room with limited space. The sound quality is amazing and the remote control is easy to use. Overall, I highly recommend it.",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! I'm glad you're enjoying the Bose SoundDock. Is there anything specific you'd like to discuss or any recommendations you're looking for?",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, I'm interested in hearing your recommendations. I'm open to exploring new products.",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Alright, based on your previous review, I recommend checking out the Acme Made Slip Pouch. It's a sleek and stylish pouch designed to protect your digital devices. However, please note that some users have found it to be too small for larger devices.",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Oh, I actually had a bad experience with the Acme Made Slip Pouch in the past. It was too small for my needs.",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I apologize for the inconvenience. In that case, I suggest considering the Canon Digital Rebel XTi 10.1MP Digital SLR Camera. It's a high-quality camera that offers excellent performance and versatility. Based on other users' reviews, it seems to be a popular choice.",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thank you for the recommendation, but I've already seen and considered the Canon Digital Rebel XTi. Do you have any other suggestions?",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! Another option to consider is the Logitech iPad Keyboard and Stand Combo. It's designed specifically for iPads and offers a convenient keyboard and stand combination. Users have praised its ease of use and functionality.",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Hmm, that sounds interesting. Can you provide more details about the Logitech iPad Keyboard and Stand Combo?",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Certainly! According to other users' reviews, the Logitech Tablet Keyboard is easy to set up and offers a similar layout to Apple's keyboards. It provides a comfortable typing experience and comes with a protective carrying case that doubles as a stand for the iPad. It's a great accessory for enhancing productivity on your iPad.",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: That sounds perfect! I'll go ahead and give the Logitech iPad Keyboard and Stand Combo a try.",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: Wonderful! I'm glad I could help. If you need any further recommendations or assistance, feel free to let me know. Enjoy your new purchase!",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it!",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. Have a great day!",
+    "conv_id": 108,
+    "session_id": 170
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I recently watched \"The Melody of Oblivion: Monotone\" and I must say, it was a disappointment. The script was awful and the action was predictable. I wish I could have gotten my money back.",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Oh, I'm sorry to hear that you didn't enjoy \"The Melody of Oblivion: Monotone\". It's frustrating when a movie doesn't live up to expectations. Is there any particular reason why you didn't like it?",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Well, the script was slow and the action scenes were predictable. It just didn't meet my expectations at all.",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand. In that case, let me recommend another movie for you. How about \"Spring Breakers\"? It's a different genre and has received positive reviews. According to a review I found, it's described as a true modern exploitation masterpiece with great performances.",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Actually, I've already seen \"Spring Breakers\" and I didn't enjoy it either. The movie seemed more like a music video, and the actors didn't have much to work with.",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I see. I apologize for the recommendation then. How about \"X-Men: First Class\"? It's a superhero movie that has received good reviews. According to a review I found, it explores the origins of the mutant superheroes and super-villains in the 1960s.",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I've actually seen \"X-Men: First Class\" before. It was a good movie, but I've already watched it.",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Alright, no problem. How about \"Star Trek XI\"? It's a sci-fi movie that you might enjoy. According to a review I found, it's described as a new, smarter, and more thrilling Star Trek than ever before.",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about \"Star Trek XI\"?",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! According to the review I found, \"Star Trek XI\" revitalized the franchise with a young and fresh cast. It's directed by J.J. Abrams and introduces the idea of Star Trek to a new generation. The review praises the brilliant casting and describes it as a new, smarter, funnier, hipper, sexier, and more thrilling Star Trek movie.",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: That sounds interesting. I'll give \"Star Trek XI\" a try. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. If you need any more recommendations, feel free to ask. Enjoy watching \"Star Trek XI\"!",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 26,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you! I appreciate your assistance. Goodbye!",
+    "conv_id": 109,
+    "session_id": 170
+  },
+  {
+    "idx": 27,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! Have a great time watching the movie. Goodbye!",
+    "conv_id": 109,
+    "session_id": 170
+  }
+]

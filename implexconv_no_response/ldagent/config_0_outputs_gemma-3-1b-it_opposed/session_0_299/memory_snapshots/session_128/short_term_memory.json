@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm DalTex and I really enjoyed watching the Used Cars VHS. It's such a great movie, worth the time.",
+    "conv_id": 108,
+    "session_id": 128
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I'm glad you enjoyed it! I also found it intriguing when I discovered that Used Cars was executive produced by Steven Spielberg and John Milius. The film has a unique blend of Ayn Rand and Frank Capra's styles. Kurt Russell's performance as Rudy Russo is both smarmy and charming. The movie is filled with hilarious moments and cool cameos.",
+    "conv_id": 108,
+    "session_id": 128
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: That sounds amazing! Can you recommend something similar?",
+    "conv_id": 108,
+    "session_id": 128
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! Based on your interests, I think you might like High Noon. It's a classic Western film with suspense, romance, and action. It has received great reviews and is considered one of the top Westerns of all time. The theme song is also quite memorable.",
+    "conv_id": 108,
+    "session_id": 128
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm definitely interested! The positive reviews and the mix of suspense and romance make it even more appealing.",
+    "conv_id": 108,
+    "session_id": 128
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I'm glad you're interested! High Noon is definitely worth watching. It's a well-acted film with a good story. Just keep in mind that it may not be entirely realistic in terms of historical accuracy. If that doesn't bother you, I think you'll enjoy it.",
+    "conv_id": 108,
+    "session_id": 128
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Noted! I appreciate your recommendation and I'm excited to watch High Noon. Thanks!",
+    "conv_id": 108,
+    "session_id": 128
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! I hope you have a great time watching it. If you have any more questions or need further recommendations, feel free to ask. Enjoy the movie!",
+    "conv_id": 108,
+    "session_id": 128
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you! I'll definitely reach out if I need more recommendations. Have a great day!",
+    "conv_id": 108,
+    "session_id": 128
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You too! Take care and enjoy your movie experience. Goodbye!",
+    "conv_id": 108,
+    "session_id": 128
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello! I really enjoyed watching Fox Western Classics: (Rawhide / The Gunfighter / Garden of Evil). The movies had everything I love about Westerns and the cast was amazing.",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi there! I'm glad you liked Fox Western Classics. They truly are must-watch movies for Western fans. What can I assist you with today?",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Could you recommend another movie for me to watch?",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! How about Mean Streets VHS? It's another great movie that you might enjoy. It has received positive reviews as well.",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I've already seen Mean Streets. It's a fantastic movie.",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I apologize for the recommendation. In that case, I suggest you check out Serpico. It's a gritty true story about an honest cop caught in a corrupt police department. The movie is highly acclaimed, and Al Pacino's acting is exceptional.",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! Tell me more about Serpico.",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Serpico is a nonconformist cop who exposes corruption within the department. The movie explores themes of honesty and courage. It has a powerful storyline and a beautiful musical score. Many consider it to be even better than The Godfather series.",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I'm definitely interested in watching Serpico. I'll give it a try.",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Great! I'm sure you'll enjoy it. Is there anything else I can help you with?",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: No, thank you for the recommendation. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 128
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you ever need more recommendations in the future, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 128
+  }
+]

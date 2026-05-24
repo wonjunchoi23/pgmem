@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I hope you're doing well. I wanted to talk about the book \"Colour My Sketchbook Gothic\". I didn't really enjoy it.",
+    "conv_id": 108,
+    "session_id": 14
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I understand. I've read a review about it as well. According to another reader, they mentioned that \"Colour My Sketchbook Gothic\" is actually quite impressive. They mentioned that the book is of top quality and has advanced content.",
+    "conv_id": 108,
+    "session_id": 14
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Hmm, that sounds interesting. Can you recommend something similar?",
+    "conv_id": 108,
+    "session_id": 14
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! I think you might like \"Visionary Awakened (Paranormal INC Series)\". It has received positive reviews from readers. One of them said they loved the book and couldn't wait for the next one. They highly recommend it.",
+    "conv_id": 108,
+    "session_id": 14
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds great! I'll give \"Visionary Awakened\" a try. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 14
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: You're welcome! I hope you enjoy reading \"Visionary Awakened\". If you have any more questions or need further recommendations, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 14
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thank you! Have a wonderful day too. Goodbye!",
+    "conv_id": 108,
+    "session_id": 14
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Goodbye!",
+    "conv_id": 108,
+    "session_id": 14
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Eve in the dark. I recently read \"The Eternal Highlander\" and really enjoyed it. The vampire love stories were interesting. Any recommendations?",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello Eve in the dark! I'm glad you enjoyed \"The Eternal Highlander\". I recommend \"Phenomenon: Everything You Need to Know About the Paranormal\". It's a book that my mom loves, written by Sylvia Browne. She provides great insights into the paranormal.",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I appreciate the recommendation, but I've already seen that book before.",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: No problem, how about \"Zen and the Art of Vampires (Dark Ones, Book 6)\"? It's another vampire-themed book that you might enjoy.",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the suggestion, but I've already read that one too.",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Alright, no worries. How about \"Dark Fantasy: An Adult Coloring Book with Mysterious Women, Mythical Creatures, Demonic Monsters, and Gothic Scenes for Relaxation\"? It might interest you.",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Certainly! According to the review, it's a coloring book with beautiful illustrations of mysterious women, mythical creatures, demonic monsters, and gothic scenes. It's designed for relaxation and provides a unique and captivating experience.",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Sounds intriguing. I'll give it a try!",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Great! If you need any more recommendations, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: You too! Goodbye.",
+    "conv_id": 109,
+    "session_id": 14
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: Goodbye!",
+    "conv_id": 109,
+    "session_id": 14
+  }
+]

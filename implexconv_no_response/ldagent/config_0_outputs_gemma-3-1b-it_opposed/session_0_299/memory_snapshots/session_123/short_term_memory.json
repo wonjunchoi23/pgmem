@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I had a bad experience with the Pearl Izumi - Ride Women's Sugar Thermal Cycling Tights. The description said they had a chamois, but the ones I received didn't have it.",
+    "conv_id": 108,
+    "session_id": 123
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I understand. It's unfortunate that the tights didn't match the description. On a positive note, have you considered trying the Profile Designs T3+ Aero Bar? I found a great review for it.",
+    "conv_id": 108,
+    "session_id": 123
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thanks for the recommendation, but I've already tried out the Profile Designs T3+ Aero Bar. Do you have any other suggestions?",
+    "conv_id": 108,
+    "session_id": 123
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure thing! How about the SKB 3I-4214-PL iSeries 4214 Parallel Limb Bow Case? It's highly rated and offers excellent protection for your bow.",
+    "conv_id": 108,
+    "session_id": 123
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about the SKB 3I-4214-PL iSeries 4214 Parallel Limb Bow Case?",
+    "conv_id": 108,
+    "session_id": 123
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Absolutely! According to a user review, it's a heavy-duty case that can withstand a lot of abuse while keeping your bow safe. It's been tested on long trips without any issues.",
+    "conv_id": 108,
+    "session_id": 123
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That's great to hear! I'll go ahead and give the SKB case a try.",
+    "conv_id": 108,
+    "session_id": 123
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Fantastic! If you need any more recommendations or assistance, feel free to let me know.",
+    "conv_id": 108,
+    "session_id": 123
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you for your help. I really appreciate it!",
+    "conv_id": 108,
+    "session_id": 123
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 123
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello, I recently read \"The Complaints\" and I must say, I was extremely disappointed with it. The story was convoluted and tedious. I preferred the Rebus series much more.",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your disappointment with \"The Complaints\". It seems like the new series with Malcolm Fox didn't live up to the standards set by Rebus. However, let me recommend another book that you might enjoy. Have you heard of \"Solo: A James Bond Novel\"? It received positive reviews.",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Oh, I've already read \"Solo: A James Bond Novel\". It was a good adventure, but not great. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I apologize for the previous recommendation. How about \"The Man Who Saved Britain: A Personal Journey into the Disturbing World of James Bond\"? It provides an interesting perspective on the decline of British culture and the Bond books. However, I can understand if you have reservations based on the reviews.",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Actually, I read the reviews for \"The Man Who Saved Britain\" and it doesn't seem like something I would enjoy. Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Of course! Another book you might like is \"Cultural Amnesia: Necessary Memories from History and the Arts\". It offers a unique exploration of past events and their relevance to our current society. It received positive reviews.",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about \"Cultural Amnesia\"?",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: \"Cultural Amnesia\" is a thought-provoking book that delves into the connections between historical events and our present society. While it may not offer pointed opinions, it provides a captivating journey through the lives of influential personalities. It has received high praise for its insights and is definitely worth a read.",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I'm convinced. I'll give \"Cultural Amnesia\" a try!",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Great choice! I hope you enjoy reading \"Cultural Amnesia\" and find it to be a worthwhile experience. If you have any more questions or need further recommendations in the future, feel free to ask. Happy reading!",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you for your help. I'm looking forward to diving into the book. Goodbye!",
+    "conv_id": 109,
+    "session_id": 123
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! Enjoy your reading and have a great day ahead. Goodbye!",
+    "conv_id": 109,
+    "session_id": 123
+  }
+]

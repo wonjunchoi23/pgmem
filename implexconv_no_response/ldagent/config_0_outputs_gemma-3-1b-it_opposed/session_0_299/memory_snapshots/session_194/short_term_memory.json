@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello! I recently purchased the NEET Suede Leather Glove and I must say, it's amazing. The glove provides excellent finger protection when I use my 60-pound compound bow. The stitching and leather quality are top-notch. I'm really impressed!",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! It's always important to have proper gear for archery. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I'm looking for a holster for my S&W M&P Compact 9/40. Any recommendations?",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! I would recommend the Galco Stow-N-Go Inside The Pant Holster. It's a comfortable and secure option for your firearm. Customers have praised its fit and durability. One customer said, \"I have spent a small fortune on holsters. I was pleasantly surprised with how comfortable this holster is with my S&W M&P 40c. Great purchase!\"",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen that one before. Do you have any other options?",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! Another option is the Galco Stow-N-Go Inside The Pant Holster for the S&W M&P Compact 9/40. It has received positive reviews for its comfort and secure fit. One customer said, \"I was concerned about the plastic clip until I felt it, no way that puppy is going to break. The holster is light, well made, and really accepts the gun nicely. Great purchase!\"",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I appreciate the suggestion, but I've already considered that one as well. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Certainly! You might be interested in the Tippman Gryphon Paintball Kit. It includes a mask, tank, loader, and more. Customers have given it a high rating, saying, \"This is an excellent gun for the money. My son was very happy with the quality and the look.\"",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Hmm, that sounds interesting. Can you provide more details about the paintball kit?",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Absolutely! According to a review, the Tippman Gryphon Paintball Kit is an excellent choice. It comes in black and offers exceptional quality and performance. The customer was pleased with the product and mentioned their son was very satisfied with it.",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Alright, I'll go with the Tippman Gryphon Paintball Kit. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: No, that's all for now. I appreciate your help. Thank you!",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 194
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, my name is Randy. I really like the Mylar Men's Emergency Thermal Blankets (10 Pack). I found them to be a great item to have in my car for emergencies. The overall experience was excellent.",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! The Mylar Men's Emergency Thermal Blankets (10 Pack) are indeed a useful product. They create air pockets and help retain body heat. They are also great to have in emergency shelters or during cold nights at home.",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: That's exactly what I was looking for. Can you recommend anything else that I might like?",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! Based on your interests, I recommend the RCBS 9.3m Bullet Puller Collet. It has received positive reviews and is a reliable tool for safely removing bullets without damaging them.",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about its sports details?",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Certainly! The RCBS 9.3m Bullet Puller Collet is not only effective but also allows you to remove bullets without crimping them. It may require some practice, but once you get the hang of it, you'll be able to salvage bullets without any noticeable damage. It's a great alternative to impact pullers and perfect for small test groups before running a batch.",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I'm convinced! I accept your recommendation. The reason being the positive reviews and its ability to salvage bullets effectively.",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I'm glad you find it appealing! Is there anything else I can recommend for you?",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you for your offer, but I think I'm good for now. I appreciate your help!",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you! You too. Goodbye!",
+    "conv_id": 109,
+    "session_id": 194
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 109,
+    "session_id": 194
+  }
+]

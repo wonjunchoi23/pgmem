@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hey there! I recently read \"Mein Kampf extended edition\" and I found the translation to be great. The author had some interesting idiosyncrasies, but overall, it was an intriguing book.",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: That's great to hear! If you enjoyed \"Mein Kampf,\" you might also like \"Liars For Jesus: The Religious Right's Alternate Version of American History, Vol. 1.\" It's a book that exposes the nonsense spewed by the religious right.",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: Thanks for the recommendation, but I've already read that book before.",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: No problem! How about \"Enrique's Journey: The Story of a Boy's Dangerous Odyssey to Reunite with His Mother\"? It's a captivating story about a boy's journey to find his mother.",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: I appreciate the recommendation, but I've also read that book already.",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: Alright, no worries. How about \"Chain of Title: How Three Ordinary Americans Uncovered Wall Street's Great Foreclosure Fraud\"? It's a book that delves into the corruption of the banking system and the impact on property ownership.",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about it?",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: Certainly! In \"Chain of Title,\" author David Dayen meticulously explores how the banks perverted their reputation for honesty and created a scandal that affected countless pieces of property. It sheds light on the lives of three individuals who took on the big banks and the price they paid. It's a compelling read that exposes the shortcomings of our judicial and political system.",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756800.0,
+    "dialog": "User: I'm sold! I'll definitely give it a read.",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756800.0,
+    "dialog": "Agent: Excellent! If you need any more recommendations, feel free to ask.",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4758000.0,
+    "dialog": "User: Thank you for your help. I appreciate it!",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4758000.0,
+    "dialog": "Agent: You're welcome! If you have any more questions or need assistance in the future, feel free to reach out. Have a great day!",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4759200.0,
+    "dialog": "User: You too. Have a great day!",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4759200.0,
+    "dialog": "Agent: ",
+    "conv_id": 110,
+    "session_id": 234
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4795200.0,
+    "dialog": "User: Hello, my name is Alla S. I recently enjoyed reading \"Stories I Only Tell My Friends\" and found it quite entertaining. The memoir provided an insightful behind-the-scenes look at Rob Lowe's journey to stardom, his experiences with the brat pack, and his involvement in hit movies and shows like \"The Outsiders\" and \"The West Wing.\" I highly recommend it!",
+    "conv_id": 111,
+    "session_id": 234
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4795200.0,
+    "dialog": "Agent: Thank you for your recommendation! I'm glad you enjoyed \"Stories I Only Tell My Friends.\" Another book that you might like is \"Crush It!: Why NOW Is the Time to Cash In on Your Passion.\" It's written by Gary Vaynerchuk and explores how to leverage the power of the internet to build your personal brand and turn your passion into a profitable business.",
+    "conv_id": 111,
+    "session_id": 234
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4796400.0,
+    "dialog": "User: I appreciate the suggestion, but I've actually already read \"Crush It!\" before. It's a great book, but I'm looking for something new.",
+    "conv_id": 111,
+    "session_id": 234
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4796400.0,
+    "dialog": "Agent: Understood. In that case, I recommend checking out \"The Blind: A Chilling Psychological Suspense.\" It has received positive reviews and offers a gripping story that delves into psychological suspense. Would you like more details about the book?",
+    "conv_id": 111,
+    "session_id": 234
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4797600.0,
+    "dialog": "User: Yes, please! I'm interested to know more about \"The Blind\" and what makes it a compelling read.",
+    "conv_id": 111,
+    "session_id": 234
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4797600.0,
+    "dialog": "Agent: \"The Blind\" is a captivating psychological thriller that explores the complexity of human nature. It follows the journey of a character who is critical of others while battling personal issues. The book takes a slow and deliberate approach, creating a suspenseful atmosphere reminiscent of Stephen King's \"The Shining.\" It's not entirely predictable, making it a worthwhile and thought-provoking read for fans of psychological thrillers.",
+    "conv_id": 111,
+    "session_id": 234
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4798800.0,
+    "dialog": "User: That sounds intriguing! I'll definitely give \"The Blind\" a try. Thank you for the recommendation.",
+    "conv_id": 111,
+    "session_id": 234
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4798800.0,
+    "dialog": "Agent: You're welcome! If you need any more book recommendations or have any other questions, feel free to let me know.",
+    "conv_id": 111,
+    "session_id": 234
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4800000.0,
+    "dialog": "User: Thank you, but I'm good for now. I appreciate your help!",
+    "conv_id": 111,
+    "session_id": 234
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4800000.0,
+    "dialog": "Agent: Not a problem! It was my pleasure assisting you. Have a great day!",
+    "conv_id": 111,
+    "session_id": 234
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, my name is William A. Nolan. I recently read \"The Calling (Endgame)\" and \"Forged by Chaos (Warhammer Online: Age of Reckoning)\" and I didn't enjoy them.",
+    "conv_id": 108,
+    "session_id": 96
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I understand your feelings about \"The Calling (Endgame)\". It seems like the constant battle situations didn't provide the entertainment you were looking for. However, I recommend \"Forged by Chaos (Warhammer Online: Age of Reckoning)\" which has received positive reviews.",
+    "conv_id": 108,
+    "session_id": 96
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I appreciate the recommendation, but based on the review I read, I'm not interested in \"Forged by Chaos (Warhammer Online: Age of Reckoning)\" either.",
+    "conv_id": 108,
+    "session_id": 96
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand your hesitation. In that case, I have another suggestion for you. You might enjoy \"Besieged: Stories from the Iron Druid Chronicles\".",
+    "conv_id": 108,
+    "session_id": 96
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Hmm, I'm not sure. Can you give me more details about \"Besieged: Stories from the Iron Druid Chronicles\"?",
+    "conv_id": 108,
+    "session_id": 96
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Certainly! \"Besieged: Stories from the Iron Druid Chronicles\" is a collection of short stories that fill in the gaps between the books in the Iron Druid series. Readers have found it satisfying as it explores events that occurred between the main novels. It has an overall positive rating of 4.0.",
+    "conv_id": 108,
+    "session_id": 96
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Alright, I'll give it a try. Thank you for the recommendation.",
+    "conv_id": 108,
+    "session_id": 96
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 96
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Actually, I'm good for now. Thank you again.",
+    "conv_id": 108,
+    "session_id": 96
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a great day!",
+    "conv_id": 108,
+    "session_id": 96
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello! I recently read \"In Good Faith (Joe Dillard)\" and I absolutely loved it! The book was so captivating and I couldn't put it down. Have you read it?",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi there! I'm glad to hear that you enjoyed \"In Good Faith (Joe Dillard)\". I'm not familiar with that book, but I'm here to help. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'm looking for some book recommendations. What would you suggest?",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I recommend \"World of Warcraft: The Burning Crusade Official Strategy Guide\". It's a comprehensive guide for the game, and it has received positive reviews. One reviewer said, \"WOW BC Strategy guide is a waste of money and not very helpful. But the expansion and just play it and you will learn all this book has to teach quick.\"",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I'm sorry but I'm not interested in \"World of Warcraft: The Burning Crusade Official Strategy Guide\" because I didn't find it helpful in the past.",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. In that case, I suggest \"Growing Up Amish: A Memoir\". It's a fascinating memoir that provides insight into the Amish lifestyle. Another reader commented, \"As a Catholic, I am ashamed of persecutions suffered by Amish peoples at the hands of Catholics... Ira Wagler shows the reader just how diverse and interesting Amish characters are.\"",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you for the recommendation, but I've actually already read \"Growing Up Amish: A Memoir\" before.",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I see. In that case, you might be interested in \"NIV, True Images: The Bible for Teen Girls, Hardcover\". This bible is specifically designed for teenage girls, covering topics that are important to them. A reviewer mentioned, \"My 15 yr old daughter saw this and grabbed it... This is the best bible for teenage girls.\"",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds really interesting! Could you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! According to another review, \"This bible covers topics that are important to teenage girls, in language they can relate to. It has helped in getting her to read her bible. If you or someone you know has a teenage daughter, this bible should be on their nightstand.\"",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Great! I'll definitely give it a try. Thank you for the recommendation.",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you again, but I'm good for now. I appreciate your help!",
+    "conv_id": 109,
+    "session_id": 96
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 96
+  }
+]

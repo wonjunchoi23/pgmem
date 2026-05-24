@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello! I recently read a book called \"A Place of SECRETS: A Novel\" and I absolutely loved it. It was written by an author I'm just getting to know. I'm ready to start another book by her. You won't be disappointed!",
+    "conv_id": 108,
+    "session_id": 144
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! I can recommend \"A Dog's Purpose: A Novel for Humans\" based on your interests. It's a very unusual story, and although it brought a lot of tears, it's a good story. I think you'll enjoy it, especially since you're a dog lover.",
+    "conv_id": 108,
+    "session_id": 144
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Oh, that sounds interesting! Can you give me more details about the book?",
+    "conv_id": 108,
+    "session_id": 144
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Of course! According to a review, it's a very emotional story. The reviewer mentioned that they are a dog lover who lost their beloved Golden Retriever. They still miss her and cry for her every day, even though they have other pets. It seems like a heartfelt story.",
+    "conv_id": 108,
+    "session_id": 144
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm definitely interested. I'll take your recommendation.",
+    "conv_id": 108,
+    "session_id": 144
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Great! I'm glad I could help. If you have any more questions or need further recommendations, feel free to ask. Enjoy your reading!",
+    "conv_id": 108,
+    "session_id": 144
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello! I recently purchased the Snoozer Sporty Bike Basket and it's been fantastic. The overall quality is top-notch and it's very sturdy. My dog, who weighs 14 lbs, fits comfortably in it and absolutely loves riding around in it.",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! The Snoozer Sporty Bike Basket is definitely a popular choice among pet owners. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'm actually looking for another recommendation. Have you heard of the Buck Knives 112 Ranger Folding Knife? I've been interested in getting one.",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Absolutely! The Buck Knives 112 Ranger Folding Knife is an excellent choice. It's a versatile and well-made knife, perfect for everyday use. It features finger grooves for a comfortable grip and comes with a quality leather sheath. Customers have praised its sharpness and durability.",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen and considered the Buck Knives 112 Ranger Folding Knife. Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Of course! You might also like the Hibben GH5047-BRK Old West Boot Knife. It's a beautiful and threatening knife with a razor-sharp blade. It has received positive reviews for its quality and design.",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Hmm, I'm not quite sure. Can you tell me more about the Hibben GH5047-BRK Old West Boot Knife and its sports-related features?",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Certainly! The Hibben GH5047-BRK Old West Boot Knife is a great choice for outdoor enthusiasts. It's larger than typical boot knives and might not fit in all boots, but it offers exceptional sharpness and functionality. Customers have praised its versatility and durability for various sports activities.",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds interesting. I'll go ahead and give the Hibben GH5047-BRK Old West Boot Knife a try. Thanks for the detailed information!",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask. Happy to help!",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you, but I think I'm good for now. I appreciate your help!",
+    "conv_id": 109,
+    "session_id": 144
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: No problem! If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 144
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi! I recently purchased the Tech Armor High Definition HD-Clear Film Screen Protector for my iPad Mini 1/2/3 and I absolutely love it! It's the best screen protector I've ever used. The installation was a breeze and it leaves no bubbles.",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! I'm glad you're happy with your purchase. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I'm looking for some recommendations. Do you have any suggestions?",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Certainly! I recommend the Canon EF 70-200mm f/2.8L IS USM Telephoto Zoom Lens for Canon SLR Cameras. It's a fantastic lens with excellent image quality. Other customers have also given it positive reviews, praising its sharpness and fast focusing capabilities.",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thank you for the recommendation, but I've already seen that lens before. Is there anything else you can suggest?",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! How about the Canon EF-S 17-85mm f/4-5.6 Image Stabilized USM SLR Lens? It's a versatile lens with image stabilization and good clarity. Customers have found it to be a great all-around lens for their camera.",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I appreciate the suggestion, but I've already seen that lens as well. Anything else?",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Alright, no problem. You might be interested in the Tech Armor High Definition HD-Clear Film Screen Protector for the iPad Mini 4. It's similar to the one you already have, but specifically designed for the iPad Mini 4.",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Absolutely! Customers have praised this screen protector for its crystal-clear screen image. Although it may take a couple of tries to get the perfect fit, it matches the screen size perfectly. It provides excellent protection for your iPad Mini 4.",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: That's exactly what I need! I'll definitely give it a try. Thank you for your help!",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask. Enjoy your new screen protector!",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it. Have a great day!",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. Have a wonderful day too!",
+    "conv_id": 108,
+    "session_id": 288
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently purchased the Connectland Goose Neck Tabletop Stereo Microphone with Stand and I must say, it's working great! The voice quality is really good. However, I didn't receive any instructions on how to turn on/off the mute or connect the microphone.",
+    "conv_id": 109,
+    "session_id": 288
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! I'm glad the Connectland Goose Neck Tabletop Stereo Microphone is working well for you. It's definitely a great value for the price. By the way, have you considered the VideoSecu Home Video CCTV Security Camera? It's an outdoor weatherproof camera with day and night vision. It also comes with a bonus bracket for a surveillance system.",
+    "conv_id": 109,
+    "session_id": 288
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Oh, I've actually seen similar electronics before, so I'm not interested in the VideoSecu Home Video CCTV Security Camera. But do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 288
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure, how about the Solid Signal Xtreme Signal HDB2X High Definition Indoor/Outdoor 2-Bay VHF/UHF Antenna? It's highly rated and suitable for both indoor and outdoor use. It's known for its ability to pick up VHF-High signals. Let me tell you more about it.",
+    "conv_id": 109,
+    "session_id": 288
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Hmm, that sounds interesting. I'll give it a try. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 288
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 288
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Actually, I'm all set for now. But I appreciate your help. Thank you!",
+    "conv_id": 109,
+    "session_id": 288
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a great day! If you need any further assistance, don't hesitate to reach out.",
+    "conv_id": 109,
+    "session_id": 288
+  }
+]

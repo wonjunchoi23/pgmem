@@ -1,0 +1,100 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I had a bad experience with the Allen Company Molded Rubber Arrow Puller. The puller doesn't work well, it's difficult to grip, and it has no grip on carbon fiber arrows. I found that using a rubber surgical glove works better. Can you recommend something else?",
+    "conv_id": 108,
+    "session_id": 282
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I understand your frustration with the Allen Company Molded Rubber Arrow Puller. However, I have a recommendation for you. Have you considered the FIRELION Cycling Gloves Bike Bicycle Gloves? They are breathable, shock-absorbing, and have an anti-slip feature. They are great for both men and women and have received positive reviews for their comfort and durability.",
+    "conv_id": 108,
+    "session_id": 282
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: That sounds great! I've been looking for comfortable gloves for my bike rides. I'll definitely give the FIRELION Cycling Gloves a try. Thank you!",
+    "conv_id": 108,
+    "session_id": 282
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. Enjoy your bike rides with the new gloves, and if you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 282
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, my name is Chris Bordeaux. I recently purchased the 5.11 Tactical Range Bag, and I have to say it's really well made. It's perfect for carrying all my gear when I go shooting. The strap is comfortable too!",
+    "conv_id": 109,
+    "session_id": 282
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello Chris! I'm glad to hear that you're satisfied with the 5.11 Tactical Range Bag. It seems like it meets your needs perfectly. Another item you might like is the Schrade SCHF10-BRK Fixed Blade. It's a beefy blade and great for survival situations. The handle is comfortable and grippy even when wet.",
+    "conv_id": 109,
+    "session_id": 282
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen the Schrade SCHF10-BRK Fixed Blade before, and I'm not interested in it.",
+    "conv_id": 109,
+    "session_id": 282
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: No problem, Chris. How about considering the Magpul QDM Heavy Duty Quick-Disconnect Sling Swivel? It's a great accessory that you might find useful.",
+    "conv_id": 109,
+    "session_id": 282
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: That sounds interesting. Tell me more about the Magpul QDM Heavy Duty Quick-Disconnect Sling Swivel.",
+    "conv_id": 109,
+    "session_id": 282
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Sure! The Magpul QDM Heavy Duty Quick-Disconnect Sling Swivel is highly regarded. It's been praised for its effectiveness, as demonstrated in a video by BangNTwang on YouTube. It's a reliable and impressive piece of equipment.",
+    "conv_id": 109,
+    "session_id": 282
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Alright, I'm sold. I'll give the Magpul QDM Heavy Duty Quick-Disconnect Sling Swivel a try.",
+    "conv_id": 109,
+    "session_id": 282
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Great to hear that, Chris! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 282
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you for your help and recommendations. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 282
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome, Chris! If you need anything else in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 282
+  }
+]

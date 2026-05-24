@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm LGwriter. I really enjoyed watching Pumpkinhead VHS. Here's my review: \"Here's Lance Henriksen in one of his absolute best roles. He's perfectly cast as the father of a young boy accidentally killed by four teenagers with their careless attitudes and speeding motorcycles. Set in the Ozarks, one of the great purely American milieus, the film has Henriksen's character seek a terrible revenge on the teenagers in the form of the titular creature, who's conjured up by a witchy woman solely for the sake of vengeful justice. Highly recommended. Now if only somebody would release Eyes of Fire on DVD, another brilliant purely American dark fantasy film.\"",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi LGwriter, I'm glad you enjoyed Pumpkinhead VHS! I have another recommendation for you. How about watching Diva VHS? Here's a review: \"The splicing of high and pop culture was, for the 80s, nowhere better realized than in this film, Beneix's debut as a director. The intermix of characters is both miraculous and clever--Taiwanese music pirates, thugs, crooked cops, a recording-shy opera singer, the opera-loving mailman who adores her, a Vietnamese gamine, an oddball loner guy in his 40s: all these combine to make Diva a unique visual and aural pleasure of the highest degree. Can I recommend it to you?",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I appreciate the recommendation, but I've already seen Diva VHS. It's a great film!",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Oh, I see. In that case, how about Gun Crazy VHS? It's another movie you might enjoy. Here's a review: \"For manic intensity, this ranks as one of the absolute best films noir. With no well-known cast members, the director Joseph Lewis crafted a high-powered, fluid film that moves like a bat out of hell. Highly recommended.\"",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the suggestion, but I've actually seen Gun Crazy VHS as well. It's a fantastic film!",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in La Femme Nikita: Season 1. Here's a review: \"I was happy to get the episode on my Android phone. I really like the show. I plan to get all seasons on DVD for my collection to keep.\"",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds intriguing! I'm definitely interested. Tell me more about La Femme Nikita: Season 1.",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: La Femme Nikita: Season 1 is a captivating TV series. It follows the story of Nikita, a young woman who is forced to work for a secret government agency. The show has received positive reviews and has a dedicated fanbase. It's a great addition to anyone's DVD library.",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm sold! I'll definitely check it out. Thanks for the recommendation.",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask. Enjoy watching La Femme Nikita: Season 1!",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it.",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 232
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello, I'm drummer593. I really enjoyed watching Everybody Loves Raymond: Season 2. It's a hilarious sitcom that I would recommend to everyone. The delivery was quick, and the condition of the DVD was excellent.",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi drummer593! I'm glad you enjoyed Everybody Loves Raymond: Season 2. It's a great sitcom. By the way, have you seen Trading Places VHS? It's another funny movie that you might like.",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Oh, I appreciate the recommendation, but I've already seen Trading Places. It was really funny!",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Got it! How about the Beverly Hills Cop Collection VHS? It's also a collection of hilarious movies starring Eddie Murphy.",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the suggestion, but I've already seen the Beverly Hills Cop Collection too. It's a great set of movies!",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Alright, no worries. How about considering The O.C.: Season 4? It might be something you'll enjoy.",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Hmm, I'm not sure. Can you give me more details about The O.C.: Season 4?",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Sure! The O.C.: Season 4 is the final season of the series. It focuses on going back to the beginning and brings back the humor, wackiness, and pop culture references that made the show popular. The series finale is lighthearted, fun, and definitely worth watching. It's received positive reviews.",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Okay, I'll give it a try! Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you for your help, but I think I'm good for now. I appreciate it!",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you have any other questions or need assistance in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thanks, you too! Goodbye.",
+    "conv_id": 109,
+    "session_id": 232
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 109,
+    "session_id": 232
+  }
+]

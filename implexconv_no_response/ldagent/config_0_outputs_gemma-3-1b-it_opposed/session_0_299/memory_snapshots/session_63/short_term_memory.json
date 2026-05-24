@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm DLMDO. I recently purchased the Columbia Men's Snake River II Water Swim Short and I absolutely love them! They are perfect for outdoor activities, especially when there's a chance of getting wet.",
+    "conv_id": 108,
+    "session_id": 63
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! According to another customer's review, the Columbia Men's Snake River II Water Swim Shorts are highly rated as well. They are known for their quality and are perfect for outdoor adventures.",
+    "conv_id": 108,
+    "session_id": 63
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thank you for the recommendation, but I've already tried the Backpacker's Pantry Freeze-Dried Cooked Chicken and it didn't work well for me.",
+    "conv_id": 108,
+    "session_id": 63
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand. If you're open to trying something different, you might like the Mountain House Fire Roasted Vegetable Blend. It has received positive reviews and is a convenient option for outdoor meals.",
+    "conv_id": 108,
+    "session_id": 63
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about the Mountain House Fire Roasted Vegetable Blend?",
+    "conv_id": 108,
+    "session_id": 63
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Sure! According to a satisfied customer, the Mountain House Fire Roasted Vegetable Blend is not only delicious but also easy to prepare. It's a great addition to meals, especially when using tortillas or as a breakfast option. It seems like a highly recommended choice for outdoor enthusiasts like you.",
+    "conv_id": 108,
+    "session_id": 63
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds perfect! I'll definitely give it a try.",
+    "conv_id": 108,
+    "session_id": 63
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Great! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 63
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you for your help! I appreciate it.",
+    "conv_id": 108,
+    "session_id": 63
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you ever need any more assistance, just let me know. Have a great day!",
+    "conv_id": 108,
+    "session_id": 63
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: This is what I think: (A17IYSW3EO08BN)",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello! How are you today? I noticed you enjoyed reading \"30 Lessons for Living: Tried and True Advice from the Wisest Americans.\" What did you like about it?",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Oh, it was a fascinating book! I was curious to learn from the experiences of elderly people. The book had a lot of insightful interviews, but the most important lesson I took away from it was to take better care of my body. It made me realize the importance of personal health care.",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: That's great to hear! If you're interested in exploring more, I recommend \"Life without Refrigeration.\" It offers a unique perspective on how people managed without electricity. It's quite interesting and worth the investment.",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thank you for the recommendation, but I have already read that book.",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Not a problem. In that case, how about checking out \"You Can Create an Exceptional Life: Candid Conversations with Louise Hay and Cheryl Richardson\"? Despite your initial dislike, it has received positive reviews from other readers who appreciate Louise Hay's work.",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I'm sorry, but I didn't find that book particularly helpful. I would prefer not to read it again.",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in \"The Quilter's Ultimate Visual Guide: From A to Z-Hundreds of Tips and Techniques for Successful Quiltmaking.\" It has received great reviews and is highly recommended by other quilters.",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds intriguing! Can you tell me more about the book and what makes it stand out?",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Absolutely! \"The Quilter's Ultimate Visual Guide\" is a comprehensive book that covers various topics related to quiltmaking. It is easy to read and understand, with a well-organized structure that allows for quick reference. The author's expertise shines through, making it a must-have in any quilter's library. It has received rave reviews for its practicality and extensive tips and techniques.",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: That sounds perfect! I'll definitely check it out. Thank you for the recommendation.",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. If you have any more questions or need further assistance, feel free to ask. Enjoy your reading!",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you, I will. Have a great day!",
+    "conv_id": 109,
+    "session_id": 63
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You too, have a wonderful day!",
+    "conv_id": 109,
+    "session_id": 63
+  }
+]

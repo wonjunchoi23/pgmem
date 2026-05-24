@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hello! I recently watched \"Pink Floyd: Live at Pompeii\" and it was amazing! The performances were flawless and the track selection was incredible. The landscapes and animations added a visually stunning touch. Have you seen it?",
+    "conv_id": 110,
+    "session_id": 273
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: Yes, I have seen \"Pink Floyd: Live at Pompeii\" too! It's a classic concert film with exceptional songs and fascinating behind-the-scenes footage. The computer-generated imagery was well incorporated, although I would have liked more shots of the real Pompeii. Overall, it's a must-see for any Pink Floyd fan.",
+    "conv_id": 110,
+    "session_id": 273
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: That's great! I'm glad you enjoyed it. By the way, I've also seen \"Sexy Beast\" and it was a fantastic film. Ben Kingsley's performance as Don Logan was chilling and the dialogues were intense. Have you seen it?",
+    "conv_id": 110,
+    "session_id": 273
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: Absolutely! \"Sexy Beast\" is a different kind of heist film, with dark and comic elements. Ben Kingsley's portrayal of Don Logan is truly brilliant, and it's hard to believe it's the same actor who played Gandhi. The energy and style of the movie make it highly recommended, especially for fans of film noir.",
+    "conv_id": 110,
+    "session_id": 273
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: Oh, I've actually already seen \"Sexy Beast\" before. But thanks for the recommendation. Is there any other movie you think I might like?",
+    "conv_id": 110,
+    "session_id": 273
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: Sure! Based on your previous likes, I would recommend \"The Midnight Meat Train\". It's a thrilling movie with a captivating plot. The descent of the main character and the ending are particularly noteworthy. I think you might enjoy it.",
+    "conv_id": 110,
+    "session_id": 273
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: I'm not familiar with \"The Midnight Meat Train\", but I'm open to trying it out. Thanks for the suggestion.",
+    "conv_id": 110,
+    "session_id": 273
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 110,
+    "session_id": 273
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756800.0,
+    "dialog": "User: No, thank you. I appreciate your help. Have a great day!",
+    "conv_id": 110,
+    "session_id": 273
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756800.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. Have a wonderful day too! If you need any further assistance in the future, don't hesitate to reach out. Goodbye!",
+    "conv_id": 110,
+    "session_id": 273
+  }
+]

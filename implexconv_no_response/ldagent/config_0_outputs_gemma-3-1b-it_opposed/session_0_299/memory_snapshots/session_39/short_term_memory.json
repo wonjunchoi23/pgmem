@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hey, I've read \"Women Are Crazy, Men Are Stupid: The Simple Truth to a Complicated Relationship\" and I found it quite disappointing. The book didn't offer any real insights or help, just a shallow portrayal of relationships. Do you have any recommendations?",
+    "conv_id": 108,
+    "session_id": 39
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi RicoTX! I understand your disappointment with \"Women Are Crazy, Men Are Stupid.\" While I can't directly recommend it, based on your interests, I suggest checking out \"The Ice Twins.\" It's a psychological thriller that explores a family's journey after a tragic incident. It's been positively reviewed by others.",
+    "conv_id": 108,
+    "session_id": 39
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen \"The Ice Twins.\" Can you suggest something else?",
+    "conv_id": 108,
+    "session_id": 39
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! How about \"The Predictioneer's Game: Using the Logic of Brazen Self-Interest to See and Shape the Future\"? It's a fascinating book that delves into game theory and its practical applications. It has received great reviews, and it might be of interest to you.",
+    "conv_id": 108,
+    "session_id": 39
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about \"The Predictioneer's Game\"?",
+    "conv_id": 108,
+    "session_id": 39
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! \"The Predictioneer's Game\" is a comprehensive exploration of game theory and behavioral economics. It provides real-world examples and predictions to test the effectiveness of the theories discussed. It offers valuable insights for those studying game theory and behavioral economics. The book has received positive reviews and is highly recommended.",
+    "conv_id": 108,
+    "session_id": 39
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I'm intrigued! I'll give \"The Predictioneer's Game\" a go. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 39
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask. Happy reading!",
+    "conv_id": 108,
+    "session_id": 39
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you for your help. I appreciate it!",
+    "conv_id": 108,
+    "session_id": 39
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. Have a great day and enjoy your reading!",
+    "conv_id": 108,
+    "session_id": 39
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey there! I recently read \"Here Come the Black Helicopters!: UN Global Governance and the Loss of Freedom by Dick Morris\" and I have to say, it was a disappointment. The author's predictions have been way off in the past. Do you have any recommendations?",
+    "conv_id": 109,
+    "session_id": 39
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi, sorry to hear that you didn't enjoy \"Here Come the Black Helicopters!\" by Dick Morris. Can you please tell me more about what you didn't like about it?",
+    "conv_id": 109,
+    "session_id": 39
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Well, the author's credibility and insight are questionable. He made incorrect predictions in the past, like stating that Romney would win by a landslide and that McCain would win in 2008. I don't trust his opinions. Can you recommend something else?",
+    "conv_id": 109,
+    "session_id": 39
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand your concerns. In that case, I recommend avoiding \"LIVING HISTORY MEMOIRS\". However, I have another recommendation for you. Have you heard of \"Mugged: Racial Demagoguery from the Seventies to Obama\" by Ann Coulter? It explores the exploitation of minorities by the left for political power. Here's a review from another reader: [OTHER_HIS_LIKES_REVIEW_1]",
+    "conv_id": 109,
+    "session_id": 39
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I've actually seen \"Mugged\" before. Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 39
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I apologize for the oversight. In that case, how about \"Clinton Cash: The Untold Story of How and Why Foreign Governments and Businesses Helped Make Bill and Hillary Rich\"? It delves into the questionable financial activities surrounding the Clintons. Here's a positive review: [OTHER_HIS_MIGHT_LIKES_REVIEW]",
+    "conv_id": 109,
+    "session_id": 39
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! I'll give \"Clinton Cash\" a try. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 39
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! I hope you find \"Clinton Cash\" insightful. If you have any more questions or need further assistance, feel free to ask. Enjoy your reading!",
+    "conv_id": 109,
+    "session_id": 39
+  }
+]

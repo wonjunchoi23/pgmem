@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I recently read \"The Wife Between Us: A Novel\" and I was not impressed with it.",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi there! Sorry to hear that you didn't enjoy \"The Wife Between Us: A Novel.\" How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Can you recommend me a book?",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! Based on your dislikes, I suggest you try \"Only the Truth.\" It's a psychological suspense novel that might interest you.",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm sorry, but I didn't enjoy \"Only the Truth\" either. It fell flat for me.",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, you might like \"Digging In: A Novel.\" It has received positive reviews and offers a story of grief, redemption, and family.",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Tell me more about \"Digging In: A Novel.\"",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: \"Digging In\" by Loretta Nyhan is a heartwarming book about rediscovering oneself after a painful loss. It explores themes of grief and redemption while introducing enjoyable and supportive characters. It's a beautiful and authentic story that reminds us of the beauty of life. Many readers have found it to be a delightful read.",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Sounds interesting. I'll give \"Digging In: A Novel\" a try.",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great choice! If you need more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! I'm here to assist you anytime. Have a great day!",
+    "conv_id": 108,
+    "session_id": 70
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I hope you're doing well. I recently came across a book called \"How Starbucks Saved My Life: A Son of Privilege Learns to Live Like Everyone Else\" and I read a review about it that wasn't very positive.",
+    "conv_id": 109,
+    "session_id": 70
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Oh, I see. Well, I can recommend another book that you might like. Have you heard of \"Wither (Chemical Garden)\"?",
+    "conv_id": 109,
+    "session_id": 70
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I haven't heard of it, but I'm definitely interested. Could you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 70
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! \"Wither (Chemical Garden)\" is a book that left many readers feeling disturbed in a good way. While the premise may be a bit hard to swallow, the character interaction is great. It's a story that will keep you curious about what happens next.",
+    "conv_id": 109,
+    "session_id": 70
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: That sounds intriguing. I think I'll give it a try. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 70
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: You're welcome! I hope you enjoy reading \"Wither (Chemical Garden)\". If you have any more questions or need further assistance, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 70
+  }
+]

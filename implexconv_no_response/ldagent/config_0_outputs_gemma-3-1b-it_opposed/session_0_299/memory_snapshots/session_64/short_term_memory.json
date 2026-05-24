@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm C. Powell. I recently purchased the AccuShot BT46-LW17 PSR Atlas Bipod with ADM-170-S and I must say, it's a very well-made bipod. It has rotation capabilities and stays level while following the target. It's definitely worth the money.",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello, C. Powell! I'm glad to hear that you're satisfied with the AccuShot bipod. Is there anything specific you'd like to discuss or ask about?",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, I'm looking for recommendations. Can you suggest any other products related to precision rifle shooting?",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Certainly! I recommend checking out the Magpul Art of Precision Rifle DVD set. It's a comprehensive guide to long-range shooting and covers topics like setting up your body behind the gun and utilizing computer programs for calculations. It has received positive reviews as well.",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen that DVD set. Do you have any other suggestions?",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in \"The Art of the Tactical Carbine: 2nd Edition: Magpul Dynamics.\" It's another great resource by Magpul Dynamics and provides valuable knowledge for shooting beyond 200 yards consistently.",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about the sports aspect of it?",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! \"The Art of the Tactical Carbine\" offers excellent instruction and covers various scenarios related to shooting modern sporting rifles. It's a well-edited and informative video series that will surely enhance your skills. It has received positive reviews for its content and quality.",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm definitely interested in that. I'll give it a try.",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great to hear that you're interested! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you have any more inquiries in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 64
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently purchased the Bilik Kids 12 Ounce Collapsible Foldable Silicone Sports Water Bottle Camping Canteens and I absolutely love it! It's perfect because it comes with a clip so my kids can hook it right on their backpacks, and it collapses for easy storage. The silicone material makes it easy for my son to grip, and he can roll it up when he's done using it. It doesn't leak at all, even when squeezed. Overall, it's a fantastic water bottle!",
+    "conv_id": 109,
+    "session_id": 64
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! I'm glad you're enjoying the Bilik Kids 12 Ounce Collapsible Foldable Silicone Sports Water Bottle. Another product that you might like is the TYR Sport Boys' Solid Durafast Jammer Swim Suit. It has received positive reviews and features offset seams in the front for added comfort. It's known to be durable and holds up well even after multiple washes. It's definitely worth considering!",
+    "conv_id": 109,
+    "session_id": 64
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation. Can you tell me more about the swim suit? I'm interested in the specific sports features.",
+    "conv_id": 109,
+    "session_id": 64
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Absolutely! The TYR Sport Boys' Solid Durafast Jammer Swim Suit is designed with offset seams in the front, which means there is no seam running through the middle. This provides added comfort, especially during sports activities. It's slightly looser than other brands, making it a comfortable choice for your son. The suit is durable and can withstand frequent washing. Many users have mentioned that it can be passed down between siblings due to its quality. Overall, it's a great suit for sports activities!",
+    "conv_id": 109,
+    "session_id": 64
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: That sounds perfect! I'll definitely consider getting the swim suit for my son. Thanks for the detailed information.",
+    "conv_id": 109,
+    "session_id": 64
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask. I'm here to help!",
+    "conv_id": 109,
+    "session_id": 64
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you for your assistance. I appreciate your help. Have a great day!",
+    "conv_id": 109,
+    "session_id": 64
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. Have a wonderful day ahead!",
+    "conv_id": 109,
+    "session_id": 64
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hey, I recently watched \"Thirteen Ghosts\" and it reminded me how much the late 90's/early 00's sucked for horror movies! Most of the \"big\" horror movies from back then have dumb plots, dumb characters, clich\u00e9s, stupid and/or predictable twists, endings that don't make much sense, an abundance of cheap jump scares... They all feel cheap. Seriously, the horror genre is much better today!",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: I understand your disappointment with \"Thirteen Ghosts\" and the overall quality of horror movies from that era. It's true that many of them lacked substance and relied heavily on special effects. But don't worry, I can recommend a different movie for you.",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: Alright, go ahead and recommend something.",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: How about \"The Zombie Diaries\"? It's a low-budget zombie movie, but it offers a different take on the genre. However, I should mention that it received mixed reviews. One reviewer mentioned that the acting was terrible, the special effects were laughable, and the plot was non-existent. So, it might not be your cup of tea.",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: Thanks for the recommendation, but based on that review, I think I'll pass on \"The Zombie Diaries.\"",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: I understand. In that case, how about \"The Unborn 2009\"? It explores Jewish mysticism and folklore, which adds an interesting twist to the horror genre. Although it has some flaws, like rushed ending and mediocre acting, it still offers some original aspects. Here's a review I found: \"For me, it was a step up over the standard horror film. The cinematography was beautiful, and it delves into Jewish mysticism. It's not a masterpiece, but it's better than average.\"",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: Thanks for the recommendation, but based on the review and my previous experience, I'll pass on \"The Unborn 2009\" as well.",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: Fair enough. How about considering \"Bloodrayne - Black Edition - Uncut\"? It might be more to your liking. However, I should warn you that it received a low rating. One reviewer mentioned that it was made by Uwe Boll, who is known for making some of the worst movies. The production seemed rushed, and some of the actors reportedly didn't put much effort into their performances. But ultimately, the decision is up to you.",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756800.0,
+    "dialog": "User: Hmm, I appreciate the detailed recommendation, but based on what you've told me, I think I'll give \"Bloodrayne - Black Edition - Uncut\" a chance.",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756800.0,
+    "dialog": "Agent: Great! I hope you enjoy it. If you have any more questions or need further recommendations, feel free to ask. Have a good time watching the movie!",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4758000.0,
+    "dialog": "User: Thanks, I will. Have a great day!",
+    "conv_id": 110,
+    "session_id": 124
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4758000.0,
+    "dialog": "Agent: You too! Take care and enjoy the movie. Goodbye!",
+    "conv_id": 110,
+    "session_id": 124
+  }
+]

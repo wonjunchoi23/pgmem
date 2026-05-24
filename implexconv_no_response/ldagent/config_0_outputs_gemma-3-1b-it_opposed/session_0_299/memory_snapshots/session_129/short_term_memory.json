@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Both Professional and Fun(A17GR3A17H5NHC)",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi there! How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Do you have any book recommendations for me?",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure, I have a suggestion for you. Have you heard of the book \"My Not So Perfect Life: A Novel\"? It's a great read!",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Oh, I've already read that book. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Absolutely! How about \"Be Frank With Me: A Novel\"? It received positive reviews, and it's an enjoyable and light-hearted story.",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about the book?",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! \"Be Frank With Me: A Novel\" is written by an author who has received high praise. It's a captivating read that will keep you hooked from start to finish.",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Alright, I'll give it a try. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more suggestions in the future, feel free to ask. Enjoy reading!",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: I appreciate your help. Thanks again!",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a great day!",
+    "conv_id": 108,
+    "session_id": 129
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello, I hope you're doing well. I wanted to talk about a book called \"The Art of Possibility: Transforming Professional and Personal Life.\" I didn't really enjoy it, to be honest.",
+    "conv_id": 109,
+    "session_id": 129
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Oh, I see. Well, I came across a review of the book that might interest you. According to the review, \"The Zanders have created a thought-provoking, entertaining, informative, and challenging work that approaches inspiration and life-purpose from a very different perspective. They wonder aloud how WE can become the best WE we can be and fulfill our individual longings for meaning and significance in life.\"",
+    "conv_id": 109,
+    "session_id": 129
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation. I'll check it out.",
+    "conv_id": 109,
+    "session_id": 129
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: You're welcome! If you have any more questions or need further recommendations, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 129
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thank you, have a great day too. Goodbye!",
+    "conv_id": 109,
+    "session_id": 129
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: ",
+    "conv_id": 109,
+    "session_id": 129
+  }
+]

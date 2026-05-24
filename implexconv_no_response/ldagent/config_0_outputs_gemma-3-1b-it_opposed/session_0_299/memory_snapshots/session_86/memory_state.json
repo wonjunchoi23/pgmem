@@ -1,0 +1,10 @@
+{
+  "sample_id": "ldagent_gemma-3-1b-it_86",
+  "current_virtual_seconds": 4759200.0,
+  "last_conv_id": 110,
+  "pending_conv_count": 0,
+  "overall_retrieve_score": 1.5341692946545538,
+  "overall_retrieve_count": 4,
+  "long_term_count": 56,
+  "short_term_count": 14
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I had a terrible experience with the book \"American Sucker\". The content was not what I expected.",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I'm sorry to hear that. It's disappointing when a book doesn't meet our expectations. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Can you recommend a book for me to read?",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure, based on your previous dislikes, I recommend \"Outsmarting the Smart Money: Understand How Markets Really Work and Win the Wealth Game.\" It has received positive reviews and offers insights into market strategies. Other readers have found it to be a valuable resource.",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm sorry, but I had a bad experience with \"Outsmarting the Smart Money\" as well. It lacked substance and didn't provide useful information.",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, I suggest considering \"Advanced Swing Trading: Strategies to Predict, Identify, and Trade Future Market Swings.\" It focuses on specific trading techniques and offers a comprehensive overview of swing trading. According to the reviews, it has been helpful to many readers.",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I appreciate the recommendation, but I had a similar experience with \"Advanced Swing Trading.\" The author's approach was overly simplistic, and the book didn't provide practical application.",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I apologize for the previous recommendations. In that case, you might find \"Deep Work: Rules for Focused Success in a Distracted World\" interesting. It has received positive reviews and offers valuable insights into improving productivity and focus.",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds like a good recommendation. I'll give it a try.",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great! I hope you find \"Deep Work\" beneficial. If you have any more questions or need further assistance, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your help. That will be all for now.",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you have any more book recommendations or need assistance in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 263
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Bldgdiva(A189PCNI0QTXD7)",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello Bldgdiva! I hope you're doing well. I noticed that you had a negative experience with the book \"Antifragile: Things That Gain from Disorder\" and left a review mentioning an arrogant tone and poorly written content. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend a book for me?",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Certainly! Based on your previous dislikes, I would like to recommend \"The Not So Secret Emails Of Coco Pinchard: (A Romantic Comedy)\". It's a witty and cute book with interesting characters. Other readers have enjoyed it, as mentioned in a review that praises the author's writing style. However, if you have any specific reasons for not liking this book, please let me know.",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I'm sorry, but I didn't enjoy the letter style of dialogue in \"The Not So Secret Emails Of Coco Pinchard\". It just wasn't my style.",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. In that case, I recommend \"Saved by the Dragon (Loved by the Dragon) (Volume 1)\". Although you previously mentioned some reservations about the characters and their relationship, other readers have found this book to be a great read with enjoyable moments, as described in a positive review.",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I appreciate the recommendation, but I had some issues with the story and the relationship dynamics in \"Saved by the Dragon (Loved by the Dragon) (Volume 1)\".",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: No problem. How about considering \"Queen of the South\"? It might align with your interests. Would you like more details about this book?",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Sure, tell me more about \"Queen of the South\".",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: \"Queen of the South\" is highly regarded by other readers. It tells the story of Teresa Mendoza, a compelling character, in a rich and vivid writing style. A review mentioned that it's a departure from the TV show adaptation but still an excellent read. It received a 5-star rating, and readers appreciated the florid and engaging storytelling.",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: That sounds interesting. I'll give \"Queen of the South\" a try.",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Wonderful! I hope you enjoy reading \"Queen of the South\". If you have any more questions or need further assistance, feel free to ask. Happy reading!",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 263
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you need any more recommendations in the future, don't hesitate to reach out. Have a great day and happy reading!",
+    "conv_id": 109,
+    "session_id": 263
+  }
+]

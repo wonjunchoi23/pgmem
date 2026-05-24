@@ -1,0 +1,100 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I hope you can help me with a book recommendation. I recently read a book called \"Northpointe Chalet (The Austen Series, Book 4)\" and I didn't enjoy it very much.",
+    "conv_id": 108,
+    "session_id": 297
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I see. Well, let me recommend another book to you. Have you heard of \"Long Walk: The True Story Of A Trek To Freedom\"?",
+    "conv_id": 108,
+    "session_id": 297
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 297
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Of course! \"Long Walk\" is a captivating adventure that begins in Siberia and takes you through the Gobi Desert and the Himalayan Mountains. It's a story of survival and resilience, without any unnecessary philosophical or religious undertones. The author, Rawicz, keeps the story focused on the challenges they face and their determination to overcome them. It's highly recommended for readers of all ages.",
+    "conv_id": 108,
+    "session_id": 297
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds great! I'll give it a try.",
+    "conv_id": 108,
+    "session_id": 297
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Wonderful! I hope you enjoy it. If you have any more questions or need further recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 297
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, my name is M. Franta. I recently read a book called \"Finding Gobi (Main edition): The True Story of a Little Dog and an Incredible Journey\" and I absolutely loved it. It's a heartwarming story about a small dog named Gobi who found her human during an ultra marathon in the Gobi Desert. They formed an instant bond, and the book tells the incredible journey of how they became a running team. It's a must-read!",
+    "conv_id": 109,
+    "session_id": 297
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Wow! I completely agree with you. Real life can indeed be more amazing than fiction. Dion Leonard, the author, has done an incredible job in sharing his journey. Not only did he finish the ultra marathon events, but he also reached the podium. The challenges they faced, including rough terrains, desert storms, and unforgiving heat, truly showcase the strength and loyalty of Gobi. It's a remarkable story that highlights determination, fellowship, cooperation, and helpfulness. If only we could all look out for one another, the world would be a happier place.",
+    "conv_id": 109,
+    "session_id": 297
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: That sounds fascinating! Can you recommend any similar books?",
+    "conv_id": 109,
+    "session_id": 297
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Of course! I think you might also enjoy \"Finding Gobi (Main edition): The True Story of a Little Dog and an Incredible Journey\" since you already loved it. The book captures the essence of the human-animal bond and the power of resilience in the face of challenges. It's an inspiring read that will warm your heart.",
+    "conv_id": 109,
+    "session_id": 297
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Alright, I accept your recommendation. I think it's a great choice because I'm truly captivated by stories that depict the strength and loyalty of animals.",
+    "conv_id": 109,
+    "session_id": 297
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I'm glad you liked the recommendation! I hope you enjoy reading it as much as you enjoyed \"Finding Gobi.\" If you have any more questions or need further suggestions, feel free to ask. Have a great time reading!",
+    "conv_id": 109,
+    "session_id": 297
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you! I'm looking forward to reading it. Have a great day!",
+    "conv_id": 109,
+    "session_id": 297
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! Enjoy your reading journey and have a wonderful day too!",
+    "conv_id": 109,
+    "session_id": 297
+  }
+]

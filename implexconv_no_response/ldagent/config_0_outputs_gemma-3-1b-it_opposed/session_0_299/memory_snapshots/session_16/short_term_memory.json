@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi doppelganger, I just watched Killer Elite and it was a really good movie. The trade-craft of the 80's was so interesting and I enjoyed the performances. Have you seen it?",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi there! I'm glad you enjoyed Killer Elite. While I haven't seen it myself, I've heard good things about it. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I'm looking for a new movie to watch. Any recommendations?",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! How about Cube? It's a fantastic and original story that goes beyond the typical B genre. If you're into sci-fi and enjoy the concept of weird experiments done to humans, you won't be disappointed. It's one of my top ten movies.",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the suggestion, but I've already seen Cube before.",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: No problem. How about Test Big Data 1737? It's a great movie that includes a menu option to test and calibrate your 5.1 system. Plus, it offers an interesting story.",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I've actually seen Test Big Data 1737 as well. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: In that case, you might like Prometheus. It's been well-received by science fiction and thriller lovers. It revolves around the discovery of a star map and the pursuit of understanding the genesis of mankind. Would you like more details about the movie?",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Yes, please tell me more about Prometheus.",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Prometheus is a must-see for science fiction enthusiasts. It's an outstanding film with superb acting. The storyline raises thought-provoking questions about the universe and philosophy. The visuals are impressive, and the star map found among remnants of ancient human civilization brings about interesting and thought-provoking findings. Overall, it's highly recommended.",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: That sounds intriguing. I'll give Prometheus a watch. Thank you for the recommendation.",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Enjoy watching Prometheus!",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: I appreciate that. Thanks again and have a great day!",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! Have a wonderful day too!",
+    "conv_id": 108,
+    "session_id": 16
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently purchased the Samsung SyncMaster 226BW 22-inch LCD Monitor (ASIN: B005LJQMCK) and I absolutely love it. It's definitely the best monitor out there right now! The resolution is perfect, the colors are vivid, and it works great with the DVI signal. Plus, there's no blurring in games. I'm really impressed with it!",
+    "conv_id": 109,
+    "session_id": 16
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! I'm glad you're enjoying the Samsung SyncMaster 226BW. By the way, I also have a positive review for the BlueRigger Digital Optical Audio Toslink Cable (3 feet). It's a great cable that works flawlessly.",
+    "conv_id": 109,
+    "session_id": 16
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the info! Can you recommend any other electronics that I might like?",
+    "conv_id": 109,
+    "session_id": 16
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! Based on your preferences, I think you might also like the BlueRigger Digital Optical Audio Toslink Cable (3 feet). It's a high-quality cable that delivers great audio performance.",
+    "conv_id": 109,
+    "session_id": 16
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: That sounds good. I'll consider it. Can you provide more details about the cable?",
+    "conv_id": 109,
+    "session_id": 16
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Absolutely! The BlueRigger Digital Optical Audio Toslink Cable (3 feet) is a digital optical audio cable that works seamlessly. It's easy to install and functions just like any other digital optical audio cable. It's a reliable choice for audio enthusiasts.",
+    "conv_id": 109,
+    "session_id": 16
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That's all the information I need. I'll go ahead and purchase it. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 16
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask. Enjoy your new purchases!",
+    "conv_id": 109,
+    "session_id": 16
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Actually, I won't be needing further recommendations, but I appreciate your help. Thank you!",
+    "conv_id": 109,
+    "session_id": 16
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 16
+  }
+]

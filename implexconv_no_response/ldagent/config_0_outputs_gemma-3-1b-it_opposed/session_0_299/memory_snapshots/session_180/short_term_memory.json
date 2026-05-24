@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm A Carr. I recently purchased the Therm-a-Rest Prolite Plus Ultralight Self-Inflating Backpacking Pad and it's amazing! It was easy to set up, comfortable to sleep on, and didn't take up much space in my pack. I also got the Hydro Flask Double Wall Vacuum Insulated Stainless Steel Water Bottle/Travel Coffee Mug and it's great for keeping drinks cold. Any other recommendations?",
+    "conv_id": 108,
+    "session_id": 180
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi A Carr! That's awesome to hear about your positive experiences with the Therm-a-Rest Prolite Plus and the Hydro Flask. Although I can't recommend those exact products again, I suggest checking out the BalanceFrom GoYoga All-Purpose 1/2-Inch Extra Thick High Density Anti-Tear Exercise Yoga Mat. It has received great reviews, like this one: \"I'm very pleased with this yoga mat, especially its thickness and cushioning. It's versatile for various exercises and comes with a quality carry strap. The only downside is a temporary smell when first unwrapped.\"",
+    "conv_id": 108,
+    "session_id": 180
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thanks for the recommendation! I'm definitely interested. Can you tell me more about the sports aspect of it?",
+    "conv_id": 108,
+    "session_id": 180
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Absolutely! The BalanceFrom GoYoga mat is not only great for yoga but also for general exercise. It has a thickness of about 5/8 inches, providing cushioning for your joints. The foam density strikes a good balance between firmness and comfort. It's also easy to carry around with the included strap. Overall, it has received positive reviews for its functionality and quality.",
+    "conv_id": 108,
+    "session_id": 180
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds perfect for my needs. I'll go ahead and give it a try. No need for further recommendations. Thanks!",
+    "conv_id": 108,
+    "session_id": 180
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. If you have any more questions or need assistance in the future, feel free to reach out. Enjoy your new yoga mat and have a great day!",
+    "conv_id": 108,
+    "session_id": 180
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently purchased the HomeGym 4U Set of 2 Gliding Discs and I must say, they are amazing! I received them in the mail and couldn't wait to start using them. They really challenge my core strength and provide a great workout. My son, who is a rock climber, also tried them and was impressed. Have you tried them?",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! Working out with gliding discs can definitely be challenging. However, I don't have personal experience with them. Is there anything else you would like to know or discuss?",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Well, since you haven't tried the gliding discs, can you recommend any other fitness equipment?",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Of course! How about the 321 STRONG Refillable Chalk Ball? It's great for rock climbing, gym workouts, and even billiards. It comes already filled with 65 grams of chalk. People who have used it find it to be durable and effective. By the way, I found a review for it that might interest you. According to one user, it's a refillable chalk ball that works exactly as expected, with a good size and excellent grip.",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Actually, I've already seen and used the 321 STRONG Refillable Chalk Ball before, so I'm familiar with it. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Sure! How about the uFashion3C Running Belt Waist Pack for Phone? It fits various phone models and is water-resistant and reflective. It's a convenient way to carry your phone during workouts. I found a review that mentions how simple and effective it is for protecting your phone from rain. The reviewer also mentions being able to carry other items like a pacifier and debit card in the belt.",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thanks for the recommendation, but I've already tried the uFashion3C Running Belt Waist Pack before as well. Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in the Heart Centered Yoga Mat. It's non-slip, eco-friendly, and made of non-toxic memory foam. The extra thickness provides added comfort during your yoga practice. It comes with a carrying strap too. It has received positive reviews, with users mentioning how comfortable and grippy it is.",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds perfect! I'll go ahead and give the Heart Centered Yoga Mat a try. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. Enjoy your yoga practice with the new mat. If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you! Have a great day too. Goodbye!",
+    "conv_id": 109,
+    "session_id": 180
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 109,
+    "session_id": 180
+  }
+]

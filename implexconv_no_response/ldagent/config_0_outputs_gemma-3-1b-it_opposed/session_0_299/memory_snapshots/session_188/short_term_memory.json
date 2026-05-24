@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I recently purchased the USA GEAR Multitrack Recorder Carrying Storage Case and I wanted to share my review. It arrived quickly and I'm really happy with it. The case is oversized but perfect for storing my GPS, mounting bracket, power cord, and even the dashboard bean bag mount. It keeps everything organized and secure. I highly recommend it.",
+    "conv_id": 108,
+    "session_id": 188
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! Another product you might be interested in is the Ape Case Compact Pouch for Lenses. It's a durable case with plenty of padding to protect your lens. It's also a perfect fit based on the advertised measurements. I can share a review with you if you'd like.",
+    "conv_id": 108,
+    "session_id": 188
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thank you for the recommendation, but I've already seen similar electronics before.",
+    "conv_id": 108,
+    "session_id": 188
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand. In that case, you might like the Mpow Bluetooth Receiver for Car. It's a hands-free car kit with Bluetooth capabilities and a dual USB car charger. It also has a ground loop noise isolator for optimal audio quality.",
+    "conv_id": 108,
+    "session_id": 188
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about the Mpow Bluetooth Receiver and its features?",
+    "conv_id": 108,
+    "session_id": 188
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! The Mpow Bluetooth Receiver allows you to stream audio from your phone or MP3 player to your car's receiver and stereo speakers. It uses Bluetooth 4.0 technology with AptX for high-quality sound. You can listen to podcasts, audiobooks, and music with ease. It comes with a dual USB charging plug for your car, so you can power both the receiver and your audio device. It's designed to automatically turn on and pair with your device when you start your car. You can answer calls with a single press and redial with two presses of the receiver button. Additionally, it has forward and back buttons for media control. Overall, it's a great and affordable solution for streaming content and having hands-free calls in your car.",
+    "conv_id": 108,
+    "session_id": 188
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds perfect! I'll definitely consider purchasing the Mpow Bluetooth Receiver. Thank you for the recommendation!",
+    "conv_id": 108,
+    "session_id": 188
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 188
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you again for your help. I appreciate it!",
+    "conv_id": 108,
+    "session_id": 188
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: It was my pleasure assisting you. If you have any more inquiries in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 188
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I had a disappointing experience with \"26a: A Novel.\" It started off interesting, but quickly became depressing with non-stop tragedies. The ending was a true disappointment.",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I see. I'm sorry to hear that. Is there anything specific you're looking for a recommendation on?",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Yes, please recommend a book for me.",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Based on your liking for \"Tell The Wolves I'm Home,\" I suggest you consider \"Shakespeare: The World as Stage.\" It has received positive reviews, such as this one: \"I have read this book multiple times and it never fails to make me laugh. The humor in the book is just brilliant.\"",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I have already read \"Shakespeare: The World as Stage.\"",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. In that case, how about considering \"Tell The Wolves I'm Home?\" It is a beautiful and emotionally impactful young adult drama.",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I'm not sure. Can you tell me more about the book?",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Of course! Here's a review of \"Tell The Wolves I'm Home\": \"It took me longer than it should have to read this book. I would read a chapter, cry a little, put it down. Over and over. But, oh. I loved it. So very much.\"",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Alright, I'll accept your recommendation. Thank you.",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: No, thank you. I appreciate your help.",
+    "conv_id": 109,
+    "session_id": 188
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a great day!",
+    "conv_id": 109,
+    "session_id": 188
+  }
+]

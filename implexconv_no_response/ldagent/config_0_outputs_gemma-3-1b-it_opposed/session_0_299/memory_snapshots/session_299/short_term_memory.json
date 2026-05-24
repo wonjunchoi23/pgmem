@@ -1,0 +1,114 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, my name is Jeffrey E Ellis. I really liked the movie \"V for Vendetta\". I found it to be a unique combination of \"The Man in the Iron Mask\" and \"Phantom of the Opera\". However, I felt that the message of \"It's our differences that make us strong\" became a bit silly towards the end. What do you think?",
+    "conv_id": 108,
+    "session_id": 299
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Jeffrey! I'm glad to hear that you enjoyed \"V for Vendetta\". It's definitely a thought-provoking movie. By the way, I also recommend \"Lost: Season 3\". It's a great series with originality and spontaneity. Would you like me to tell you more about it?",
+    "conv_id": 108,
+    "session_id": 299
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Hmm, I'm not sure. Can you give me some details about \"Lost: Season 3\"?",
+    "conv_id": 108,
+    "session_id": 299
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Absolutely! \"Lost: Season 3\" is highly praised for its originality and captivating storyline. It's a must-watch for fans of the series. If you're looking to complete the missing episodes, I highly recommend it.",
+    "conv_id": 108,
+    "session_id": 299
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Alright, I'll trust your recommendation. Thank you!",
+    "conv_id": 108,
+    "session_id": 299
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask. I'm here to help.",
+    "conv_id": 108,
+    "session_id": 299
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Actually, I'm good for now. Thanks again!",
+    "conv_id": 108,
+    "session_id": 299
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: No problem, Jeffrey! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 299
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently came across Django Unchained and read a review about it. I must say, I didn't really like it. It felt like a combination of a bad rap song and a good western. The excessive blood splattering and over-the-top characters just didn't work for me.",
+    "conv_id": 109,
+    "session_id": 299
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your perspective. Django Unchained can be quite polarizing. If you're not a fan of that style, I recommend another movie you might enjoy, Fat Albert's Greatest Hits The Ultimate Collection. It's a classic with Bill Cosby's humor and Herbie Hancock's funky music. It's a must-have for fans of the show.",
+    "conv_id": 109,
+    "session_id": 299
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I've actually seen Fat Albert's Greatest Hits before. It was great, but I'm looking for something new.",
+    "conv_id": 109,
+    "session_id": 299
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I see, in that case, how about Guardians of the Galaxy [Blu-ray]? It has received great reviews and is highly entertaining. It might be something you'll enjoy.",
+    "conv_id": 109,
+    "session_id": 299
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Actually, that sounds like a good choice. I'll give it a try.",
+    "conv_id": 109,
+    "session_id": 299
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Great! If you need any more recommendations, feel free to ask. Enjoy watching Guardians of the Galaxy!",
+    "conv_id": 109,
+    "session_id": 299
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it.",
+    "conv_id": 109,
+    "session_id": 299
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 299
+  }
+]

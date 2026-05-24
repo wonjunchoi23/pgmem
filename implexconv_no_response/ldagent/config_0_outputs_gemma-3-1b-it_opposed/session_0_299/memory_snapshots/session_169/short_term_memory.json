@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I watched Legally Blonde recently and I have to say, it was a terrible movie. What was the point of making it? The plot was so weak and it just felt like a waste of time. (Legally Blonde review)",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I understand your disappointment with Legally Blonde. Sometimes movies like these can be disappointing. Is there anything specific you're looking for in a movie?",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Well, I'm open to recommendations. What do you suggest?",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I would recommend Saving Private Ryan. It's a powerful war film that many people appreciate. It received positive reviews and captures the intensity and emotions of World War II. (Saving Private Ryan review)",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm sorry, but I actually didn't enjoy Saving Private Ryan. I found it too graphic and disturbing. It wasn't the kind of entertainment I was looking for. (Saving Private Ryan review)",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand your perspective. In that case, you might like That's Dancing. It's a VHS that celebrates the beauty and diversity of dance. It's a treat for those who enjoy dancing in its many forms. (That's Dancing review)",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Hmm, that sounds interesting. Can you tell me more about That's Dancing?",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Absolutely! That's Dancing is a film that showcases some of the greatest cinematic dance performances of the past. It covers various styles of dance, from tap to ballet, and even includes modern trends in dancing. It's a dated film, but it's still a treat for dance enthusiasts. (That's Dancing review)",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I think I'll give That's Dancing a try. It sounds like something I would enjoy.",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great! I'm glad you're interested. If you need any more recommendations or help with anything else, feel free to let me know.",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your assistance. I appreciate it.",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to help. If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 169
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey, John Pratt here. I recently purchased the Mir Weighted Vest Lifting Dip Belt with Chain and I must say it's quite impressive. The belt is very strong and comfortable, almost unnoticeable while wearing it. However, the clip feels a bit lightweight. Overall, I would recommend it to anyone.",
+    "conv_id": 109,
+    "session_id": 169
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi John! I'm glad to hear that you're satisfied with the Mir Weighted Vest Lifting Dip Belt with Chain. It's definitely a great choice for adding extra resistance to your workouts. By the way, I have another recommendation for you - the Brazil Butt Lift DVD Workout Base Kit. It's an intense cardio and lower body toning workout that doesn't require weights. Many users have found it effective. What do you think?",
+    "conv_id": 109,
+    "session_id": 169
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I have already tried the Brazil Butt Lift DVD Workout Base Kit. While it was a good workout, I prefer using weights for my exercises. So, it's not something I'm interested in right now.",
+    "conv_id": 109,
+    "session_id": 169
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand your preference for using weights. In that case, how about trying the Speed Agility Ladder? It's a great piece of equipment for improving quickness and agility in various sports. The ladder comes with a training DVD that includes over 75 drills. It has received positive reviews from users. What do you think?",
+    "conv_id": 109,
+    "session_id": 169
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I appreciate the suggestion, but I've already seen and used speed agility ladders before. So, it's not something I'm looking for at the moment.",
+    "conv_id": 109,
+    "session_id": 169
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. In that case, I have another recommendation for you - the Abco Tech Sleeping Bag. It's lightweight, portable, waterproof, and perfect for traveling, camping, and outdoor activities. It has received great reviews from customers and Abco Tech provides excellent customer service. Would you be interested in this?",
+    "conv_id": 109,
+    "session_id": 169
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Actually, that sounds like something I might need. I accept your recommendation for the Abco Tech Sleeping Bag. Thank you!",
+    "conv_id": 109,
+    "session_id": 169
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome, John! I'm glad I could help. Is there anything else I can assist you with?",
+    "conv_id": 109,
+    "session_id": 169
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: No, thank you. I appreciate your assistance. Have a great day!",
+    "conv_id": 109,
+    "session_id": 169
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. Have a wonderful day as well. Take care!",
+    "conv_id": 109,
+    "session_id": 169
+  }
+]

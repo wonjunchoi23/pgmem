@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello! I recently read \"California Trips (Regional Travel Guide)\" and found it to be a great resource for planning a trip. The maps were helpful, and it provided recommendations for places to stay and eat. However, there were some omissions and it tried too hard to sound like a stereotypical Californian. Overall, I would give it four stars.",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I'm glad to hear that you enjoyed \"California Trips (Regional Travel Guide)\". It's a popular travel guide known for its comprehensive coverage and local suggestions. However, based on your review, it seems like you didn't have a good experience with \"The Israeli Holocaust Against the Palestinians\". It's a controversial book that equates war-privations with the systematic murder of millions. Would you be interested in exploring a different book?",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I appreciate the recommendation, but I have to decline. \"The Israeli Holocaust Against the Palestinians\" presents a biased narrative and doesn't consider the conclusions reached in various inquiries. I would prefer not to engage in that topic.",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand your concerns. In that case, let me suggest another book for you. \"Searching Jenin: Eyewitness Accounts of the Israeli Invasion, 2002\" provides a comprehensive account of the events during the invasion. It includes testimonies from Palestinians, Israelis, and international sources. It's highly regarded for its in-depth coverage and diverse perspectives.",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thank you for the suggestion, but I'm not interested in \"Searching Jenin: Eyewitness Accounts of the Israeli Invasion, 2002\" either. The book has been criticized for its lack of factual accuracy and the manipulation of footage. I would prefer to explore a different genre or topic.",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand your preference. How about considering \"The Wright Brothers\"? It's a biography that delves into the lives of the famous inventors. It has received positive reviews for its comprehensive research, engaging writing style, and informative content.",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds interesting! Can you provide more details about \"The Wright Brothers\"?",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Certainly! \"The Wright Brothers\" is part of the Thorndike Press Large Print Popular and Narrative Nonfiction Series. It's written by David McCullough, a renowned author of popular history books. The book provides a captivating account of the Wright Brothers' journey and their contributions to aviation. It's thoroughly researched, well-written, and offers a pleasurable reading experience. Many readers have praised McCullough's ability to make historical content accessible and enjoyable.",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm convinced! I would like to give \"The Wright Brothers\" a try. Thank you for the recommendation.",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! I'm glad you're interested in \"The Wright Brothers\". If you have any more questions or need further recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you, but I'm satisfied with this recommendation. I appreciate your assistance. Have a great day!",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: It was my pleasure to assist you. Have a wonderful day too! If you ever need more recommendations, feel free to reach out. Goodbye!",
+    "conv_id": 108,
+    "session_id": 283
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey, I read \"The Longest Way Home: One Man's Quest for the Courage to Settle Down\" and I have to say, it was not my cup of tea. The writing style and the author's focus on his personal life rather than the travel experiences just didn't resonate with me.",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your sentiment. It's disappointing when a book doesn't meet our expectations. Is there any other book you would like a recommendation for?",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Yeah, I'm open to suggestions. What about \"Simon & Schuster The Longest Way Home: One Man's Quest for the Courage to Settle Down\"?",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I'm sorry, but based on your review of the previous book, it seems like \"Simon & Schuster The Longest Way Home\" may not be the right fit for you either.",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: You're absolutely right. I don't think I'll enjoy that one either.",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. How about \"Never Give in to Fear: Laughing All the Way Up From Rock Bottom\"?",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Unfortunately, based on the review I read, it seems like \"Never Give in to Fear\" is not the kind of book I would enjoy either.",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I apologize for the previous recommendations. In that case, let me suggest \"Apollo 8: The Thrilling Story of the First Mission to the Moon\". It might be more aligned with your interests.",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Hmm, I'm not sure. Can you give me more details about the book?",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Of course! According to a review I found, \"Apollo 8\" offers a behind-the-scenes account of the early years of the space program. It focuses on the first orbital moon mission while also delving into earlier missions and how they contributed to the success of Apollo 8. The book has received positive acclaim for its engaging writing style and the portrayal of the major characters involved. Would you like to give it a try?",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Alright, I'll give it a shot. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask. Enjoy your reading!",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you! I appreciate your help. Have a great day!",
+    "conv_id": 109,
+    "session_id": 283
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! Have a great day too. If you have any more questions in the future, feel free to reach out. Goodbye!",
+    "conv_id": 109,
+    "session_id": 283
+  }
+]

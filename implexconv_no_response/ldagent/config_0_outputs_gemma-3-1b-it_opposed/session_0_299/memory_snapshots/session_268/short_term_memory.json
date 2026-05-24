@@ -1,0 +1,100 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hi, I'm Old Sparkie! I really loved the Rome #3100 Chrome-Plated Steel Marshmallow Roasting Sticks that I got. The kids enjoy roasting marshmallows with them, and they work perfectly. However, the marshmallows tend to get burnt since the kids prefer them charred. But overall, I think the sticks are great!",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: Hi Old Sparkie! That's wonderful to hear that you and the kids are enjoying the Rome #3100 Marshmallow Roasting Sticks. It sounds like they are a hit! How can I assist you today?",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: Can you recommend something else for me?",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: Sure! I suggest trying the NeoSport Wetsuits Premium Neoprene 3mm Low Top Pull On Boot. They are great for outdoor activities like kayaking. Customers have given them positive reviews, mentioning that they provide good protection and are comfortable to wear.",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen those boots before. Do you have anything else?",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: Of course! How about the BladesUSA HK-6183 Twin Ninja Swords? They are a two-piece set with a dark finish, giving them a cool and lethal look. Customers have praised their quality and sharpness.",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: I appreciate the suggestion, but I've already seen those swords as well. Is there anything else?",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: Certainly! You might be interested in the NeoSport Wetsuits Paddle Low Top Boots. They have received positive reviews for their durability and protection against sharp rocks.",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756800.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about the boots?",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756800.0,
+    "dialog": "Agent: Absolutely! Customers have found the NeoSport Wetsuits Paddle Low Top Boots perfect for walking in creeks. They offer firm sole support to protect your feet from sharp rocks. They are designed to be worn with neoprene socks for added comfort.",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4758000.0,
+    "dialog": "User: Alright, I'll give them a try. Thanks for the recommendation!",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4758000.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4759200.0,
+    "dialog": "User: No, I'm good. Thanks again for your help. Have a great day!",
+    "conv_id": 110,
+    "session_id": 268
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4759200.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. Have a wonderful day too!",
+    "conv_id": 110,
+    "session_id": 268
+  }
+]

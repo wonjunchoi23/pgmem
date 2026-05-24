@@ -1,0 +1,200 @@
+[
+  {
+    "id": "7a229c00-2846-4571-b0a3-a724cdf76cb2",
+    "content": "Conversation content on Day 52: [|User|]: Can you provide me with any more information on who might replace Evans if he can't play on Saturday?\n[|AI|]: Response: According to the given material, if Evans is unable to play on Saturday, the forward position could be filled by either David Estrada or 2013 top draft pick Eriq Zavaleta. However, there is no definitive statement regarding who will replace Evans, as it will ultimately depend on his recovery and fitness status ahead of the game.",
+    "timestamp": "0078_0103_0002",
+    "conv_id": 103,
+    "source_label": "Day 52",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "9626638e-076a-4603-b789-b218f8860534",
+    "content": "Conversation content on Day 53: [|User|]: Thanks for sharing your thoughts. Now, could you recommend something else for me?\n[|AI|]: Certainly! Based on your preferences, I recommend the adidas Women's Parma 16 Soccer Shorts. They are comfortable, lightweight, and come in a vibrant pink color. They can be used for various activities like sports, loungewear, or even as pajamas. I think you'll enjoy them.",
+    "timestamp": "0078_0105_0002",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "4427d405-cc1e-4cce-89ef-9debbcb6f814",
+    "content": "Conversation content on Day 53: [|User|]: Sounds good! I'll give them a try. Thanks for the recommendation.\n[|AI|]: You're welcome! I hope you find the adidas Women's Parma 16 Soccer Shorts to be just what you're looking for. If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "timestamp": "0078_0105_0004",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "0d7a4a9e-1260-4581-acca-e3eb729379a3",
+    "content": "Conversation content on Day 54: [|User|]: I'm sorry, but based on the review you mentioned, \"In the Cut\" doesn't seem appealing either. It appears to be a gloomy and depressing movie without any redeeming qualities. Do you have any other recommendations?\n[|AI|]: I apologize for the unsatisfactory suggestions so far. In that case, I suggest checking out \"Friday Night Lights: The First Season\". It's a TV show about a local high school coach and his family, centered around the football team. According to a review I found, it's a great series with relatable everyday issues.",
+    "timestamp": "0078_0106_0004",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "d1b92d3d-5a9f-4e06-a66e-f32ebf986d68",
+    "content": "Conversation content on Day 54: [|User|]: Alright, I'll give \"Friday Night Lights: The First Season\" a try. Thank you for the recommendation.\n[|AI|]: You're welcome! I hope you enjoy watching \"Friday Night Lights: The First Season\". If you have any more questions or need further assistance, feel free to ask. Have a great time!",
+    "timestamp": "0078_0106_0006",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "22203bea-e919-4135-84ee-fa86b6569570",
+    "content": "Conversation content on Day 54: [|User|]: Oh, I've already read \"THE TEENAGE BRAIN A NEUROSCIE.\" Thank you for the recommendation though. Do you have any other suggestions?\n[|AI|]: Of course! If you're looking for something different, I suggest \"I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years.\" It's a collection of humorous essays by Bill Bryson, known for his entertaining travel memoirs. One reader describes it as funny and nostalgic, painting vivid images of life in New England. I think you might enjoy it.",
+    "timestamp": "0078_0107_0002",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "46f79f1e-508a-4e72-8d91-9369ea636d62",
+    "content": "Conversation content on Day 54: [|User|]: I actually read \"I'm a Stranger Here Myself\" before, and it didn't quite resonate with me. Thanks for the suggestion though. Any other recommendations?\n[|AI|]: No problem, Connie. Let me try a different recommendation then. How about \"No Touch Monkey!: And Other Travel Lessons Learned Too Late\"? Although it may not be everyone's cup of tea, it's a travel memoir that offers some unique perspectives. Some readers appreciate the author's candid storytelling, while others find it too focused on her personal experiences rather than the destinations she visited. What do you think?",
+    "timestamp": "0078_0107_0004",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "eafb68ee-36ed-46c1-8b43-274813641699",
+    "content": "Conversation content on Day 54: [|User|]: I'm sorry, but \"No Touch Monkey!: And Other Travel Lessons Learned Too Late\" doesn't seem like the kind of book I'd enjoy. It's not really my preference. Do you have any other recommendations?\n[|AI|]: Of course, no problem. How about \"The Worrier's Guide to the End of the World: Love, Loss, and Other Catastrophes--through Italy, India, and Beyond\"? It's a travel memoir that offers a mix of entertaining anecdotes and personal reflections. One reader found it relatable and appreciated the author's smart and funny writing style. Would you like to give it a try?",
+    "timestamp": "0078_0107_0006",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "de19c781-de4e-4a53-bad0-8f02c8c63f5a",
+    "content": "Conversation content on Day 54: [|User|]: That sounds interesting! I'll definitely check out \"The Worrier's Guide to the End of the World.\" Thank you for the recommendation.\n[|AI|]: You're welcome, Connie! I'm glad I could finally recommend something that caught your interest. Enjoy reading \"The Worrier's Guide to the End of the World\"! If you have any more questions or need further recommendations in the future, feel free to ask. Have a great day!",
+    "timestamp": "0078_0107_0008",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "da489a34-8218-4375-bdfc-9f08bcd49097",
+    "content": "Conversation content on Day 54: [|User|]: Thank you! I appreciate your help. Have a great day too. Goodbye!\n[|AI|]: Goodbye! Take care and happy reading!",
+    "timestamp": "0078_0107_0010",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "e973aa2e-1f56-43b5-b98f-6ec2c29d9f2a",
+    "content": "Conversation content on Day 55: [|User|]: Hi, I hope you're doing well. I had a bad experience with the Balega Hidden Comfort Athletic No Show Running Socks for Men and Women with Seamless Toe. They were uncomfortable and moved around while I was running. Not for me.\n[|AI|]: I'm sorry to hear that you had a disappointing experience with those socks. Is there anything else I can help you with?",
+    "timestamp": "0078_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "dc43b7a4-e75e-475b-ad5f-7a4992bf13d6",
+    "content": "Conversation content on Day 55: [|User|]: Yes, I would like a recommendation for a product.\n[|AI|]: Sure, I recommend the HDE Neoprene Zippered Golf Club Iron Covers - Set of 10. They provide excellent protection for your golf clubs while traveling. Customers have praised their quality and how well they fit.",
+    "timestamp": "0078_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "1b1b4ad7-1063-41ce-9c8b-4223432cf33f",
+    "content": "Conversation content on Day 55: [|User|]: I appreciate the recommendation, but I've already seen those golf club covers before.\n[|AI|]: I understand. In that case, I suggest trying the Balega Hidden Comfort Athletic No Show Running Socks for Men and Women with Seamless Toe in the X-Large size. They have received positive reviews for their comfort and fit.",
+    "timestamp": "0078_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "36423a56-8bde-4dd6-8663-799277e1f50c",
+    "content": "Conversation content on Day 55: [|User|]: I'm sorry, but I had a bad experience with the X-Large size socks too.\n[|AI|]: I apologize for the inconvenience. How about giving the Balega Hidden Comfort Athletic No Show Running Socks for Men and Women with Seamless Toe in the Medium size another try? Customers have found them to be comfortable and suitable for running.",
+    "timestamp": "0078_0108_0006",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "175e1da8-3d39-42b2-9a7b-849c2687e92f",
+    "content": "Conversation content on Day 55: [|User|]: Unfortunately, I also had a bad experience with the Medium size socks.\n[|AI|]: I apologize for the repeated disappointment. In that case, you might like the Third Eye Headlamps - Totally Awesome Headbands. They have received positive reviews for their quality and comfort.",
+    "timestamp": "0078_0108_0008",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "4da79fb5-3899-44c0-8d81-dc166e3c5145",
+    "content": "Conversation content on Day 55: [|User|]: That sounds good, I'll give them a try.\n[|AI|]: Great! I hope you enjoy using the Third Eye Headlamps - Totally Awesome Headbands. If you have any more questions or need further assistance, feel free to ask. Have a wonderful day!",
+    "timestamp": "0078_0108_0010",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "f19a493e-f31a-4aa4-9d1a-74782b94f68e",
+    "content": "Conversation content on Day 55: [|User|]: Thank you!",
+    "timestamp": "0078_0108_0012",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "21bb9d00-ab81-4dc6-aba6-d759c269d6d6",
+    "content": "Conversation content on Day 55: [|User|]: Hi, I recently watched Legally Blonde 2 and I was really disappointed. The movie felt like it was made for kids with its bright colors and bad acting. I loved the first Legally Blonde movie, but this one was really hard to watch. It wasn't even funny, just stupid. Such a waste of time and money.\n[|AI|]: I understand your disappointment with Legally Blonde 2. Sequels are often not as good as the original. However, if you're looking for a different movie, I would recommend Darkness. It has received positive reviews, especially for its lighting and cinematography.",
+    "timestamp": "0078_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "6ce3d981-e193-4552-ba0b-566606cc8bb5",
+    "content": "Conversation content on Day 55: [|User|]: Thanks for the recommendation, but I actually watched Darkness and I didn't like it at all. The story was unclear and it wasn't scary as advertised. It felt like a waste of time. I wouldn't recommend it to anyone.\n[|AI|]: I apologize for the disappointment with Darkness. In that case, how about giving Signs a try? It has received positive reviews and offers a unique blend of fright, humor, and emotional moments.",
+    "timestamp": "0078_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "120d0195-5290-4c31-a632-6ff7a606e283",
+    "content": "Conversation content on Day 55: [|User|]: I'm sorry, but I've already seen Signs and it didn't impress me. The aliens seemed weak and the story was not engaging enough. I wouldn't watch it again.\n[|AI|]: I understand. In that case, you might enjoy They Live. It has received great reviews and features memorable performances from Keith David and Roddy Piper.",
+    "timestamp": "0078_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "af64d93e-cbb4-4dd6-9015-99b9d9e1e4b2",
+    "content": "Conversation content on Day 55: [|User|]: That sounds interesting! I'll give They Live a try. Thank you for the recommendation.\n[|AI|]: You're welcome! If you need any more recommendations in the future, feel free to ask. Enjoy watching They Live!",
+    "timestamp": "0078_0109_0006",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "8292edda-e597-4b80-b9da-7caa7c87e3d0",
+    "content": "Conversation content on Day 55: [|User|]: Thank you so much for your help. I really appreciate it. Have a great day!\n[|AI|]: You're welcome! I'm glad I could assist you. Have a wonderful day too. If you need anything else, feel free to reach out. Goodbye!",
+    "timestamp": "0078_0109_0008",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

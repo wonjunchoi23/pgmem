@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Chloe Jelane(A162VOJ6CEW8KK)]",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: ",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4752600.0,
+    "dialog": "User: Hi there! I recently read \"It Will Always Be You\" and I loved it. The development of Elizabeth and Marshall's relationship was great. Can you recommend something similar?",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4752600.0,
+    "dialog": "Agent: Hello Chloe! I'm glad you enjoyed \"It Will Always Be You\". I recommend \"Try Not to Breathe: A Novel\". It's a captivating mystery that keeps you hooked till the end. Would you like to know more about it?",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4753800.0,
+    "dialog": "User: Thanks for the recommendation, but I've already read \"Try Not to Breathe\". Do you have any other suggestions?",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4753800.0,
+    "dialog": "Agent: I understand. In that case, I suggest checking out \"Easy Dairy-Free Ketogenic Recipes: Family Favorites Made Low-Carb and Healthy\". It's a fantastic cookbook for those following a ketogenic diet without dairy. Are you interested in learning more about it?",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755000.0,
+    "dialog": "User: Yes, I'm definitely interested. Tell me more about \"Easy Dairy-Free Ketogenic Recipes\".",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755000.0,
+    "dialog": "Agent: If you're following a ketogenic diet or considering a low-carb, high-fat approach, \"Easy Dairy-Free Ketogenic Recipes\" by Maria Emmerich is a must-read. It offers a wide range of delicious recipes that cater to people with autoimmune diseases or dairy sensitivities. Maria Emmerich is renowned for her extensive collection of ketogenic recipes, and this book is one of her best works. It's a valuable resource for anyone looking to maintain a healthy lifestyle.",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756200.0,
+    "dialog": "User: That sounds perfect! I'll definitely check it out. Thank you for the recommendation.",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756200.0,
+    "dialog": "Agent: You're welcome, Chloe! If you need any more recommendations or have any other questions, feel free to ask. Enjoy exploring \"Easy Dairy-Free Ketogenic Recipes\"!",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4757400.0,
+    "dialog": "User: Thank you so much for your help. I appreciate it.",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4757400.0,
+    "dialog": "Agent: You're very welcome! It was my pleasure to assist you. If you have any more questions in the future, don't hesitate to ask. Have a great day!",
+    "conv_id": 110,
+    "session_id": 261
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4795200.0,
+    "dialog": "User: Hi, I'm Redrabbitt. I really enjoyed reading \"Under a Falling Star (A Prairie Hearts Novel)\". It kept me captivated with its mystery and romantic suspense. The characters were well-developed and the plot was engaging.",
+    "conv_id": 111,
+    "session_id": 261
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4795200.0,
+    "dialog": "Agent: I'm glad you enjoyed it! Another book you might like is \"Keto Diet for Beginners 2018: Low Carb, High-Fat Recipes for Losing Weight, Heal Your Body and Regain Confidence\". It's a great resource for anyone looking to lose weight and improve their overall health.",
+    "conv_id": 111,
+    "session_id": 261
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4796400.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about the book?",
+    "conv_id": 111,
+    "session_id": 261
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4796400.0,
+    "dialog": "Agent: Sure! \"Keto Diet for Beginners 2018\" provides low carb, high-fat recipes that can help you lose up to 20 pounds in just 3 weeks. It focuses on healing your body through proper nutrition and regaining your confidence. It's a comprehensive guide for starting and maintaining a ketogenic diet.",
+    "conv_id": 111,
+    "session_id": 261
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4797600.0,
+    "dialog": "User: That's exactly what I need! I'll definitely give it a try.",
+    "conv_id": 111,
+    "session_id": 261
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4797600.0,
+    "dialog": "Agent: Great! If you need any more recommendations, feel free to ask.",
+    "conv_id": 111,
+    "session_id": 261
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4798800.0,
+    "dialog": "User: Thank you for your help! I appreciate it.",
+    "conv_id": 111,
+    "session_id": 261
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4798800.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 111,
+    "session_id": 261
+  }
+]

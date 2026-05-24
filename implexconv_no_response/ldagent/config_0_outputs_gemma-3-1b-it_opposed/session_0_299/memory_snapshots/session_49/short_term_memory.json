@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I have read \"The Pillars of the Earth\" and I must say I was quite disappointed. The portrayal of certain incidents seemed twisted, and the book had a blatant anti-Republican bias. It completely turned me off.",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I understand your disappointment with \"The Pillars of the Earth\". Let's not focus on recommending books for now. How can I assist you further?",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Well, since we're on the topic, could you recommend a book for me?",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I recommend \"The Goldfinch: A Novel\". It has received positive reviews, such as this one: \"This book is an emotional roller coaster. Theo, the main character, goes through so many ups and downs in his life. It's a story of tragedy, privilege, and love. I think you might enjoy it.\"",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm sorry, but I'm not interested in \"The Goldfinch: A Novel\". I didn't like the dark elements in it.",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, how about considering \"Anastasia: The Riddle of Anna Anderson\"? It has received great reviews, like this one: \"This book will surely make you question if something sneaky wasn't pulled off to fake the DNA test results. It's a very interesting character study with political undertones.\"",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Hmm, I'm not sure about that book either. Can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Certainly! According to this review: \"Well, I know what the DNA tests say, but this book will surely make you question if something sneaky wasn't pulled off to fake the test results. When it comes to politics, you just never know. It's a very intriguing character study that keeps you engaged.\"",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Alright, I'll give \"Anastasia: The Riddle of Anna Anderson\" a try. Thank you for the recommendation.",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: No, thank you. I appreciate your help.",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! Have a great day and enjoy your reading. Goodbye!",
+    "conv_id": 108,
+    "session_id": 49
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey there! I recently read \"Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime\" and it was such a well-researched book. The author really exposed the dark side of politics. Have you read it?",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello! I haven't read \"Game Change\" yet, but it sounds like an intriguing book. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'm looking for book recommendations. Any suggestions?",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! I recommend \"The Rosie Project.\" It's a great book that explores the perspective of a character with Asperger's syndrome. It's been highly rated and I think you might enjoy it.",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I've already read \"The Rosie Project.\" Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Of course! How about \"Tesla: Man Out of Time\"? It delves into the life of Nikola Tesla, who was way ahead of his time. I think you might find it fascinating.",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thanks for the suggestion, but I've already read \"Tesla: Man Out of Time\" as well. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. In that case, I suggest checking out \"The Short Drop (Gibson Vaughn).\" It's a political thriller that has received positive reviews. It's a gripping story with engaging characters and unexpected twists.",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about \"The Short Drop\"?",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! \"The Short Drop\" is a tight and well-plotted novel. It follows the story of Gibson Vaughn in a political thriller setting. The book keeps you hooked from beginning to end with its twists and turns. It's a great debut novel that fans of political thrillers would enjoy.",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: I'm sold! I'll give \"The Short Drop\" a try.",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: That's great to hear! I hope you enjoy reading it. If you have any more questions or need further assistance, feel free to ask. Happy reading!",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you! I'll let you know if I need anything else. Bye!",
+    "conv_id": 109,
+    "session_id": 49
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! Have a wonderful day and happy reading! Goodbye!",
+    "conv_id": 109,
+    "session_id": 49
+  }
+]

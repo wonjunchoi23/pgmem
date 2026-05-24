@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I've had a bad experience with the Amazon Kindle 9W PowerFast Adapter for Accelerated Charging. It was disappointing.",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I understand. Let me recommend you something else. Have you tried the Etre Jeune BO-N1557 Earbuds Headphones Bluetooth? They have great sound quality and come with a built-in microphone and volume control. Other customers have given them a high rating.",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thanks for the recommendation, but I have already seen similar electronics before, so I'll pass on that.",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Alright, I understand. How about trying the Symphonized ALN Premium Genuine Wood in-Ear Noise-isolating Headphones with Mic? They are made with genuine wood and provide excellent sound quality. Customers have been very satisfied with them.",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I appreciate the suggestion, but I have already seen similar electronics before, so I'll pass on that too.",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in the C&E CNE03722 Stereo Headphone Extension Cable. It's a 50 feet long cable that allows you to move freely while enjoying your music. Customers have found it very convenient.",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about the details of the electronics?",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! The C&E CNE03722 Stereo Headphone Extension Cable is designed to give you the freedom to vacuum your house or move around while listening to your favorite music. It has received positive reviews from customers, who find it very useful for creating their own little private world.",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds perfect! I'll give it a try. Thanks for the recommendation.",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask. Enjoy your new purchase!",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: No, thank you. I appreciate your help. Have a great day!",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! Have a great day too. Take care!",
+    "conv_id": 108,
+    "session_id": 239
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I recently purchased the Bolse 4 Port High Output USB Wall/Travel/AC Rapid Charger and I am very satisfied with it. It worked perfectly during my trip to the UK. I also bought the Cable Matters HDMI to VGA Adapter and it works flawlessly with my Raspberry Pi.",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! I'm glad you had a positive experience with both products. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'd like a recommendation for another product.",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Of course, I'd be happy to help. Based on your previous dislikes, I recommend avoiding the WD 4TB My Cloud Personal Network Attached Storage. It has received negative reviews for its unreliable performance and frequent drop-offs. One user mentioned that it failed to complete file transfers and caused frustration.",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the heads up. I had a feeling that product wouldn't meet my needs.",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: You're welcome! I understand. In that case, I suggest considering the Cable Matters HDMI to VGA Adapter (HDMI to VGA Converter) in White. It has received positive reviews and is known for its solid build quality. One user mentioned that it worked seamlessly with various projectors without any display issues.",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I appreciate the recommendation, but I've already seen similar products before.",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in the Logitech M570 Wireless Trackball Mouse. It's highly ergonomic, compatible with both Apple Mac and Microsoft Windows computers, and comes with a USB Unifying Receiver. It has received positive reviews for its comfort and functionality.",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds perfect! I'll definitely consider it. Thanks for your help.",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you, you too! Goodbye.",
+    "conv_id": 109,
+    "session_id": 239
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 109,
+    "session_id": 239
+  }
+]

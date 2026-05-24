@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, my name is Bob W. I really enjoyed reading \"The Last Town (Wayward Pines)\". It was an excellent series with a captivating story and well-developed characters.",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Bob! I'm glad to hear that you enjoyed \"The Last Town (Wayward Pines)\". It's always great to find a book that keeps you engaged. Is there anything else you'd like to discuss?",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, I'm looking for a new book recommendation. Can you suggest something?",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure, based on your dislike for \"Still Procrastinating: The No Regrets Guide to Getting It Done\", I recommend \"The Naturalist\". It has received positive reviews and offers a captivating storyline.",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Sorry, but I'll have to pass on \"The Naturalist\". I didn't enjoy \"Still Procrastinating\" because it lacked concrete advice and felt disorganized.",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in \"The Naturalist\". It has been praised for its intriguing plot, balanced pace, and engaging dialogue.",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about \"The Naturalist\"?",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! \"The Naturalist\" is a highly recommended novel that showcases a compelling main character with a bold personality. The pacing, dialogue, and description are well-balanced, holding the reader's attention throughout. It comes highly recommended.",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm sold! I'll give \"The Naturalist\" a try.",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Excellent! I'm glad you're open to giving it a chance. Is there anything else I can assist you with or recommend?",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: No, thank you for your help. I appreciate it!",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you ever need more recommendations in the future, feel free to ask. Happy reading!",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you! Have a great day.",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You too! Take care and enjoy your reading. Goodbye!",
+    "conv_id": 108,
+    "session_id": 143
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello, I've heard you don't like Napoleon Dynamite. What's your review on it?",
+    "conv_id": 109,
+    "session_id": 143
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: When I first saw this movie advertised I was like, what the hell is that? Then my friend made me go see it with him and from the first second all the way through I was hysterical. You can't get enough of how unbelievably hilarious this guy's personality is. The tater tots were the best part in my opinion. If you are open-minded and want to see a brand new kind of humor, or at least to me, then definitely check this one out you will love it.",
+    "conv_id": 109,
+    "session_id": 143
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the review. Can you recommend me a movie?",
+    "conv_id": 109,
+    "session_id": 143
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure, I recommend Holes VHS. It mixes up a Jew in Latvia cursed by a Roma fortune teller with an eccentric inventor failing his family with a female stagecoach & train robber with a treasure hunt with juvenile delinquents working off their sentences digging holes in a dry lake bed in Texas. Quite edgy for Disney.",
+    "conv_id": 109,
+    "session_id": 143
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Alright, I'll give it a try. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 143
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: You're welcome! If you need more recommendations, feel free to ask. Enjoy your movie!",
+    "conv_id": 109,
+    "session_id": 143
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: No, thank you. I appreciate your help.",
+    "conv_id": 109,
+    "session_id": 143
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a great day!",
+    "conv_id": 109,
+    "session_id": 143
+  }
+]

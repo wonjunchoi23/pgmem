@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Jerry D. I really liked the TETON SPORTS Explorer 4000 Internal Frame Backpack. It's a high-performance backpack with a sewn-in rain cover. I found it perfect for backpacking, hiking, and camping. It has a review rating of 4.0. It's a great pack for larger frame individuals like me. The only downside is that the inner zipper is losing its stitching after just one use. But overall, it's a durable and reliable choice for hiking.",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello Jerry! I'm glad to hear that you enjoyed the TETON SPORTS Explorer 4000 Internal Frame Backpack. It's definitely a popular choice among outdoor enthusiasts. Another customer who purchased this backpack left a positive review, mentioning its durability and ruggedness. They found it suitable for weekend trips or even longer hikes. Would you be interested in exploring the TETON SPORTS Explorer 4000 Internal Frame Backpack with a sewn-in rain cover as well?",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen the TETON SPORTS Explorer 4000 Internal Frame Backpack before, so I'll pass on that.",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: No problem, Jerry. If that's the case, let me recommend something different. How about the Coleman 2000016402 Mess Kit? It's an aluminum 5-piece set. Despite a negative review rating of 2.0, it might be worth considering based on your preferences.",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the suggestion, but I read a review saying that the Coleman 2000016402 Mess Kit is not good. The reviewer mentioned that the cup is too small and the pan handle is not sturdy at all. So, I'll pass on that too.",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Understood, Jerry. In that case, I have another recommendation for you. You might like the Franklin Sports Deluxe Soccer Sack. Although it's not related to backpacks or hiking, it's a popular choice for soccer enthusiasts.",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Hmm, I'm not sure if I'm interested in a soccer sack. Can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Sure! Another customer who purchased the Franklin Sports Deluxe Soccer Sack found it to be the perfect size for carrying all the essentials for their 4-year-old's soccer practice. It's lightweight and can hold a ball, cleats, socks, shin guards, jersey, and more. However, they did mention that the bag turned out to be larger than expected. Would you like to give it a try?",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Alright, I'll accept your recommendation for the Franklin Sports Deluxe Soccer Sack. Thank you for your help.",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome, Jerry! If you need any more recommendations or assistance with anything else, feel free to let me know.",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your help. I appreciate it. That's all for now.",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day, Jerry!",
+    "conv_id": 108,
+    "session_id": 166
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, my name is Andrew. I recently purchased the Yakima T-Axle Fork Adapter and I must say, it works fantastically for my girlfriend's bike, which has a 15mm front fork. Mounting the bike is easier than using the old quick release. The adapter feels durable and secure, so I have no concerns about its reliability.",
+    "conv_id": 109,
+    "session_id": 166
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! If you're looking for another useful product, I recommend the Mountain House Cooked Diced Chicken #10 Can. It's perfect for adding chicken to backpacking meals. The diced chicken has a consistent texture and tastes like chicken. Just remember to repackage it into single or double servings with oxygen absorbers.",
+    "conv_id": 109,
+    "session_id": 166
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already tried the Mountain House Cooked Diced Chicken #10 Can. I found it to be quite good, but unfortunately, I've already seen the sports before.",
+    "conv_id": 109,
+    "session_id": 166
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand. In that case, how about trying the Ghillie Thread, Woodland Blend? It's excellent for adding camouflage to your gear. The color blends well with multicam/woodland patterns. It's especially useful for creating veils or adding a bit of breakup to your sniper hood.",
+    "conv_id": 109,
+    "session_id": 166
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thank you for the suggestion, but I've already seen the sports before, so I won't be needing the Ghillie Thread. However, I'm interested in the Scrubba Wash Bag. Can you provide more details about it?",
+    "conv_id": 109,
+    "session_id": 166
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Certainly! The Scrubba Wash Bag is a portable laundry system designed for camping, hiking, backpacking, and travel. It's a convenient way to wash your clothes when you're away from home. The bag is compact and lightweight but can hold a surprising amount of clothes. Simply add water, detergent, and your clothes, seal the bag, and agitate it on a flat surface. The bag's internal ridges help to agitate the clothes effectively. It's a clean and effective method for washing on the go.",
+    "conv_id": 109,
+    "session_id": 166
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds perfect! I'll definitely give the Scrubba Wash Bag a try. Thanks for the detailed information.",
+    "conv_id": 109,
+    "session_id": 166
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 166
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you for your help and recommendations. I really appreciate it.",
+    "conv_id": 109,
+    "session_id": 166
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 166
+  }
+]

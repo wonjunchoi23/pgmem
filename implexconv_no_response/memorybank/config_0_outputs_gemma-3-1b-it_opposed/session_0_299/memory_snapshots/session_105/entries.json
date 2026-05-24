@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ca01f30c-0314-4190-a5d2-cb718a3bb641",
+    "content": "Conversation content on Day 53: [|User|]: Actually, I've already read \"Love Edy\" and it didn't quite meet my expectations. Do you have any other recommendations?\n[|AI|]: I apologize for the inconvenience. In that case, I would recommend \"Children Shouldn't Play with Dead Things\". It's a book that offers a fresh spin on a familiar territory, and it has received positive reviews. If you're interested, I can provide more details about the book.",
+    "timestamp": "0105_0105_0004",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "49a85702-8bd2-4c6d-a26b-f7c3338d78d7",
+    "content": "Conversation content on Day 54: [|User|]: Actually, I was hoping you could recommend something different. Maybe a book that explores the stories of some interesting women from the Bible?\n[|AI|]: I understand. How about \"Bad Girls of the Bible: And What We Can Learn from Them\"? It's a fun and educational book that delves into the stories of biblical bad girls like Eve and Rahab. (Review: Bad Girls of the Bible)",
+    "timestamp": "0105_0106_0002",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "2cfbc7c6-dfd7-4675-b574-09d21f9709b7",
+    "content": "Conversation content on Day 54: [|User|]: I appreciate the recommendation, but I prefer not to read books that have overly graphic content. This book seems to have some explicit imagery that I'd rather avoid.\n[|AI|]: I completely understand your preference. In that case, let me suggest \"Prince Noah and the School Pirates (A Prince Noah Book)\". It's a delightful children's book that emphasizes the value and beauty of every child, regardless of their differences. (Review: Prince Noah and the School Pirates)",
+    "timestamp": "0105_0106_0004",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "dd0147d2-939a-4e1a-ba7b-bb1b1e0570a7",
+    "content": "Conversation content on Day 54: [|User|]: Thank you for the recommendation, but I've actually already seen that book before. Do you have any other suggestions?\n[|AI|]: Of course! How about \"Hinds' Feet on High Places: An Engaging Visual Journey\"? It's an allegorical story that follows Much-Afraid, a character who overcomes her fears and disabilities through faith and love. (Review: Hinds' Feet on High Places)",
+    "timestamp": "0105_0106_0006",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "d8fedb4e-c938-4c70-ae75-e28d1e76ad9d",
+    "content": "Conversation content on Day 54: [|User|]: I'm not familiar with that book, but I'm open to it. Could you tell me more about it?\n[|AI|]: Absolutely! \"Hinds' Feet on High Places\" is a captivating book that encourages each reader to rely on the Savior and not on themselves. It's a story of overcoming obstacles and finding strength through love and patience. Here's an excerpt from the book: [provide excerpt]. I think you'll find it inspiring!",
+    "timestamp": "0105_0106_0008",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "97dc7bbb-76e1-437c-b36d-53c42837ebe0",
+    "content": "Conversation content on Day 54: [|User|]: Alright, I'll give All Laced Up a shot. Thank you for the recommendation!\n[|AI|]: You're welcome! I hope you enjoy reading All Laced Up. If you have any more questions or need further recommendations in the future, feel free to ask. Happy reading!",
+    "timestamp": "0105_0107_0002",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "5e7acd7a-df00-4983-a45c-a134ffde0dcc",
+    "content": "Conversation content on Day 55: [|User|]: Hi, I recently read \"The Thief\" and I must say, I was left hanging. The story felt fragmented and it took some effort to put the plotline together. Can you recommend something else?\n[|AI|]: I'm sorry to hear that \"The Thief\" didn't meet your expectations. How about \"Far From True (Promise Falls Trilogy)\"? It's a thrilling book that will keep you on the edge of your seat until the very end.",
+    "timestamp": "0105_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "2da96f49-de6d-47c8-8bfb-0bef444c9718",
+    "content": "Conversation content on Day 55: [|User|]: Oh, I'm sorry, but I have already read \"Far From True\" before, and it was an amazing read. Do you have any other recommendations?\n[|AI|]: I apologize for the oversight. How about \"Point of Impact\"? It's a gripping conspiracy thriller that revolves around a rogue outfit framing an innocent man for a crime he didn't commit. I think you'll enjoy it.",
+    "timestamp": "0105_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "6878f246-7993-4bcb-a34b-16eda0590e6f",
+    "content": "Conversation content on Day 55: [|User|]: Thank you for the recommendation, but I have already read \"Point of Impact\" before. Do you have any other suggestions?\n[|AI|]: Of course! Have you considered reading \"The Game (Victor)\"? It's a captivating book, although it may have some over-the-top descriptions of encounters. Overall, it's a great read.",
+    "timestamp": "0105_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "d206931d-a2c5-41b5-a46d-78f72ebcbc4f",
+    "content": "Conversation content on Day 55: [|User|]: I'm sold! I'll give \"The Game (Victor)\" a try.\n[|AI|]: Great choice! I hope you enjoy reading it. If you have any more questions or need further recommendations, feel free to ask.",
+    "timestamp": "0105_0108_0008",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "3cf79183-aa70-4cec-bc6d-36b08ce2ffb4",
+    "content": "Conversation content on Day 55: [|User|]: Hi, I recently read \"Enchanted: Erotic Bedtime Stories For Women\" and I have to say, it didn't really do it for me. The fantasies in the stories were repetitive and didn't feel erotic for adults.\n[|AI|]: I understand your disappointment with \"Enchanted.\" If you're looking for something different, I recommend \"Hard As Steel: A Hard Ink/Raven Riders Crossover.\" It's a thrilling story with edgy characters. Here's a review: \"E-Galley was provided by the publicist for review purposes. I enjoyed this story about two edgy, rough, and complex characters who have to come face to face with mortality several times and have to face misplaced guilt before they can really be together.\"",
+    "timestamp": "0105_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "4083f385-3219-45fe-acdc-5d30ce2b9772",
+    "content": "Conversation content on Day 55: [|User|]: Thanks for the recommendation, but I've already read \"Hard As Steel\" and enjoyed it.\n[|AI|]: I see. In that case, you might like \"Eligible: A modern retelling of Pride and Prejudice.\" It's a unique take on the classic story.",
+    "timestamp": "0105_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "26a2c10d-8244-425e-989f-14d57074ee2b",
+    "content": "Conversation content on Day 55: [|User|]: Hmm, tell me more about \"Eligible.\"\n[|AI|]: To be honest, the first part of the book moves slowly, but once you get past that, the story becomes very enjoyable. The characters are well-developed, and there are many subplots and different storylines to explore. It's a great pick for a Book Club discussion.",
+    "timestamp": "0105_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "6fb8da23-4df7-4d3a-8c3e-16a1aeaa75ac",
+    "content": "Conversation content on Day 55: [|User|]: Alright, I'll give \"Eligible\" a try. Thanks for the recommendation!\n[|AI|]: You're welcome! If you need more recommendations in the future, feel free to ask.",
+    "timestamp": "0105_0109_0006",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "2229380b-b484-4bf4-a3e7-cece120b2681",
+    "content": "Conversation content on Day 55: [|User|]: I appreciate that, but for now, I'm good. Thanks again!\n[|AI|]: No problem! Have a great day and happy reading!",
+    "timestamp": "0105_0109_0008",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

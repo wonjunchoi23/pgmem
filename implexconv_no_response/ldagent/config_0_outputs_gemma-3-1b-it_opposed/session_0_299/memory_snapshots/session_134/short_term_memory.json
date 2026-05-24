@@ -1,0 +1,100 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hi, I'm Jennifer. I really enjoyed reading \"Angelfall (Penryn & the End of Days)\". It was such an exciting and thought-provoking book. I can't wait to read the second one. I also liked \"Shooting Kabul\" which sparked great compassionate discussions in my history class.",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: Hi Jennifer! I'm glad to hear that you enjoyed \"Angelfall\" and \"Shooting Kabul\". Those are both fantastic books. How can I assist you today?",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: Can you recommend another book for me?",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: Definitely! I suggest \"Shooting Kabul\". It's an incredible story that keeps you wondering if they found the girl. I'm sure you'll love it.",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: Actually, I've already read \"Shooting Kabul\". Do you have any other recommendations?",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: I apologize for the repeat recommendation. How about \"Test Prep, Grade 8 (Spectrum)\"? It's a helpful book for preparation.",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: I'm sorry, but I didn't enjoy \"Test Prep, Grade 8 (Spectrum)\". It wasn't as helpful as previous editions. Do you have any other recommendations?",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: I apologize for the inconvenience. How about \"Beneath a Scarlet Sky (Center Point Large Print)\"? It's a well-written account of the last few years of WWII.",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756800.0,
+    "dialog": "User: I'm not sure. Can you tell me more about \"Beneath a Scarlet Sky\"?",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756800.0,
+    "dialog": "Agent: \"Beneath a Scarlet Sky\" is a novel based on a true story. It follows the main character, Pink Lalla, and provides a captivating narrative of the last few years of WWII. It's a highly recommended book that will keep you engaged from start to finish.",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4758000.0,
+    "dialog": "User: That sounds interesting. I'll give it a try!",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4758000.0,
+    "dialog": "Agent: Great! I'm sure you'll enjoy reading \"Beneath a Scarlet Sky\". If you have any more questions or need further recommendations, feel free to ask. Happy reading!",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4759200.0,
+    "dialog": "User: Thank you! I'll let you know if I need any more suggestions. Bye!",
+    "conv_id": 110,
+    "session_id": 134
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4759200.0,
+    "dialog": "Agent: You're welcome! Have a wonderful day and happy reading! Goodbye!",
+    "conv_id": 110,
+    "session_id": 134
+  }
+]

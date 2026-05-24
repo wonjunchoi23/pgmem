@@ -1,0 +1,100 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hi, I'm David. I recently purchased the Pro Specialties Group NFL 5-Pack Retractable Click Pens and I absolutely love them! (Review: I am a Steelers fan to the core, so of course anything that comes out I will most likely get. Steelers rule!)",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: Hey David! That's great to hear that you're enjoying the Pro Specialties Group NFL 5-Pack Retractable Click Pens. As an agent, I'm here to assist you. How can I help you today?",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: I was wondering if you could recommend something else related to NFL.",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: Sure, I can recommend the NFL Arizona Cardinals Stop Sign. It's a fan-favorite item. (Review: Bought this for my Bears fanatic husband. He loves it. It's made of a plastic material. All and all a good buy because the hubby liked it.)",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen a lot of sports-related merchandise.",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: I understand. In that case, I would suggest checking out the NFL Pittsburgh Steelers Terrible Towel. It's another popular item among NFL fans. (Review: This Terrible Towel was bought for a friend as a gift. She loves it. I told her this is the Official Emergency Diaper for the NFL.)",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: I appreciate the suggestion, but I've already seen the Steelers Terrible Towel before.",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: I see. In that case, you might be interested in the FOCO NFL unisex Logo Bandz Bracelets. They are great for any NFL fan. (Review: While the main market for these shaped band bracelets is kids, this set is sure to delight Colts fans of any age! They make great party favors or game day surprises!)",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756800.0,
+    "dialog": "User: Oh, that sounds interesting! Can you tell me more about the FOCO NFL unisex Logo Bandz Bracelets and how they are related to sports?",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756800.0,
+    "dialog": "Agent: Absolutely! The FOCO NFL unisex Logo Bandz Bracelets are shaped band bracelets that are perfect for showing off your team spirit. They fit comfortably on both child and adult wrists and make great collectibles. (Review: I've found they fit most child or adult wrists comfortably without a problem.) They are popular among NFL fans and are often used as party favors or game day surprises.",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4758000.0,
+    "dialog": "User: That sounds great! I'm interested in getting them.",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4758000.0,
+    "dialog": "Agent: Wonderful! I'm glad you're interested. If you have any further questions or if there's anything else I can assist you with, feel free to let me know. Otherwise, enjoy your purchase and have a great day!",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4759200.0,
+    "dialog": "User: Thank you! I appreciate your help. Have a great day too!",
+    "conv_id": 110,
+    "session_id": 203
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4759200.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. Take care and have a fantastic day ahead!",
+    "conv_id": 110,
+    "session_id": 203
+  }
+]

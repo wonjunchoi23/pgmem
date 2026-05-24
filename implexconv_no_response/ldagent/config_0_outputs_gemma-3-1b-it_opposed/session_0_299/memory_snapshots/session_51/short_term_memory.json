@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Wisconsin Lady. I really enjoyed reading \"Two Kinds of Truth (A Harry Bosch Novel)\". It had such clever concurrent plots and I loved the character development. What did you think of it?",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Wisconsin Lady, I'm glad you enjoyed \"Two Kinds of Truth (A Harry Bosch Novel)\". It's a great book with engaging storylines. What can I help you with today?",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Can you recommend another book for me?",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure, I recommend \"Never Go Back: A Jack Reacher Novel\". It's a thrilling read that continues to evolve the character of Jack Reacher. Other readers have given it a positive review as well.",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already read \"Never Go Back\". Do you have any other suggestions?",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! How about \"A Trick of the Light: A Chief Inspector Gamache Novel\"? It's a captivating book, especially if you love art and artists. Other readers have found it to be an excellent read.",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about the book?",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Certainly! \"A Trick of the Light: A Chief Inspector Gamache Novel\" is written by a very engaging writer, and the characters really come to life. It's a great choice if you enjoy art and mystery.",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Alright, I'll give it a try. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Enjoy reading \"A Trick of the Light: A Chief Inspector Gamache Novel\"!",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it.",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any more questions, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 51
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I've been using the Survivor Fire Starters Magnesium Firesteel Flint and Steel and it's been amazing. The magnesium is soft and produces a good spark. Jerry's customer service is top-notch too!",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! The Survivor Fire Starters Magnesium Firesteel Flint and Steel is indeed a fantastic firestarter. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'm actually looking for a recommendation. What would you suggest?",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Based on your liking for the Survivor Fire Starters, I would recommend the MSR Universal Canister Stand. It's a sturdy and stable stand that fits various sizes of isobutane canisters.",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen the MSR Universal Canister Stand. Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: No worries. In that case, I suggest you consider the Nikwax Hardshell Clean/Waterproof DUO-Pack. It's a great product for cleaning and waterproofing outdoor gear.",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! Tell me more about it, especially regarding sports.",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Well, based on the reviews, some customers have found the Nikwax Hardshell Clean/Waterproof DUO-Pack to be less effective in repelling water. However, it's worth noting that it's still a popular choice for cleaning and maintaining sports gear.",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I'm convinced. I'll give the Nikwax Hardshell Clean/Waterproof DUO-Pack a try.",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Excellent! If you need any more recommendations or assistance, feel free to ask. Enjoy your purchase!",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you for your help. I really appreciate it.",
+    "conv_id": 109,
+    "session_id": 51
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you have any further questions in the future, feel free to reach out. Have a wonderful day!",
+    "conv_id": 109,
+    "session_id": 51
+  }
+]

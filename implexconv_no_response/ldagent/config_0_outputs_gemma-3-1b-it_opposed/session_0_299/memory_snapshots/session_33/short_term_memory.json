@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I'm Dancing Nanny. I recently purchased the Kimlee Multi-Functional Shoulder Sling Bag Cross Body Chest Pack Hiking Cycling Bicycle Bag and I absolutely love it! It's perfect for my short hikes and has enough space for all my essentials. The quality and design are great.",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! I'm glad you're satisfied with your purchase. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Can you recommend another product for me?",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! Based on your liking for the Kimlee bag, I would recommend the Foam Roller for Physical Therapy. It's great for muscle stretching, tension release, and cramp relief. Customers have given it positive reviews as well.",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Oh, I've already seen that product and I'm not interested in sports-related items.",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, you might like the 1000 Lumen Helotex G4 Tactical Flashlight. It's a versatile and high-quality flashlight that can come in handy in various situations.",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about its features related to sports?",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Certainly! Customers have found the 1000 Lumen Helotex G4 Tactical Flashlight to be very bright and reliable. It's a popular choice among runners, cyclists, and triathletes due to its durability and performance. It's a must-have for outdoor activities. One customer even mentioned that it's great for vaping enthusiasts, although it may not work well with flat top 18650 batteries.",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Great! I think I'll go with the flashlight. Thank you for the recommendation.",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask. Enjoy your new purchase!",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it.",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a wonderful day!",
+    "conv_id": 108,
+    "session_id": 33
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently purchased the Continental Tour Ride Urban Bicycle Tire, and I must say, it's been a great addition to my Cannondale F-5. I took it for a 50-mile ride on a packed dirt trail, and it performed much better than the stock knobby tire. Although it got a bit loose a few times on the dirt, it's a worthwhile trade-off.",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! It seems like the Continental Tour Ride Urban Bicycle Tire is a good fit for your needs. How can I assist you further?",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'm looking for another recommendation. What do you suggest?",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: How about the Keiser M3 Indoor Cycle Stationary Trainer Exercise Bike? It has received excellent reviews and offers a fantastic workout experience. One user mentioned that it's been a game-changer for them, simulating road resistance and providing a smooth ride.",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the suggestion, but I've already tried spinning classes and didn't enjoy them. So, I'll pass on the Keiser M3 Indoor Cycle.",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. No worries. How about considering the Keiser M3 Indoor Cycle Stationary Trainer Exercise Bike? It has received rave reviews and offers a similar experience to outdoor cycling. One user mentioned that it's been a game-changer for them, simulating road resistance and providing a smooth ride.",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I appreciate the recommendation, but as I mentioned earlier, I've already tried similar bikes before. So I'll pass on this one too.",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. No problem. How about considering the Under Armour Men's HeatGear 3-Pack Crew? It may be a great addition to your athletic wear collection.",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds interesting! I haven't tried that one before, and I'm always looking for comfortable and high-quality workout clothes. I'll give it a try.",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Great! I'm glad you're interested. The Under Armour Men's HeatGear 3-Pack Crew is known for its quality, although one user mentioned it felt a bit tight around the top. Nonetheless, it's worth checking out. If you have any more questions or need further assistance, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you for your help! I'm excited to try out the Under Armour Men's HeatGear 3-Pack Crew. Have a great day!",
+    "conv_id": 109,
+    "session_id": 33
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! I'm sure you'll enjoy it. If you have any more questions in the future, don't hesitate to reach out. Have a fantastic day!",
+    "conv_id": 109,
+    "session_id": 33
+  }
+]

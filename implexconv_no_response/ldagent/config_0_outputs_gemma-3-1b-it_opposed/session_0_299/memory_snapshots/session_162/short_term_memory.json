@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I recently watched \"Avatar Steelbook Limited UK Edition\" and I wanted to share my thoughts on it. The film itself is a masterpiece, but I was a bit disappointed with the pricing. I feel like they should have just sold the 3D version separately and lowered the price. What are your thoughts?",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello! It's great to hear your thoughts on \"Avatar Steelbook Limited UK Edition\". Pricing can definitely be a concern for many movie enthusiasts. The focus of our conversation is not on recommending movies, but I'd be happy to discuss your preferences or any other movies you'd like to talk about.",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Sure, I understand. Well, since we're on the topic, do you have any recommendations for movies similar to \"The Innocents VHS\"?",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Absolutely! If you've already seen \"The Innocents VHS\", I can recommend another movie that you might enjoy. How about \"Total Recall VHS\"? It has a different storyline but still falls under the thriller genre. Let me share some reviews for you to consider.",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I appreciate the recommendation, but I actually watched \"Total Recall VHS\" before and I wasn't too impressed. The video quality wasn't great and there were some technical issues. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand your concern with \"Total Recall VHS\". No worries, let me suggest another movie that might interest you. How about \"The Best of Mission Impossible, Volume 2 VHS\"? It's a thrilling action-packed film. Here's a review to give you more insight.",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thanks for the suggestion, but I actually read a review that mentioned some issues with the video and audio quality of \"The Best of Mission Impossible, Volume 2 VHS\". Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I apologize for the inconvenience caused by my previous recommendations. Let me suggest another movie that you might like. Have you considered watching \"Haywire\"? It has received positive reviews and offers a unique blend of action and suspense.",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Sounds interesting! I haven't watched \"Haywire\" yet, but I'm open to giving it a try.",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: That's great to hear! I believe you'll enjoy \"Haywire\". If you have any other questions or if there's anything else I can assist you with, feel free to let me know.",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your help! I'll definitely check out \"Haywire\". That will be all for now.",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! I hope you have a great time watching \"Haywire\". If you need any further recommendations in the future, feel free to reach out. Have a wonderful day!",
+    "conv_id": 108,
+    "session_id": 162
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Anya! I absolutely loved reading \"The Non-Designer's Design Book (4th Edition)\". This book really simplified the principles of good design and made learning fun. Have you read it?",
+    "conv_id": 109,
+    "session_id": 162
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Anya! I'm glad you enjoyed \"The Non-Designer's Design Book (4th Edition)\". It's definitely a great book for understanding the basics of design. If you liked that, I would recommend checking out \"Jean Haines' Atmospheric Watercolours: Painting with freedom, expression, and style\". It's a fantastic book that provides detailed guidance on creating beautiful gradations in watercolor.",
+    "conv_id": 109,
+    "session_id": 162
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I've actually already read \"Jean Haines' Atmospheric Watercolours\". It was enthusiastically written and very useful.",
+    "conv_id": 109,
+    "session_id": 162
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Oh, I see. No problem! How about \"Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition\"? It's another highly recommended book that offers practical advice on web usability.",
+    "conv_id": 109,
+    "session_id": 162
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I appreciate the suggestion, but I've already come across \"Don't Make Me Think\" before.",
+    "conv_id": 109,
+    "session_id": 162
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Understood. In that case, you might be interested in \"Small Move, Big Change: Using Microresolutions to Transform Your Life Permanently\". It's a book that delves into the concept of making small changes in your habits to bring about significant transformation.",
+    "conv_id": 109,
+    "session_id": 162
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! I'll definitely give it a try.",
+    "conv_id": 109,
+    "session_id": 162
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Great! If you need any more recommendations or have any other questions, feel free to let me know.",
+    "conv_id": 109,
+    "session_id": 162
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you for your help! I appreciate the recommendations.",
+    "conv_id": 109,
+    "session_id": 162
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome, Anya! If there's anything else I can assist you with, just let me know. Have a great day!",
+    "conv_id": 109,
+    "session_id": 162
+  }
+]

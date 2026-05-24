@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello!",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello! How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I am a bit skeptical about book recommendations. I read \"I Am Charlotte Simmons\" before and didn't enjoy it.",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand your concern. How about trying \"Random Family: Love, Drugs, Trouble, and Coming of Age in the Bronx\"? It has received positive reviews.",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Sorry, but I read a review for \"Random Family\" that didn't appeal to me.",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: No problem. How about considering \"Vegan on the Go: Fast, easy, affordable anytime, anywhere\"? It's a book that might interest you.",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds intriguing. Can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! \"Vegan on the Go\" is a fantastic book for trying out alternative dishes and enjoying fresh and crunchy food. It has beautiful color photos to help you visually choose your meals. The recipes are detailed yet easy to follow.",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm convinced! I'll give it a try.",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great! I'm glad you're interested. Is there anything else I can recommend for you?",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your suggestions, but I'm good for now. I appreciate your assistance.",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more help in the future, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 255
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, my name is Dean. I really enjoyed reading \"Founding Brothers: The Revolutionary Generation\" by Joseph J. Ellis. It was quite informative, although I did have some doubts about the author's credibility. Have you come across this book?",
+    "conv_id": 109,
+    "session_id": 255
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Dean! Nice to meet you. Yes, I'm familiar with \"Founding Brothers: The Revolutionary Generation\". It's a great book that delves into the post-Declaration of Independence era and explores how the ideals of the American Revolution were put to the test. The author's approach of focusing on specific topics makes it engaging. By the way, have you read \"Earth: An Alien Enterprise: The Shocking Truth Behind the Greatest Cover-Up in Human History\"?",
+    "conv_id": 109,
+    "session_id": 255
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Yes, I have read \"Earth: An Alien Enterprise\". It was an interesting read, but I couldn't help but question the lack of concrete evidence presented in the book. The author talked about UFO sightings and cover-ups, but there were no photographs or substantial proof to support the claims. It left me a bit skeptical.",
+    "conv_id": 109,
+    "session_id": 255
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand your skepticism. If you're looking for something similar but with a different perspective, I recommend \"Unacknowledged: An Expose of the World's Greatest Secret\". It explores the topic of extraterrestrial life and government cover-ups.",
+    "conv_id": 109,
+    "session_id": 255
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: That sounds intriguing. Can you provide more details about \"Unacknowledged\"?",
+    "conv_id": 109,
+    "session_id": 255
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Of course! \"Unacknowledged\" examines the phenomenon of UFO sightings and the alleged suppression of information by governments. However, I must mention that some readers found it hard to engage with the book as it lacked substantial evidence. For example, the author mentions witnesses with photographs, but these are not included in the Kindle version. It's an interesting read, but keep in mind the limitations.",
+    "conv_id": 109,
+    "session_id": 255
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I appreciate the information. I'll give \"Unacknowledged\" a try, despite the potential limitations.",
+    "conv_id": 109,
+    "session_id": 255
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Great! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 255
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you for your help, but I don't need any more recommendations at the moment. I really appreciate your assistance.",
+    "conv_id": 109,
+    "session_id": 255
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome, Dean! If you ever need more recommendations in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 255
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I recently read \"Dexter Is Dead: Dexter Morgan (8) (Dexter Series)\" and I really enjoyed it. The story was captivating and the characters were well-developed. It was my first Dexter book and I didn't feel like I was missing out on anything. Can you recommend something similar?",
+    "conv_id": 108,
+    "session_id": 222
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Certainly! I think you might like \"Fairy Tail Day Planner\". It's a day planner with illustrations and comics inspired by Japanese culture. It's perfect for manga fans and the days are not pre-numbered, so you can use it for a long time. The illustrations are beautiful, although there were no stickers included as mentioned in the description.",
+    "conv_id": 108,
+    "session_id": 222
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: That sounds interesting! I'd love to know more about \"Fairy Tail Day Planner\". Can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 222
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Of course! \"Fairy Tail Day Planner\" has an overall rating of 5.0. It's a great day planner that showcases various elements of Japanese culture. The illustrations are stunning, and there are even comics included at the back of the planner. It's a unique and enjoyable planner for fans of manga and Japanese books. However, it's worth noting that some reviewers mentioned not receiving the stickers mentioned in the description.",
+    "conv_id": 108,
+    "session_id": 222
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm sold! I'll definitely give \"Fairy Tail Day Planner\" a try. Thank you for the recommendation!",
+    "conv_id": 108,
+    "session_id": 222
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. If you have any more questions or need further assistance, feel free to ask. Enjoy your reading!",
+    "conv_id": 108,
+    "session_id": 222
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thank you! Have a great day!",
+    "conv_id": 108,
+    "session_id": 222
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You too! Take care and enjoy your day!",
+    "conv_id": 108,
+    "session_id": 222
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm CJ. I've read \"Are You Still Submitting Your Work To A Traditional Publisher?\" and found it really helpful. The author's advice was practical and the step-by-step approach made it easy to understand.",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! If you enjoyed that book, I would recommend \"This Book Will Change Your Life\". It's a humorous and insightful read that offers unique daily suggestions to add some excitement to your life.",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I've actually already come across that book before.",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand. In that case, how about considering \"The Well-Fed Self-Publisher: How to Turn One Book into a Full-Time Living\"? It's a comprehensive guide with valuable ideas and an enthusiastic writing style.",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I've seen that one too. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Certainly! You might be interested in \"Skratch Labs Feed Zone Cookbook\". It's a cookbook by Allen Lim, known for his athlete-inspired recipes. It offers practical and accessible recipes using ingredients you likely already have at home.",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Of course! According to a review, the cookbook is highly accessible and features recipes that are built from common household ingredients. For example, there's a fantastic pancake recipe that includes leftover rice, eggs, milk, banana, and a few other ingredients. It's simple to make and has become a go-to for many.",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Sounds interesting. I'll give it a try.",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Great! I'm glad I could help. If you need any more recommendations or assistance, feel free to let me know.",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 222
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. Have a great day!",
+    "conv_id": 109,
+    "session_id": 222
+  }
+]

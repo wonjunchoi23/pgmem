@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, Valerie A. Baute here. I wanted to talk about books, but I have to say, I didn't enjoy reading \"And the Soldiers Sang\". The story felt too short and the illustrations were unappealing.",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I understand your disappointment with \"And the Soldiers Sang\". If you're looking for a good historical novel, I would recommend \"Sophie's Squash\". It's a charming story about a girl who develops a special attachment to a squash. It's loved by children with great imaginations.",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I appreciate the recommendation, but I've already read \"Sophie's Squash\".",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Oh, I see. In that case, how about \"I Survived the Japanese Tsunami, 2011 (I Survived #8)\"? It's a gripping story set in a recent event that younger children might even remember.",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm sorry, but I've already read that one too.",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Alright, no problem. How about \"I Survived the Destruction of Pompeii, AD 79\"? It's an exciting book that my other readers have enjoyed.",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds interesting. Can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Certainly! \"I Survived the Destruction of Pompeii, AD 79\" is a historical novel that initiates lots of discussion among intermediate grade students. It captures the devastating eruption of Mount Vesuvius and the survival story of a young protagonist.",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds intriguing. I'll give it a try.",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great! I'm glad you're interested. Is there anything else I can recommend for you?",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your help, but I think I'm good for now. I appreciate your assistance.",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you, you too. Goodbye!",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: Goodbye!",
+    "conv_id": 108,
+    "session_id": 187
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey, I recently read \"The Physics Companion, 2nd Edition (Volume 5)\" and I found it really frustrating and unintelligible. It didn't provide clear explanations and lacked important formulas. I don't think it's a good reference for someone without an extensive physics or math background.",
+    "conv_id": 109,
+    "session_id": 187
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your frustration with \"The Physics Companion, 2nd Edition (Volume 5)\". However, I would recommend \"Ukulele For Dummies\" as an alternative. It's a great book for beginners and covers all the basics step-by-step.",
+    "conv_id": 109,
+    "session_id": 187
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I appreciate the recommendation, but I actually had a negative experience with \"Ukulele For Dummies\" as well. The book suggested a strumming technique that caused tendinitis in my thumb. I had to switch to a different technique to avoid pain.",
+    "conv_id": 109,
+    "session_id": 187
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I apologize for the inconvenience. In that case, I would like to recommend \"Alive (The Generations Trilogy)\" to you. It's a captivating fantasy/sci-fi book with surprising twists and turns. I think you'll enjoy it.",
+    "conv_id": 109,
+    "session_id": 187
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: That sounds intriguing! Could you please provide more details about \"Alive (The Generations Trilogy)\"?",
+    "conv_id": 109,
+    "session_id": 187
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Absolutely! \"Alive (The Generations Trilogy)\" is a vintage fantasy/sci-fi book that has received a glowing review. The reader found it full of surprises and twists, and couldn't put it down. It's not like \"The Hunger Games\" or \"Red Rising,\" but it's just as good in its own unique way. It's a thrilling and immersive read that will keep you hooked.",
+    "conv_id": 109,
+    "session_id": 187
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I'm sold! I'll definitely give \"Alive (The Generations Trilogy)\" a try.",
+    "conv_id": 109,
+    "session_id": 187
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Great! If you need any more recommendations or assistance, feel free to ask. I'm here to help.",
+    "conv_id": 109,
+    "session_id": 187
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you for your help and recommendations. I really appreciate it.",
+    "conv_id": 109,
+    "session_id": 187
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 187
+  }
+]

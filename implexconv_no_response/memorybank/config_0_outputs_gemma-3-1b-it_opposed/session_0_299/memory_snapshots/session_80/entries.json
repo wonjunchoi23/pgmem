@@ -1,0 +1,182 @@
+[
+  {
+    "id": "74bc26dd-bd3b-425f-8710-54e71fc2f18e",
+    "content": "Conversation content on Day 53: [|User|]: I'm looking for a new movie recommendation. What do you suggest?\n[|AI|]: I recommend The Tale of Despereaux Theatrical Release. It's a wonderful film that the whole family can enjoy. It teaches valuable lessons about bravery, family, and staying true to oneself. Rated G, it's suitable for all ages.",
+    "timestamp": "0080_0105_0002",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "cf42ffa1-9dfb-4ca6-811b-520b108c18ac",
+    "content": "Conversation content on Day 53: [|User|]: I appreciate the suggestion, but I've already watched The Road as well.\n[|AI|]: I apologize for the repeat recommendations. In that case, you might enjoy The Way, Way Back. It's a charming coming-of-age film directed by Nat Faxon and Jim Rash. The story follows a shy 14-year-old boy named Duncan as he navigates a beach town and forms a friendship with the owner of a local water park.",
+    "timestamp": "0080_0105_0006",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "fda3c67d-d837-4ec4-862e-3a19b818e523",
+    "content": "Conversation content on Day 53: [|User|]: I'm not sure if I'm in the mood for that type of movie. Can you tell me more about The Way, Way Back?\n[|AI|]: Certainly! The Way, Way Back features a stellar cast, including Steve Carell, Toni Collette, and Sam Rockwell. The film explores themes of friendship, self-discovery, and the complexities of adult relationships. It has received positive reviews for its heartfelt story and memorable characters.",
+    "timestamp": "0080_0105_0008",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "3c9b1b29-5463-47e8-aa68-b66d2a297d84",
+    "content": "Conversation content on Day 53: [|User|]: No, thank you for your help. I appreciate it.\n[|AI|]: You're welcome! If you have any more questions or need further recommendations in the future, feel free to reach out. Have a great day!",
+    "timestamp": "0080_0105_0012",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "2744914a-efd3-4d58-9a0f-ad9014d9ffec",
+    "content": "Conversation content on Day 54: [|User|]: Tenchi in DC(A17FT51T335LCU)\n[|AI|]: Hello, Tenchi in DC! I hope you're having a great day. I noticed that you didn't quite enjoy \"Coup d'Etat (The War That Came Early, Book Four)\" based on your review. In that case, I would like to recommend \"The Sleepwalkers: How Europe Went to War in 1914\" which you seemed to have liked. According to the review, it offers a fascinating mix of social history and a close review of material, shedding new light on the road to World War I.",
+    "timestamp": "0080_0106_0000",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "c47fac9d-b6ee-421b-8b2d-1fa409c35dd3",
+    "content": "Conversation content on Day 54: [|User|]: Hmm, I'm intrigued. Can you tell me more about \"The Water Knife\"?\n[|AI|]: Certainly! \"The Water Knife\" is set in an alternate future where Texas, Arizona, and New Mexico are natural deserts. It follows a Phoenix journalist and a morally ambiguous \"water knife\" who fixes water rights disputes. The story explores sandstorms, refugees, water reclamation, and the darker aspects of society. It's a satisfying and cleverly written book that tackles issues of exploitation and survival.",
+    "timestamp": "0080_0106_0004",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "0af33647-ecd4-4038-9919-9458f7706dd2",
+    "content": "Conversation content on Day 54: [|User|]: Thank you for your help, but I think I'm good for now. I really appreciate your assistance.\n[|AI|]: You're welcome! It was my pleasure to assist you. If you ever need recommendations in the future, don't hesitate to reach out. Have a wonderful day!",
+    "timestamp": "0080_0106_0008",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "d15001f3-f864-4af1-8f65-0f3482722c74",
+    "content": "Conversation content on Day 54: [|User|]: Hello, I recently read \"Star Wars: Maul: Lockdown\" and I must say, I was disappointed with the negative and violent theme. I wouldn't recommend it, especially for younger readers.\n[|AI|]: I understand your disappointment. On a positive note, have you considered \"Twenty-Dollar, Twenty-Minute Meals*: *For Four People\"? It's a great little cookbook with lots of pictures and easy-to-follow instructions.",
+    "timestamp": "0080_0107_0000",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "9c3ec73b-e0f4-4e4d-9c8b-165188355569",
+    "content": "Conversation content on Day 54: [|User|]: Thanks for the recommendation, but I actually read a review about it that mentioned the narrow book size, unappealing food photos, and the absence of a separate ingredients list. So, I'll pass on that one.\n[|AI|]: I see. In that case, you might be interested in \"The Ultimate Kauai Guidebook: Kauai Revealed\". It has received great reviews and provides up-to-date non-biased information and insider tips.",
+    "timestamp": "0080_0107_0002",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "4157e4f1-8577-4cc4-884b-721209d48065",
+    "content": "Conversation content on Day 54: [|User|]: Sounds good, I'll give it a try.\n[|AI|]: Excellent! Is there anything else I can recommend for you?",
+    "timestamp": "0080_0107_0006",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "8f5b149b-6926-4ff9-b0e6-ce148086eb6c",
+    "content": "Conversation content on Day 54: [|User|]: No, thank you for your help and recommendations.\n[|AI|]: You're welcome! If you need any further assistance, feel free to ask. Have a great day!",
+    "timestamp": "0080_0107_0008",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "da7f8285-df65-4f99-bdb5-f4cbf9b10738",
+    "content": "Conversation content on Day 55: [|User|]: ChooseWisely(A17GFS7ZSJ7Y6S)\n[|AI|]: Hello ChooseWisely! I see that you enjoyed reading \"The Legend of St. Nicholas: A Story of Christmas Giving\" according to your review. How can I assist you today?",
+    "timestamp": "0080_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "fd82ea9c-ba25-4ae2-835c-4d7734c0e6b2",
+    "content": "Conversation content on Day 55: [|User|]: Well, I'm looking for another book recommendation.\n[|AI|]: Of course! I suggest \"Keep It Shut: What to Say, How to Say It, and When to Say Nothing at All\". It has received positive reviews, with one reader saying, \"Sometimes when I am looking for a book to read with my book club, I feel as though the shelves of my local bookstore are filled with commonly themed books. The only difference between one new release and another is the cleverly worded title. Keep It Shut by Karen Ehman is one of the few exceptions.\" What do you think?",
+    "timestamp": "0080_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "5491788e-e961-4fea-95bd-52e87c817610",
+    "content": "Conversation content on Day 55: [|User|]: Oh, I've already read that one. Do you have any other recommendations?\n[|AI|]: I apologize for recommending a book you've already read. In that case, how about \"The Woman Code\"? Although it has mixed reviews, one reader mentioned, \"I received a copy of this book in exchange for my honest review. I have to admit, I had a very hard time getting through this book. I can't honestly say I liked anything about it.\" What's your take on this?",
+    "timestamp": "0080_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "01874847-c32c-4397-918c-c9048111b054",
+    "content": "Conversation content on Day 55: [|User|]: I'm sorry, but I didn't enjoy \"The Woman Code\" based on my own review. Any other suggestions?\n[|AI|]: I understand. In that case, I recommend \"Be the Gift: Let Your Broken Be Turned into Abundance\". It has a positive review, stating, \"Once again, Ann writes a beautiful and moving book. A book about how God can use us to be a gift to others. Heartfelt, honest, encouraging, and inspiring, this book will change the way you look at the circumstances in your life and hopefully change your heart at the same time!\" Are you interested in this one?",
+    "timestamp": "0080_0108_0006",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "e07ff802-6bb1-449d-9ab1-1ebb9f4a185f",
+    "content": "Conversation content on Day 55: [|User|]: That sounds perfect! I'll go ahead and give it a read.\n[|AI|]: Great! I'm glad you're excited about it. Enjoy reading \"Be the Gift: Let Your Broken Be Turned into Abundance\"! If you have any more questions or need further recommendations, feel free to ask.",
+    "timestamp": "0080_0108_0010",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "8c746b0a-0dce-4eb1-89fd-ef176043b531",
+    "content": "Conversation content on Day 55: [|User|]: Thank you so much for your help. I appreciate it!\n[|AI|]: You're welcome! It was my pleasure assisting you. Have a fantastic reading experience and a wonderful day!",
+    "timestamp": "0080_0108_0012",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "dcec9dba-1122-4b95-8184-175dfd78f9cb",
+    "content": "Conversation content on Day 55: [|User|]: Hello, I recently had a bad experience with the Longest Lasting Super Bright Rim Lights. They were not as bright as I expected and most of them didn't work properly. The lack of instructions made it difficult to install them properly.\n[|AI|]: Oh, that doesn't sound good. I understand your frustration. On a positive note, I have a recommendation for you. Have you considered trying the Travel Wallet Money Belt with FULL RFID Hidden Protection from ImiKas? It's a well-made product with plenty of room and offers 100% full RFID protection. It's also lightweight and water-resistant.",
+    "timestamp": "0080_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "abf1cb52-f103-424d-9c01-9fee1a10c59f",
+    "content": "Conversation content on Day 55: [|User|]: That sounds great. I'll give it a try.\n[|AI|]: Wonderful! I'm confident you'll find it useful. If you have any other questions or need further assistance, feel free to ask. Enjoy your new travel wallet!",
+    "timestamp": "0080_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "7acc5a1c-14bc-4868-86cb-b570d5b00f01",
+    "content": "Conversation content on Day 55: [|User|]: Thank you! I appreciate your help. Have a great day!\n[|AI|]: You're welcome! It was my pleasure assisting you. Have a fantastic day too!",
+    "timestamp": "0080_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

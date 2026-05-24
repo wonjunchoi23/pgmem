@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hi! I had a bad experience with the Elgato Video Capture - Digitise Video for Mac, PC or iPad (USB 2.0).",
+    "conv_id": 110,
+    "session_id": 248
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: Oh, I understand. I also found a review about the Elgato Video Capture. According to the review, it seems to have some issues with audio sync and latency problems.",
+    "conv_id": 110,
+    "session_id": 248
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: So, do you have any recommendations for a similar product?",
+    "conv_id": 110,
+    "session_id": 248
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: Absolutely! I suggest you consider the Akamai Office Products 14.0 Inch (Diagonally Measured) Privacy Screen Filter for Widescreen Laptops Anti Glare. It has received positive reviews and offers great privacy and readability with less glare.",
+    "conv_id": 110,
+    "session_id": 248
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: That sounds interesting! Can you give me more details about the electronics?",
+    "conv_id": 110,
+    "session_id": 248
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: Of course! According to another review, the Akamai Privacy Screen Filter not only provides excellent privacy but also offers better head-on readability with reduced glare compared to other brand-name screen privacy shields.",
+    "conv_id": 110,
+    "session_id": 248
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: That sounds good to me. I'll go with your recommendation.",
+    "conv_id": 110,
+    "session_id": 248
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: Great! If you need any further recommendations or assistance, feel free to ask.",
+    "conv_id": 110,
+    "session_id": 248
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756800.0,
+    "dialog": "User: Thank you for your help! I appreciate it.",
+    "conv_id": 110,
+    "session_id": 248
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756800.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 110,
+    "session_id": 248
+  }
+]

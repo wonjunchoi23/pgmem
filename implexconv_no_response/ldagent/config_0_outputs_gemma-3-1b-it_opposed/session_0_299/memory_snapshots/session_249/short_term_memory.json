@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Tiffany (A125OGGQ9BL30P). I read The Complete Master Cleanse: A Step-by-Step Guide to Maximizing the Benefits of The Lemonade Diet (1569756139) but I think there are healthier detox/cleansing systems out there. Do you have any recommendations?",
+    "conv_id": 108,
+    "session_id": 249
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Tom Woloshyn is a holistic health practitioner and consultant who studied under Master Cleanse creator Stanley Burroughs. He has been teaching and administering the Master Cleanse for over 20 years.",
+    "conv_id": 108,
+    "session_id": 249
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Alright, I see. Can you tell me more about Profit First: Transform Your Business from a Cash-Eating Monster to a Money-Making Machine (073521414X)?",
+    "conv_id": 108,
+    "session_id": 249
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: This book is highly recommended and has received a rating of 5.0. It is considered one of the most important business books to read. If you're constantly struggling and dreaming of big success, this book can change how you run your business. It provides immediate and significant benefits. Many consider it a must-read for business success.",
+    "conv_id": 108,
+    "session_id": 249
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds great! I'll definitely give it a try. Thank you for the recommendation.",
+    "conv_id": 108,
+    "session_id": 249
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: You're welcome! If you have any more questions or need further assistance, feel free to ask. Happy reading!",
+    "conv_id": 108,
+    "session_id": 249
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Kindle Customer. I really enjoyed reading \"The Problem with Forever\" by Harlequin Teen. It was a great read, I couldn't put it down.",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello Kindle Customer! I'm glad to hear that you enjoyed \"The Problem with Forever.\" It's always exciting to find a book that captivates you. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend another book for me?",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Certainly! I would recommend \"Obsession.\" It has received positive reviews and offers a different perspective from the Luxen series. Readers have praised the mature relationship between Hunter and Serena. Here's a review from another reader: \"I love the Luxen series too, and this book gave me a deeper understanding of the Arum's POV. The story is really good, and there's even a mention of Daemon!\"",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I'm sorry, but I've already read \"Obsession.\"",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: No problem! How about \"Strictly Business\"? It's a complete and entertaining story about a successful architect and a wealthy rancher. Although the intimate scenes may get a bit intense, many readers have enjoyed this book. Here's a review from another reader: \"I discovered a new author I liked with this book. It had a few surprises, and while the sex scenes were a bit over the top, it was an overall enjoyable read.\"",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I've already read \"Strictly Business\" as well.",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. In that case, you might like \"Brothers.\" It's a story about two brothers who both fall for Joelle. The book has received positive reviews, with readers praising the well-developed characters and the unexpected twists in the plot. Here's a review from another reader: \"I initially hesitated to read this book because of the MFM scene, but it turned out to be a good read with great chemistry between the characters. The Tanglewood Brothers will leave you swiping through the pages rapidly!\"",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Hmm, tell me more about \"Brothers.\"",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: \"Brothers\" by Tess Oliver is a unique book that deviates from the author's usual style. It offers a lot of angst, well-developed characters, and a plot that keeps you guessing. Jesse, Zack, and Joelle's chemistry is engaging, and the story is told from three different points of view, making it easy to follow. Just when you think you've figured it out, there's an unexpected twist. I hope you enjoy it!",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: I'll give \"Brothers\" a try. Thank you for the recommendation.",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Happy reading!",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you, goodbye!",
+    "conv_id": 109,
+    "session_id": 249
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: Goodbye, and enjoy your reading!",
+    "conv_id": 109,
+    "session_id": 249
+  }
+]

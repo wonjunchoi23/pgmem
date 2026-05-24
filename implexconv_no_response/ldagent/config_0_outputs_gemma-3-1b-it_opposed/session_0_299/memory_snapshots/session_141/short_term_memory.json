@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello! I recently had a bad experience with the Samsung LNT4065F 40-Inch 1080p LCD HDTV. It stopped working after a few months. Can you help me with a recommendation?",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I'm sorry to hear about your experience with the Samsung LNT4065F. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I'm looking for a recommendation for a Bluetooth speaker. Have you got any suggestions?",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! I recommend the Photive CYREN Portable Wireless Bluetooth Speaker with Built-in Speakerphone. It has received positive reviews, like this one - \"Amazing Price .... updated: I am using this on a PianoDisc player piano to stream my music collection from an IPAD. Works like a charm. Auto pairs with my tablet when I power on the piano. I bought a second one to use for a stereo in my bar. Works great ... with a long distance. Both sync with my phone as soon as I power it on.\"",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I appreciate the recommendation, but I've already seen many electronics. Do you have any other suggestions?",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Certainly! How about the Canon EOS Rebel T2i DSLR Camera? It has excellent picture quality and is highly rated. One user said, \"Bought my camera from Adorama.com, shipped to FPO/AP. Had to wait for it to hit the market, but shipping was very fast. Some reviews I read say it feels plasticky like a toy. I did not like the feel of it that much UNTIL I put the accessory grip on it... and that sold it for me. I love this camera, and great value for what you get.\"",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen that camera before. Do you have anything else in mind?",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: How about considering the Bluetooth Audio Adapter for Music Streaming Sound System? It has received positive reviews, like this one - \"Pros: Sounds much better than the iHome pop-up speakers I bought from Costco, and without the hassle of wires. Looks nice. Has control buttons on the unit, acts as a speakerphone so you never need to take your phone out of your bag for an incoming call while you're using the CYREN.\"",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm not sure yet. Can you provide more details about the Bluetooth Audio Adapter?",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Of course! Here's a detailed review: \"Amazing Price....I am using this on a PianoDisc player piano to stream my music collection from an IPAD. Works like a charm. Auto pairs with my tablet when I power on the piano. I bought a second one to use for a stereo in my bar. Works great...with a long distance. Both sync with my phone as soon as I power it on.\"",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: That sounds good! I'll give it a try. Thank you for your help.",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 141
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi! I recently purchased the Sony RX100 III 20.1 MP Premium Compact Digital Camera with a 1-inch sensor and 24-70mm F1.8-2.8 ZEISS zoom lens. I must say, it's a great quality camera in such a compact size. However, I've noticed that most people just use their iPhones these days. Do you think these cameras will ever go out of style?",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Ken! I understand your concern. While it's true that many people rely on their iPhones for photography, there will always be a market for dedicated cameras like the Sony RX100 III. The camera offers superior image quality and versatility compared to smartphones. Moreover, it has received great reviews for its performance.",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I see. Well, I'm actually looking for a harness for my camera. Do you have any recommendations?",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Absolutely! I recommend the OP/TECH USA Bino/Cam Harness with quick disconnects and elastic straps. It provides excellent support, eliminating neck strain, and keeps your camera ready for action. Users have praised its comfort and durability.",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the suggestion, but I've actually seen that one before. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Of course! In that case, I suggest trying the OP/TECH USA Bino/Cam Harness with webbing. It offers the same benefits of comfort and durability, and it's designed to fit different body sizes and shapes. Users have highly recommended it for its versatility.",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you, but I've also seen that one before. Do you have any other ideas?",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Sure! How about considering the CoolStream Duo Bluetooth Adapter? It's not directly related to cameras, but it's a great accessory for your iPhone, iPod, and even Bose docking stations. Users have praised its functionality and the fact that it eliminates the need for passcodes. It's a handy gadget to have.",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about the CoolStream Duo Bluetooth Adapter?",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! The CoolStream Duo is an upgraded version of the original CoolStream. It allows you to stream music from your iPhone or iPod through Bluetooth without any hassle. It has a long-lasting battery and has received positive feedback from users who found it useful for their portable music needs. It's definitely worth considering.",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: I'm convinced! I'll give the CoolStream Duo a try. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome, Ken! If you need any more recommendations or have any questions, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you for your help. I appreciate it!",
+    "conv_id": 109,
+    "session_id": 141
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you need anything else in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 141
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Carolina Rodriguez. I recently purchased the GSI Outdoors Cascadian 1-Person Table Set, and I must say, it's a great product! The quality and color are nice, and they're not too heavy. Highly recommend them!",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello Carolina! I'm glad to hear that you're enjoying the GSI Outdoors Cascadian 1-Person Table Set. Is there anything else I can assist you with?",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, I'm looking for a Children's Emergency Poncho. Any recommendations?",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! I would recommend the Emergency Zone Children's Emergency Poncho. It's compact and provides great weather protection. Other customers have found it to be useful during their trips, like one reviewer mentioned: \"I bought this poncho for my daughter's camping trip, and it worked just fine.\"",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen sports ponchos before, so I'll pass on this one.",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Alright, no problem. How about the Coleman Self-Inflating Camp Pad? It's highly rated and customers have found it to be comfortable. One customer even mentioned, \"This little mat really makes a difference in terms of comfort. Much better than having a foam mat. Very happy with the purchase.\"",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I appreciate the recommendation, but I've already seen sports pads before, so I'll pass on this one too.",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in the Ride Along Dolly Doll Bicycle Seat. It's a cute bike seat for dolls and stuffed animals. Customers have loved it, especially for their American Girl dolls. One reviewer said, \"My girls love this bike seat, or rather, their dolls do! They have handmade Waldorf dolls and they fit in here perfectly. It mounts to the bike in a jiffy and looks really cute!\"",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds interesting! I would like to give it a try.",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great! I'm glad you're interested. If you have any other questions or need further assistance, feel free to ask. Enjoy your new Ride Along Dolly Doll Bicycle Seat!",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you! I will. Have a great day!",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! Have a wonderful day too!",
+    "conv_id": 108,
+    "session_id": 54
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello, I recently purchased the AccuGage Tire Pressure Dial Gauge and I must say, I am really impressed with it. The gauge is accurate and easy to use. It's a great buy!",
+    "conv_id": 109,
+    "session_id": 54
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's wonderful to hear! The AccuGage Tire Pressure Dial Gauge is indeed a reliable tool. By the way, I recommend checking out the Park Tool PW-5 Home Mechanic Pedal Wrench. It's a slim-fit wrench specifically designed for bike pedals, and it has received great reviews.",
+    "conv_id": 109,
+    "session_id": 54
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I appreciate the recommendation, but I actually had a bad experience with a similar wrench before. It didn't fit properly and ended up scratching the pedals. So, I'd rather not take the risk.",
+    "conv_id": 109,
+    "session_id": 54
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I completely understand your concern. No worries! How about considering the Planet Bike 3018-1 Rack Blinky 5-5 LED Tail Light with Rack Mount and Batteries? It's a high-quality tail light with excellent brightness and durability. Other customers have praised its performance.",
+    "conv_id": 109,
+    "session_id": 54
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thank you for the suggestion, but I've already seen and used similar tail lights before. So, I don't think I need another one at the moment.",
+    "conv_id": 109,
+    "session_id": 54
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I see. In that case, you might be interested in the Carson LED Lighted LinenTest 11.5X Focusing Loupe Magnifiers. It's a handy tool for stitch and thread counting, as well as measuring small parts. It has received positive feedback from other customers.",
+    "conv_id": 109,
+    "session_id": 54
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! I accept your recommendation. The Carson LED Lighted LinenTest seems like a useful tool for my needs.",
+    "conv_id": 109,
+    "session_id": 54
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Great! I'm glad you find it appealing. Is there anything else I can assist you with or recommend?",
+    "conv_id": 109,
+    "session_id": 54
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: No, thank you for your help. I appreciate your assistance in finding the Carson LED Lighted LinenTest. Have a great day!",
+    "conv_id": 109,
+    "session_id": 54
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you ever need further recommendations or have any other questions, feel free to reach out. Have a wonderful day ahead!",
+    "conv_id": 109,
+    "session_id": 54
+  }
+]

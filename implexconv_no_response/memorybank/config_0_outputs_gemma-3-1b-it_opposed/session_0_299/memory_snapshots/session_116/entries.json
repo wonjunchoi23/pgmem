@@ -1,0 +1,164 @@
+[
+  {
+    "id": "1eb3a03a-909d-4286-b66c-d833345f2486",
+    "content": "Conversation content on Day 53: [|User|]: That sounds interesting. Can you tell me more about the book?\n[|AI|]: Of course! Hal Leonard Guitar Method Complete Edition is a good book for those who can read music and play another instrument. It covers the basics thoroughly and provides clear explanations and finger-placement visuals. It has received positive reviews for its effectiveness.",
+    "timestamp": "0116_0105_0004",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "bad9f7b5-9972-424d-8c92-d6fcaa52f87f",
+    "content": "Conversation content on Day 53: [|User|]: Thank you for your help. I appreciate it.\n[|AI|]: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "timestamp": "0116_0105_0008",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "11ee298a-6750-4f1a-b7a0-d62b9904fb4b",
+    "content": "Conversation content on Day 54: [|User|]: Hi, I hope you're doing well. I wanted to talk about a book I disliked, \"The Award\" by Danielle Steel. It was quite predictable and didn't meet my expectations.\n[|AI|]: I understand your disappointment with \"The Award\". Sometimes books can be a hit or miss. Is there anything specific you'd like to discuss or explore?",
+    "timestamp": "0116_0106_0000",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "544c378b-9609-411a-9edd-1390d50300df",
+    "content": "Conversation content on Day 54: [|User|]: I appreciate the suggestion, but I have already read \"Toward the Sea of Freedom\". Can you tell me more about \"The Keeper of Secrets\"?\n[|AI|]: Certainly! \"The Keeper of Secrets\" is a touching story about a young music prodigy named Daniel Horowitz. The novel explores his struggle to balance his musical talent with his desire for a normal life. Additionally, it delves into the journey of a stolen violin from a Jewish family during World War II to its reappearance in the hands of a Russian millionaire in the United States. The book offers a heartfelt exploration of the lives and emotions connected to the violin.",
+    "timestamp": "0116_0106_0004",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "a66abda4-cb58-40e3-b8f6-e2d17a1c5886",
+    "content": "Conversation content on Day 54: [|User|]: That sounds intriguing. I'll give \"The Keeper of Secrets\" a try.\n[|AI|]: Great! If you need any more recommendations or have any other questions, feel free to ask.",
+    "timestamp": "0116_0106_0006",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "dcad167e-9d24-43c9-966f-f28f23d7dafd",
+    "content": "Conversation content on Day 54: [|User|]: Thank you for your help. I appreciate the recommendation.\n[|AI|]: You're welcome! If you need anything else in the future, don't hesitate to reach out. Enjoy your reading!",
+    "timestamp": "0116_0106_0008",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "c2354e38-c355-4adf-8967-6e16b0e2a1de",
+    "content": "Conversation content on Day 54: [|User|]: Hi, I hope you're doing well. I wanted to talk about a movie that I didn't really like, \"The Royal Tenenbaums\". I found it quite disappointing.\n[|AI|]: Oh, I see. \"The Royal Tenenbaums\" is definitely one of those quirky films. It has a strong cast with great performances, especially by Gene Hackman, Angelica Houston, Gwyneth Paltrow, and the Wilson Brothers. But I understand that it may not be everyone's cup of tea.",
+    "timestamp": "0116_0107_0000",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "380b1141-9aa7-4df9-afbb-ccfd09148a74",
+    "content": "Conversation content on Day 54: [|User|]: Fair enough. Can you recommend a movie that I might like?\n[|AI|]: Sure thing! How about \"School of Rock\"? It's a film that showcases the essence of Rock n' Roll and the passion for music. Jack Black does a fantastic job portraying a unique artist who never gives up on his musical dreams.",
+    "timestamp": "0116_0107_0002",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "2724088a-4134-45e6-9a5e-c73ec2e9314c",
+    "content": "Conversation content on Day 54: [|User|]: Thank you, I will. Have a great day too! Goodbye.",
+    "timestamp": "0116_0107_0008",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "958fbab8-bd80-4391-b5fc-20c57438ab44",
+    "content": "Conversation content on Day 55: [|User|]: Hello, I hope you're doing well. I noticed you mentioned your dislike for the Titanic VHS. I had a similar experience with it.\n[|AI|]: Oh, I understand. I had a different experience with the Titanic VHS. I actually enjoyed it.",
+    "timestamp": "0116_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "f586e73f-94b7-4c40-ad1f-8df09411d05d",
+    "content": "Conversation content on Day 55: [|User|]: That's interesting. Can you recommend any movies that I might like?\n[|AI|]: Sure! Based on your preferences, I think you might enjoy the movie \"Ray\". It has a great story and tells the truth mostly.",
+    "timestamp": "0116_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "9a32ba26-a0bd-4b52-9cfb-7733b1530024",
+    "content": "Conversation content on Day 55: [|User|]: That sounds intriguing. Can you tell me more about the movie?\n[|AI|]: Of course! \"Ray\" is a biographical film about a man who overcame challenges and developed his musical talent. It's a great story about his journey and the influence of his mother.",
+    "timestamp": "0116_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "71bb13cf-95b4-4835-b7b0-71ae6ad93f88",
+    "content": "Conversation content on Day 55: [|User|]: That sounds like a compelling story. I'll give it a try. Thanks for the recommendation!\n[|AI|]: You're welcome! I hope you enjoy watching \"Ray\". If you have any more questions or need further assistance, feel free to ask.",
+    "timestamp": "0116_0108_0006",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "92971a49-8f39-4873-b4b9-9b0a494ce294",
+    "content": "Conversation content on Day 55: [|User|]: Hi there! I just wanted to discuss something about Persona VHS. I recently watched it and I must say, Ingmar Bergman is a genius director. The performances by Liv Ullmann and Bibi Andersson were outstanding. The way Bergman explores the inner depths of his characters is simply remarkable.\n[|AI|]: I completely agree! Persona is indeed a masterpiece. The complex exploration of identity, combined with elements of drama and modern psychology, makes it a truly unique film. If you enjoyed Persona, I would also recommend Playing By Heart VHS. It features a wonderful cast and a compelling storyline.",
+    "timestamp": "0116_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "d54d1974-b70b-46aa-862d-0ace067341f1",
+    "content": "Conversation content on Day 55: [|User|]: Oh, I've already seen Playing By Heart VHS. It was quite interesting, but not as captivating as Persona.\n[|AI|]: I understand. In that case, how about giving Burlesque a try? It might be something you'll enjoy.",
+    "timestamp": "0116_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "44b0a9ee-4683-4f3b-9242-06dd8ed7e570",
+    "content": "Conversation content on Day 55: [|User|]: Hmm, I'm not sure. Can you tell me more about Burlesque?\n[|AI|]: Of course! Burlesque is a movie starring Cher and Christina Aguilera. It tells the story of a small-town woman determined to make it big in Hollywood. The film has fantastic musical numbers and dances creatively woven into the storyline. The chemistry between Cher and Christina is great, and the supporting cast of talented models and dancers adds to the overall charm of the film.",
+    "timestamp": "0116_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "a783e427-49b9-4923-b680-cbb1e2707ed7",
+    "content": "Conversation content on Day 55: [|User|]: That sounds intriguing. I'll give it a shot.\n[|AI|]: Excellent! If you need any more recommendations, feel free to ask.",
+    "timestamp": "0116_0109_0006",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "e73f0e54-1ac1-4c96-aeda-f9e1508a8e60",
+    "content": "Conversation content on Day 55: [|User|]: Thank you for your help. I appreciate it.\n[|AI|]: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "timestamp": "0116_0109_0008",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

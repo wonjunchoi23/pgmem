@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I recently read \"The Thief\" and I must say, I was left hanging. The story felt fragmented and it took some effort to put the plotline together. Can you recommend something else?",
+    "conv_id": 108,
+    "session_id": 105
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I'm sorry to hear that \"The Thief\" didn't meet your expectations. How about \"Far From True (Promise Falls Trilogy)\"? It's a thrilling book that will keep you on the edge of your seat until the very end.",
+    "conv_id": 108,
+    "session_id": 105
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Oh, I'm sorry, but I have already read \"Far From True\" before, and it was an amazing read. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 105
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I apologize for the oversight. How about \"Point of Impact\"? It's a gripping conspiracy thriller that revolves around a rogue outfit framing an innocent man for a crime he didn't commit. I think you'll enjoy it.",
+    "conv_id": 108,
+    "session_id": 105
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thank you for the recommendation, but I have already read \"Point of Impact\" before. Do you have any other suggestions?",
+    "conv_id": 108,
+    "session_id": 105
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! Have you considered reading \"The Game (Victor)\"? It's a captivating book, although it may have some over-the-top descriptions of encounters. Overall, it's a great read.",
+    "conv_id": 108,
+    "session_id": 105
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about \"The Game (Victor)\"?",
+    "conv_id": 108,
+    "session_id": 105
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Certainly! \"The Game (Victor)\" is a thrilling novel with an intriguing storyline. It follows the journey of Victor, a skilled individual who gets involved in a gang's breaking and entering job. However, things take a dangerous turn when their target ends up dead. The book has received positive reviews, and despite some exaggerated descriptions, it is highly recommended.",
+    "conv_id": 108,
+    "session_id": 105
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm sold! I'll give \"The Game (Victor)\" a try.",
+    "conv_id": 108,
+    "session_id": 105
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great choice! I hope you enjoy reading it. If you have any more questions or need further recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 105
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I recently read \"Enchanted: Erotic Bedtime Stories For Women\" and I have to say, it didn't really do it for me. The fantasies in the stories were repetitive and didn't feel erotic for adults.",
+    "conv_id": 109,
+    "session_id": 105
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your disappointment with \"Enchanted.\" If you're looking for something different, I recommend \"Hard As Steel: A Hard Ink/Raven Riders Crossover.\" It's a thrilling story with edgy characters. Here's a review: \"E-Galley was provided by the publicist for review purposes. I enjoyed this story about two edgy, rough, and complex characters who have to come face to face with mortality several times and have to face misplaced guilt before they can really be together.\"",
+    "conv_id": 109,
+    "session_id": 105
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already read \"Hard As Steel\" and enjoyed it.",
+    "conv_id": 109,
+    "session_id": 105
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I see. In that case, you might like \"Eligible: A modern retelling of Pride and Prejudice.\" It's a unique take on the classic story.",
+    "conv_id": 109,
+    "session_id": 105
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Hmm, tell me more about \"Eligible.\"",
+    "conv_id": 109,
+    "session_id": 105
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: To be honest, the first part of the book moves slowly, but once you get past that, the story becomes very enjoyable. The characters are well-developed, and there are many subplots and different storylines to explore. It's a great pick for a Book Club discussion.",
+    "conv_id": 109,
+    "session_id": 105
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Alright, I'll give \"Eligible\" a try. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 105
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! If you need more recommendations in the future, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 105
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I appreciate that, but for now, I'm good. Thanks again!",
+    "conv_id": 109,
+    "session_id": 105
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: No problem! Have a great day and happy reading!",
+    "conv_id": 109,
+    "session_id": 105
+  }
+]

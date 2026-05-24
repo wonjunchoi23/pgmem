@@ -1,0 +1,58 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hi, I'm D.L. Peck. I really enjoyed reading \"Search Me\" by Katie Ashley. It was a great book with adventure and intrigue. I couldn't put it down!",
+    "conv_id": 110,
+    "session_id": 158
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: Hi D.L. Peck! I'm glad you enjoyed \"Search Me\". It sounds like a fantastic read. I have another recommendation for you. Have you heard of \"Fallen Crest Forever\" from the Fallen Crest Series?",
+    "conv_id": 110,
+    "session_id": 158
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: Oh, I might like that! Can you tell me more about it?",
+    "conv_id": 110,
+    "session_id": 158
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: Absolutely! \"Fallen Crest Forever\" is the final book in the series and it's incredibly emotional. Tijan really knows how to write angst and beautiful love. The ending is so perfect, it brought tears to my eyes. The characters, Mason and Sam, have endured so much, and the way their story wraps up is really special.",
+    "conv_id": 110,
+    "session_id": 158
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: That sounds amazing! I'll definitely give it a try.",
+    "conv_id": 110,
+    "session_id": 158
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: Great! I think you'll enjoy it. If you have any other questions or need more recommendations, feel free to ask. Happy reading!",
+    "conv_id": 110,
+    "session_id": 158
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: Thank you! I appreciate your help. Have a great day!",
+    "conv_id": 110,
+    "session_id": 158
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: You're welcome! Have a wonderful day too and enjoy your reading!",
+    "conv_id": 110,
+    "session_id": 158
+  }
+]

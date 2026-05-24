@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm G.L.! I recently read \"We Are All Completely Fine\" and found it fascinating. The different perspectives of the characters and the unique narrative style really captured my attention. [Greeting with We Are All Completely Fine and its review]",
+    "conv_id": 108,
+    "session_id": 215
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello G.L.! I'm glad to hear that you enjoyed \"We Are All Completely Fine\". If you liked that, I would recommend another book called \"Grub\". It's a story about writers and their different approaches to the craft. The characters are well-developed, and it offers insights into the writing process and the impact of success or failure on friendships. [Responds with Grub review]",
+    "conv_id": 108,
+    "session_id": 215
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thank you for the recommendation, but I've already read \"Grub\" before. [Reject recommend with the reason]",
+    "conv_id": 108,
+    "session_id": 215
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand, no problem. How about \"Schismatrix Plus (Complete Shapers-Mechanists Universe)\"? It's a must-read for cyberpunk fans. The story takes place in the future where humanity has split into two groups, Mechanists and Shapers, and follows the adventures of Abelard Lindsay. It's a thought-provoking and intellectually challenging read. [Recommend Schismatrix Plus and its review]",
+    "conv_id": 108,
+    "session_id": 215
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I appreciate the suggestion, but I've already read \"Schismatrix Plus\" as well. [Reject recommend with the reason]",
+    "conv_id": 108,
+    "session_id": 215
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I see. In that case, you might be interested in \"The Big Sheep: A Novel\". It's a biotech mystery where a private detective named Erasmus Keane is hired to find a missing sheep. It's set in a post-Collapse world, with intriguing characters and an exploration of the morality of owning personas. [Recommend The Big Sheep and its review]",
+    "conv_id": 108,
+    "session_id": 215
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds intriguing! I'll give \"The Big Sheep\" a try. Thank you for the recommendation. [Accept recommend without reason]",
+    "conv_id": 108,
+    "session_id": 215
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Enjoy reading \"The Big Sheep\"! [Ask if need more recommend]",
+    "conv_id": 108,
+    "session_id": 215
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: No, thank you. I appreciate your help. [Reject and Express gratitude]",
+    "conv_id": 108,
+    "session_id": 215
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: It was my pleasure assisting you. If you have any more questions or need assistance in the future, feel free to reach out. Have a great day! [End conversation reasonably]",
+    "conv_id": 108,
+    "session_id": 215
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello, I'm Matt Hausig. I really enjoyed reading \"The Prefect\". It's a detective story set in the Revelation Space universe. The characters and plot were intriguing, although some parts felt rushed. Have you read it?",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Matt! Glad to hear you enjoyed \"The Prefect\". It's a great book. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'm looking for book recommendations. What do you suggest?",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I recommend \"Gun, With Occasional Music\". It's a dystopic society where questions are reserved for the police, and a PI takes on a murder case. It's a fantastic combination of noir and science fiction genres. I have a review that you might find interesting.",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I've actually read \"Gun, With Occasional Music\" before.",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. In that case, I suggest \"The Pink Party\". It's a cute book about friendship and jealousy. However, I have a review that explains the book in more detail.",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I'm sorry, but I didn't enjoy \"The Pink Party\" based on a previous review I read.",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I see. In that case, you might like \"SP4RX\". It's a cyberpunk novel set in a dystopian future. Here are some details from a review I found.",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Hmm, that sounds interesting. I'll give \"SP4RX\" a try. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: No, thank you. I appreciate your help.",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: It was my pleasure assisting you. If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: You too. Goodbye!",
+    "conv_id": 109,
+    "session_id": 215
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 109,
+    "session_id": 215
+  }
+]

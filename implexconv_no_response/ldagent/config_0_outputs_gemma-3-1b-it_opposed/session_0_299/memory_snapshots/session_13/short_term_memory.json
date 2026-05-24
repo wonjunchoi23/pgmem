@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Matthew Rafat. I recently read \"Jim Henson: The Biography\" and found it to be a bit mechanical in its approach. The author seemed to include every detail about Henson's life in chronological order. I believe there must be better books that capture his essence.",
+    "conv_id": 108,
+    "session_id": 13
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I understand your perspective on \"Jim Henson: The Biography.\" Another reviewer also mentioned that while it provides insights into Henson's career, it may not delve into his darker side. However, I recommend \"Experience and Education\" which explores John Dewey's ideas on the American educational system. It presents his philosophy logically and might help shape your teaching philosophy.",
+    "conv_id": 108,
+    "session_id": 13
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thanks for the recommendation, but I actually found \"Experience and Education\" to be convoluted and lacking any new contributions. It seems to advocate for control and restrict independent thinking. It didn't resonate with me.",
+    "conv_id": 108,
+    "session_id": 13
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I apologize for the mismatch in suggestion. How about considering \"The Power of Negative Thinking: An Unconventional Approach to Achieving Positive Results\"? It may offer a different perspective that aligns with your interests.",
+    "conv_id": 108,
+    "session_id": 13
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Sure, I'll give \"The Power of Negative Thinking\" a try. Thanks for the recommendation.",
+    "conv_id": 108,
+    "session_id": 13
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: You're welcome! If you need any more book recommendations or assistance, feel free to ask. Happy reading!",
+    "conv_id": 108,
+    "session_id": 13
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I appreciate your help. Thank you!",
+    "conv_id": 108,
+    "session_id": 13
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a great day and enjoy your reading!",
+    "conv_id": 108,
+    "session_id": 13
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm L. Stillwell. I recently purchased the SCHIEK NYLON LIFTING BELT-4 3/4 INCH ROYAL EXTRA LARGE and I absolutely love it! It fits perfectly even though my waist is 34\". I can't imagine someone with a 31\" waist being able to use it.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi L. Stillwell! That's great to hear that the SCHIEK NYLON LIFTING BELT-4 3/4 INCH ROYAL EXTRA LARGE is working well for you. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'm looking for some new fitness equipment. Any recommendations?",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! I recommend the Kidoozie Foam Unicorn Pogo Jumper. It's a fun and safe way to encourage an active lifestyle. It can hold up to 250 pounds and makes squeaky sounds.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I've actually seen the Kidoozie Foam Unicorn Pogo Jumper before and it didn't really interest me.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Not a problem. How about the SCHIEK NYLON LIFTING BELT-4 3/4 INCH? It's another great option and has received positive reviews.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I've already seen the SCHIEK NYLON LIFTING BELT-4 3/4 INCH before as well.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in the Dark Iron Fitness Genuine Leather Pro Weight Lifting Belt. It's durable, comfortable, and adjustable with a buckle. It provides stabilizing lower back support for weightlifting.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds interesting. Can you tell me more about the Dark Iron Fitness Genuine Leather Pro Weight Lifting Belt?",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Absolutely! According to other reviews, it's highly recommended. One user mentioned that they measured as instructed and got the recommended size. However, if you're in a \"cut\" or losing weight, you might want to size down. The belt offers fantastic support for the back, especially during heavy lifts. The double velcro provides excellent support to the spine and abdomen.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: That sounds perfect. I'll go with the Dark Iron Fitness Genuine Leather Pro Weight Lifting Belt.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Great choice! If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you for your help. I'm satisfied with your recommendation.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4717200.0,
+    "dialog": "User: Thank you, you too. Goodbye.",
+    "conv_id": 109,
+    "session_id": 13
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4717200.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 109,
+    "session_id": 13
+  }
+]

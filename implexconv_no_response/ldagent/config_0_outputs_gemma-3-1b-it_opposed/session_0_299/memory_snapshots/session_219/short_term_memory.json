@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I'm Bob Szvetics. I really enjoyed Capricorn One. It's a great film and I gave it a 5-star rating.",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Bob! I'm glad you liked Capricorn One. It's indeed a fantastic film. However, if you're looking for something similar, I recommend Terminator, The. Although it received a low rating from you, it has some unique aspects. What do you think?",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Oh, I'm sorry but I didn't enjoy Terminator, The. The picture quality was poor and it lacked any bonus features. I don't think I'll be interested in it.",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand your disappointment with Terminator, The. In that case, I suggest The Stranger. It's a different genre and has been restored beautifully, contrary to what you mentioned in your review. What do you think?",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Actually, I wouldn't consider The Stranger either. I've had a bad experience with Kino films before, and I prefer the restored version on another Blu-ray. I'm not interested.",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand your concerns about The Stranger. In that case, you might like Panic in the Streets. It's a gripping film noir, directed by Elia Kazan, with a stellar cast including Richard Widmark and Jack Palance. Want to know more about it?",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Hmm, I'm not sure. Can you provide more details about Panic in the Streets?",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! Panic in the Streets is a somewhat overlooked film in Elia Kazan's filmography. It's a riveting atmospheric thriller and considered one of the best film noirs. Richard Widmark gives an excellent performance as a protagonist, and Jack Palance portrays a compelling villain. It's definitely worth considering.",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Alright, I'll give Panic in the Streets a chance based on your recommendation. Thanks for the detailed information!",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome, Bob! If you need any more recommendations, feel free to ask. Enjoy watching Panic in the Streets!",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your assistance! I appreciate your help. That will be all for now.",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: No problem, Bob! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 219
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Bindy Sue Frnknschtein! I really enjoyed watching Roger Corman's Cult Classics: StarCrash. It was such a fun film with a great cast and cheesy special effects.",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Bindy! I'm glad you liked StarCrash. It's definitely a unique space film. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'm looking for a new movie to watch. Any recommendations?",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! I recommend checking out Believe. It's a supernatural mystery with a touch of humor. It stars Ben Gazarra and Elisha Cuthbert. It's a great family film that will keep you entertained.",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I've already seen Believe. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: In that case, I suggest watching The Call of Cthulhu. It's a film adaptation of one of H.P. Lovecraft's best short stories. It's shot in a silent, black and white style, paying tribute to the author and creating a dark and atmospheric experience.",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thanks for the suggestion, but I've seen The Call of Cthulhu before.",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Alright, no worries. How about Earth's Core VHS? It might be something you'll enjoy.",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Earth's Core VHS is a Peter Cushing starring action/sci-fi film. It has recently been upgraded to Blu-Ray by Kino Lorber. The director, Kevin Connor, provides commentary, and there are on-camera interviews with Caroline Munro and Kevin Connor. It's definitely worth considering.",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Sounds interesting! I'll give it a try. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! Enjoy watching Earth's Core VHS. If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thanks, you too. Goodbye!",
+    "conv_id": 109,
+    "session_id": 219
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: Goodbye!",
+    "conv_id": 109,
+    "session_id": 219
+  }
+]

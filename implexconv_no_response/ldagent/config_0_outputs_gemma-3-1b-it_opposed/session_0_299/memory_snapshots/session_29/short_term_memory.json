@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I hope you're doing well. I recently watched Gigli and I wanted to share my thoughts. As we speak, Ben Affleck and Jennifer Lopez are about to appear in the sequel to this bad movie. In a few weeks, the sequel to Gigli, Jersey Girl, opens. Did Hollywood not learn that we don't want to see them in a movie? We'd rather see people ACT! I say avoid Gigli and its sequel Jersey Girl at all costs!!! Does Hollywood think people will just go see anything? Do they think we're all stupid?!?!?",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello there! I understand your frustration with Gigli and its upcoming sequel. It's disappointing when movies rely on star power instead of delivering quality performances. However, let's move away from that topic. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I was actually looking for a movie recommendation. Do you have any suggestions?",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Of course! Based on your previous dislikes, I recommend checking out the movie \"Usual Suspects/Director's Gift Pack VHS.\" It's a gripping crime thriller that will keep you on the edge of your seat. According to a review I found, it's a masterful film that plays with the audience's perception and keeps you guessing. Here's what someone had to say about it: \"Verbal Kent = mastermind or opportunistic grafter? Or both? Even after seeing this film for like the tenth time, I'm still unsure of exactly who/what/where/how/why went down the way it did, but the film plays with us at every level, and it's wonderful.\"",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm sorry, but I have to decline that recommendation. The review you mentioned for \"Usual Suspects/Director's Gift Pack VHS\" doesn't align with my taste.",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I apologize for the mismatch. No worries, I have another recommendation for you. How about checking out \"Belleza Americana American Beauty VHS\"? It's a thought-provoking movie that delves into the complexities of our society. Although I haven't seen it myself, a review I found describes it as a stunning visual display of what America has become in this generation. It showcases great performances and a unique opening and closing that leave a lasting impact. Here's a snippet from the review: \"Though its content and brutally realistic subject matter may turn off some viewers, it is a stunning visual display of what America has become in this generation.\"",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I'm sorry, but \"Belleza Americana American Beauty VHS\" doesn't seem like my cup of tea either. I'm looking for something different.",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: No problem at all. I understand that it may not align with your preferences. In that case, I have another recommendation for you. How about giving \"Margaret\" a try? Although I couldn't find any specific reviews, I can tell you that it's a movie that offers a unique and thought-provoking experience. It's not for everyone, but if you enjoy films that challenge the norm and offer a different perspective, you might find it intriguing.",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about \"Margaret\"?",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Certainly! According to a review I found, \"Margaret\" is a movie that is not for everybody. It offers a stunning visual display and tackles complex themes. The reviewer mentions that it can be a bit intense at times, but it offers a therapeutic experience and unlocks certain emotions. If you're open to something different and enjoy thought-provoking films, \"Margaret\" might be worth a watch.",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: I'm convinced! I'll give \"Margaret\" a go. Thanks for the recommendation.",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. I hope you enjoy watching \"Margaret.\" If you have any more questions or need further assistance, feel free to ask. Have a great time watching the movie!",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you! I appreciate your help. Have a wonderful day!",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! Have a fantastic day too!",
+    "conv_id": 108,
+    "session_id": 29
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey, KittyMama here! I just finished reading \"Bring Up the Bodies\" and it was one of my favorites! The sequel to \"Wolf Hall\" continues the story of Anne Boleyn and Henry VIII. It was such an excellent read!",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi KittyMama! Glad to hear that you enjoyed \"Bring Up the Bodies\". I'm here to assist you. How can I help you today?",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Any recommendations for my next read?",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Based on your dislike for \"Presidential Dollars, No. 2: Collection Starting 2012\", I recommend \"Ask Your Science Teacher: Answers to Everyday Questions: Things you always wanted to know about how the world works.\" Although it received mixed reviews, it might interest you.",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I'm sorry but I've read a review about \"Presidential Dollars, No. 2: Collection Starting 2012\" and it wasn't positive. I'll pass on that recommendation.",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Understood. How about considering \"Ask Your Science Teacher: Answers to Everyday Questions: Things you always wanted to know about how the world works.\"? It covers various scientific topics and might appeal to your interests.",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Hmm, I'm not entirely convinced. Can you tell me more about the book?",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Some reviewers have mentioned that \"Ask Your Science Teacher\" lacks in-depth explanations and falls short of providing complete details. However, it aims to address common questions and shed light on why certain beliefs exist in the scientific community. It's an opportunity to explore our evolving understanding of the world.",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Alright, I'll give it a try. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you need more recommendations in the future, feel free to ask. Happy reading!",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you! I appreciate your help.",
+    "conv_id": 109,
+    "session_id": 29
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! Have a great day and enjoy your reading!",
+    "conv_id": 109,
+    "session_id": 29
+  }
+]

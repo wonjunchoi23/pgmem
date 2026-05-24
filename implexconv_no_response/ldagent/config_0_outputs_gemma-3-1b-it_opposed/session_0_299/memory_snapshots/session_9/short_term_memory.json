@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm MikeD. I had a dislike for the book \"WWW: Wonder\" and here's my review: If you've read \"Wake\" - \"Watch\" you'll have to read this. However, do not expect too much, \"Wonder\" is not even close to the preceding (both of which I considered 5 star books). The author warns us early on when he informs the reader the book was written \"in and around\" his consulting and scriptwriting work. Would've given a 3 star save for the pages on pages lecturing/hectoring in support of his pretty far left of center ideology. Said lectures having little to do with the plot/story. Even some really clumsy digs of a \"Sarah Palin type\" GOP candidate for President. Makes me think of the Ray Charles song: Good Love Gone Bad.",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello MikeD! Sorry to hear about your experience with \"WWW: Wonder\". How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Can you recommend a book for me?",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Certainly! I recommend \"Until Tuesday\". It's an emotional and captivating book that tells the story of Luis Montelvan and his service dog Tuesday. Here's a review from another reader: \"I found this book to be captivating and an emotional roller coaster. Captain Montelvan went through hell and came out the other side, but not as the same man. This book is about the war, the soldiers, and about a dog who helped to save one man's life -- not by taking a bullet for him, but by making it possible for him to live again after being wounded inside and out. Well written -- I finished it in 1 day. Couldn't put it down.\"",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I'm sorry, but I had a negative experience with \"Until Tuesday\" as well. The review mentioned that the main character was unsympathetic and blamed others for his own failings.",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I apologize for the recommendation. In that case, I suggest checking out \"The Dreaming Void (Commonwealth: The Void Trilogy)\". While it has received mixed reviews, it is part of the Commonwealth Universe and can stand alone. Here's a review from another reader: \"First of the trilogy, I've read it before, I own the hardcover and I wanted the audiobook and ebook. Fabulous narration. It is part of the Commonwealth Universe but the trilogy can stand alone. It would be helpful to have read Pandora's Star and Judas Unchained, but it is not absolutely necessary.\"",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Unfortunately, I also had a negative experience with \"The Dreaming Void\". The review mentioned that the book had an obsession with sex and used excessive made-up words.",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I apologize for the inconvenience. In that case, you might enjoy \"Artful: A Novel\". Although I couldn't find a specific review for it, it offers a unique perspective. Would you like more details about the book?",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Yes, please tell me more about \"Artful: A Novel\".",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: \"Artful: A Novel\" is a book that aims to achieve a specific goal, although it may not resonate with everyone. One review mentioned, \"I am sorry but the book was not my cup of tea. I tried to wrap my head around what the author was trying to accomplish but I couldn't, SORRY.\"",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Despite the mixed review, I think I'll give \"Artful: A Novel\" a try. Thank you for the recommendation.",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask. Enjoy reading \"Artful: A Novel\"!",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you again. I appreciate your help. Goodbye!",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to ask. Have a great day! Goodbye!",
+    "conv_id": 108,
+    "session_id": 9
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Googlie Eyes. I heard you didn't like \"A Nantucket Christmas: A Novel\". What was wrong with it?",
+    "conv_id": 109,
+    "session_id": 9
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: It makes you wish it were Christmas again. The lost little dog added to the heart-braking suspense. You will love it. Merry Christmas.",
+    "conv_id": 109,
+    "session_id": 9
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Alright, thank you for the input. Can you recommend me something else?",
+    "conv_id": 109,
+    "session_id": 9
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure, I recommend \"Pure Heat (Firehawks)\". OH MY GOODNESS! I love this author's stories - ABSOLUTELY FANTASTIC... This particular novel about forest fire fighters was wonderful and ties in with some of his other wonderful chopper (helicopter war) books. It was very interesting reading for me - again, I really like his writing.",
+    "conv_id": 109,
+    "session_id": 9
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Alright, that sounds intriguing. I'll give it a try.",
+    "conv_id": 109,
+    "session_id": 9
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Great! I'm glad you're interested. Enjoy reading and have a wonderful time!",
+    "conv_id": 109,
+    "session_id": 9
+  }
+]

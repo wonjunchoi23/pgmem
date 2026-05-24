@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Ernest Jagger. I really enjoyed watching \"Kagemusha VHS\" and it's one of my favorite Kurosawa films. The film is set in the 16th century and centers on the Takeda clan. Lord Shingen's portrayal by Tatsuya Nakadai is amazing. The cinematography and set designs are incredible. It's a must-see film.",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Wow, it sounds like you really enjoyed \"Kagemusha VHS\"! I also found it to be a mesmerizing film. If you liked that, I would recommend you watch \"Late Spring\". It's another classic by Yasujiro Ozu.",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Oh, I've already seen \"Late Spring\" before, so I won't be needing a recommendation for it.",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Alright, no problem. How about considering \"My Neighbor Totoro VHS\"? It might interest you.",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Certainly! \"My Neighbor Totoro VHS\" is a heartwarming film directed by Hayao Miyazaki. It's about two little girls who move from the city to the countryside and befriend a forest spirit named Totoro. The film beautifully portrays their adventures and their hope for their mother's recovery. It's a touching story filled with the wonders of nature.",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds lovely. I'll accept your recommendation for \"My Neighbor Totoro VHS\".",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Great! If you need any more recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you, but I think I'm good for now. I appreciate your help.",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: You too. Goodbye!",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: Goodbye!",
+    "conv_id": 108,
+    "session_id": 179
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently watched Doctor Who - The Web Planet VHS and I absolutely loved it. The story was so complex and intriguing, with the war between the moth-like Menoptra and the giant ant-like Zarbi. The extras included in the DVD were also great. Can you recommend something similar?",
+    "conv_id": 109,
+    "session_id": 179
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Sure! How about Ponyo (Mandarin Chinese Edition)? It's a beautiful animated film by Hayao Miyazaki. It has a similar theme of love and adventure, but with its own unique twist. The story revolves around a little boy named Sosuke who rescues Ponyo, a magical being from the ocean. It's a heartwarming film that I think you'll enjoy.",
+    "conv_id": 109,
+    "session_id": 179
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Hmm, that sounds interesting. Tell me more about Ponyo.",
+    "conv_id": 109,
+    "session_id": 179
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Of course! In Ponyo, the little boy Sosuke and Ponyo are both five years old. The film explores their friendship and the magical world they discover together. It has some similarities to The Little Mermaid, but with its own distinct charm. Overall, it's another great work from Hayao Miyazaki.",
+    "conv_id": 109,
+    "session_id": 179
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Alright, I'll give Ponyo a try. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 179
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Enjoy watching Ponyo!",
+    "conv_id": 109,
+    "session_id": 179
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I appreciate your help. Thanks again! Goodbye.",
+    "conv_id": 109,
+    "session_id": 179
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! Have a great day and enjoy your movie. Goodbye!",
+    "conv_id": 109,
+    "session_id": 179
+  }
+]

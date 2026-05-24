@@ -1,0 +1,100 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4752000.0,
+    "dialog": "User: Hi, I'm Marshall Masters. I recently purchased the Logitech Pro 9000 PC Internet Camera Webcam with 2.0-Megapixel Video Resolution and Carl Zeiss Lens Optics. I must say, the image quality is superb, but I've been having some audio configuration issues with the webcam. The built-in USB mic causes problems with the microphone settings in XP, and I have to reboot to fix it. I hope they improve this mic integration issue.",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4752000.0,
+    "dialog": "Agent: Hello Marshall! I'm sorry to hear about the audio configuration issues you're facing with the Logitech Pro 9000. Despite the audio concerns, the webcam does offer exceptional image quality. Is there anything else I can assist you with?",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4753200.0,
+    "dialog": "User: Actually, I was looking for a recommendation. What other products do you suggest?",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4753200.0,
+    "dialog": "Agent: I recommend considering the HOODM4S6B00F - PHILIPS DM4S6B00F 17 4.7GB 16x DVD-Rs. They have received positive reviews, and many users have been pleased with their performance.",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4754400.0,
+    "dialog": "User: I appreciate the suggestion, but I've already seen that product. Do you have any other recommendations?",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4754400.0,
+    "dialog": "Agent: Sure, how about the Apple iPod classic 120 GB Black 6th Generation? It has been highly praised for its functionality and elegant design. Users have described it as a great device to truly experience your music.",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4755600.0,
+    "dialog": "User: Thank you for the suggestion, but I have already seen the Apple iPod classic before. Is there anything else you can recommend?",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4755600.0,
+    "dialog": "Agent: In that case, you might be interested in the EVGA GeForce GT 730 2GB (Low Profile). It has received positive reviews and offers improved gaming performance with better detail.",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4756800.0,
+    "dialog": "User: I see. Could you provide more details about the EVGA GeForce GT 730 2GB?",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4756800.0,
+    "dialog": "Agent: Certainly! The EVGA GeForce GT 730 2GB is an upgrade from the GT610 and allows for gaming at higher speeds with better detail. Users have reported a significant improvement in their gaming experience after switching to this graphics card.",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4758000.0,
+    "dialog": "User: Thanks for the information. I'll consider it and take a closer look.",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4758000.0,
+    "dialog": "Agent: You're welcome! If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4759200.0,
+    "dialog": "User: Thank you, you've been very helpful. Have a great day too!",
+    "conv_id": 110,
+    "session_id": 108
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4759200.0,
+    "dialog": "Agent: ",
+    "conv_id": 110,
+    "session_id": 108
+  }
+]

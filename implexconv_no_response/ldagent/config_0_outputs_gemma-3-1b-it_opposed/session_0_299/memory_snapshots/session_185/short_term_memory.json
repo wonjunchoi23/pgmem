@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I recently purchased the Wenzel Getway Mid-Size Internal Frame Pack and I wanted to share my experience with it.",
+    "conv_id": 108,
+    "session_id": 185
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! How did you find the pack?",
+    "conv_id": 108,
+    "session_id": 185
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: It was a little bigger than I expected, but it's perfect as my car bug out pack. I don't think it would hold up well for hiking, but it's great for emergency situations. It fits all my essentials like food, water, first aid kit, and more.",
+    "conv_id": 108,
+    "session_id": 185
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand. If you're interested, I have a recommendation for you. It's the Hanks Extreme - Leather Gun Belt for CCW - Concealed Carry. It's a high-quality belt with a 100-year warranty, perfect for carrying your firearm securely.",
+    "conv_id": 108,
+    "session_id": 185
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds interesting. Can you tell me more about it, especially in terms of sports activities?",
+    "conv_id": 108,
+    "session_id": 185
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Absolutely! According to a review, the belt is durable and well-made. One user mentioned that they carry their Ruger SR40 with Crimson Trace, and even though the belt was a bit small for their waist, it still worked well. It's designed for concealed carry and provides a secure fit.",
+    "conv_id": 108,
+    "session_id": 185
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I'm convinced! I'll definitely consider getting the Hanks Extreme Gun Belt. Thanks for the recommendation.",
+    "conv_id": 108,
+    "session_id": 185
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 185
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello, I'm Oliver DeMille. I had a bad experience with the Phantom Aquatics Air-Ease Swimmer's Snorkel.",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Oliver, I'm sorry to hear about your bad experience with the Phantom Aquatics Air-Ease Swimmer's Snorkel. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend something for me?",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! How about trying the Ringside Gel Shock Super Boxing Muay Thai MMA Training Chest Shield Rib Guard Body Protector? It has received great reviews, like this one: \"I absolutely love the comfort of this body protector. It fits snug on my body, and it offers superb protection.\"",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I'm sorry, but I've already seen and tried various sports before.",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: No problem! How about the pistil Women's Juliette Knit Slouch Beanie Hat? It's a stylish and cozy hat that has received positive feedback. One customer said, \"I am a knitter and am well capable of making my own hats. That said, I just love this hat. It has wide ribbing you can fold up and a seed stitch body. The fake fur pom-pom makes it.\"",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you for the recommendation, but I've seen and tried different sports before.",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in the NCAA Kids & Youth Boys Primary Logo Fleece Hoodie. It's a popular choice among young sports enthusiasts. One customer mentioned, \"This was a great buy at less than $10. It fit my 8-year-old just right. It didn't seem to shrink after a few washes. Good feel to the material and very warm.\"",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds interesting. Can you tell me more about the sports details?",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! According to another customer's review, \"I was pleasantly surprised by how well this snorkel works. I also bought the dry top attachment to keep splashes out but have not needed it thus far.\" It seems like a reliable and efficient snorkel for your aquatic adventures.",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: I'm convinced. I'll go for the NCAA Kids & Youth Boys Primary Logo Fleece Hoodie.",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Great choice! If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 185
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 185
+  }
+]

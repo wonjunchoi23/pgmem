@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi! I recently purchased the Seagate FreeAgent Go 250 GB USB 2.0 Portable External Hard Drive and I must say, it's fantastic! The build quality is solid and the size is perfect. The included USB cable is just the right length. Overall, I'm extremely satisfied with this purchase.",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! I'm glad you're enjoying your Seagate FreeAgent Go. Is there anything else I can assist you with?",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, yes. I'm looking for a USB flash memory card reader. Can you recommend one for me?",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Of course! I recommend the Kingston 19-in-1 USB 2.0 Flash Memory Card Reader. It's a reliable and efficient option. Other customers have also given positive reviews for its performance.",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the suggestion, but I've already seen many electronics and I'm not interested in this recommendation.",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, how about the JBL Jbl Flip 3 Splashproof Portable Bluetooth Speaker? It's a popular choice and has received great reviews.",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Sorry, but I've had a bad experience with the JBL Flip 3 speaker before, so I'm not interested in that recommendation either.",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I apologize for the inconvenience. In that case, you might like the BenQ 32-Inch IPS 4K Ultra High Definition LED Monitor. It offers stunning clarity and a crisp display.",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Hmm, that sounds interesting. Can you provide me with more details about the BenQ monitor?",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Absolutely! Customers have praised the BenQ monitor for its amazing clarity and immersive viewing experience. The monitor comes with a solid steel base and offers smooth rotation, tilt, and riser adjustments. Additionally, it supports playing HD videos natively through Amazon's content management system. It's a great choice for long hours of screen usage.",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: That sounds perfect! I'll go with the BenQ monitor. Thank you for the recommendation and detailed information.",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you have any more questions in the future, feel free to reach out. Enjoy your new BenQ monitor!",
+    "conv_id": 108,
+    "session_id": 274
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I had a really bad experience with the JBuds J3 Micro Atomic In-Ear Earbuds Style Headphones. The sound quality was poor and lacked clarity. Do you have any recommendations?",
+    "conv_id": 109,
+    "session_id": 274
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I'm sorry to hear about your experience with the JBuds J3 headphones. Let's explore other options for you. How about considering the ASUS RT-AC66R 802.11ac Dual-Band Wireless-AC1750 Gigabit Router? It has good range and performance. Other customers have given positive reviews about it.",
+    "conv_id": 109,
+    "session_id": 274
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I actually had a bad experience with that router as well. It had setup issues and stopped working after a week. Any other recommendations?",
+    "conv_id": 109,
+    "session_id": 274
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand your concerns with the ASUS router. In that case, I recommend the I/O CREST SY-ACC65009 Mobile Desktop Tower Computer Floor Stand. It has rolling caster wheels, adjustable width, and provides support for your computer tower. Customers have given it positive reviews, mentioning its convenience and easy assembly.",
+    "conv_id": 109,
+    "session_id": 274
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen similar products before. Do you have any other options?",
+    "conv_id": 109,
+    "session_id": 274
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I see. In that case, you might be interested in the Bluelounge CableDrop Mini White. It's a cable management system that helps keep your cables organized and prevents them from falling. Customers have found it really useful for managing laptop cords and charging cables. It has received great reviews overall.",
+    "conv_id": 109,
+    "session_id": 274
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting. Can you tell me more about the Bluelounge CableDrop Mini White?",
+    "conv_id": 109,
+    "session_id": 274
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Of course! The Bluelounge CableDrop Mini White is perfect for keeping your laptop cord off the ground and avoiding any accidental pulls. It's also great for using on your nightstand with your charging cable. Customers have praised its functionality and convenience, especially in preventing cables from falling. Overall, it's a highly recommended product.",
+    "conv_id": 109,
+    "session_id": 274
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Alright, I'll give the Bluelounge CableDrop Mini White a try. Thanks for your help!",
+    "conv_id": 109,
+    "session_id": 274
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you have any more questions or need further assistance, feel free to ask. Enjoy using the Bluelounge CableDrop Mini White!",
+    "conv_id": 109,
+    "session_id": 274
+  }
+]

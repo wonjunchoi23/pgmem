@@ -1,0 +1,198 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, Kindle Customer here. I had a terrible experience with \"New Tatting: Modern Lace Motifs and Projects\". It was so complicated for me, even though I've been knitting and crocheting for years.",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh no, I'm sorry to hear that. It sounds like \"New Tatting\" wasn't a good fit for you. Is there anything specific you're looking for in a book?",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Well, I'm open to recommendations. What about \"That's That: A Memoir\"?",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand you're considering \"That's That: A Memoir\". However, based on other reviews, it seems to offer a one-sided view of events in Northern Ireland and may not provide an unbiased perspective.",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Oh, I see. That doesn't sound appealing. What about \"Doctor Sleep: A Novel\"?",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I see you're interested in \"Doctor Sleep: A Novel\". However, according to some reviews, it seems to have disappointed readers in terms of character development and overall quality.",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Hmm, that's a shame. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Absolutely! You might be interested in \"My Father at 100: A Memoir\". It has garnered positive reviews and offers a unique perspective.",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm not sure. Can you tell me more about \"My Father at 100: A Memoir\"?",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Certainly! According to a review, the book portrays a negative image of Ronald Reagan by his son, Ron Reagan. It seems to focus on their ideological differences and criticizes his father's political and religious beliefs. The reviewer found it disappointing and felt it tarnished Ronald Reagan's legacy.",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Okay, I'll give \"My Father at 100: A Memoir\" a try. Thanks for the recommendation.",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask. Enjoy your reading!",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: No, thank you. I appreciate your help. Have a great day!",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! Have a great day too!",
+    "conv_id": 108,
+    "session_id": 177
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently read a book called \"Star Wars: Red Harvest\" and I have to say, I didn't enjoy it much. The story felt a bit disjointed and the characters lacked depth. Have you read it?",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Oh, I'm sorry to hear that you didn't enjoy \"Star Wars: Red Harvest.\" Can you tell me more about what you didn't like about it?",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Well, the plot seemed to borrow elements from other movies, and the characters felt one-dimensional. I couldn't really connect with any of them. It just didn't hold my interest.",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand. In that case, let me recommend a book called \"Odder Than Ever.\" However, based on a review I found, it seems you might not enjoy it either. The review mentioned that some of the stories had negative generalizations and stereotypes.",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I see. Thank you for the recommendation, but I think I'll pass on \"Odder Than Ever\" considering the review you mentioned.",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I completely understand. How about a book called \"The Street\"? It seems to align with your interests. According to another review, it portrays life in New York during World War II from the perspective of an African American woman.",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I appreciate the recommendation, but I've actually already read \"The Street\" before. It was quite an interesting read.",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I see. In that case, let me suggest another book that might catch your interest. It's called \"Pop Goes the Weasel (Alex Cross).\" According to a review I found, it's a gripping detective story with over three hundred million books sold. Would you like to know more about it?",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Yes, please! Tell me more about \"Pop Goes the Weasel.\"",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Absolutely! According to the review, the book starts with Detective Alex Cross suspecting a British diplomat of committing vicious killings. This case puts Alex's family and his girlfriend in danger, and the story is said to grab readers right from the first few pages.",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: That sounds intriguing! I'll definitely give \"Pop Goes the Weasel\" a try.",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: I'm glad you're interested! I hope you enjoy reading it. Is there anything else I can assist you with?",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 26,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: No, that's all for now. Thank you for your help!",
+    "conv_id": 109,
+    "session_id": 177
+  },
+  {
+    "idx": 27,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to ask. Have a great day and happy reading!",
+    "conv_id": 109,
+    "session_id": 177
+  }
+]

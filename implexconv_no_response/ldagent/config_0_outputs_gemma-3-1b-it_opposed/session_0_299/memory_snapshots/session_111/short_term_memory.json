@@ -1,0 +1,86 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 5529600.0,
+    "dialog": "User: Hello! I recently read \"Digital Disruption: Unleashing the Next Wave of Innovation\" and found it quite insightful.",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 5529600.0,
+    "dialog": "Agent: Hi John! I'm glad to hear that you enjoyed \"Digital Disruption: Unleashing the Next Wave of Innovation.\" It's a very thorough examination of the impact of digital technologies on various industries. If you're interested, I can recommend another book called \"Leadership BS: Fixing Workplaces and Careers One Truth at a Time.\" It provides a critical perspective on leadership practices.",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 5530800.0,
+    "dialog": "User: Sorry, but I didn't really like \"Leadership BS: Fixing Workplaces and Careers One Truth at a Time.\" It didn't provide enough evidence-based approaches to support its claims.",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 5530800.0,
+    "dialog": "Agent: I understand your perspective. In that case, I suggest checking out \"Great by Choice CD.\" It offers valuable insights into thriving in uncertain and chaotic business environments.",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 5532000.0,
+    "dialog": "User: I've actually come across \"Great by Choice CD\" before, so I'm familiar with its content.",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 5532000.0,
+    "dialog": "Agent: I see. In that case, how about considering \"How Do I Keep My Employees Motivated?\" It provides practical strategies for managing and motivating employees.",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 5533200.0,
+    "dialog": "User: That sounds interesting! I accept your recommendation for \"How Do I Keep My Employees Motivated?\" Thank you!",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 5533200.0,
+    "dialog": "Agent: You're welcome! If you need any further recommendations or assistance, feel free to let me know. Enjoy reading!",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 5534400.0,
+    "dialog": "User: Thank you for your help. I appreciate it!",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 5534400.0,
+    "dialog": "Agent: It was my pleasure assisting you. If you ever need any more recommendations in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 5535600.0,
+    "dialog": "User: You too! Goodbye!",
+    "conv_id": 128,
+    "session_id": 111
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 5535600.0,
+    "dialog": "Agent: ",
+    "conv_id": 128,
+    "session_id": 111
+  }
+]

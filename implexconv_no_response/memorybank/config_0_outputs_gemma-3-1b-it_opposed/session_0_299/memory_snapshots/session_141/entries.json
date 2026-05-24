@@ -1,0 +1,191 @@
+[
+  {
+    "id": "a87768ed-5ab7-4016-a2bb-6c6b12db33e0",
+    "content": "Conversation content on Day 51: [|User|]: Could you also provide a few song recommendations from those artists that I can check out?\n[|AI|]: Certainly! Here are some song recommendations from the artists I suggested: \n\n1. DJ Dustin - \"Stranger in the Night\"\n2. DJ Karizma - \"The Power\"\n3. Louie Vega - \"Elements of Life\"\n4. Osunlade - \"Cantos a Ochun Et Oya\"\n5. Tony Humphries - \"Work is Work\" \n6. Kai Alce - \"Quiet Revenge\"\n7. Rich Medina - \"Can't Hold Back\"\n8. DJ Spen - \"In Love Again\" \n\nThese are just a few suggestions to get you started. I hope you enjoy exploring and discovering new music!",
+    "timestamp": "0141_0101_0002",
+    "conv_id": 101,
+    "source_label": "Day 51",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "4d575600-539e-406b-9262-3d6d93c6fb24",
+    "content": "Conversation content on Day 53: [|User|]: Sorry, but I've read some reviews about \"Lee Daniels' The Butler,\" and it doesn't seem like something I'd enjoy.\n[|AI|]: No problem. In that case, you might be interested in \"20 Feet from Stardom.\" It's a documentary that delves into the lives of backup singers in the music industry. It's quite insightful and received positive reviews.",
+    "timestamp": "0141_0105_0004",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "f836f275-682b-4950-8cca-5da28800b9f4",
+    "content": "Conversation content on Day 53: [|User|]: Thank you for your help and recommendations. I appreciate it.\n[|AI|]: You're welcome! I'm here to assist you. If you have any more questions or need further assistance in the future, feel free to reach out. Have a great day!",
+    "timestamp": "0141_0105_0010",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "010afa38-2a4b-4671-badf-4e99e42dcfce",
+    "content": "Conversation content on Day 54: [|User|]: Hi, I recently purchased the Apple iPod touch 16 GB (1st Generation) and I absolutely love it! It has great music playback and the small screen video playback is excellent. The only downside is that Apple charges for feature updates, which I think should be free. Other than that, no complaints.\n[|AI|]: That's great to hear! The Apple iPod touch 16 GB (1st Generation) is indeed a fantastic device.",
+    "timestamp": "0141_0106_0000",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "58ee3d30-bec6-4179-9f2f-e4bfe9013e9d",
+    "content": "Conversation content on Day 54: [|User|]: Can you recommend something similar to the TaoTronics Wireless Portable Bluetooth Transmitter?\n[|AI|]: Sure! I would recommend the TaoTronics Wireless Portable Bluetooth Transmitter. It's a great device that allows you to connect 3.5mm audio devices and enjoy A2DP stereo music transmission. It has received positive reviews from users.",
+    "timestamp": "0141_0106_0002",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "d99d64c9-4ae6-4df2-ab04-bfb0a7dfe0fa",
+    "content": "Conversation content on Day 54: [|User|]: That sounds promising. I'll give it a try.\n[|AI|]: Great! If you need any more recommendations or assistance, feel free to ask.",
+    "timestamp": "0141_0106_0008",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "705e0815-f303-4ea7-b89f-712ce78fde3a",
+    "content": "Conversation content on Day 54: [|User|]: Well, I was hoping for a good coming-of-age film, but it seems like \"Uptown Girls\" didn't fit the bill either. The storyline was horrible and the performances were lackluster. I'm not keen on watching that again. Do you have any other recommendations?\n[|AI|]: I understand your disappointment with \"Uptown Girls\". It's always frustrating when a movie doesn't meet our expectations. How about \"Jersey Girl\"? It's a different genre, but it might be worth a try. It has a unique blend of humor and sadness. Let me tell you more about it.",
+    "timestamp": "0141_0107_0002",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "0a90c8de-df4b-47a3-802d-f06c057dc48d",
+    "content": "Conversation content on Day 54: [|User|]: Hmm, I'm not completely convinced, but I'll give \"Walk the Line\" a shot. Thanks for the recommendation.\n[|AI|]: You're welcome! I hope you enjoy \"Walk the Line\". If you need any more recommendations in the future, feel free to ask. Have a great time watching the movie!",
+    "timestamp": "0141_0107_0006",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "769ad89b-7b6e-45c1-b652-b2f725c1ff0d",
+    "content": "Conversation content on Day 54: [|User|]: Thank you for your help. I appreciate it. Goodbye.\n[|AI|]: You're welcome! It was my pleasure to assist you. Have a wonderful day! Goodbye!",
+    "timestamp": "0141_0107_0008",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "61c5b740-bcdb-4b91-b350-e5bfbc588959",
+    "content": "Conversation content on Day 55: [|User|]: Hello! I recently had a bad experience with the Samsung LNT4065F 40-Inch 1080p LCD HDTV. It stopped working after a few months. Can you help me with a recommendation?\n[|AI|]: I'm sorry to hear about your experience with the Samsung LNT4065F. How can I assist you today?",
+    "timestamp": "0141_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "325bdf01-731b-45b5-8660-31b69e18198e",
+    "content": "Conversation content on Day 55: [|User|]: I'm looking for a recommendation for a Bluetooth speaker. Have you got any suggestions?\n[|AI|]: Sure! I recommend the Photive CYREN Portable Wireless Bluetooth Speaker with Built-in Speakerphone. It has received positive reviews, like this one - \"Amazing Price .... updated: I am using this on a PianoDisc player piano to stream my music collection from an IPAD. Works like a charm. Auto pairs with my tablet when I power on the piano. I bought a second one to use for a stereo in my bar. Works great ... with a long distance. Both sync with my phone as soon as I power it on.\"",
+    "timestamp": "0141_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "ed07d428-b3cf-4f6f-810a-edb9550e2e48",
+    "content": "Conversation content on Day 55: [|User|]: I appreciate the recommendation, but I've already seen many electronics. Do you have any other suggestions?\n[|AI|]: Certainly! How about the Canon EOS Rebel T2i DSLR Camera? It has excellent picture quality and is highly rated. One user said, \"Bought my camera from Adorama.com, shipped to FPO/AP. Had to wait for it to hit the market, but shipping was very fast. Some reviews I read say it feels plasticky like a toy. I did not like the feel of it that much UNTIL I put the accessory grip on it... and that sold it for me. I love this camera, and great value for what you get.\"",
+    "timestamp": "0141_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "884a2dcb-ee28-4c1c-8562-4544528aecb5",
+    "content": "Conversation content on Day 55: [|User|]: Thanks for the recommendation, but I've already seen that camera before. Do you have anything else in mind?\n[|AI|]: How about considering the Bluetooth Audio Adapter for Music Streaming Sound System? It has received positive reviews, like this one - \"Pros: Sounds much better than the iHome pop-up speakers I bought from Costco, and without the hassle of wires. Looks nice. Has control buttons on the unit, acts as a speakerphone so you never need to take your phone out of your bag for an incoming call while you're using the CYREN.\"",
+    "timestamp": "0141_0108_0006",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "9ea0b904-bc8a-4294-994a-5d3444e3a998",
+    "content": "Conversation content on Day 55: [|User|]: That sounds good! I'll give it a try. Thank you for your help.\n[|AI|]: You're welcome! If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "timestamp": "0141_0108_0010",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "94da12f7-cf51-403d-9dc7-1bd05ceb4c57",
+    "content": "Conversation content on Day 55: [|User|]: Hi! I recently purchased the Sony RX100 III 20.1 MP Premium Compact Digital Camera with a 1-inch sensor and 24-70mm F1.8-2.8 ZEISS zoom lens. I must say, it's a great quality camera in such a compact size. However, I've noticed that most people just use their iPhones these days. Do you think these cameras will ever go out of style?\n[|AI|]: Hi Ken! I understand your concern. While it's true that many people rely on their iPhones for photography, there will always be a market for dedicated cameras like the Sony RX100 III. The camera offers superior image quality and versatility compared to smartphones. Moreover, it has received great reviews for its performance.",
+    "timestamp": "0141_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "c9685fdd-c932-4343-9925-468e1feaf2df",
+    "content": "Conversation content on Day 55: [|User|]: I see. Well, I'm actually looking for a harness for my camera. Do you have any recommendations?\n[|AI|]: Absolutely! I recommend the OP/TECH USA Bino/Cam Harness with quick disconnects and elastic straps. It provides excellent support, eliminating neck strain, and keeps your camera ready for action. Users have praised its comfort and durability.",
+    "timestamp": "0141_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "88e4c5b0-8770-428e-ba40-59208e8c9b8d",
+    "content": "Conversation content on Day 55: [|User|]: Thanks for the suggestion, but I've actually seen that one before. Do you have any other recommendations?\n[|AI|]: Of course! In that case, I suggest trying the OP/TECH USA Bino/Cam Harness with webbing. It offers the same benefits of comfort and durability, and it's designed to fit different body sizes and shapes. Users have highly recommended it for its versatility.",
+    "timestamp": "0141_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "5214b434-8084-405e-ad73-2e41d12abf25",
+    "content": "Conversation content on Day 55: [|User|]: Thank you, but I've also seen that one before. Do you have any other ideas?\n[|AI|]: Sure! How about considering the CoolStream Duo Bluetooth Adapter? It's not directly related to cameras, but it's a great accessory for your iPhone, iPod, and even Bose docking stations. Users have praised its functionality and the fact that it eliminates the need for passcodes. It's a handy gadget to have.",
+    "timestamp": "0141_0109_0006",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "aa73feb2-4e43-4cb0-aaa5-1015d8e0af3c",
+    "content": "Conversation content on Day 55: [|User|]: That sounds interesting! Can you tell me more about the CoolStream Duo Bluetooth Adapter?\n[|AI|]: Certainly! The CoolStream Duo is an upgraded version of the original CoolStream. It allows you to stream music from your iPhone or iPod through Bluetooth without any hassle. It has a long-lasting battery and has received positive feedback from users who found it useful for their portable music needs. It's definitely worth considering.",
+    "timestamp": "0141_0109_0008",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "a8c2b271-5246-4ee8-9902-0d5f1155cef1",
+    "content": "Conversation content on Day 55: [|User|]: I'm convinced! I'll give the CoolStream Duo a try. Thanks for the recommendation.\n[|AI|]: You're welcome, Ken! If you need any more recommendations or have any questions, feel free to ask.",
+    "timestamp": "0141_0109_0010",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "0fbbf8d4-4861-4dfd-bbfd-320716fd6360",
+    "content": "Conversation content on Day 55: [|User|]: Thank you for your help. I appreciate it!\n[|AI|]: You're welcome! It was my pleasure assisting you. If you need anything else in the future, feel free to reach out. Have a great day!",
+    "timestamp": "0141_0109_0012",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Colorista#1(A17NNQR14Z5DZ6), I hope you're doing well!",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello there! How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I'm looking for a book recommendation. Can you suggest something?",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Certainly! I recommend the \"Color Charts: Color Collection Edition: 50 Color Charts to record your color collection all in one place.\" It has received great reviews, and it's perfect for organizing your color collection.",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Oh, I've already seen that book before. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: In that case, I suggest \"How To Color Adult Coloring Books - Adult Coloring 101: Learn Easy Tips Today. How To Color For Adults, How To Color With Colored Pencils, Step By... Books With Colored Pencils) (Volume 1).\" Despite a negative review, many readers found it helpful and produced lovely artwork.",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I'm sorry, but I've read a review that didn't speak highly of that book. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: My apologies for the previous suggestion. How about considering \"NIV, Beautiful Word Coloring Bible, Hardcover: Hundreds of Verses to Color\"? It has received excellent reviews and offers a unique coloring experience with beautiful illustrations.",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about the book?",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Of course! This Bible is stunning, with a cloth over board cover in a lovely linen floral fabric. It features calligraphic-style writing for the title and scattered coloring pages throughout. The pages also have space for your own notes and drawings. It's a great size with clear and easy-to-read text. It would make a perfect gift too!",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: I'm convinced! I'll go for it. Thank you for the recommendation.",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more suggestions or assistance, feel free to ask. Enjoy your coloring journey!",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you so much for your help. I appreciate it!",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a great day and happy coloring!",
+    "conv_id": 108,
+    "session_id": 115
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello! I recently enjoyed reading \"How To Draw Modern Florals: An Introduction To The Art of Flowers, Cacti, and More\". It's a fantastic book!",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! It's always nice to find a gem of a book.",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend another book for me?",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! How about \"The Little White Horse\"? It's a captivating read.",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I've already read that one. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Of course! You might like \"Watercolour for the Absolute Beginner: The Society for All Artists\". It's highly regarded by beginners and intermediate artists.",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Absolutely! According to a review, it's a fabulous book with clear instructions and easy-to-follow illustrations. It's a great resource for anyone learning watercolors.",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Wonderful! I'll definitely check it out.",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: I'm glad you're interested! Is there anything else I can recommend for you?",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: No, thank you. I appreciate your help!",
+    "conv_id": 109,
+    "session_id": 115
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 115
+  }
+]

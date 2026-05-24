@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I recently watched Transformers: Revenge of the Fallen and was quite disappointed with it. The movie had too many subplots and it felt unnecessarily long. Have you seen it?",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Jordan David! Sorry to hear that you didn't enjoy Transformers: Revenge of the Fallen. Let's not dwell on it. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Well, since you mentioned it, do you have any movie recommendations for me?",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Absolutely! Based on your likes, I recommend you check out Inglourious Basterds [Region Free] [UK Import]. It has received positive reviews and is a great watch.",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I appreciate the recommendation, but I've already seen Inglourious Basterds. Do you have any other suggestions?",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! Another movie you might like is Mission: Impossible Ghost Protocol. It's an action-packed film with an engaging storyline.",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about Mission: Impossible Ghost Protocol?",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Mission: Impossible Ghost Protocol follows Ethan Hunt and his team as they go underground to prevent a Russian nuclear missile from striking the United States. It's filled with thrilling action sequences that will keep you on the edge of your seat.",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Alright, that sounds interesting. I'll give it a try.",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great! I hope you enjoy Mission: Impossible Ghost Protocol. Is there anything else I can help you with?",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: No, that's all for now. Thank you for your assistance!",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 195
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm DB BluBlock Productions. I had a bad experience with the Pearl Izumi Impact Glove.",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello DB BluBlock Productions! I'm sorry to hear about your experience with the Pearl Izumi Impact Glove. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend something for me?",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! I recommend the WTB Pure V Pro Saddle. It has received great reviews, like this one: \"I actually started with the lower end model of the WTB Pure V.. and it served me well through 2 seasons of MTB. The Pro saddle is noticeably higher quality! Stronger rails, stronger internal frame, and more visually appealing.\"",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen that one.",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. In that case, how about the MTM Ammo Can? It's a durable and practical option. Here's a review: \"People are turned off by the fact that these are plastic. Granted they are not as strong as metal cans, they still serve the purpose well. The latch is kind of weak feeling, and that's the only reason I gave it 4 instead of 5 stars.\"",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thanks for the suggestion, but I've seen that one too.",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I see. Well, you might be interested in the PowerNet 8x8 XLP PRO Net. It's perfect for baseball and softball training. Here's a review: \"If you liked the original standard size then you will love this. The setup and take down process is much more simple as you don't have to completely remove the net from the bottom frame each time.\"",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds interesting. Can you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! The PowerNet 8x8 XLP PRO Net offers a huge hitting and pitching area for baseball and softball. It's great for teams and comes with a non-tip weighted base for stability. The setup is easy, and it's designed to be more convenient than the standard size. One review mentioned that it's more stable in windy conditions compared to the original size.",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: I'm convinced. I'll give it a try.",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Great! If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 195
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 195
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Jay Kay. I recently purchased the Memorex 700MB/80-Minute 52x CD-R Media 100-Pack Spindle and I absolutely love it! It's compatible with all of my burners and can be used everywhere. I even tested it on my DVD player and it worked flawlessly. The audio CDs and mp3 disks also work well on my car stereo.",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear, Jay Kay! I'm glad the Memorex CD-Rs are working well for you. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I'm looking for a new screen cleaning kit. Can you recommend one?",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure, I recommend the Monster TV CLNKIT Alcohol-Free ScreenClean Kit. It's highly recommended and has received positive reviews. It's very effective in cleaning screens and doesn't leave any streaks.",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen that one before and I'm not interested in it.",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Alright, no problem. How about the Case Logic AUA-311 11.6-Inch Laptop/Chromebook and iPad Slim Case? It's a great case for your laptop and other accessories. It has excellent padding and compartments for your charger, flash drive, and other accessories.",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I appreciate the suggestion, but I've already seen that case as well. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Certainly! You might like the MOBILE FIDELITY SOUND LAB INNER SLEEVES - MOFI MFSL (50 RECORD SLEEVES). It's a high-quality product for protecting your records. It has received mixed reviews, though, so please consider that.",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Hmm, I'm not sure if that's what I'm looking for. Can you give me more details about it?",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Of course! According to some reviews, the MOBILE FIDELITY SOUND LAB INNER SLEEVES are of good quality, but some users have experienced issues with the sleeves being too small for their LP records. It's something to keep in mind if you decide to go for it.",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Alright, I'll give it a try. Thanks for your help.",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: No, thank you. I appreciate your help. Have a great day!",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! Have a wonderful day too!",
+    "conv_id": 108,
+    "session_id": 95
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello! I recently purchased the Maxell 190132 CD & DVD Paper Storage Envelope Sleeves with Heavy-duty Paper and Clear Plastic Window Multi-Color 100 Pack and I must say, I am very impressed with them. They are a practical alternative to jewel cases and the different colors make it easy for me to organize my CDs. I highly recommend them!",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello Matthew! I'm glad to hear that you're enjoying the Maxell 190132 CD & DVD Paper Storage Envelope Sleeves. They are indeed a great choice for protecting and organizing your CDs. Is there anything else I can help you with today?",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Actually, I was wondering if you could recommend another product to me.",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Of course! Based on your previous likes, I would recommend the TDK 52X CDR 80 Minute / 700MB 100 Pack Spindle. It's a reliable blank CD-R that can handle high-speed recording and has a good track record for data longevity. Other customers have also had positive experiences with it.",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thank you for the recommendation, but I've already seen that product before, so I won't be needing it.",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Not a problem. In that case, I suggest considering the SanDisk 8GB Memory Stick Pro Duo. It's a slender and compact memory stick that can store up to 8GB of photos, movies, and music. It's a reliable option with a five-year limited warranty. Other customers have also praised its durability.",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I appreciate the recommendation, but I've also seen the SanDisk 8GB Memory Stick Pro Duo before.",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in the SanDisk\u00ae microSDHC\u2122 8GB Memory Card. It's a versatile memory card that can be used in various devices. It has received positive reviews for its performance and reliability, and it's compatible with your ASIN B0012Y2LLE.",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I see. Can you tell me more about the SanDisk\u00ae microSDHC\u2122 8GB Memory Card?",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! Customers have found the SanDisk\u00ae microSDHC\u2122 8GB Memory Card to be a reliable and high-quality option. It's worth noting that the price of these cards can vary, so it's advisable to keep an eye out for any discounts or promotions.",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Alright, I'll take your recommendation and give it a try. Thank you!",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you have any more questions or if there's anything else I can assist you with, please let me know.",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 26,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: No, thank you for your help. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 95
+  },
+  {
+    "idx": 27,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a great day!",
+    "conv_id": 109,
+    "session_id": 95
+  }
+]

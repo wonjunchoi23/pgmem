@@ -1,0 +1,58 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4838400.0,
+    "dialog": "User: Hello, I had a terrible experience with the Arachnid Cricket Pro 800 Electronic Dartboard with NylonTough Segments for Improved Durability and Playability and Micro-thin Segment Dividers for Reduced Bounce-outs. The darts are of poor quality and break apart with every throw. I wouldn't recommend it.",
+    "conv_id": 112,
+    "session_id": 112
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4838400.0,
+    "dialog": "Agent: I'm sorry to hear about your experience with the Arachnid Cricket Pro 800 Electronic Dartboard. One of the screws broke while mounting it on the wall.",
+    "conv_id": 112,
+    "session_id": 112
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4839600.0,
+    "dialog": "User: Can you recommend something else?",
+    "conv_id": 112,
+    "session_id": 112
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4839600.0,
+    "dialog": "Agent: Sure, I recommend the Lifetime Crank Adjust In Ground Basketball with Tempered Glass Backboard. It's of excellent quality and is suitable for professional use. It comes with everything you need for installation.",
+    "conv_id": 112,
+    "session_id": 112
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4840800.0,
+    "dialog": "User: That sounds interesting. Can you tell me more about it, especially the sports detail?",
+    "conv_id": 112,
+    "session_id": 112
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4840800.0,
+    "dialog": "Agent: The Lifetime Crank Adjust In Ground Basketball with Tempered Glass Backboard is highly durable and offers a professional-grade experience. It's perfect for practicing your basketball skills and is suitable for both adults and kids. It requires a firm foundation and proper installation.",
+    "conv_id": 112,
+    "session_id": 112
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4842000.0,
+    "dialog": "User: I'm convinced. I'll go for it.",
+    "conv_id": 112,
+    "session_id": 112
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4842000.0,
+    "dialog": "Agent: Great! I'm glad I could help. If you have any more questions, feel free to ask. Have a great day!",
+    "conv_id": 112,
+    "session_id": 112
+  }
+]

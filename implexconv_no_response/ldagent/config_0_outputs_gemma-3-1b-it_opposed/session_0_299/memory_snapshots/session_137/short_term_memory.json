@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I recently purchased the NHL Teen-Boys NHL Kids & Youth Boys Team Color Replica Jersey and I have to say, it's fantastic! The quality is great and it fits perfectly. I'm really happy with my purchase.",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! I'm glad you're satisfied with the NHL Teen-Boys NHL Kids & Youth Boys Team Color Replica Jersey. Is there anything else I can assist you with?",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, I'm looking for a new knife. Do you have any recommendations?",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! How about the Gerber Hinderer Rescue Knife? It has a solid feel and smooth action, and it even has a seatbelt cutter for added convenience. Customers have given it positive reviews.",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen that knife before. Do you have any other options?",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, I recommend the KA1214-BRK USA Fighting Knife. It's highly rated by customers and known for its solid construction. Let me share some reviews with you.",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I've actually seen the KA1214-BRK USA Fighting Knife before as well. I'm really into sports, so I'm looking for something related.",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I see. In that case, you might be interested in the Trampoline Part Store 7\" inch Ultra-Grade Trampoline Springs. Customers have praised its quality and performance.",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Hmm, that sounds interesting. Can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Of course! According to a customer review, the Trampoline Part Store 7\" inch Ultra-Grade Trampoline Springs work great and as expected. The springs are tight when new, so it's recommended to purchase the installation tool for easier installation.",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Alright, I'll give it a try. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you again for your help. I really appreciate it. Have a great day too!",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! Take care and have a wonderful day!",
+    "conv_id": 108,
+    "session_id": 137
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm JDuB. I really like the Shock Doctor AirCore Protective Cup, especially the white camo design. It fits well and provides great protection while playing sports. (Review: {'overall': 5.0, 'Review_text': 'Great AirCore soft cup, perfect for sports and wrestling, like the white camo design of this one. Fits most adult large, Great protection while you play!'})",
+    "conv_id": 109,
+    "session_id": 137
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's awesome! I'm glad you like the Shock Doctor AirCore Protective Cup. It's a popular choice for its comfort and effectiveness. (Review: {'overall':5.0, 'Review_text': 'I have a supporter with a standard plastic hard cup. It is not comfortable at all. I replaced it with this cup. It is a lot more comfortable because of the softer edges. The lighter material and tapered design also gives added range of motion. This is the best protection for effectiveness and comfort.'})",
+    "conv_id": 109,
+    "session_id": 137
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend something else?",
+    "conv_id": 109,
+    "session_id": 137
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure, I recommend the Franklin Sports Baseball Target Toss. It's a fun game that encourages physical dexterity and gets kids away from electronics. (Review: {'overall':4.0, 'Review_text':'There are a couple of things keeping me from really liking this item out of the box, let alone loving it. First is the construction. It's simple PVC pipe, and rather flimsy at that. The entire rig is very lightweight and kind of leans from side to side. The \"baseballs\" included are also a little odd. They inflate and thus do not have the feel of a real baseball. I had problems with the heft of them. This all said, it's a pretty fun game, and moreso if you hack the product a little. I put sandbags on the lower support and switched to solid core foam balls, and had better luck with it. However, it still remains a challenging game, with the higher-scoring holes simply out of reach of my feeble skills. Tossing from any further than 3-4 yards away was simply far too challenging for me and my kids. But, and this is big... it's something that encourages physical dexterity and gets the kids away from electronics and things. It works inside, especially with the stock equipment, though I think it's more suited for outside. And heck, it has potential for our Cub Scout pack Carnival day, so there's that. In sum, I like it now that I hacked it up a little, so I'})",
+    "conv_id": 109,
+    "session_id": 137
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Alright, I'll give it a try.",
+    "conv_id": 109,
+    "session_id": 137
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Great! If you need any more recommendations, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 137
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thanks, but I'm good for now. I appreciate your help.",
+    "conv_id": 109,
+    "session_id": 137
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 137
+  }
+]

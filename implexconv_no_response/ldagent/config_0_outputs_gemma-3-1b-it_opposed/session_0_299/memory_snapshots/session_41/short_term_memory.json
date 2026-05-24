@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Veronica (A18CQF1HG6VIVR)",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello Veronica! I see that you liked \"Talking Tales: Puppy's Bubble.\" How did you find the book?",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I purchased Talking Tales to try and encourage my 18-month-old grandson's speech development. He enjoys sitting on my lap while I read it to him. The illustrations are captivating, and the simple words help him learn and pronounce new sounds. It has become one of his favorite books.",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: That's wonderful to hear! It's always great to find books that engage young readers. Is there anything specific you're looking for in a book recommendation?",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Yes, I'm looking for something new to read. Any recommendations?",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I recommend \"No Safe House.\" It's a thrilling mystery that follows the characters Cynthia, Terry, and Grace. It has multiple plotlines that converge in a tense ending. However, if you've already read it, I can suggest something else.",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thank you for the recommendation, but I've already read \"No Safe House.\" Do you have any other suggestions?",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! How about \"Flames Over Norway\"? It's set during the lead up to WWII and provides a vivid portrayal of the battle for Norway. It follows the perspectives of three main characters and keeps you enthralled until the end. If you've already read it, I can suggest something else.",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Unfortunately, I've already read \"Flames Over Norway\" as well. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Certainly! You might be interested in \"Talking Tales: Puppy's Bubble\" once again. It's an adorable children's story that can be used as a learning tool for speech development. The repetition of sounds and the interesting story make it a great choice for both children and adults.",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Hmm, that sounds interesting. Can you tell me more about the book?",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: Absolutely! \"Talking Tales: Puppy's Bubble\" is about a dog and his dog family. It's not just a cute story but also a great book for anyone learning to read or working on a speech impediment. The author focuses on specific sounds and has developed a series around it. I applaud her for creating such a useful learning tool.",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Alright, I'll give \"Talking Tales: Puppy's Bubble\" another go. Thank you for the recommendation!",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. Enjoy reading \"Talking Tales: Puppy's Bubble\" once again, and feel free to reach out if you need any more recommendations. Have a great day!",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4674000.0,
+    "dialog": "User: Thank you, and have a great day too! Goodbye!",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4674000.0,
+    "dialog": "Agent: Goodbye, Veronica!",
+    "conv_id": 108,
+    "session_id": 41
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I recently watched Independence Day Resurgence and I was really disappointed. The movie lacked the heart of the original and the storyline was simplistic. It just didn't live up to my expectations.",
+    "conv_id": 109,
+    "session_id": 41
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your disappointment with Independence Day Resurgence. However, there are others who actually enjoyed the sequel. One reviewer mentioned that it is an underrated film with stunning visuals and action-packed scenes. They appreciated the passion of the filmmakers behind it.",
+    "conv_id": 109,
+    "session_id": 41
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for sharing that review, but I'm not really interested in watching it again. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 41
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Certainly! How about checking out Ash vs Evil Dead - The Complete First Season? It might be more to your liking.",
+    "conv_id": 109,
+    "session_id": 41
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about the show?",
+    "conv_id": 109,
+    "session_id": 41
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Of course! According to another reviewer, the show is a bit vulgar and off-the-wall, but it has its own charm. Although not everyone's cup of tea, fans of Army of Darkness might enjoy it.",
+    "conv_id": 109,
+    "session_id": 41
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Alright, I'll give it a shot. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 41
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask. Enjoy watching Ash vs Evil Dead - The Complete First Season!",
+    "conv_id": 109,
+    "session_id": 41
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I appreciate your help, but I think I'll explore on my own for now. Thanks again!",
+    "conv_id": 109,
+    "session_id": 41
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: No problem at all! Feel free to come back anytime if you need more assistance. Have a great day!",
+    "conv_id": 109,
+    "session_id": 41
+  }
+]

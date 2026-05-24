@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, my name is Kira. I recently read \"Power Foods for the Brain: An Effective 3-Step Plan to Protect Your Mind and Strengthen Your Memory\" and found it to be a great book. I would recommend it to anyone.",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Kira! That's great to hear that you enjoyed \"Power Foods for the Brain.\" It's always nice to come across books that have a positive impact. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Can you recommend another book for me to read?",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! How about \"Nate the Great\"? It's a children's book that follows the adventures of Nate as he solves mysteries. It's highly rated and great for young readers.",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Oh, I've already read \"Nate the Great,\" so I'm looking for something different.",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, I recommend \"The Mindful Vegan: A 30-Day Plan for Finding Health, Balance, Peace, and Happiness.\" It's a book that combines mindfulness practice with veganism. It has received excellent reviews and offers a unique perspective on living a compassionate and healthy life.",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about it?",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Certainly! \"The Mindful Vegan\" is not just a book, it's a guide to living mindfully and making conscious choices about food. It offers a 30-day plan that helps you explore your relationship with food, dieting, and self-care. The book has received praise from various authors and experts in the field, emphasizing its transformative potential. It's a valuable resource for anyone seeking a more compassionate and healthy lifestyle.",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm definitely interested in reading it. Please recommend it to me.",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great! I recommend \"The Mindful Vegan\" to you. I hope you find it insightful and inspiring. If you need any more recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you so much for your recommendation. I really appreciate it.",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. If you have any more questions or need further assistance in the future, feel free to reach out. Have a wonderful day!",
+    "conv_id": 108,
+    "session_id": 240
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Retired Guy. I really enjoyed watching the movie \"Buck\". It's about a guy named Buck Brannaman who has a unique understanding of horses and his methods can be applied to dogs as well. Have you seen it?",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hey, Retired Guy! I'm glad to hear that you liked \"Buck\". It's truly fascinating how Buck Brannaman's experiences shaped him into a wise and compassionate figure. His philosophy can be applied to both animals and people. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend another movie for me?",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! How about \"Her\"? It's a beautiful film starring Joaquin Phoenix. It explores a future where an operating system learns the user's preferences and becomes a close friend. It's a thought-provoking movie that showcases Joaquin's talent.",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I've already seen \"Her\". Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Of course! How about \"Philomena\"? It's a powerful film starring Judi Dench and Jeff Coogan. It delves into a difficult topic and sheds light on injustices while presenting both sides of the story. Judi Dench's performance as Philomena is exceptional.",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I've seen \"Philomena\" too. Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Well, you might like \"Monk: Season Three\". It's a popular TV series. While I don't have a specific review for it, I can tell you that each episode is brilliant. However, if you've already seen it or have any other preferences, feel free to let me know.",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I'm interested in \"Monk: Season Three\". Can you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! \"Monk: Season Three\" is a great season of the show, although some fans were disappointed by the departure of a beloved character, Sharona, due to contract disputes. Overall, the series doesn't disappoint, and if you're a fan of the show, you'll enjoy adding this season to your collection.",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: That sounds good. I'll go with \"Monk: Season Three\". Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Enjoy watching \"Monk: Season Three\"!",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it. Have a great day!",
+    "conv_id": 109,
+    "session_id": 240
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. Have a fantastic day and enjoy your movie!",
+    "conv_id": 109,
+    "session_id": 240
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cbfac65d-23d6-4bb6-b2ef-4f403b9dc146",
+    "content": "Conversation content on Day 53: [|User|]: That sounds really interesting! I would love to watch \"Up (Mandarin Chinese Edition)\".\n[|AI|]: Great! I'm glad you're interested. If you enjoyed \"Cars,\" I think you'll appreciate the heartfelt storytelling in \"Up.\" Is there anything else I can recommend?",
+    "timestamp": "0062_0105_0004",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "ce7596e6-278a-45a8-bcef-850229f69c52",
+    "content": "Conversation content on Day 53: [|User|]: No, thank you. I appreciate your recommendation.\n[|AI|]: You're welcome! If you have any other questions or need further assistance, feel free to ask. Enjoy watching \"Up (Mandarin Chinese Edition)\"!",
+    "timestamp": "0062_0105_0006",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "d98b7883-3e5f-409a-a352-24f590c8b827",
+    "content": "Conversation content on Day 54: [|User|]: Well, the film presented the Chinese and US cases during the Boxer Rebellion, and it depicted the court intrigue and the dialogue between the Empress Dowager and \"Prince Yuan.\" It was exciting and well-acted, definitely worth watching.\n[|AI|]: That sounds intriguing! I have a recommendation for you. Have you ever considered watching \"Evil Under the Sun\"?",
+    "timestamp": "0062_0106_0002",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "4fa810ee-353a-4aa8-a9a3-0092b0eb3711",
+    "content": "Conversation content on Day 54: [|User|]: Oh, I might like that! Can you tell me more about it?\n[|AI|]: Absolutely! \"Evil Under the Sun\" is a phenomenal movie that combines drama, suspense, comedy, and superb acting. The famous Belgian detective, portrayed by Ustinov, showcases his sharpness, intelligence, and witty side. The mystery is well-hidden, and the diverse group of suspects makes it captivating. It's not your typical dark and scary mystery, but a masterpiece worth experiencing.",
+    "timestamp": "0062_0106_0004",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "ec67fcb4-e63a-4c38-a8b7-fe9ef4ceba3f",
+    "content": "Conversation content on Day 54: [|User|]: That sounds amazing! I'll definitely give it a watch.\n[|AI|]: Great! I'm glad you're interested. Enjoy the movie, and if you have any more questions or recommendations, feel free to ask. Have a wonderful day!",
+    "timestamp": "0062_0106_0006",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "1a32eb9c-e8f4-4862-b66f-283376f48ca7",
+    "content": "Conversation content on Day 54: [|User|]: Hello, I really enjoyed reading \"Kung Fu Panda (Mandarin Chinese Edition)\" and found it to be a great movie. The animation was impressive and the voice talents were well-chosen. I recommend it.\n[|AI|]: Oh, I'm glad you enjoyed \"Kung Fu Panda (Mandarin Chinese Edition)\"! It's indeed a fantastic movie. The animation and humor work really well, making it enjoyable for both adults and children.",
+    "timestamp": "0062_0107_0000",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "c252e65f-c3e3-4cfb-a758-1c286670d51c",
+    "content": "Conversation content on Day 54: [|User|]: Thank you for your recommendations, but I think I'll explore on my own for now. I appreciate your help.\n[|AI|]: You're welcome! It was my pleasure assisting you. If you have any more questions in the future, feel free to ask. Have a great day!",
+    "timestamp": "0062_0107_0008",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "0ec2a77e-591b-46ee-aad4-9214b2ce20ac",
+    "content": "Conversation content on Day 55: [|User|]: Hi there! I hope you're doing well. I recently read a book called \"Sharp: A Memoir\" and I didn't really enjoy it. The story felt a bit forced and the characters didn't resonate with me. Have you read it?\n[|AI|]: Oh, I completely understand. I had a similar experience with \"Sharp: A Memoir\" and I found it to be lacking in authenticity. The dialogue and characters didn't feel genuine to me.",
+    "timestamp": "0062_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "ca488373-af65-4e3d-b56b-8cae704b7917",
+    "content": "Conversation content on Day 55: [|User|]: Well, I'm looking for something new to read. Any recommendations?\n[|AI|]: Based on your previous reading preferences, I would recommend \"Songs of Willow Frost: A Novel\". It's a beautifully written book by Jamie Ford that I think you might enjoy.",
+    "timestamp": "0062_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "f6d3f42a-4517-4030-984a-ba22f7d0b2ab",
+    "content": "Conversation content on Day 55: [|User|]: Hmm, that sounds interesting. Can you tell me more about the book?\n[|AI|]: \"Songs of Willow Frost: A Novel\" is a heartwarming story about an orphan boy and a Chinese-American actress. Jamie Ford is a masterful storyteller who weaves true places, situations, and real people into his fictional characters. The book has a perfectly crafted story arc and I highly recommend it.",
+    "timestamp": "0062_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "97eab0f8-ddf1-4edd-a886-7125e9f2988a",
+    "content": "Conversation content on Day 55: [|User|]: That sounds really compelling. I'll give it a try. Thank you for the recommendation!\n[|AI|]: You're welcome! I hope you enjoy reading \"Songs of Willow Frost: A Novel\". If you have any more questions or need further recommendations, feel free to ask. Happy reading!",
+    "timestamp": "0062_0108_0006",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "6aa24cc5-84d8-474f-8423-6f380b2309da",
+    "content": "Conversation content on Day 55: [|User|]: Thank you! I'll definitely let you know if I need more suggestions. Have a great day!\n[|AI|]: You too! Take care and happy reading!",
+    "timestamp": "0062_0108_0008",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "785d56c4-c5c0-435b-b6c8-eccdf777437f",
+    "content": "Conversation content on Day 55: [|User|]: J. Buckner(A15TO9SAAE7MJL)\n[|AI|]: Hi J. Buckner! I see that you enjoyed reading \"Telling True Stories: A Nonfiction Writers' Guide from the Nieman Foundation at Harvard University\". It's a great compilation of lectures covering various topics related to narrative nonfiction writing.",
+    "timestamp": "0062_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "bf7cb711-2b0a-4026-a9d0-c761254ddaff",
+    "content": "Conversation content on Day 55: [|User|]: Yes, it was a very helpful book indeed.\n[|AI|]: How can I assist you today? Do you need any book recommendations?",
+    "timestamp": "0062_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "cd9e99a4-c908-4e36-b1b3-88231d503bf7",
+    "content": "Conversation content on Day 55: [|User|]: Yes, please recommend a book.\n[|AI|]: I recommend \"Without You, There Is No Us: Undercover Among the Sons of North Korea's Elite\". It provides an undercover perspective on the lives of North Korea's elite and their connection to the regime. According to another reader, it offers valuable insights into the oppressive nature of the regime and its impact on the younger generation.",
+    "timestamp": "0062_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "927c09d9-ce5f-4ba5-8a46-8306cd40b1e4",
+    "content": "Conversation content on Day 55: [|User|]: Thank you for the recommendation, but I have already read that book.\n[|AI|]: Not a problem. In that case, I suggest \"Midnight in Peking: How the Murder of a Young Englishwoman Haunted the Last Days of Old China\". It delves into a captivating murder case in old China, where different powers suppressed the investigation due to their own interests. Another reader found it fascinating, especially the layered storytelling and the glimpse it provides into a tumultuous period in China's history.",
+    "timestamp": "0062_0109_0006",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "67bee224-2b78-4076-94d2-61f2c7df37e3",
+    "content": "Conversation content on Day 55: [|User|]: Unfortunately, I have already read that book as well.\n[|AI|]: I understand. In that case, you might be interested in \"Telling True Stories: A Nonfiction Writers' Guide from the Nieman Foundation at Harvard University\". Although you might have already seen it, another reader found it helpful for nonfiction writing, providing great tips and compiling speeches into a quick reference.",
+    "timestamp": "0062_0109_0008",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "7d7c1365-6d53-4952-9b31-f0f4b6b864f3",
+    "content": "Conversation content on Day 55: [|User|]: Hmm, I'm not sure. Can you provide more details about the book?\n[|AI|]: Of course! According to another reader, this book is particularly useful for nonfiction writers. It offers valuable insights and tips for writing engaging nonfiction pieces. The reader found it helpful in shifting gears and bringing more fun into their writing. They also appreciated the compilation of speeches and the quick reference format, which made it convenient for their nonfiction writing workshop.",
+    "timestamp": "0062_0109_0010",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "58fbb915-2a1b-4db5-a1b2-5b4151dd4284",
+    "content": "Conversation content on Day 55: [|User|]: That sounds interesting. I'll give it a try. Thank you for the recommendation!\n[|AI|]: You're welcome! I'm glad I could assist you. If you have any more questions or need further recommendations in the future, feel free to ask. Happy reading!",
+    "timestamp": "0062_0109_0012",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "694d43fe-df83-4dd2-985a-01d2c583a165",
+    "content": "Conversation content on Day 55: [|User|]: Thank you, goodbye!\n[|AI|]: Goodbye and happy reading, J. Buckner!",
+    "timestamp": "0062_0109_0014",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

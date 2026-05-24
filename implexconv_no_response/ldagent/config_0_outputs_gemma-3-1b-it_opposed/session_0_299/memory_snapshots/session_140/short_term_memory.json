@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, Douglas Welzel here! I recently read the book \"Perl Cookbook: Tips and Tricks for Perl Programmers\" and I absolutely loved it. The book provided me with succinct solutions to my Perl programming problems and helped me learn more about the language.",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! If you enjoyed \"Perl Cookbook,\" you might also like \"The Complete Book of Long-Distance Cycling: Build the Strength, Skills, and Confidence to Ride as Far as You Want.\" It covers all aspects of long rides, from gear selection to training programs.",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Oh, I've already seen that book before, so I won't need a recommendation for it.",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Alright, no problem. How about \"Dragon's Egg\"? It's a fascinating read that combines science fiction with insightful commentary on humanity.",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Sorry, I've already read \"Dragon's Egg\" as well. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Sure! You might be interested in \"Patterns of Enterprise Application Architecture.\" It's an excellent book for software architects and designers, with clear presentation of real patterns.",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds intriguing! Could you give me more details about the book?",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! \"Patterns of Enterprise Application Architecture\" provides narratives and patterns that cover various architectural aspects, such as layering, domain logic organization, object-relational mapping, web presentation, and system distribution strategies. The book is written in a simple and clear language, and it includes illustrative code snippets. It's a valuable resource for anyone fluent in UML and interested in enhancing their software architecture skills.",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds exactly like what I'm looking for. I accept your recommendation, thank you!",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! Is there anything else I can help you with or recommend?",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: No, thank you. I appreciate your assistance. Have a great day!",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You too! If you have any more questions in the future, feel free to ask. Have a wonderful day ahead!",
+    "conv_id": 108,
+    "session_id": 140
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Shadow Woman(A16EJ2ZX9QERZ9)",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Shadow Woman! How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I recently read a book that I didn't enjoy. Can you recommend something different?",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I'm sorry to hear that. What genre or topic are you interested in for your next read?",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I'm open to different genres, but I have already read \"Horses For Dummies (For Dummies (Computer/Tech))\" and enjoyed it.",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Ah, I see. In that case, I would recommend \"The Eye\". It's an intriguing novel with a unique storyline. It has received positive reviews from other readers as well.",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I actually read \"The Eye\" before and didn't find it appealing. Do you have any other recommendations?",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. How about \"A Farewell to Arms (A Scribner Classic)\"? It's a highly acclaimed book with a captivating storyline. Many readers have praised its simple yet powerful writing style.",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I'm sorry, but I didn't enjoy \"A Farewell to Arms\" either. Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: I apologize for the previous recommendations. In that case, I think you might like \"Architecture Of The Arkansas Ozarks\". It offers a unique perspective on architecture and provides insights into the Arkansas Ozarks region.",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Alright, I'll give \"Architecture Of The Arkansas Ozarks\" a try. Thank you for the recommendation.",
+    "conv_id": 109,
+    "session_id": 140
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! I hope you enjoy reading \"Architecture Of The Arkansas Ozarks\". If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 140
+  }
+]

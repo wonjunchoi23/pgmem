@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I hope you find me. I didn't enjoy the book you recommended.",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I'm sorry to hear that. Can you tell me more about why you didn't like it?",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Sure, it turned into a fantasy about being the last girl on earth and everyone wanting to be with me. It wasn't erotic either, so it was a waste.",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand your disappointment. In that case, let me recommend another book for you.",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Great, I'm interested. Can you give me more details about the book?",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! The book is called \"A Parcel of Rogues (The Ring of Fire)\". It's about the aftermath of the USE mission to England and includes historical figures like Oliver Cromwell. There's lots of fighting and intrigue, and it's a great addition to the series.",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds intriguing. I accept your recommendation.",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Wonderful! Is there anything else you'd like me to recommend?",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: No, thank you. I appreciate your help.",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: You too. Goodbye!",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 108,
+    "session_id": 183
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hello, I want to discuss some books.",
+    "conv_id": 109,
+    "session_id": 183
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Jean Riccobon! I noticed that you disliked the book \"Let's Meet Famous Artists\" and left a review about it. In line with your thoughts, another Speaker1:also disliked it and left a review saying, \"The artist bios are OK, but you can easily download similar info. The projects were too simple for 'tweens, and there are no color pictures or enough pictures of the various artists' work.\"",
+    "conv_id": 109,
+    "session_id": 183
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710600.0,
+    "dialog": "User: I appreciate the recommendation, but I'm not interested in \"Nickel and Dimed: On (Not) Getting By in America\" due to the review you mentioned.",
+    "conv_id": 109,
+    "session_id": 183
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710600.0,
+    "dialog": "Agent: Understood. In that case, I suggest you consider the book \"The Descendants.\" It might align better with your interests.",
+    "conv_id": 109,
+    "session_id": 183
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711800.0,
+    "dialog": "User: That sounds intriguing. Can you provide more details about \"The Descendants\"?",
+    "conv_id": 109,
+    "session_id": 183
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711800.0,
+    "dialog": "Agent: Certainly! Another Speaker1:had a positive review of \"The Descendants\" and said, \"An excellent read, and more interesting because of the setting. I enjoyed the movie first, but the novel as well later on.\"",
+    "conv_id": 109,
+    "session_id": 183
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713000.0,
+    "dialog": "User: I'm convinced. I'll give \"The Descendants\" a try.",
+    "conv_id": 109,
+    "session_id": 183
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713000.0,
+    "dialog": "Agent: Great! If you need any more recommendations or information, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 183
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714200.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 183
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714200.0,
+    "dialog": "Agent: You're welcome! If you have any further queries in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 183
+  }
+]

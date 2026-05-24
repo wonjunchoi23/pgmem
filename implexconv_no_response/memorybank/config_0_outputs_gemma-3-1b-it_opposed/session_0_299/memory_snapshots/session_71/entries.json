@@ -1,0 +1,209 @@
+[
+  {
+    "id": "bc88901d-8ad9-49c8-801a-a5917093f6b2",
+    "content": "Conversation content on Day 53: [|User|]: Can you remind me again when LOWLIFE will be released and where I can watch it?\n[|AI|]: Sure! LOWLIFE is being released by IFC Midnight in theaters and on demand on April 6th, 2018. You can check your local movie theater listings to see if it's playing near you and it will also be available for digital rental through various platforms like Amazon, iTunes, and Google Play, among others.",
+    "timestamp": "0071_0104_0006",
+    "conv_id": 104,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "c45ac4f3-af8a-4bb8-9787-17c5b338ff92",
+    "content": "Conversation content on Day 53: [|User|]: Thanks for the recommendation, but I've actually seen \"Wild Tales\" already. Do you have any other suggestions?\n[|AI|]: Of course! Another great movie you might enjoy is \"The Band's Visit.\" It's a charming film about a group of Egyptian policemen who embark on a journey through Israel to play music and foster cultural connections. The movie beautifully captures the calm and diplomatic approach in an unusual setting where \"nothing ever happens.\" I also found a review for \"The Band's Visit\" by another viewer who highly praised it for its portrayal of humanity and commonality. They mentioned that the film's warmth and beauty transcend the stark landscape in which it unfolds.",
+    "timestamp": "0071_0105_0004",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "9f5383a9-f198-43c0-bef6-e2b9e801a743",
+    "content": "Conversation content on Day 54: [|User|]: Thanks for the recommendation, but I've already seen \"From the Terrace VHS\" before.\n[|AI|]: I understand. How about considering \"Independence Day VHS\"? Here's a review I found for it: \"Who doesn't love this movie? I have watched it several times over the past 20 years and still enjoy it. The cast is fantastic and they work together beautifully to show the aliens precisely what humans are made of. Love it!\"",
+    "timestamp": "0071_0106_0002",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "cbc07b94-6abd-448d-a21a-af38177aa280",
+    "content": "Conversation content on Day 54: [|User|]: I'm sorry, but based on the review I read for \"Independence Day VHS,\" I don't think it's a movie I would enjoy.\n[|AI|]: I understand. How about considering \"Wild River [Region 2]\"? It might be something you'd like.",
+    "timestamp": "0071_0106_0004",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "cbf8a742-3993-44f5-9b77-0e5198de0cf2",
+    "content": "Conversation content on Day 54: [|User|]: Okay, I'll give \"Wild River [Region 2]\" a try.\n[|AI|]: Great! If you need more recommendations, feel free to ask.",
+    "timestamp": "0071_0106_0008",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "fc4f3ae7-7204-4b5a-9ff6-ace74f1c0b1f",
+    "content": "Conversation content on Day 54: [|User|]: Hey there! I recently watched \"F for Fake\" and I wanted to share my thoughts. Criterion's release of this film is really good, considering the price. The documentary about Welles's unfinished projects is worth the price on its own. I highly recommend it.\n[|AI|]: Hello! Thanks for sharing your thoughts on \"F for Fake\". Criterion always delivers quality releases. I'm glad you enjoyed the documentary about Welles's unfinished projects. Is there anything else you'd like to discuss?",
+    "timestamp": "0071_0107_0000",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "6c46c0ee-bfca-422e-8880-222eb9be3f70",
+    "content": "Conversation content on Day 54: [|User|]: Actually, I'm looking for some recommendations. Have you seen \"Something Wild\"?\n[|AI|]: Yes, I have seen \"Something Wild\". It's an offbeat film with great performances. However, if you've already seen it, I can recommend \"The Who - Live at the Royal Albert Hall\". It's a fantastic concert film with a well-filmed show and great camera work.",
+    "timestamp": "0071_0107_0002",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "33ae3540-4828-49e4-b40b-9417a671d4b3",
+    "content": "Conversation content on Day 54: [|User|]: That sounds interesting! Tell me more about \"Tootsie\".\n[|AI|]: \"Tootsie\" is considered one of the best cross-dressing comedies since \"Some Like It Hot\". Dustin Hoffman shines in this film, delivering one of his funniest performances. Jessica Lange and Teri Garr also give great performances. It's definitely worth watching if you enjoy comedies.",
+    "timestamp": "0071_0107_0006",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "b4c0659f-c383-4678-9297-1dd54ec95813",
+    "content": "Conversation content on Day 54: [|User|]: I'm convinced! I'll definitely check out \"Tootsie\". Thank you for the recommendation.\n[|AI|]: You're welcome! If you need any more recommendations, feel free to ask. Enjoy watching \"Tootsie\"!",
+    "timestamp": "0071_0107_0008",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "5173c178-313e-4851-899c-5e335010f464",
+    "content": "Conversation content on Day 54: [|User|]: Thank you again! I appreciate your help. Have a great day!\n[|AI|]: You're welcome! Have a wonderful day too!",
+    "timestamp": "0071_0107_0010",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "230771c3-1a8e-4d56-8d22-64e8e3a39419",
+    "content": "Conversation content on Day 55: [|User|]: Hey, I'm The Movie Guy! I really enjoyed watching \"Grudge Match\". It was a great boxing movie with Sylvester Stallone and Robert De Niro. The storyline was engaging and the performances were top-notch.\n[|AI|]: Hi there, glad to hear you enjoyed \"Grudge Match\"! It's a boxing movie that showcases the rivalry between Razor and The Kid. I'm here to help, so how can I assist you today?",
+    "timestamp": "0071_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "c50e3d5d-591c-41e9-a25a-6ec4accfc9cc",
+    "content": "Conversation content on Day 55: [|User|]: Well, I'm looking for a new movie recommendation. Do you have any suggestions?\n[|AI|]: Based on your dislike for \"Grimm Love [Region 4]\", I recommend checking out \"Concussion\". It's a compelling movie that delves into the business side of sports, similarly to \"Moneyball\".",
+    "timestamp": "0071_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "c0b74790-ff0b-4154-89b5-69b2b818d9e5",
+    "content": "Conversation content on Day 55: [|User|]: I'm sorry, but I don't think I'd be interested in \"Concussion\" based on the review I read for \"Grimm Love [Region 4]\". It didn't seem like my kind of movie.\n[|AI|]: Understood. In that case, I suggest you give \"Concussion\" a chance. It received positive reviews and explores the theme of righteousness being rewarded.",
+    "timestamp": "0071_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "a1a97ba5-d3ca-4848-9987-37fc799c6fc7",
+    "content": "Conversation content on Day 55: [|User|]: Hmm, I'm still not entirely convinced. Can you give me more details about \"Concussion\"?\n[|AI|]: Absolutely! \"Concussion\" focuses on the dramatic business side of sports, similar to \"Moneyball\". It offers a thought-provoking narrative that sheds light on the impact of sports-related injuries. Many viewers found it to be an engaging and informative film.",
+    "timestamp": "0071_0108_0006",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "b2b4ef47-5b11-4190-be7b-f57bc7286784",
+    "content": "Conversation content on Day 55: [|User|]: Alright, I'll trust your recommendation and give \"Concussion\" a shot. Thanks for the detailed information!\n[|AI|]: You're welcome! If you need more recommendations or have any other questions, feel free to ask. Enjoy watching \"Concussion\"!",
+    "timestamp": "0071_0108_0008",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "75e8b0ef-544f-494f-ba4a-f386ea1a86e8",
+    "content": "Conversation content on Day 55: [|User|]: I appreciate your help, but I don't need any more recommendations at the moment. Thanks again!\n[|AI|]: No problem at all! If you ever need assistance in the future, don't hesitate to reach out. Have a great time watching \"Concussion\"!",
+    "timestamp": "0071_0108_0010",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "9758b013-abb7-4ba2-9d1d-7053aa2d70ee",
+    "content": "Conversation content on Day 55: [|User|]: Hi, I'm Ronafish79. I really enjoyed watching The 13th Warrior, it's a great movie. I added it to my collection and would definitely watch it again.\n[|AI|]: Hey Ronafish79! Glad to hear that you enjoyed The 13th Warrior. It's always nice to find movies that you can watch over and over again. Is there anything specific you're looking for a recommendation on?",
+    "timestamp": "0071_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "b6212cdc-3c35-4dc6-8f5f-605f88de4c21",
+    "content": "Conversation content on Day 55: [|User|]: Actually, I'm looking for a recommendation for a new movie to watch. Any suggestions?\n[|AI|]: Sure, how about checking out Alexander? It's an epic historical movie with lots of action and adventure. However, I should mention that it received mixed reviews. One reviewer mentioned that it didn't live up to their expectations. Here's what they said: \"I found the movie to be quite boring and couldn't get myself to pay attention. My advice is to watch it before you buy.\"",
+    "timestamp": "0071_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "8c22b6a6-2c0e-4d9a-a465-bdb7f0426beb",
+    "content": "Conversation content on Day 55: [|User|]: Thanks for the recommendation, but I've actually seen Alexander before and it didn't really impress me.\n[|AI|]: No problem, I understand. How about giving 21 Jump Street a try? It's a hilarious action comedy movie that received great reviews. One viewer said, \"It was very entertaining and funny too. I liked how they made a lot of jokes and the actors didn't try too hard to make it funny.\"",
+    "timestamp": "0071_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "38acf86b-5532-418e-abd3-f5c4e000868c",
+    "content": "Conversation content on Day 55: [|User|]: I appreciate the suggestion, but I've already seen 21 Jump Street. Do you have any other recommendations?\n[|AI|]: Of course! You might enjoy Doctor Who: The Movie. It's a sci-fi film that received positive reviews. One reviewer mentioned, \"Paul McGann was perfectly cast as the legendary Time Lord in a less than perfect movie. It's Doctor Who at a crossroads.\"",
+    "timestamp": "0071_0109_0006",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "5f560b5e-c52f-4b97-837b-85508f1082d0",
+    "content": "Conversation content on Day 55: [|User|]: Hmm, I'm not sure. Can you tell me more about Doctor Who: The Movie?\n[|AI|]: Absolutely! This movie gives a foreshadowing look at things to come in the Doctor Who series. It's a great watch for fans of the show. Here's what one reviewer said: \"Plenty of extras and Paul McGann did a fantastic job as the Doctor. It's a must-watch for any Doctor Who fan.\"",
+    "timestamp": "0071_0109_0008",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "3d367807-6151-49a8-9a3c-27a228f52d3a",
+    "content": "Conversation content on Day 55: [|User|]: Alright, I'll give Doctor Who: The Movie a try. Thanks for the recommendation!\n[|AI|]: You're welcome! I hope you enjoy the movie. If you have any more questions or need further assistance, feel free to ask. Have a great time watching it!",
+    "timestamp": "0071_0109_0010",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "55b1fddb-5968-4991-8148-b3d126b62580",
+    "content": "Conversation content on Day 55: [|User|]: Thanks, I will! Have a great day!\n[|AI|]: You too, take care!",
+    "timestamp": "0071_0109_0012",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

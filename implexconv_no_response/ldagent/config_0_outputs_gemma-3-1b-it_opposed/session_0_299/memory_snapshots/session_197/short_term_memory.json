@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello! I recently read \"Three Cups of Tea\" by Greg Mortenson, and it was an absolutely phenomenal book. The work that Mortenson has done in Afghanistan and Pakistan, building schools and promoting education for girls, is truly remarkable. I think he deserves a Nobel Peace Prize for his efforts. Have you read it?",
+    "conv_id": 108,
+    "session_id": 197
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I haven't read \"Three Cups of Tea,\" but it sounds like a remarkable book. From what I've heard, it has received some great reviews. One book that you might enjoy is \"The House on an Irish Hillside: When You Know Where You've Come From, You Can See Where You're Going.\" It has received excellent feedback and tells a captivating story.",
+    "conv_id": 108,
+    "session_id": 197
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thank you for the recommendation. Can you tell me more about \"The House on an Irish Hillside\"?",
+    "conv_id": 108,
+    "session_id": 197
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Certainly! \"The House on an Irish Hillside\" is a book that is hard to put down. Readers have described it as a captivating and engaging read. The author creates a sense of connection, making it feel like you're talking to an interesting friend. Many readers have loved it and are eagerly awaiting the author's next book.",
+    "conv_id": 108,
+    "session_id": 197
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds intriguing. I'll definitely check it out. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 197
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. If you have any more questions or need further recommendations, feel free to ask. Enjoy reading \"The House on an Irish Hillside\"!",
+    "conv_id": 108,
+    "session_id": 197
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thank you! I will. Have a great day!",
+    "conv_id": 108,
+    "session_id": 197
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You too! Have a wonderful day and happy reading!",
+    "conv_id": 108,
+    "session_id": 197
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi! I really enjoyed watching \"X-Men Origins: Wolverine\"! Loved it! Loved it! Loved it! Hugh Jackman is tremendous in this role. Look forward to the next movie as Wolverine!",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's great to hear! Hugh Jackman indeed delivers an amazing performance as Wolverine. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend me a movie?",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! I recommend \"The Descendants\". It's a great movie to watch with family. It features real-life events that actually happen in life. George Clooney is hilarious in this movie.",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Oh, I've already seen \"The Descendants\". It was a fantastic movie!",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I see. In that case, I suggest you check out \"Red 2\". It might be a movie you'd enjoy.",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about \"Red 2\"?",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Certainly! \"Red 2\" is a thrilling spy/adventure/slapstick combination film with an amazing star-studded cast including Dame Mirren, Bruce Willis, Catherine Zeta-Jones, Malkovich, and Anthony Hopkins. The performances are captivating, especially Hopkins playing the sane psychopath. The movie has good chases, fights, and effects, but it's the presence of these incredible actors that brings it to life.",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Alright, \"Red 2\" sounds interesting. I'll give it a try!",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Great! If you need any more recommendations, feel free to ask. Enjoy watching \"Red 2\"!",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you for your help! I appreciate it.",
+    "conv_id": 109,
+    "session_id": 197
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 197
+  }
+]

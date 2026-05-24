@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, my name is Diane B and I really enjoyed watching \"Save the Last Dance\" and \"Save the Last Dance 2\". I thought I already had these movies, but when I wanted to watch them again, I couldn't find them, so I ordered them.",
+    "conv_id": 108,
+    "session_id": 258
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: That's great to hear! I'm glad you enjoyed \"Save the Last Dance\" and \"Save the Last Dance 2\". When a young ballet dancer named Julia Stiles moves to Chicago after her mother's tragic death, she gives up on ballet until she discovers the joy of dancing to hip hop rhythms at an urban high school dance club called STEPPS.",
+    "conv_id": 108,
+    "session_id": 258
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: That sounds interesting! Can you recommend me something similar?",
+    "conv_id": 108,
+    "session_id": 258
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! Based on your preferences, you might like \"Monster Pies\". It's a coming-of-age and coming-out tale about a lonely boy named Mike who forms a relationship with a new boy named William. They create a video remake based on classic monster tales like Frankenstein and the Wolfman. It's a heartfelt independent film with proper screen chemistry between the leads.",
+    "conv_id": 108,
+    "session_id": 258
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Sounds good! I'll give it a try.",
+    "conv_id": 108,
+    "session_id": 258
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Great! I hope you enjoy \"Monster Pies\". If you have any more questions or need further recommendations, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 258
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey there! I just wanted to chat about one of my favorite movies, Gilda. I recently purchased the DVD and I absolutely love Rita Hayworth's performance in it. She is stunning and the story is captivating. What are your thoughts on Gilda?",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Oh, I completely agree! Gilda is a fantastic film. Rita Hayworth's performance is mesmerizing. The chemistry between her and Glen Ford is palpable. It's a classic movie that never fails to impress. By the way, have you seen Silver Screen Romances: 8 Movie Set? It features some great films starring Judy Holliday and Rita Hayworth.",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Actually, I have already seen Silver Screen Romances: 8 Movie Set. While I appreciate the collection, I found some of the movies a bit slow and not as enjoyable as I had hoped.",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand. No worries then. How about A Tree Grows in Brooklyn VHS? It's a wonderful film adaptation of the classic book by Betty Smith. The performances are outstanding, especially Peggy Ann Garner as the young protagonist. I highly recommend it.",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I have already seen A Tree Grows in Brooklyn VHS. It's a beautiful film that captures the essence of the book.",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Alright, no problem. In that case, you might be interested in TCM Greatest Classic Film Collection: Astaire & Rogers. It's a delightful collection of films showcasing the incredible dancing and chemistry between Fred Astaire and Ginger Rogers. I can provide more details if you'd like.",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Hmm, I'm not sure. Can you tell me more about TCM Greatest Classic Film Collection: Astaire & Rogers?",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Absolutely! TCM Greatest Classic Film Collection: Astaire & Rogers is a timeless collection of films that showcases the sheer delight of watching Astaire and Rogers dance together. The storylines are simple yet enjoyable, and the films truly entertain without any awkward moments. They are definitely worth watching multiple times. This collection is highly recommended by many who appreciate the art of dance in film.",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Alright, I'll give it a go. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask. Enjoy the movies!",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: I appreciate your help, but I don't need any more recommendations at the moment. Thanks again!",
+    "conv_id": 109,
+    "session_id": 258
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you ever need anything in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 258
+  }
+]

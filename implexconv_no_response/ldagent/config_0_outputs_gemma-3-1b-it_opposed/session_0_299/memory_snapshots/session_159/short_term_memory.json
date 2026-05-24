@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 5184000.0,
+    "dialog": "User: Hello, I had a bad experience with the Bluedio T3 Extra Bass Bluetooth Headphones. The sound quality was decent, but they were way too heavy and caused headaches. After the first day, they refused to pair and became unusable.",
+    "conv_id": 120,
+    "session_id": 159
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 5184000.0,
+    "dialog": "Agent: I'm sorry to hear about your experience with the Bluedio T3 headphones. While they do offer good sound quality at an affordable price, it seems like the weight and pairing issues were major drawbacks. Is there anything specific you're looking for in a new recommendation?",
+    "conv_id": 120,
+    "session_id": 159
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 5185200.0,
+    "dialog": "User: I'm not interested in the Garmin v\u00edvofit 2 Activity Tracker either. The band is difficult to keep on during workouts, the sync function stopped working after a software update, and it's not very accurate. It's just not a reliable fitness tracker for me.",
+    "conv_id": 120,
+    "session_id": 159
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 5185200.0,
+    "dialog": "Agent: I understand your concerns with the Garmin v\u00edvofit 2. It can be frustrating when a fitness tracker doesn't live up to expectations. How about considering the Samsung 64GB EVO Select Micro SDXC Memory Card? It has received positive reviews, offering fast read and write speeds, waterproof and temperature-proof features, and a generous warranty.",
+    "conv_id": 120,
+    "session_id": 159
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 5186400.0,
+    "dialog": "User: Hmm, that sounds interesting. Can you tell me more about the Samsung EVO Select Micro SDXC Memory Card?",
+    "conv_id": 120,
+    "session_id": 159
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 5186400.0,
+    "dialog": "Agent: Of course! The Samsung EVO Select Micro SDXC Memory Card is a Class 10 card that is noticeably faster than older Class 10 cards, with read speeds of 80 MB/s and write speeds of 20 MB/s. It works perfectly as extra storage for phones, tablets, cameras, and more. It's also waterproof, temperature-proof, X-ray-proof, and magnet-proof. Customers have praised its performance and durability.",
+    "conv_id": 120,
+    "session_id": 159
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 5187600.0,
+    "dialog": "User: That sounds great! I'll go with the Samsung EVO Select Micro SDXC Memory Card. Thanks for the recommendation.",
+    "conv_id": 120,
+    "session_id": 159
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 5187600.0,
+    "dialog": "Agent: You're welcome! I'm glad the recommendation suits your needs. Is there anything else I can help you with or any other recommendations you're looking for?",
+    "conv_id": 120,
+    "session_id": 159
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 5188800.0,
+    "dialog": "User: No, thank you. Your assistance has been really helpful. I appreciate it.",
+    "conv_id": 120,
+    "session_id": 159
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 5188800.0,
+    "dialog": "Agent: It was my pleasure assisting you. If you have any more questions in the future, feel free to ask. Have a great day!",
+    "conv_id": 120,
+    "session_id": 159
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 5227200.0,
+    "dialog": "User: Hello, I'm Electric Eclectic. I really enjoyed reading \"Con Thien: The Hill of Angels\". It's such a good book, and I think the Marines deserve a lot of credit for their bravery.",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 5227200.0,
+    "dialog": "Agent: Hi Electric Eclectic! I'm glad to hear that you enjoyed \"Con Thien: The Hill of Angels\". The Marines indeed deserve immense credit for their bravery. How can I assist you today? Please note that I'm not here to recommend anything.",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 5228400.0,
+    "dialog": "User: Can you recommend a book for me?",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 5228400.0,
+    "dialog": "Agent: Sure! How about \"Young Men and Fire: Twenty-fifth Anniversary Edition\"? It's an incredible book that combines mystery, scientific study, history, biography, and a poetic tribute to the land.",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 5229600.0,
+    "dialog": "User: Thank you for the recommendation, but I've already read that book before. Do you have any other suggestions?",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 5229600.0,
+    "dialog": "Agent: Of course! How about \"Wings on My Sleeve\"? It's a fascinating biography of a renowned test pilot, Captain Brown. The book offers insights into the planes used by Germany and Great Britain during WWII, and Captain Brown's experiences as a test pilot. It has received positive reviews, such as the one that describes it as a delightful biography of a military flying career.",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 5230800.0,
+    "dialog": "User: Thanks for the suggestion, but I've already read \"Wings on My Sleeve\" as well. Do you have any other recommendations?",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 5230800.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in \"Wings on My Sleeve\" again. It's a delightful biography of one of Britain's best-known and most successful test pilots. The book offers a humorous and understated account of his military flying career. However, please note that there are some concerns about the binding and image quality in the paperback edition, as mentioned in a review.",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 5232000.0,
+    "dialog": "User: That sounds intriguing, and I don't mind the minor issues. I'll gladly accept the recommendation.",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 5232000.0,
+    "dialog": "Agent: Great! I'm glad you're interested. If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 5233200.0,
+    "dialog": "User: Thank you for your help, but I don't need any more recommendations at the moment. I really appreciate your assistance.",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 5233200.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 5234400.0,
+    "dialog": "User: You too! Goodbye.",
+    "conv_id": 121,
+    "session_id": 159
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 5234400.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 121,
+    "session_id": 159
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: S. Lewis(A17W7VK6YQFV8P)",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello S. Lewis! I see that you enjoyed reading \"The Romanov Empress: A Novel of Tsarina Maria Feodorovna\". It must have been a fascinating book about Russia's last Tsar, Maria Feodorovna. What did you think of it?",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Oh, it was absolutely fascinating! I knew very little about the Romanov Empire, so it was a completely new experience for me. The book was written in such a way that I felt like I was right there witnessing everything first hand. It's definitely a must-read for fans of historical fiction!",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: That's great to hear! If you enjoyed \"The Romanov Empress\", I think you might also like \"Girl Missing (Previously published as Peggy Sue Got Murdered): A Novel\". It's a thrilling novel by Tess Gerritsen, who seamlessly combines romance and mystery. The characters are very personable, and the storyline keeps you guessing until the very end.",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thank you for the recommendation, but I've already read \"Girl Missing\". It was a fantastic book with a perfect balance of romance and mystery. I really enjoyed it.",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I apologize for the oversight. In that case, how about \"Suicide Club: A Novel About Living\"? It's a thought-provoking book that explores a dystopian future and raises questions about the meaning of life. However, I understand if it's not your cup of tea.",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Actually, I've already read \"Suicide Club\" as well. It didn't quite meet my expectations as the plot and characters lacked depth. I'm looking for something different.",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I apologize for the recommendation not meeting your expectations. In that case, I suggest \"The Romanov Empress: A Novel of Tsarina Maria Feodorovna\". It seems to align with your interests and it has received positive reviews. It delves into the life of Maria Feodorovna, her struggles, and her resilience. I think you'll find it captivating.",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds interesting! I'm definitely interested in reading more about Maria Feodorovna. Can you tell me more about the book?",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Certainly! \"The Romanov Empress: A Novel of Tsarina Maria Feodorovna\" tells the story of Maria Feodorovna, who hailed from a poor royal family in Denmark. She marries young and becomes the tsarina of Russia, while her sister marries Queen Victoria's son and becomes the queen of England. The book explores Maria's transition to a regal lifestyle, her challenges in commanding a household, her involvement in politics, and her experiences during the Russian Revolution. It portrays her as a strong and compassionate woman who strives to help those in need. It's a captivating historical fiction novel that will leave you wanting to learn more about real history.",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: That sounds intriguing! I'll definitely give it a read. Thank you for the recommendation.",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! I hope you enjoy reading \"The Romanov Empress\". If you have any more questions or need further recommendations, feel free to ask. Happy reading!",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you! I'll be sure to reach out if I need more recommendations. Have a great day!",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: You too! Take care and happy reading!",
+    "conv_id": 108,
+    "session_id": 210
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Santeria. I really enjoyed watching \"I, Madman VHS.\" It was a great film with a superb tone. The leading lady was fantastic, and the makeup was top-notch. I also liked \"Dead Again VHS\" because of its intriguing storyline and excellent cast. Another favorite of mine is \"I Dream of Jeannie: Season 1.\" It's a pleasure to finally have the complete series on DVD.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello Santeria! I'm glad to hear that you enjoyed \"I, Madman VHS\" and found it to be a great film. The superb tone and talented cast definitely make it worth watching. Is there anything specific you'd like to discuss or ask about?",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Sure, I'm interested in getting some movie recommendations.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Of course! Based on your previous likes, I would recommend \"Dead Again VHS.\" It's a captivating film with plot twists and surprises. The direction and performances are exceptional.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I appreciate the recommendation, but I've actually seen \"Dead Again VHS\" before.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Noted. In that case, I suggest checking out \"I Dream of Jeannie: Season 1.\" It's a classic TV show that brings lots of fun. If you prefer the original black and white format, you can still find those episodes.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you for the suggestion, but I've already watched \"I Dream of Jeannie: Season 1\" as well.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Understood. In that case, you might be interested in \"Still Life NON-USA FORMAT, PAL, Reg.0 Italy.\" It's a beautifully done movie that explores themes of workplace treatment and the power of caring hearts. It's uplifting and has a remarkable use of faith.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds intriguing. Can you tell me more about the movie?",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! \"Still Life NON-USA FORMAT, PAL, Reg.0 Italy\" is a realistic and moving film that depicts the importance of compassion in government occupations. It showcases exceptional acting, directing, and cinematography. The story is thought-provoking and has a few surprising moments that might be intense for sensitive viewers.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: I'm definitely interested in watching it. Thank you for the recommendation.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 26,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you, but I'm good for now. I appreciate your help.",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 27,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any more inquiries in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 28,
+    "virtual_seconds": 4717200.0,
+    "dialog": "User: Thanks, you too. Goodbye!",
+    "conv_id": 109,
+    "session_id": 210
+  },
+  {
+    "idx": 29,
+    "virtual_seconds": 4717200.0,
+    "dialog": "Agent: Goodbye and take care!",
+    "conv_id": 109,
+    "session_id": 210
+  }
+]

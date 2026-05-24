@@ -1,0 +1,184 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I'm Kindle Customer. I recently enjoyed reading \"Divorce Horse (Walt Longmire Mysteries)\" and I have a review to share. Craig Johnson always tells a good tale. I thoroughly enjoyed this short story. As a Wyoming native, I also like the fact that his settings are True to life. And if you are ever in Buffalo, WY, have lunch at the Busy Bee Cafe. You might not see Walt there, but you can get a great burger and enjoy the quirky decor and the creek running by!",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello, Kindle Customer! I'm glad to hear that you enjoyed \"Divorce Horse (Walt Longmire Mysteries)\". It seems like you appreciate the authentic settings in Craig Johnson's books. If you're looking for another great read, I recommend \"Hunting Ground (Alpha and Omega)\". It's a thrilling spin-off series from the Mercy Thompson series, set in a world where werewolves, vampires, and magic exist. The action, suspense, and love story are captivating.",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thank you for the recommendation, but I have already seen \"Hunting Ground (Alpha and Omega)\" before.",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand. In that case, I suggest you check out \"Broken Soul (Jane Yellowrock)\". It's another fantastic book that explores the character of Soul and other broken souls in Jane Yellowrock's world. Faith Hunter never disappoints with her storytelling, and I'm sure you'll enjoy it.",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thank you for the recommendation, but I have already seen \"Broken Soul (Jane Yellowrock)\" before as well.",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I see. In that case, you might be interested in \"Portraits of Courage: A Commander in Chief's Tribute to America's Warriors\". It's a powerful collection of stories and paintings honoring America's warriors. It received positive reviews, and many readers have enjoyed it, just like your mom who received it as a birthday gift and loved it.",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds interesting. Can you tell me more about \"Portraits of Courage: A Commander in Chief's Tribute to America's Warriors\"?",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Absolutely! \"Portraits of Courage\" is a heartfelt tribute to America's warriors, featuring captivating stories and beautiful paintings. It was a birthday gift for someone's mom, who thoroughly enjoyed it and even wanted to pass it on to her brother. The stories and paintings are inspiring and leave a lasting impact. It's definitely worth a read!",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds great! I'll accept your recommendation for \"Portraits of Courage: A Commander in Chief's Tribute to America's Warriors\". Thank you!",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! I'm glad you're interested in \"Portraits of Courage\". If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your help, but I'm good for now. I appreciate your assistance!",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! I'm happy to help. If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 92
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Gio! I really enjoyed watching \"Burn After Reading,\" it was a fantastic film. The Coen Brothers did an amazing job capturing the quirky and absurd nature of the characters. Have you seen it?",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Gio! Glad to hear you enjoyed \"Burn After Reading.\" It's indeed a remarkable film by the Coen Brothers. Let's delve into a conversation about movies. What other films do you like?",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Well, I also liked \"The Visitor.\" It had a brilliant performance by Richard Jenkins. Such a touching and subtle film. Have you seen it?",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Oh, \"The Visitor\" is a gem! Richard Jenkins truly delivered a remarkable performance. The film beautifully portrays the humanity of different characters and their unique journeys. It's definitely worth watching.",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen \"The Visitor.\" Do you have any other films in mind?",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Ah, no worries. How about \"Mongol: The Early Years of Genghis Khan\"? Although it received mixed reviews, it offers an interesting perspective on Genghis Khan's rise to power. However, I understand if it's not your cup of tea.",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Actually, I've seen \"Mongol\" too, and it didn't quite resonate with me. I found it lacking intellectual depth and the battle scenes seemed unrealistic. Any other recommendations?",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand your viewpoint on \"Mongol.\" In that case, you might want to consider \"Nebraska.\" It's a heartfelt film that tells the story of a man's journey to claim his million-dollar prize. The performances, especially by Bruce Dern, are outstanding. It captures the essence of small-town America beautifully.",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Hmm, I'm not familiar with \"Nebraska.\" Can you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! \"Nebraska\" is a touching film that explores family dynamics and nostalgia. It takes you on a journey through the fading towns of Montana, Wyoming, South Dakota, and Nebraska. The set design, speech patterns, and scenery evoke a sense of familiarity. Bruce Dern's portrayal of the main character is a role of a lifetime. The film received critical acclaim and was even nominated for multiple Golden Globe awards.",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: That sounds intriguing. I'll give \"Nebraska\" a shot. Thanks for the recommendation!",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! I hope you enjoy watching \"Nebraska.\" If you have any more questions or need further recommendations, feel free to ask. Have a great time watching!",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 24,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you, I appreciate it. Have a great day!",
+    "conv_id": 109,
+    "session_id": 92
+  },
+  {
+    "idx": 25,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You too, Gio! Take care and enjoy your movie night!",
+    "conv_id": 109,
+    "session_id": 92
+  }
+]

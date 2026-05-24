@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Thirteenhens(A12M7PX66CEO9A)",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Thirteenhens! I hope you're doing well. I see that you didn't enjoy the book \"Happy Mail: Keep in touch with cool & stylish handmade snail mail!\" based on your review. I understand that the book didn't meet your expectations. In that case, I recommend another book called \"Out of Our Minds: Learning to Be Creative.\" It's a refreshing read and offers valuable insights, especially if you're having trouble deciding what your kids should study or pursuing a career in the arts. Would you like me to tell you more about it?",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: No, thank you. I didn't enjoy \"Out of Our Minds: Learning to Be Creative\" either. It just wasn't my kind of read.",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I understand. In that case, I recommend a different book called \"Boys.\" Although I see that you gave it a low rating, it might appeal to you for certain aspects. Let me provide you with more information about it.",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: No, thank you. I didn't like \"Boys\" either. It just didn't capture my interest.",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, I suggest you consider \"The War of Art: Break Through the Blocks and Win Your Inner Creative Battles.\" Based on your review, it seems like a book you might like. It explores the concept of fulfilling our calling and overcoming self-defeating behavior. Would you like to know more about it?",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Yes, I'm interested. Could you please provide more details about \"The War of Art: Break Through the Blocks and Win Your Inner Creative Battles\"?",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! \"The War of Art\" is a thought-provoking book that delves into the challenges we face in pursuing our creative endeavors. It emphasizes the importance of overcoming resistance and staying focused on the work itself, rather than being consumed by the outcome. The author, Pressfield, shares his own personal journey and offers valuable insights on inspiration and the creative process. It received a positive overall rating of 5.0, and readers appreciate the wisdom it imparts. It's definitely worth considering if you're looking for guidance in overcoming creative blocks.",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: That sounds intriguing. I'll give \"The War of Art: Break Through the Blocks and Win Your Inner Creative Battles\" a try.",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Great! I'm glad you're interested. If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you for your help and recommendations. I appreciate it.",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any more queries in the future, feel free to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 295
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Tara. I really enjoyed reading \"Self-Compassion: The Proven Power of Being Kind to Yourself\". It was a great book that made me realize how hard I was on myself. I still have a long way to go, but it helped me start thinking differently.",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: That's wonderful to hear! Another book you might enjoy is \"Never Go Back: 10 Things You'll Never Do Again\". It has received great reviews and provides valuable wisdom in making positive changes in life.",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I appreciate the recommendation, but I have to pass on \"The Four Doors: A Guide to Joy, Freedom, and a Meaningful Life\". It felt repetitive and not motivating enough for me.",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Understood. How about \"Never Go Back: 10 Things You'll Never Do Again\"? It's a highly recommended book that can offer encouragement and guidance in various life situations.",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: That sounds interesting! Can you provide more details about the book?",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Absolutely! One reader mentioned that after watching Dr. Cloud's webinar, they found \"Never Go Back\" to be one of his best books. It offers practical wisdom that is applicable to adults and teenagers alike. It provides encouragement and guidance to take the right steps in different situations. It's a book worth returning to for reference as well.",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds really helpful. I'll accept your recommendation.",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Great! Is there anything else you'd like me to recommend?",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you for your suggestions, but I'm good for now. I appreciate your help.",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you, you too. Goodbye!",
+    "conv_id": 109,
+    "session_id": 295
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Goodbye!",
+    "conv_id": 109,
+    "session_id": 295
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hey, how's it going? I just watched \"The Darkness\" and it was not great at all. The previews looked promising, but it turned out to be disappointing. Did you watch it?",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hey there! Sorry to hear that \"The Darkness\" didn't live up to your expectations. Sometimes movies can be a hit or miss. But no worries, let's not dwell on that. How can I assist you today?",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: I'm looking for a movie recommendation. Got any suggestions?",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Absolutely! How about \"Red Dog\"? It's a heartwarming movie about an Australian cattle dog that bonds a mining community. It's based on true events and has received great reviews. People really loved the dog's people skills and sense of adventure. It's a feel-good film that brings people together.",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Ah, I've actually seen \"Red Dog\" before, and I absolutely loved it. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Of course! How about \"Lovely Molly\"? It's a horror film that follows the story of a woman who becomes possessed. However, I must inform you that it received mixed reviews, and some viewers found it too explicit and not particularly engaging.",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thanks for the suggestion, but I've actually seen \"Lovely Molly\" as well, and it didn't quite resonate with me. Got any other recommendations?",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Sure thing! How about \"Ted\"? It's a comedy film about a man and his teddy bear that came to life. It stars Mark Wahlberg, Mila Kunis, and Seth MacFarlane. Although it received mixed reviews, many viewers found it hilarious and enjoyed the chemistry between the cast.",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm sorry, but I've already seen \"Ted\" too and it didn't quite meet my expectations. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: No problem! How about \"Big Game\"? It's an action movie starring Samuel L. Jackson as the President of the United States. After his plane crash-lands in the wilderness, he must team up with a 13-year-old boy to survive and fight against terrorists. It's an exciting and fun film with a unique storyline.",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: That sounds interesting! I'll give \"Big Game\" a shot. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! Enjoy watching \"Big Game\" and have a great time. If you need any more recommendations in the future, feel free to ask. Have a fantastic day!",
+    "conv_id": 108,
+    "session_id": 45
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Jo from Texas(A11QW83UD65XSX). I really enjoyed reading \"Targeted (Callahan & McLane)\" with an overall rating of 4.0. The only issue I had was the violence, it doesn't work for me before bedtime. I'm not a fan of animal abuse either. But the gripping plots, well-written characters, and satisfying endings kept me engaged.",
+    "conv_id": 109,
+    "session_id": 45
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hi Jo! I completely understand your concerns about the violence and animal abuse in \"Targeted (Callahan & McLane)\". If you're looking for something different, I highly recommend \"A Drop in the Ocean: A Novel\", which has an overall rating of 5.0. It's a captivating story about self-discovery on a secluded island. The close-knit community, unique characters, and the aftermath of a storm make it truly fascinating.",
+    "conv_id": 109,
+    "session_id": 45
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I'm not interested.",
+    "conv_id": 109,
+    "session_id": 45
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: That's alright, Jo. How about considering \"A Drop in the Ocean: A Novel\"? It might be a perfect fit for your taste.",
+    "conv_id": 109,
+    "session_id": 45
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Sure, I'll give it a try.",
+    "conv_id": 109,
+    "session_id": 45
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Great! If you need any more recommendations or assistance, feel free to let me know.",
+    "conv_id": 109,
+    "session_id": 45
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thank you for your help.",
+    "conv_id": 109,
+    "session_id": 45
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome, Jo! If you have any more questions or need further assistance in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 45
+  }
+]

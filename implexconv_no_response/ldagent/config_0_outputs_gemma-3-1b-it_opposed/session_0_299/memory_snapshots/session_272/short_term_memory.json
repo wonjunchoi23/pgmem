@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4924800.0,
+    "dialog": "User: Hello! I hope you're doing well today. I wanted to talk about a book called \"Liberty Defined: 50 Essential Issues That Affect Our Freedom\" and share my review on it.",
+    "conv_id": 114,
+    "session_id": 272
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4924800.0,
+    "dialog": "Agent: Oh, I see! You mentioned \"Liberty Defined: 50 Essential Issues That Affect Our Freedom.\" Let me share a review I found on it. According to another reader, they mention that Ron Paul, the author, takes absolutist positions and offers too many excuses instead of understanding the true nature of fanaticism.",
+    "conv_id": 114,
+    "session_id": 272
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4926000.0,
+    "dialog": "User: Thank you for sharing the review. Now, I'd like to ask if you have any book recommendations for me?",
+    "conv_id": 114,
+    "session_id": 272
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4926000.0,
+    "dialog": "Agent: Absolutely! I recommend \"The Outline of History: Being A Plain History of Life and Mankind.\" Based on a review I found, this book is highly regarded as a comprehensive and chronological compilation of historical events up until the second World War. It provides a great reference for putting historical events into context.",
+    "conv_id": 114,
+    "session_id": 272
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4927200.0,
+    "dialog": "User: That sounds really interesting! I'm definitely interested in learning more about that book. Can you provide me with more details from the review?",
+    "conv_id": 114,
+    "session_id": 272
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4927200.0,
+    "dialog": "Agent: Certainly! According to the review, the book is highly recommended for history buffs. It covers a wide range of rulers throughout history and offers a valuable historical context. Although it doesn't cover events beyond the second World War, it is considered the best chronological compilation the reviewer has come across.",
+    "conv_id": 114,
+    "session_id": 272
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4928400.0,
+    "dialog": "User: Thank you for sharing those details. I'm convinced that \"The Outline of History\" is worth reading. I appreciate your recommendation.",
+    "conv_id": 114,
+    "session_id": 272
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4928400.0,
+    "dialog": "Agent: You're welcome! I'm glad you found the recommendation appealing. If you have any more questions or need further assistance, feel free to ask. Enjoy reading \"The Outline of History\"!",
+    "conv_id": 114,
+    "session_id": 272
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4929600.0,
+    "dialog": "User: Thank you once again. I will definitely enjoy reading it. Have a great day!",
+    "conv_id": 114,
+    "session_id": 272
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4929600.0,
+    "dialog": "Agent: You too! Have a wonderful day ahead. Goodbye!",
+    "conv_id": 114,
+    "session_id": 272
+  }
+]

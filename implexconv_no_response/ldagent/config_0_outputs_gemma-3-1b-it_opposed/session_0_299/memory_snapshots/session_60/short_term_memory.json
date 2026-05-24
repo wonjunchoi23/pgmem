@@ -1,0 +1,114 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there, I hope you're doing well. I wanted to talk about the Ibera Bicycle All Weather Rain Cover for Commuter Bags and Panniers. I had some issues with it and found it difficult to put on when it rained. The design with the pleats is off.",
+    "conv_id": 108,
+    "session_id": 60
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I see. I actually had a great experience with the Ibera Bicycle All Weather Rain Cover. It worked perfectly for me during a bike rally for recumbent trikes. It was easy to fix on and everything stayed dry. Plus, it's reasonably priced.",
+    "conv_id": 108,
+    "session_id": 60
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thanks for sharing your experience. Can you recommend something else for me?",
+    "conv_id": 108,
+    "session_id": 60
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! I recommend the Wellgo Touring City Road Bike Platform Pedals Alloy Sealed. They have great grip and almost feel like clipless pedals. They are better than regular platform pedals and don't pinch like cage pedals. Overall, they are solid pedals, just a bit heavy and slightly more expensive.",
+    "conv_id": 108,
+    "session_id": 60
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds interesting. I'll give them a try. Thanks for the recommendation.",
+    "conv_id": 108,
+    "session_id": 60
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: You're welcome! If you have any more questions or need further assistance, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 60
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi there! I had a bad experience with the Gaiam Restore Balance Seats, as mentioned in my review. It kept deflating and becoming uncomfortable. Do you have any other recommendations for a seat cushion?",
+    "conv_id": 109,
+    "session_id": 60
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your dissatisfaction with the Gaiam Restore Balance Seats. Based on another customer's review, I recommend the HULL HUGR Contour Fender, Blue. They provide good protection for boats and have a different design.",
+    "conv_id": 109,
+    "session_id": 60
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I appreciate the recommendation, but I actually had a negative experience with the HULL HUGR Contour Fender, Blue as well, as mentioned in my review. They didn't offer the same level of protection as traditional round fenders. So, I'm not interested in trying them again.",
+    "conv_id": 109,
+    "session_id": 60
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I see. In that case, let me suggest the Pro Shot Gun Care Lead Cleaning Cloth. It has received positive reviews and can be useful for cleaning various surfaces, including stainless steel.",
+    "conv_id": 109,
+    "session_id": 60
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Hmm, that sounds interesting. Can you provide more details about the Pro Shot Gun Care Lead Cleaning Cloth and its applications?",
+    "conv_id": 109,
+    "session_id": 60
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Certainly! According to another customer's review, the Pro Shot Gun Care Lead Cleaning Cloth is highly recommended for cleaning not only firearms but also other surfaces like stainless steel and nickel. It's a versatile product that delivers great results.",
+    "conv_id": 109,
+    "session_id": 60
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Alright, I'll give it a try. Based on the positive review you shared, I think it's worth a shot.",
+    "conv_id": 109,
+    "session_id": 60
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Great to hear that! If you need any more recommendations or assistance, feel free to let me know.",
+    "conv_id": 109,
+    "session_id": 60
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you for your help. I appreciate the recommendation and your assistance.",
+    "conv_id": 109,
+    "session_id": 60
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. If you have any more questions or need further help in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 60
+  }
+]

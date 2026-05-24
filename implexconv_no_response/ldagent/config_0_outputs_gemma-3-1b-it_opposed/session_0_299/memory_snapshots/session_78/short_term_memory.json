@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I hope you're doing well. I had a bad experience with the Balega Hidden Comfort Athletic No Show Running Socks for Men and Women with Seamless Toe. They were uncomfortable and moved around while I was running. Not for me.",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I'm sorry to hear that you had a disappointing experience with those socks. Is there anything else I can help you with?",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Yes, I would like a recommendation for a product.",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure, I recommend the HDE Neoprene Zippered Golf Club Iron Covers - Set of 10. They provide excellent protection for your golf clubs while traveling. Customers have praised their quality and how well they fit.",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I appreciate the recommendation, but I've already seen those golf club covers before.",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, I suggest trying the Balega Hidden Comfort Athletic No Show Running Socks for Men and Women with Seamless Toe in the X-Large size. They have received positive reviews for their comfort and fit.",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: I'm sorry, but I had a bad experience with the X-Large size socks too.",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: I apologize for the inconvenience. How about giving the Balega Hidden Comfort Athletic No Show Running Socks for Men and Women with Seamless Toe in the Medium size another try? Customers have found them to be comfortable and suitable for running.",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Unfortunately, I also had a bad experience with the Medium size socks.",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: I apologize for the repeated disappointment. In that case, you might like the Third Eye Headlamps - Totally Awesome Headbands. They have received positive reviews for their quality and comfort.",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: That sounds good, I'll give them a try.",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: Great! I hope you enjoy using the Third Eye Headlamps - Totally Awesome Headbands. If you have any more questions or need further assistance, feel free to ask. Have a wonderful day!",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4672800.0,
+    "dialog": "User: Thank you!",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4672800.0,
+    "dialog": "Agent: ",
+    "conv_id": 108,
+    "session_id": 78
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I recently watched Legally Blonde 2 and I was really disappointed. The movie felt like it was made for kids with its bright colors and bad acting. I loved the first Legally Blonde movie, but this one was really hard to watch. It wasn't even funny, just stupid. Such a waste of time and money.",
+    "conv_id": 109,
+    "session_id": 78
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your disappointment with Legally Blonde 2. Sequels are often not as good as the original. However, if you're looking for a different movie, I would recommend Darkness. It has received positive reviews, especially for its lighting and cinematography.",
+    "conv_id": 109,
+    "session_id": 78
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Thanks for the recommendation, but I actually watched Darkness and I didn't like it at all. The story was unclear and it wasn't scary as advertised. It felt like a waste of time. I wouldn't recommend it to anyone.",
+    "conv_id": 109,
+    "session_id": 78
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I apologize for the disappointment with Darkness. In that case, how about giving Signs a try? It has received positive reviews and offers a unique blend of fright, humor, and emotional moments.",
+    "conv_id": 109,
+    "session_id": 78
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I'm sorry, but I've already seen Signs and it didn't impress me. The aliens seemed weak and the story was not engaging enough. I wouldn't watch it again.",
+    "conv_id": 109,
+    "session_id": 78
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: I understand. In that case, you might enjoy They Live. It has received great reviews and features memorable performances from Keith David and Roddy Piper.",
+    "conv_id": 109,
+    "session_id": 78
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! I'll give They Live a try. Thank you for the recommendation.",
+    "conv_id": 109,
+    "session_id": 78
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Enjoy watching They Live!",
+    "conv_id": 109,
+    "session_id": 78
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it. Have a great day!",
+    "conv_id": 109,
+    "session_id": 78
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! I'm glad I could assist you. Have a wonderful day too. If you need anything else, feel free to reach out. Goodbye!",
+    "conv_id": 109,
+    "session_id": 78
+  }
+]

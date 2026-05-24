@@ -1,0 +1,86 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4838400.0,
+    "dialog": "User: Hi, I recently purchased the Epivive Velocity Stars & Stripes American Flag Athletic Crew Patriotic Mismatch Socks and I must say, they are amazing! They are comfortable, unique, and perfect for everyday wear. I love the design and the fact that they are made in the USA. Definitely a great purchase!",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4838400.0,
+    "dialog": "Agent: That's awesome to hear! I'm glad you're enjoying the Epivive Velocity Stars & Stripes American Flag Athletic Crew Patriotic Mismatch Socks. They are indeed premium quality socks and a popular choice among athletes. By the way, another product you might like is the Calf Compression Sleeve - Leg Compression Socks for Shin Splint, Calf Pain Relief. They provide great support and comfort for runners like yourself. We have received positive reviews for them as well.",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4839600.0,
+    "dialog": "User: Thanks for the recommendation, but I've actually seen those compression socks before and they didn't quite meet my needs.",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4839600.0,
+    "dialog": "Agent: I understand. In that case, let me suggest something different. Have you considered the Brewski Brothers BEER-PONG144 Beer Pong Balls? They are great for casual ping pong games and have received positive reviews.",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4840800.0,
+    "dialog": "User: Actually, I've read a review about the Brewski Brothers BEER-PONG144 Beer Pong Balls and it seems like they are not worth the money. They break easily and don't bounce well.",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4840800.0,
+    "dialog": "Agent: I apologize for the inconvenience. Let me recommend something else then. How about the Pool Table Billiard Ball Set, Art Number Style? It's a great set for pool enthusiasts and has received positive reviews for its quality and durability.",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4842000.0,
+    "dialog": "User: That sounds interesting. Could you tell me more about the pool table billiard ball set and its features?",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4842000.0,
+    "dialog": "Agent: Absolutely! The Pool Table Billiard Ball Set, Art Number Style is not only visually appealing with its attractive design, but it is also the correct size and made of hard and durable materials. Customers have praised its great value and performance. It's definitely a worthwhile investment for any pool player.",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4843200.0,
+    "dialog": "User: I'm convinced! I'll give the pool table billiard ball set a try. Thanks for the recommendation!",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4843200.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask. Enjoy your new pool table billiard ball set!",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4844400.0,
+    "dialog": "User: Thank you so much for your assistance. I really appreciate it. Have a great day!",
+    "conv_id": 112,
+    "session_id": 89
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4844400.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. Have a fantastic day too!",
+    "conv_id": 112,
+    "session_id": 89
+  }
+]

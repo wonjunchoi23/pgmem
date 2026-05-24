@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2155ae74-0180-4b22-bf5c-ed5c1459e145",
+    "content": "Conversation content on Day 53: [|User|]: Thank you, I appreciate your help. Have a great day!\n[|AI|]: You too! Take care and enjoy your movie. Goodbye!",
+    "timestamp": "0027_0105_0008",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "3f0f58a8-aeaa-4e14-8aef-a6a0de950326",
+    "content": "Conversation content on Day 54: [|User|]: Thanks for the recommendation, but I'm not interested in watching Runner, Runner. The reviews I read about it were not favorable, and I prefer to avoid movies with unclear plot lines.\n[|AI|]: That's alright. If Runner, Runner doesn't appeal to you, how about considering Jack Irish anglais? It's a movie based on the Jack Irish books, set in Melbourne before gentrification. The lead character, Jack Irish, is a lawyer turned private eye after a tragic incident. The story is intriguing, and Guy Pierce delivers a great performance.",
+    "timestamp": "0027_0106_0002",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "0dafb834-5035-4271-8ca9-7c6c27a69428",
+    "content": "Conversation content on Day 54: [|User|]: I'm not familiar with Jack Irish anglais, but it sounds interesting. I'll give it a try without any specific reason.\n[|AI|]: That's fantastic! I hope you enjoy watching Jack Irish anglais. If you need more movie recommendations or further details, feel free to ask.",
+    "timestamp": "0027_0106_0004",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "321a799c-04f8-4b12-94d8-e06b53d22d2e",
+    "content": "Conversation content on Day 54: [|User|]: Thank you for your help. I appreciate the recommendation.\n[|AI|]: You're welcome! If you have any more questions or need assistance in the future, don't hesitate to ask. Have a great day!",
+    "timestamp": "0027_0106_0006",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "79ba56dd-0a24-48c6-bb3a-b8f4040fa2fd",
+    "content": "Conversation content on Day 54: [|User|]: Hey, I've read \"Women Are Crazy, Men Are Stupid: The Simple Truth to a Complicated Relationship\" and I found it quite disappointing. The book didn't offer any real insights or help, just a shallow portrayal of relationships. Do you have any recommendations?\n[|AI|]: Hi RicoTX! I understand your disappointment with \"Women Are Crazy, Men Are Stupid.\" While I can't directly recommend it, based on your interests, I suggest checking out \"The Ice Twins.\" It's a psychological thriller that explores a family's journey after a tragic incident. It's been positively reviewed by others.",
+    "timestamp": "0027_0107_0000",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "78558767-dbe2-4a54-9c6d-a0e318a46e50",
+    "content": "Conversation content on Day 54: [|User|]: That sounds interesting! Can you tell me more about \"The Predictioneer's Game\"?\n[|AI|]: Of course! \"The Predictioneer's Game\" is a comprehensive exploration of game theory and behavioral economics. It provides real-world examples and predictions to test the effectiveness of the theories discussed. It offers valuable insights for those studying game theory and behavioral economics. The book has received positive reviews and is highly recommended.",
+    "timestamp": "0027_0107_0004",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "1db7d3d5-d976-4b75-b11c-f4f5f9d1537f",
+    "content": "Conversation content on Day 54: [|User|]: I'm intrigued! I'll give \"The Predictioneer's Game\" a go. Thanks for the recommendation!\n[|AI|]: You're welcome! If you need any more recommendations or have any other questions, feel free to ask. Happy reading!",
+    "timestamp": "0027_0107_0006",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "cde8cde4-da27-442a-b6a1-7461633ec45d",
+    "content": "Conversation content on Day 54: [|User|]: Thank you for your help. I appreciate it!\n[|AI|]: You're welcome! It was my pleasure to assist you. Have a great day and enjoy your reading!",
+    "timestamp": "0027_0107_0008",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "59117673-e6d5-4fe7-abb9-5e8ee40e881b",
+    "content": "Conversation content on Day 55: [|User|]: Hi there! I recently read \"Clarissa and the Cowboy: An opposites-attract romance,\" and I didn't enjoy it at all. The storyline was too focused on sex, and I prefer books that have more depth to the relationships.\n[|AI|]: I understand your disappointment with \"Clarissa and the Cowboy.\" It's important to have a well-rounded storyline in a romance novel. How can I assist you today?",
+    "timestamp": "0027_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "5746a59a-dfb2-4ad4-936c-e47ab28c00bb",
+    "content": "Conversation content on Day 55: [|User|]: Can you recommend me a book that is different from \"Turn Me Loose (Paradise, Idaho)\"? I found that book to be just okay, and I'm looking for something more enjoyable.\n[|AI|]: I completely understand your preference. Instead, I suggest you try \"Knocked Up By the Billionaire.\" It has an engaging storyline and avoids excessive focus on sex. Another reader had a positive experience with this book. They said, \"Story was easy to read, sad how Dana's life was so tragic but how she let go and started enjoying life. And then how Brady stands up against his father, good ending!\"",
+    "timestamp": "0027_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "af43a396-de55-4077-bd93-754c0eb055da",
+    "content": "Conversation content on Day 55: [|User|]: I appreciate the recommendation, but I also didn't enjoy \"Knocked Up By the Billionaire.\" It had too much sex, and I wasn't a fan of the gambling aspect.\n[|AI|]: I apologize for the inconvenience. In that case, I recommend \"Cinderella-ish (Razzle My Dazzle).\" Although it falls under a similar genre, it has received positive feedback from other readers. One reviewer mentioned, \"Actually regret buying this. Only got 2.5 chapters in and just can't take one more 'omg I'm so hot' guy falls for incredibly stupid nasty girl. Why are authors making their characters do something wrong and make her out like we are supposed to like her? Like I said, not for me. Sorry.\"",
+    "timestamp": "0027_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "e1cbb7e5-07fc-4551-8115-e206906f07b0",
+    "content": "Conversation content on Day 55: [|User|]: Alright, I'll give \"Cinderella-ish (Razzle My Dazzle)\" a try. I appreciate the detailed recommendation.\n[|AI|]: You're welcome! If you need any more recommendations or assistance, feel free to ask. Enjoy your reading!",
+    "timestamp": "0027_0108_0006",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "55048546-279e-478d-94e7-3ae79c45fb2d",
+    "content": "Conversation content on Day 55: [|User|]: Thank you for your help, but I don't need any more recommendations at the moment. Have a great day!\n[|AI|]: You're welcome! If you have any other questions in the future, feel free to ask. Have a wonderful day and happy reading!",
+    "timestamp": "0027_0108_0008",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "9b71524b-93d6-48e2-a70c-1d40c53f471c",
+    "content": "Conversation content on Day 55: [|User|]: ChooseWisely(A17GFS7ZSJ7Y6S)\n[|AI|]: Hello ChooseWisely! I see that you enjoyed reading \"The Legend of St. Nicholas: A Story of Christmas Giving\" according to your review. How can I assist you today?",
+    "timestamp": "0027_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "02ef835c-91ca-40c1-bb7d-664fefebe578",
+    "content": "Conversation content on Day 55: [|User|]: Well, I'm looking for another book recommendation.\n[|AI|]: Of course! I suggest \"Keep It Shut: What to Say, How to Say It, and When to Say Nothing at All\". It has received positive reviews, with one reader saying, \"Sometimes when I am looking for a book to read with my book club, I feel as though the shelves of my local bookstore are filled with commonly themed books. The only difference between one new release and another is the cleverly worded title. Keep It Shut by Karen Ehman is one of the few exceptions.\" What do you think?",
+    "timestamp": "0027_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "e487addb-e2b8-4c02-b573-524eaca5dd1f",
+    "content": "Conversation content on Day 55: [|User|]: Oh, I've already read that one. Do you have any other recommendations?\n[|AI|]: I apologize for recommending a book you've already read. In that case, how about \"The Woman Code\"? Although it has mixed reviews, one reader mentioned, \"I received a copy of this book in exchange for my honest review. I have to admit, I had a very hard time getting through this book. I can't honestly say I liked anything about it.\" What's your take on this?",
+    "timestamp": "0027_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "f02f7c53-3790-4e17-8cb3-f43f45430fbd",
+    "content": "Conversation content on Day 55: [|User|]: I'm sorry, but I didn't enjoy \"The Woman Code\" based on my own review. Any other suggestions?\n[|AI|]: I understand. In that case, I recommend \"Be the Gift: Let Your Broken Be Turned into Abundance\". It has a positive review, stating, \"Once again, Ann writes a beautiful and moving book. A book about how God can use us to be a gift to others. Heartfelt, honest, encouraging, and inspiring, this book will change the way you look at the circumstances in your life and hopefully change your heart at the same time!\" Are you interested in this one?",
+    "timestamp": "0027_0109_0006",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "acb73e4f-6400-4764-8468-5706f3ab71ae",
+    "content": "Conversation content on Day 55: [|User|]: Yes, I'm definitely interested! Can you tell me more about \"Be the Gift: Let Your Broken Be Turned into Abundance\"?\n[|AI|]: Certainly! According to another reader, \"Be the Gift\" is a wonderful and moving book that explains and illustrates the Legend of Santa Claus well! It tells the story of a young boy who rethinks his selfishness and learns the joy of giving. The book captures the message that it's better to give than receive, and also emphasizes the greatest gift we could ever receive - Christ Jesus. It's a heartwarming read that many enjoy revisiting every Christmas season.",
+    "timestamp": "0027_0109_0008",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "f95048e3-25c2-42bc-8609-0b0db5c2658e",
+    "content": "Conversation content on Day 55: [|User|]: That sounds perfect! I'll go ahead and give it a read.\n[|AI|]: Great! I'm glad you're excited about it. Enjoy reading \"Be the Gift: Let Your Broken Be Turned into Abundance\"! If you have any more questions or need further recommendations, feel free to ask.",
+    "timestamp": "0027_0109_0010",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "74c97d9e-b493-43fe-860b-def4e43917ba",
+    "content": "Conversation content on Day 55: [|User|]: Thank you so much for your help. I appreciate it!\n[|AI|]: You're welcome! It was my pleasure assisting you. Have a fantastic reading experience and a wonderful day!",
+    "timestamp": "0027_0109_0012",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

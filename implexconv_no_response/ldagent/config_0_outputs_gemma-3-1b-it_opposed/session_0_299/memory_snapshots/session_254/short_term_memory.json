@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I just wanted to talk about one of my favorite movies, Rear Window VHS. I recently watched it and I thought it was fantastic! The suspense and the portrayal of New York apartment life were really captivating. Have you seen it?",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi William! It's great to hear that you enjoyed Rear Window VHS. As for me, I haven't seen it yet, but I've heard many positive reviews about it. It seems like a classic Hitchcock film. Is there anything specific you would like to discuss about the movie?",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Well, actually, I was looking for a recommendation for a new movie to watch. I've already seen Bend It Like Beckham, which I also loved. Do you have any suggestions?",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure! Based on your liking for Bend It Like Beckham, I would recommend The Way. It's a heartfelt movie that explores themes of self-discovery and personal growth. It may resonate with you.",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Oh, I appreciate the recommendation, but I've already watched The Way before. Can you suggest something else?",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: I understand. In that case, you might like the movie The Way. It's a captivating story about a father's journey along the Camino de Santiago after the death of his son. It delves into themes of self-reflection and finding purpose.",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Hmm, that sounds interesting. Can you tell me more about The Way?",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Certainly! The Way stars Martin Sheen and explores his character's spiritual transformation as he embarks on the pilgrimage. It touches upon themes of faith, self-discovery, and the power of human connections. Although it received mixed reviews, it offers a unique perspective on personal growth and inner exploration.",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Alright, I'll give it a try. Thanks for the recommendation!",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Enjoy watching The Way and have a great time!",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it. Goodbye!",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure to assist you. Have a wonderful day and take care! Goodbye!",
+    "conv_id": 108,
+    "session_id": 254
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Robert S. Clay Jr. I really enjoyed watching Rodan VHS. The movie was a classic sci-fi/monster film with vivid imagery and scenes. It reminded me of the Saturday afternoon matinees I used to watch as a kid. The atmosphere created by the color photography was fantastic. I also liked I Was a Teenage Werewolf VHS, which had a unique twist on the werewolf concept. The '50s setting and the entertaining horror elements made it a great watch.",
+    "conv_id": 109,
+    "session_id": 254
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello Robert, glad to hear that you enjoyed Rodan VHS and I Was a Teenage Werewolf VHS. These movies definitely have their own charm. Is there anything specific you'd like a recommendation for?",
+    "conv_id": 109,
+    "session_id": 254
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Yes, I'm open to recommendations. What do you suggest?",
+    "conv_id": 109,
+    "session_id": 254
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Well, based on your previous likes, I recommend checking out the movie \"Murders in the Zoo VHS\". It's a thrilling B-movie with atmospheric visuals and a quick-paced storyline. It's part of a 5-disc set exclusive to Universal, which includes other classic Universal Horror films.",
+    "conv_id": 109,
+    "session_id": 254
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen \"Murders in the Zoo VHS\". Do you have any other suggestions?",
+    "conv_id": 109,
+    "session_id": 254
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Sure, how about considering \"I Was a Teenage Werewolf VHS\"? It's a cult classic that delves into the concept of regression hypnosis combined with drug-induced transformations. The movie explores the idea of humans with animalistic qualities and the power of the mind. It also captures the essence of a simpler time in America, particularly with the Halloween party scene.",
+    "conv_id": 109,
+    "session_id": 254
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! I'll definitely consider watching \"I Was a Teenage Werewolf VHS\" based on your detailed recommendation.",
+    "conv_id": 109,
+    "session_id": 254
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Great! I think you'll enjoy it. If you need any more recommendations, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 254
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you for your help. I appreciate the recommendations you've provided.",
+    "conv_id": 109,
+    "session_id": 254
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome, Robert! If you have any more questions or need assistance in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 254
+  }
+]

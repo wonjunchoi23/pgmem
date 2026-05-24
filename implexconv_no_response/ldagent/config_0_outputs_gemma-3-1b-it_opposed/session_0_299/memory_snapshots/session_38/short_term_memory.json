@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi! I'm Kyle D. Gendron and I love the Sigma 30mm f/1.4 EX DC HSM Lens for Canon Digital SLR Cameras. It's been a great lens for me with excellent performance. I recently had a mishap with my zoom lens during a vacation, but luckily I had the Sigma lens with me and it performed amazingly well. I've taken about 1000 images with it and I'm really impressed with the focal range and sharpness. The only issue I've encountered is some noise at high ISOs when shooting wide open. Overall, it's a fantastic lens for low light situations and candid shots.",
+    "conv_id": 108,
+    "session_id": 38
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hello, Kyle! I'm glad to hear about your positive experience with the Sigma lens. It sounds like it has been a reliable companion for your photography needs.",
+    "conv_id": 108,
+    "session_id": 38
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Can you recommend me something similar to the Sigma lens?",
+    "conv_id": 108,
+    "session_id": 38
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Of course! Based on your liking for the Sigma lens, you might also like the Apple Lightning to VGA Adapter. It has received positive reviews for its excellent performance and compatibility with projectors. It's a great accessory for business purposes.",
+    "conv_id": 108,
+    "session_id": 38
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds interesting. Can you provide more details about the adapter?",
+    "conv_id": 108,
+    "session_id": 38
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Certainly! The Apple Lightning to VGA Adapter is known for its excellent connectivity and comes in a great package. It has been widely used with projectors and delivers excellent results. Many users have recommended it for business purposes. It's definitely worth considering if you need a reliable adapter for your presentations.",
+    "conv_id": 108,
+    "session_id": 38
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Alright, I'll take your recommendation. Thank you!",
+    "conv_id": 108,
+    "session_id": 38
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome, Kyle! I'm glad I could assist you. If you have any more questions or need further assistance, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 38
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm RealRick. I recently purchased the BESTSUN USB Rechargeable Bike Light Set and I wanted to share my review. It's hard to review simple items like this. It looks and works exactly as shown. So why 4 stars instead of 5? Notice the tightening bolt at the bottom. That black nut is actually a plastic cover that goes over a small metal nut. It works, but it's not as nice as you might think.",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello RealRick! Thank you for sharing your review of the BESTSUN USB Rechargeable Bike Light Set. I appreciate your feedback. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: I'm looking for another product recommendation.",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Of course! Based on your previous likes, I recommend the Lyman Carbide Cutter Accessory. It has received positive reviews from other customers. One customer mentioned that it made a big difference over the plain steel cutter and saved them time. Would you like more information about it?",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Actually, I've already seen the Lyman Carbide Cutter Accessory before, so I'll pass on that recommendation.",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Noted. In that case, I suggest considering the M7 Premium Brown Drum Dyed Leather Tanker Shoulder Holster. It has received excellent reviews, with one customer mentioning that the quality is superb and on par with holsters issued in the Marine Corps. Would you like more details about it?",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Thanks for the recommendation, but I've already seen the M7 Premium Brown Drum Dyed Leather Tanker Shoulder Holster before, so I'll pass on this one too.",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Understood. In that case, you might be interested in the Wheeler Engineering Armorer's Handgun Sight Tool. It has heavy-duty construction and reversible assembly for handguns. It has received positive reviews, with one customer mentioning that it worked flawlessly for changing out factory sights on their XD subcompact. Can I provide more information about it?",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: I'm not sure about that one. Can you tell me more about the Wheeler Engineering Armorer's Handgun Sight Tool?",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! Another customer purchased this tool and mentioned that it was able to remove factory sights on their XD subcompact without any issues. They highlighted the importance of following the instructions, which include using a punch and hammer for certain steps. The new sights went on smoothly. Overall, they were very satisfied with its performance.",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Alright, I'll give it a try. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or assistance, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: No, that's all. Thanks for your help!",
+    "conv_id": 109,
+    "session_id": 38
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a great day!",
+    "conv_id": 109,
+    "session_id": 38
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I recently read \"The First Time is the Hardest: An Austin Brothers Novella\" and I must say it was a struggle for me. The insta-love and the fast-paced story made it hard to believe. Do you have any recommendations?",
+    "conv_id": 108,
+    "session_id": 2
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Susan, I understand your disappointment with \"The First Time is the Hardest.\" How about trying \"Liv (Signature Sweethearts)\"? It has received great reviews and captures a wide range of emotions, including grief, tragedy, and love.",
+    "conv_id": 108,
+    "session_id": 2
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Thanks for the suggestion, but I've already read \"Liv.\" Can you recommend something else?",
+    "conv_id": 108,
+    "session_id": 2
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure, how about \"See Through Heart\"? It's a heartwarming story about Ainsley, Lori, and Adrian. Their connection began when they were children, and as they grew up, their feelings for each other intensified. It's a lovely story that had many readers in tears.",
+    "conv_id": 108,
+    "session_id": 2
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: I appreciate the recommendation, but I'm not really in the mood for another emotional rollercoaster right now. Can you recommend something different?",
+    "conv_id": 108,
+    "session_id": 2
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Absolutely, you might enjoy \"Liv (Signature Sweethearts)\". It's a captivating book that explores themes of pregnancy and second chance romance. The chemistry between Liv and Luke is intense, and the plot moves at a rapid pace, keeping readers hooked.",
+    "conv_id": 108,
+    "session_id": 2
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds intriguing. I think I'll give it a try. Thanks for the suggestion!",
+    "conv_id": 108,
+    "session_id": 2
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! If you need more recommendations in the future, feel free to ask. Enjoy reading \"Liv (Signature Sweethearts)\"!",
+    "conv_id": 108,
+    "session_id": 2
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it!",
+    "conv_id": 108,
+    "session_id": 2
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: It was my pleasure assisting you. Have a great time reading and feel free to reach out if you need anything else. Goodbye!",
+    "conv_id": 108,
+    "session_id": 2
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm daisydookes. I heard you didn't like The Longest Ride. What didn't you like about it?",
+    "conv_id": 109,
+    "session_id": 2
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Nicholas Sparks is just amazing! The Longest Ride was a great and beautiful story of two different lives and how with one little event, your entire life can change. Ira and Ruth were a love through the ages, and Sophia and Luke were a whirlwind of love and sacrifice. This one was a great read!",
+    "conv_id": 109,
+    "session_id": 2
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend me something?",
+    "conv_id": 109,
+    "session_id": 2
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! You might like Me Before You: A Novel (Movie Tie-In) (Me Before You Trilogy). It's a well-written book that explores the emotions of dealing with a loved one's back injury. The frustration and joy portrayed in the story are very real, and it might resonate with you.",
+    "conv_id": 109,
+    "session_id": 2
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Hmm, I'll consider it. Can you tell me more about the book?",
+    "conv_id": 109,
+    "session_id": 2
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Certainly! In Me Before You, the story revolves around the struggles of helping someone you love who is in pain. It beautifully captures the rollercoaster of emotions that come with such a situation. The author portrays the characters' journey with great depth and authenticity. It's a touching and relatable read.",
+    "conv_id": 109,
+    "session_id": 2
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Alright, I'll give it a try. Thank you for the recommendation!",
+    "conv_id": 109,
+    "session_id": 2
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask. I'm here to help.",
+    "conv_id": 109,
+    "session_id": 2
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: No, that's all. I appreciate your assistance.",
+    "conv_id": 109,
+    "session_id": 2
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: It was my pleasure assisting you. If you have any more questions in the future, don't hesitate to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 2
+  }
+]

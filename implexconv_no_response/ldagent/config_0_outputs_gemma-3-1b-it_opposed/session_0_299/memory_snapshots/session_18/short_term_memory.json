@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I recently read \"The Road\" and it was an amazing book! The storyline made me think about our society in a whole new way. Have you read it?",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Hi Nanner! I haven't read \"The Road\", but I'm glad you enjoyed it. It seems like a thought-provoking book. Is there anything specific you'd like me to recommend?",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, I've already read \"Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present\", which was also a great read. Do you have any other recommendations?",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I'd like to recommend \"The Pillars of the Earth\". It's a captivating historical fiction book by Ken Follett. It delves into class relationships and romances, intertwining them with relevant historical events. I think you might enjoy it.",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation, but I've already read \"The Pillars of the Earth\". Do you have any other suggestions?",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Sure! You might be interested in \"The Road\" since you enjoyed it before. However, if you're looking for something different, I suggest checking out \"The Pillars of the Earth\" trilogy. It's one of the best works by Ken Follett and offers a captivating blend of history and fictional characters.",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds intriguing! Can you tell me more about \"The Pillars of the Earth\"?",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Of course! \"The Pillars of the Earth\" trilogy by Ken Follett is a well-crafted historical fiction series. It explores the dynamics of class relationships and intertwines them with engaging romances. While some aspects may be predictable, the injection of fictional characters into real historical events brings the story to life. It's definitely worth your time and money. The first book in the series is considered the best.",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: I'm convinced! I'll give \"The Pillars of the Earth\" a try. Thank you for your recommendation.",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations in the future, feel free to ask. Enjoy reading \"The Pillars of the Earth\"!",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4671600.0,
+    "dialog": "User: Thank you again for your help. I appreciate it.",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4671600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you have any more questions or need further assistance, feel free to ask. Have a great day and happy reading!",
+    "conv_id": 108,
+    "session_id": 18
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi! I watched the movie \"Alexander\" recently and I have to say, it was quite disappointing.",
+    "conv_id": 109,
+    "session_id": 18
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Oh, I understand. It seems like you didn't enjoy \"Alexander.\" Can I recommend another movie that you might like instead?",
+    "conv_id": 109,
+    "session_id": 18
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Sure, go ahead. I'm open to new recommendations. I just want to clarify that I have already seen \"The Painted Veil\" before.",
+    "conv_id": 109,
+    "session_id": 18
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Noted. How about the movie \"Disgrace\"? It's based on a novel by J.M. Coetzee and has received great reviews.",
+    "conv_id": 109,
+    "session_id": 18
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: That sounds interesting! Can you tell me more about \"Disgrace\"?",
+    "conv_id": 109,
+    "session_id": 18
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Certainly! \"Disgrace\" is a film adaptation of the novel by J.M. Coetzee. It follows the story of David Lurie, a lecherous professor who faces the consequences of his actions. The film explores various themes such as the lingering effects of Apartheid in South Africa and forgiveness. It's a subtle and nuanced movie that offers a cerebral examination of these issues.",
+    "conv_id": 109,
+    "session_id": 18
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: I'm intrigued. I'll definitely give it a try.",
+    "conv_id": 109,
+    "session_id": 18
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: Great! If you need any more recommendations, feel free to ask. Enjoy watching \"Disgrace\"!",
+    "conv_id": 109,
+    "session_id": 18
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 18
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you have any more questions or need assistance in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 18
+  }
+]

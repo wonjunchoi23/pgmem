@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi there! I recently purchased the Franklin Sports Glomax Playground Ball, and I wanted to share my thoughts on it. It's a soft rubber ball that's great for younger kids. It's large and soft, so it won't hurt them. The ball has a textured and grippy rubber surface, making it easy to grab and it bounces really well. The glow-in-the-dark feature is interesting, but it requires concentrated strong light for a decent glow. Overall, it's a fantastic ball for younger kids.",
+    "conv_id": 108,
+    "session_id": 146
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Thank you for sharing your thoughts on the Franklin Sports Glomax Playground Ball. It sounds like a great choice for younger kids. Is there anything specific you'd like to know or discuss?",
+    "conv_id": 108,
+    "session_id": 146
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Actually, I'm interested in the AVEX Claret Wine Glass. Can you recommend it to me?",
+    "conv_id": 108,
+    "session_id": 146
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Of course! The AVEX Claret Wine Glass is a well-made and sturdy stainless steel wine cup. It has a double-walled construction that keeps your wine insulated for a long time. The sprayed plastic coating on the metal exterior prevents scratching and gives it a unique look. The base is broad and stable, and it won't tip over easily. The only downside is that the plastic coating can be a bit slippery if your hands are dry. Overall, it's a high-quality wine glass.",
+    "conv_id": 108,
+    "session_id": 146
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Thanks for the recommendation! I appreciate it. Can you tell me more about the adidas Women's Running Response Wind Jacket?",
+    "conv_id": 108,
+    "session_id": 146
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Certainly! The adidas Women's Running Response Wind Jacket is designed for those who prefer loose-fitting jackets. It runs small, so it's recommended to size up. It's perfect for lazy days when you want to be comfortable. The jacket is made with high-quality material and provides good insulation against the wind. It's a versatile jacket that can be worn for running or other outdoor activities.",
+    "conv_id": 108,
+    "session_id": 146
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: That sounds great! I'll definitely consider getting it. Thank you!",
+    "conv_id": 108,
+    "session_id": 146
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations or have any other questions, feel free to ask.",
+    "conv_id": 108,
+    "session_id": 146
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you for your help, but I think I have all the information I need for now. I appreciate your assistance.",
+    "conv_id": 108,
+    "session_id": 146
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: Not a problem! I'm glad I could assist you. If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 108,
+    "session_id": 146
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi Matthew Horner! I see that you enjoyed watching Spider-Man 2. It's a great action-adventure movie with a focus on storytelling rather than just action. What did you like the most about it?",
+    "conv_id": 109,
+    "session_id": 146
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello! Spider-Man 2 is indeed a marvelous film that emphasizes the complexity of its hero, Peter Parker/Spiderman. The screenplay takes a similar approach to movies like \"Gone With the Wind\" and \"Titanic,\" which had a perfect blend of story and action. Tobey Maguire's portrayal of Spiderman is exceptional. The movie explores the personal struggles of Parker and how being a hero comes with a price. Overall, it's an entertaining endeavor.",
+    "conv_id": 109,
+    "session_id": 146
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: That sounds intriguing! I appreciate your summary of Spider-Man 2. However, I have already seen After Dark My Sweet VHS. Do you have any other movie recommendations?",
+    "conv_id": 109,
+    "session_id": 146
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand. In that case, I would recommend checking out Sideways (Region 2). It's a movie that received positive reviews. Paul Giamatti and Thomas Haden Church deliver outstanding performances in this hilarious and dramatic independent film directed by Alexander Payne. It revolves around wine tasting and the complexities of relationships. It's definitely worth watching!",
+    "conv_id": 109,
+    "session_id": 146
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: I'm not familiar with Sideways. Can you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 146
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Certainly! Sideways follows the journey of Miles (played by Paul Giamatti), a man passionate about wine and writing novels, and Jack (played by Thomas Haden Church), a soon-to-be-married man. They embark on a trip to test different wines. Along the way, Jack becomes involved with a single wine selling mom named Stephanie (played by Sandra Oh), while Miles falls for divorced single wine lover Mya (played by Virginia Madsen). Tensions rise, comedy ensues, and a lot of wine is consumed. It's a hilarious and dramatic film with outstanding performances and a compelling storyline.",
+    "conv_id": 109,
+    "session_id": 146
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: That sounds interesting! I'll definitely give Sideways a watch. Thank you for recommending it.",
+    "conv_id": 109,
+    "session_id": 146
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! I'm glad you're interested in watching Sideways. If you need any more recommendations or have any other questions, feel free to ask. Enjoy the movie!",
+    "conv_id": 109,
+    "session_id": 146
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you so much for your help. I really appreciate it.",
+    "conv_id": 109,
+    "session_id": 146
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! It was my pleasure assisting you. If you ever need recommendations or have any other inquiries in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 146
+  }
+]

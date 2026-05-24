@@ -1,0 +1,170 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hi, I'm Tracie. I heard you mentioned \"77 Shadow Street\" earlier. What do you think about it?",
+    "conv_id": 108,
+    "session_id": 15
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Fabulous book. We have the audio version and have listened to it several times over the years. Both my wife and I love this story.",
+    "conv_id": 108,
+    "session_id": 15
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Oh, that's interesting. Can you recommend me a book?",
+    "conv_id": 108,
+    "session_id": 15
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Sure, I recommend \"My Grandmother Sends Her Regards and Apologises\". It's a heartwarming story about a seven-year-old girl named Elsa and her adventures with her wacky but devoted grandmother.",
+    "conv_id": 108,
+    "session_id": 15
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Sounds good! I'll give it a try.",
+    "conv_id": 108,
+    "session_id": 15
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Great! I hope you enjoy the book. If you have any more questions or need further recommendations, feel free to ask. Have a wonderful day!",
+    "conv_id": 108,
+    "session_id": 15
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Thank you! Have a great day too. Goodbye!",
+    "conv_id": 108,
+    "session_id": 15
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Goodbye!",
+    "conv_id": 108,
+    "session_id": 15
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Miranda Rand. I have read \"An American Bride in Kabul: A Memoir\" and it didn't really impress me. The majority of the book was poorly written and filled with bitterness and self-pity.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: I understand your disappointment with \"An American Bride in Kabul: A Memoir\". Let's not dwell on that. How can I assist you today?",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Can you recommend a book for me to read?",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: Sure! I recommend \"Here If You Need Me: A True Story\". It's a captivating book by Kate Braestrup. According to a review, it's a moving, informative, and often humorous look at the life of a chaplain in the remote corners of Maine.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the recommendation, but I've already read that book.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Oh, I see. In that case, I suggest you check out \"My Grandmother Sends Her Regards and Apologises\". It's another remarkable book. According to a review, it's a delightful and imaginative description of a young girl's relationship with her grandmother, filled with emotional scenes that tug at your heartstrings.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Unfortunately, I've read that one too.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: I understand. In that case, you might be interested in \"My Grandmother Sends Her Regards and Apologises\". It's highly regarded and has received positive reviews.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Hmm, can you tell me more about that book?",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: Certainly! According to a review, \"My Grandmother Sends Her Regards and Apologises\" follows the story of Elsa, a seven-year-old girl who is mature beyond her years. Her wacky but devoted grandmother, a former globe-trotting surgeon, fills Elsa's world with adventures and stories about the make-believe Land-of-Almost-Awake. After her grandmother passes away, Elsa discovers a series of letters that her grandmother left for her. These letters serve as apologies but also help Elsa build bonds of friendship with the other tenants in her apartment building. Overall, it's a thoroughly enjoyable read that combines humor and heartbreak.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: That sounds interesting! I'll give it a try.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: Great! I'm glad you're interested. If you need any more recommendations in the future, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4716000.0,
+    "dialog": "User: Thank you for your help. I appreciate it.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4716000.0,
+    "dialog": "Agent: You're welcome! I'm here to assist you. If you have any other questions, feel free to ask. Have a great day!",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 22,
+    "virtual_seconds": 4717200.0,
+    "dialog": "User: Thanks, you too! Goodbye.",
+    "conv_id": 109,
+    "session_id": 15
+  },
+  {
+    "idx": 23,
+    "virtual_seconds": 4717200.0,
+    "dialog": "Agent: Goodbye and happy reading!",
+    "conv_id": 109,
+    "session_id": 15
+  }
+]

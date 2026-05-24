@@ -1,0 +1,164 @@
+[
+  {
+    "id": "ccdf7e18-e245-43ca-a27f-3020710228a8",
+    "content": "Conversation content on Day 53: [|User|]: Thanks for the suggestion, but I've already read that book before.\n[|AI|]: No problem! How about trying Trouble in Mudbug? It's a thrilling and easy read set in a small bayou town. The story revolves around a whopper of a funeral, a missing husband, and lots of money up for grabs. It's filled with twists and turns.",
+    "timestamp": "0145_0105_0004",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "301727e4-7a4c-442a-8b2d-fb2e2113363d",
+    "content": "Conversation content on Day 53: [|User|]: Alright, I'll give it a try. Thank you for the recommendation!\n[|AI|]: You're welcome! If you need any more recommendations, feel free to ask. Happy reading!",
+    "timestamp": "0145_0105_0010",
+    "conv_id": 105,
+    "source_label": "Day 53",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "18f9a045-1853-4fb8-962c-acb6f15ae90b",
+    "content": "Conversation content on Day 54: [|User|]: Hello, I'm K. Wilson. I recently read \"School of Fear\" and I absolutely loved it! It was such a quirky and enjoyable book. Can you recommend something similar?\n[|AI|]: Oh, I'm glad to hear that you enjoyed \"School of Fear\"! I think you might like \"Mom's Family Calendar 2015\". It's a great calendar that helps with scheduling and coordination. Many people find it very useful, just like you found \"School of Fear\" enjoyable.",
+    "timestamp": "0145_0106_0000",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "520e07a2-896b-4f2d-b0d9-5547f96f49ef",
+    "content": "Conversation content on Day 54: [|User|]: That sounds perfect! I'll definitely give it a try.\n[|AI|]: Great! I'm sure you'll find \"Mom's Family Calendar 2015\" very useful. If you have any more questions or need further recommendations, feel free to ask.",
+    "timestamp": "0145_0106_0004",
+    "conv_id": 106,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "74f0caf3-8b8c-4a16-8d33-20ea8f5eb08b",
+    "content": "Conversation content on Day 54: [|User|]: That sounds really interesting! I'd like to know more about the book.\n[|AI|]: Sure! \"Our Q&A a Day\" is highly rated and loved by many couples. It offers a wide range of questions, from compliments to deep thoughts to silly scenarios. It allows you and your partner to express your creativity and share your thoughts. Each question has dedicated writing slots for each partner, making it easy to document your answers over the years. It's a fun and meaningful activity to strengthen your bond.",
+    "timestamp": "0145_0107_0002",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "0a9ac7aa-d9dc-459f-851f-896bf011d0bf",
+    "content": "Conversation content on Day 54: [|User|]: I'm sold! I'll give it a try.\n[|AI|]: Great! I'm glad you're interested. I hope you and your partner enjoy \"Our Q&A a Day\" and have a wonderful time reflecting and sharing your thoughts. If you have any more questions or need further assistance, feel free to ask!",
+    "timestamp": "0145_0107_0004",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "077608de-1343-4512-87c8-870b1841acb7",
+    "content": "Conversation content on Day 54: [|User|]: Thank you for your help. I'm excited to start using the journal. Have a great day!\n[|AI|]: You're welcome! I'm glad I could assist you. Have a fantastic time with the journal, and if you ever need any more recommendations, feel free to reach out. Have a wonderful day ahead!",
+    "timestamp": "0145_0107_0006",
+    "conv_id": 107,
+    "source_label": "Day 54",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "ef16cf50-bf54-4912-b0d5-0ce5c5204f30",
+    "content": "Conversation content on Day 55: [|User|]: Hi, I'm Tom. I really enjoyed reading \"Mom's Family Calendar 2006\". It's been our favorite organizer calendar for years. The stickers are a nice touch, although we don't use them much. Do you have any recommendations?\n[|AI|]: Hey Tom! Glad to hear that you loved \"Mom's Family Calendar 2006\". It's definitely a winner. Well, how about checking out \"Direct Hits Core Vocabulary of the SAT 5th Edition (2013) (Volume 1)\"? It's a fantastic book with relatable stories for each word and a helpful word summary at the back. I think you'll enjoy it.",
+    "timestamp": "0145_0108_0000",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "fb676075-c71a-418d-b171-005823fc2915",
+    "content": "Conversation content on Day 55: [|User|]: Thanks for the suggestion, but I've already read \"Direct Hits Core Vocabulary of the SAT 5th Edition\". Do you have any other recommendations?\n[|AI|]: I understand. In that case, how about \"Washing Machine Repair (Cheap and Easy)\"? Although it wasn't well-received by some, it might still interest you.",
+    "timestamp": "0145_0108_0002",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "59a20e4e-7608-49b6-8e6f-63739bbcef6e",
+    "content": "Conversation content on Day 55: [|User|]: Sorry, but I read a review that said \"Washing Machine Repair (Cheap and Easy)\" had poor diagrams and wasn't helpful. So, I'll pass on that recommendation.\n[|AI|]: I apologize for the inconvenience caused. No problem, let me suggest another book for you. Have you heard of \"Rescued: An Andy Carpenter Mystery (An Andy Carpenter Novel)\"? It might be something you'd like.",
+    "timestamp": "0145_0108_0004",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "60069175-0719-4b6f-8534-9ef3d4285741",
+    "content": "Conversation content on Day 55: [|User|]: That sounds interesting! Tell me more about \"Rescued: An Andy Carpenter Mystery\".\n[|AI|]: \"Rescued: An Andy Carpenter Mystery\" is another great novel by the author. It's a captivating mystery filled with intriguing characters, especially the canine companions. Fans of 'dog' mysteries are sure to enjoy it.",
+    "timestamp": "0145_0108_0006",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "6b30f5c0-752e-4505-974c-b8d681e22369",
+    "content": "Conversation content on Day 55: [|User|]: I'm sold! I'll give \"Rescued: An Andy Carpenter Mystery\" a try.\n[|AI|]: Excellent choice, Tom! If you need any more recommendations, feel free to ask.",
+    "timestamp": "0145_0108_0008",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "994a1487-97bb-44a2-92ea-c263580694aa",
+    "content": "Conversation content on Day 55: [|User|]: Thanks for your help! I appreciate it.\n[|AI|]: You're welcome, Tom! It was my pleasure to assist you. If you need anything else in the future, feel free to reach out. Have a great day!",
+    "timestamp": "0145_0108_0010",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "8a4728a1-3da7-4321-9839-bac4581be1eb",
+    "content": "Conversation content on Day 55: [|User|]: Thanks, you too. Goodbye!\n[|AI|]: Goodbye! Take care!",
+    "timestamp": "0145_0108_0012",
+    "conv_id": 108,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "e2fe9a9c-9bcd-482e-b034-2abadafb152a",
+    "content": "Conversation content on Day 55: [|User|]: Hello, I hope you can help me with a recommendation. I recently purchased the 2018 Someecards Calendar (Year-In-A-Box) and I was quite disappointed with it. The box arrived with bent corners and edges, and the calendar inside was not as funny as we expected. It seemed like a cheap gift. Can you suggest something else?\n[|AI|]: I'm sorry to hear about your experience with the 2018 Someecards Calendar. It sounds like it didn't meet your expectations.",
+    "timestamp": "0145_0109_0000",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "b58af8f2-d231-4155-ba73-504ad232f4da",
+    "content": "Conversation content on Day 55: [|User|]: Yes, it was quite disappointing. Can you recommend a book instead?\n[|AI|]: Sure! I recommend \"Obama: An Intimate Portrait\" by Pete Souza. It has received great reviews and is a beautiful tribute to an extraordinary president and administration. It's a wonderful coffee table book and a historical visual record of the Obama presidency.",
+    "timestamp": "0145_0109_0002",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "8376884a-9a14-4725-ad9f-0596bb64b5ad",
+    "content": "Conversation content on Day 55: [|User|]: That sounds interesting. I'll give it a try.\n[|AI|]: Great! Let me know if you need any more recommendations.",
+    "timestamp": "0145_0109_0004",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  },
+  {
+    "id": "aff84ce5-c175-4bfb-ba39-89968689bf45",
+    "content": "Conversation content on Day 55: [|User|]: Thank you for your help. I appreciate it.\n[|AI|]: You're welcome! If you have any more questions in the future, feel free to ask. Have a great day!",
+    "timestamp": "0145_0109_0006",
+    "conv_id": 109,
+    "source_label": "Day 55",
+    "strength": 1,
+    "last_recall_conv_id": -1
+  }
+]

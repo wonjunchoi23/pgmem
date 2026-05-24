@@ -1,0 +1,128 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello, I recently watched Bridesmaids and I really enjoyed it!",
+    "conv_id": 108,
+    "session_id": 175
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: Oh, I'm glad to hear that! Have you seen Planet Earth: The Complete BBC Series?",
+    "conv_id": 108,
+    "session_id": 175
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Not yet. Can you recommend it to me?",
+    "conv_id": 108,
+    "session_id": 175
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: Absolutely! Planet Earth: The Complete BBC Series is an exceptional documentary series. It captures the beauty of our planet in stunning high-definition. The visuals are breathtaking, and it provides a unique perspective on nature and wildlife.",
+    "conv_id": 108,
+    "session_id": 175
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: That sounds intriguing. I'll definitely check it out.",
+    "conv_id": 108,
+    "session_id": 175
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Great! I'm sure you'll enjoy it. Is there anything else you'd like me to recommend?",
+    "conv_id": 108,
+    "session_id": 175
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: No, thank you. I appreciate your help.",
+    "conv_id": 108,
+    "session_id": 175
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: You're welcome! If you have any more questions in the future, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 175
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hey there! I recently watched a movie called \"Grizzly Man\" and I absolutely loved it! The filmmaker, Werner Herzog, captured the essence of Timothy Treadwell's adventure with grizzly bears. It was a fascinating exploration of human experience and the harsh realities of nature.",
+    "conv_id": 109,
+    "session_id": 175
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Oh, I'm glad to hear that! It seems like you have a great taste in movies. Speaking of wildlife adventures, have you seen \"Celebrity VHS\"? It's another film that delves into the world of celebrities and the complexities of relationships intertwined with fame.",
+    "conv_id": 109,
+    "session_id": 175
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: That sounds interesting! Tell me more about \"Celebrity VHS\". What makes it stand out?",
+    "conv_id": 109,
+    "session_id": 175
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: \"Celebrity VHS\" takes a unique approach to the celebrity lifestyle in New York City. The main character, played by Kenneth Branagh, navigates the celebrity circles and encounters various stars like Charlize Theron and Leonardo DiCaprio. It's a witty and satirical take on the obsession with fame and the lengths people go to be a part of that world.",
+    "conv_id": 109,
+    "session_id": 175
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Wow, that sounds like a fun and thought-provoking movie. I'm definitely interested in watching it!",
+    "conv_id": 109,
+    "session_id": 175
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Great! I'm glad you're intrigued. It's a film that offers a fresh perspective on celebrity culture. Is there anything else you'd like me to recommend?",
+    "conv_id": 109,
+    "session_id": 175
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Actually, I think \"Celebrity VHS\" will keep me entertained for now. Thank you for the recommendation!",
+    "conv_id": 109,
+    "session_id": 175
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: You're welcome! I'm glad I could help. If you ever need more recommendations in the future, feel free to ask. Enjoy watching \"Celebrity VHS\"!",
+    "conv_id": 109,
+    "session_id": 175
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: Thank you again! I really appreciate your assistance. Have a great day!",
+    "conv_id": 109,
+    "session_id": 175
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You too! Take care and enjoy your movie night!",
+    "conv_id": 109,
+    "session_id": 175
+  }
+]

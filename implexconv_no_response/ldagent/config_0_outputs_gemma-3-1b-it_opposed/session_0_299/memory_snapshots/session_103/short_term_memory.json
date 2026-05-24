@@ -1,0 +1,156 @@
+[
+  {
+    "idx": 0,
+    "virtual_seconds": 4665600.0,
+    "dialog": "User: Hello! I really enjoyed watching \"The X-Files - The Complete First Season\". It had some really freaky episodes before the alien/government conspiracy became the main focus of the series.",
+    "conv_id": 108,
+    "session_id": 103
+  },
+  {
+    "idx": 1,
+    "virtual_seconds": 4665600.0,
+    "dialog": "Agent: I'm glad you enjoyed it! \"The X-Files\" indeed changed television and had a huge impact on sci-fi shows. By the way, have you seen \"Lost Horizon\"? It's another great show with a valuable message of kindness.",
+    "conv_id": 108,
+    "session_id": 103
+  },
+  {
+    "idx": 2,
+    "virtual_seconds": 4666800.0,
+    "dialog": "User: Oh, I've already seen \"Lost Horizon\". It's a wonderfully mystical story with a powerful message. But thank you for the recommendation!",
+    "conv_id": 108,
+    "session_id": 103
+  },
+  {
+    "idx": 3,
+    "virtual_seconds": 4666800.0,
+    "dialog": "Agent: I see. In that case, how about considering \"The Martian\"? It's a gripping film about a NASA crew on Mars and their struggle for survival. Would you be interested?",
+    "conv_id": 108,
+    "session_id": 103
+  },
+  {
+    "idx": 4,
+    "virtual_seconds": 4668000.0,
+    "dialog": "User: Hmm, tell me more about \"The Martian\".",
+    "conv_id": 108,
+    "session_id": 103
+  },
+  {
+    "idx": 5,
+    "virtual_seconds": 4668000.0,
+    "dialog": "Agent: Certainly! \"The Martian\" follows the story of Mark, who is left behind on Mars after a storm and must use his resourcefulness to survive until the next mission. It's a captivating film, with a subplot that breaks up the monotony of a one-man play. It's primarily designed for science geeks and offers a realistic portrayal of space exploration. Overall, it received positive reviews.",
+    "conv_id": 108,
+    "session_id": 103
+  },
+  {
+    "idx": 6,
+    "virtual_seconds": 4669200.0,
+    "dialog": "User: Okay, I'm convinced. I'll give \"The Martian\" a watch!",
+    "conv_id": 108,
+    "session_id": 103
+  },
+  {
+    "idx": 7,
+    "virtual_seconds": 4669200.0,
+    "dialog": "Agent: Great! If you need more recommendations in the future, feel free to ask. Enjoy watching \"The Martian\"!",
+    "conv_id": 108,
+    "session_id": 103
+  },
+  {
+    "idx": 8,
+    "virtual_seconds": 4670400.0,
+    "dialog": "User: Thank you for your help! I appreciate it.",
+    "conv_id": 108,
+    "session_id": 103
+  },
+  {
+    "idx": 9,
+    "virtual_seconds": 4670400.0,
+    "dialog": "Agent: You're welcome! If you have any more questions, feel free to ask. Have a great day!",
+    "conv_id": 108,
+    "session_id": 103
+  },
+  {
+    "idx": 10,
+    "virtual_seconds": 4708800.0,
+    "dialog": "User: Hi, I'm Ronald Adams. I really enjoyed watching \"In Old Chicago\" VHS. The special effects were amazing, and the cast made the film interesting.",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 11,
+    "virtual_seconds": 4708800.0,
+    "dialog": "Agent: Hello Ronald! I see you liked \"In Old Chicago\" VHS. It's indeed a classic with great special effects. By the way, have you seen \"Up Periscope\" VHS? It's another war thriller with James Garner in a lead role.",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 12,
+    "virtual_seconds": 4710000.0,
+    "dialog": "User: Oh, I've already seen \"Up Periscope\" VHS. It was a great movie, so I don't need a recommendation for it.",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 13,
+    "virtual_seconds": 4710000.0,
+    "dialog": "Agent: I understand. How about \"Lost World\" VHS? It's an adventurous fantasy classic from Irwin Allen.",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 14,
+    "virtual_seconds": 4711200.0,
+    "dialog": "User: Thanks for the suggestion, but I've already seen \"Lost World\" VHS too. It was quite an enjoyable film.",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 15,
+    "virtual_seconds": 4711200.0,
+    "dialog": "Agent: Alright, no problem. How about \"The Twilight Zone: Season 2\"? It might interest you.",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 16,
+    "virtual_seconds": 4712400.0,
+    "dialog": "User: Oh, I'm definitely interested. Can you tell me more about it?",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 17,
+    "virtual_seconds": 4712400.0,
+    "dialog": "Agent: \"The Twilight Zone: Season 2\" heavily explores metaphysical outcomes of quantum physics, relativity, and psychology. The picture quality is excellent, and the sound is crystal clear. It's a highly recommended series.",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 18,
+    "virtual_seconds": 4713600.0,
+    "dialog": "User: That sounds great! I'll definitely check it out. Thanks for the recommendation.",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 19,
+    "virtual_seconds": 4713600.0,
+    "dialog": "Agent: You're welcome! If you need any more recommendations, feel free to ask.",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 20,
+    "virtual_seconds": 4714800.0,
+    "dialog": "User: Thank you for your assistance. I appreciate it. That's all for now.",
+    "conv_id": 109,
+    "session_id": 103
+  },
+  {
+    "idx": 21,
+    "virtual_seconds": 4714800.0,
+    "dialog": "Agent: You're welcome, Ronald! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "conv_id": 109,
+    "session_id": 103
+  }
+]
