@@ -1,0 +1,62 @@
+[
+  [
+    "That sounds intriguing! I'd like to learn more about that book.",
+    "Great! According to the review, the book covers the root of Howlin' Wolf's music and how it influenced and defined the era. It also explores the contributions of other famous musicians, like Muddy Waters. The reviewer found it to be an amazing book that enhanced their enjoyment of Howlin' Wolf's music.",
+    108,
+    10
+  ],
+  [
+    "That sounds perfect! I'll definitely give it a try.",
+    "Excellent choice! Is there anything else you'd like me to recommend?",
+    108,
+    12
+  ],
+  [
+    "No, thank you for your help. I really appreciate it.",
+    "You're welcome! If you have any more questions in the future, feel free to ask. Have a great day!",
+    108,
+    14
+  ],
+  [
+    "Thank you, you too. Goodbye!",
+    "Goodbye and take care!",
+    108,
+    16
+  ],
+  [
+    "Hi there, I'm SuperZMan! I recently purchased the Apple iPod Nano 16GB Gold 7th Generation and I absolutely love it! The size is perfect for carrying in my pocket and the screen is clear and bright. The battery life is surprisingly long for such a small device.",
+    "That's great to hear! I recommend checking out the Defender Digital Wireless DVR Security System with 7 Inch LCD Monitor and 2 Long Range Night Vision Cameras. It's a fantastic security system that works great for monitoring another room.",
+    109,
+    0
+  ],
+  [
+    "Thanks for the recommendation, but I've already seen similar electronics before, so I'll pass on that.",
+    "No problem. How about the Wacom Intuos Pen Small Tablet? It's perfect for light graphics work and can even be used as a mouse replacement. It's very accurate and easy to use.",
+    109,
+    2
+  ],
+  [
+    "Thanks for the suggestion, but I'm familiar with that tablet as well. Do you have any other recommendations?",
+    "Sure! You might be interested in the Tripp Lite Isobar 12-Outlet Surge Protector. It comes with a 15ft. cord and offers 15A protection. It's rack-mountable and even has a $25,000 insurance policy.",
+    109,
+    4
+  ],
+  [
+    "That sounds intriguing! Can you tell me more about the surge protector?",
+    "Of course! According to the review, most home electrical boxes are rated at 20 amp MAX for the entire circuit. So unless this is the only item on the line, why pay for the bigger units? The power cord is long enough to direct wire to one of your outlets inside the wall. It's a great solution if you're looking to tidy up your setup.",
+    109,
+    6
+  ],
+  [
+    "That's exactly what I need! I'll go with the Tripp Lite Isobar 12-Outlet Surge Protector. Thanks for your help!",
+    "You're welcome! If you need any more recommendations, feel free to ask. Have a great day!",
+    109,
+    8
+  ],
+  [
+    "Thank you again for your assistance. I appreciate it. Have a wonderful day!",
+    "You're welcome! Have a wonderful day too!",
+    109,
+    10
+  ]
+]

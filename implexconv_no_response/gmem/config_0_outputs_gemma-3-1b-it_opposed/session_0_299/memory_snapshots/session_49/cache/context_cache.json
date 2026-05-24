@@ -1,0 +1,62 @@
+[
+  [
+    "Hmm, I'm not sure about that book either. Can you tell me more about it?",
+    "Certainly! According to this review: \"Well, I know what the DNA tests say, but this book will surely make you question if something sneaky wasn't pulled off to fake the test results. When it comes to politics, you just never know. It's a very intriguing character study that keeps you engaged.\"",
+    108,
+    6
+  ],
+  [
+    "Alright, I'll give \"Anastasia: The Riddle of Anna Anderson\" a try. Thank you for the recommendation.",
+    "You're welcome! If you need any more recommendations or assistance, feel free to ask.",
+    108,
+    8
+  ],
+  [
+    "No, thank you. I appreciate your help.",
+    "You're welcome! Have a great day and enjoy your reading. Goodbye!",
+    108,
+    10
+  ],
+  [
+    "Hey there! I recently read \"Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime\" and it was such a well-researched book. The author really exposed the dark side of politics. Have you read it?",
+    "Hello! I haven't read \"Game Change\" yet, but it sounds like an intriguing book. How can I assist you today?",
+    109,
+    0
+  ],
+  [
+    "I'm looking for book recommendations. Any suggestions?",
+    "Sure! I recommend \"The Rosie Project.\" It's a great book that explores the perspective of a character with Asperger's syndrome. It's been highly rated and I think you might enjoy it.",
+    109,
+    2
+  ],
+  [
+    "Oh, I've already read \"The Rosie Project.\" Do you have any other recommendations?",
+    "Of course! How about \"Tesla: Man Out of Time\"? It delves into the life of Nikola Tesla, who was way ahead of his time. I think you might find it fascinating.",
+    109,
+    4
+  ],
+  [
+    "Thanks for the suggestion, but I've already read \"Tesla: Man Out of Time\" as well. Do you have any other recommendations?",
+    "I understand. In that case, I suggest checking out \"The Short Drop (Gibson Vaughn).\" It's a political thriller that has received positive reviews. It's a gripping story with engaging characters and unexpected twists.",
+    109,
+    6
+  ],
+  [
+    "That sounds interesting! Can you tell me more about \"The Short Drop\"?",
+    "Certainly! \"The Short Drop\" is a tight and well-plotted novel. It follows the story of Gibson Vaughn in a political thriller setting. The book keeps you hooked from beginning to end with its twists and turns. It's a great debut novel that fans of political thrillers would enjoy.",
+    109,
+    8
+  ],
+  [
+    "I'm sold! I'll give \"The Short Drop\" a try.",
+    "That's great to hear! I hope you enjoy reading it. If you have any more questions or need further assistance, feel free to ask. Happy reading!",
+    109,
+    10
+  ],
+  [
+    "Thank you! I'll let you know if I need anything else. Bye!",
+    "You're welcome! Have a wonderful day and happy reading! Goodbye!",
+    109,
+    12
+  ]
+]

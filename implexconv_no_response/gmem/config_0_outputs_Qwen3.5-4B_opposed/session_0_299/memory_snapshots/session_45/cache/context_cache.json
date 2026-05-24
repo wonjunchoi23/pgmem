@@ -1,0 +1,62 @@
+[
+  [
+    "Hey, how's it going? I just watched \"The Darkness\" and it was not great at all. The previews looked promising, but it turned out to be disappointing. Did you watch it?",
+    "Hey there! Sorry to hear that \"The Darkness\" didn't live up to your expectations. Sometimes movies can be a hit or miss. But no worries, let's not dwell on that. How can I assist you today?",
+    108,
+    0
+  ],
+  [
+    "I'm looking for a movie recommendation. Got any suggestions?",
+    "Absolutely! How about \"Red Dog\"? It's a heartwarming movie about an Australian cattle dog that bonds a mining community. It's based on true events and has received great reviews. People really loved the dog's people skills and sense of adventure. It's a feel-good film that brings people together.",
+    108,
+    2
+  ],
+  [
+    "Ah, I've actually seen \"Red Dog\" before, and I absolutely loved it. Do you have any other recommendations?",
+    "Of course! How about \"Lovely Molly\"? It's a horror film that follows the story of a woman who becomes possessed. However, I must inform you that it received mixed reviews, and some viewers found it too explicit and not particularly engaging.",
+    108,
+    4
+  ],
+  [
+    "Thanks for the suggestion, but I've actually seen \"Lovely Molly\" as well, and it didn't quite resonate with me. Got any other recommendations?",
+    "Sure thing! How about \"Ted\"? It's a comedy film about a man and his teddy bear that came to life. It stars Mark Wahlberg, Mila Kunis, and Seth MacFarlane. Although it received mixed reviews, many viewers found it hilarious and enjoyed the chemistry between the cast.",
+    108,
+    6
+  ],
+  [
+    "I'm sorry, but I've already seen \"Ted\" too and it didn't quite meet my expectations. Do you have any other recommendations?",
+    "No problem! How about \"Big Game\"? It's an action movie starring Samuel L. Jackson as the President of the United States. After his plane crash-lands in the wilderness, he must team up with a 13-year-old boy to survive and fight against terrorists. It's an exciting and fun film with a unique storyline.",
+    108,
+    8
+  ],
+  [
+    "That sounds interesting! I'll give \"Big Game\" a shot. Thanks for the recommendation!",
+    "You're welcome! Enjoy watching \"Big Game\" and have a great time. If you need any more recommendations in the future, feel free to ask. Have a fantastic day!",
+    108,
+    10
+  ],
+  [
+    "Hi, I'm Jo from Texas(A11QW83UD65XSX). I really enjoyed reading \"Targeted (Callahan & McLane)\" with an overall rating of 4.0. The only issue I had was the violence, it doesn't work for me before bedtime. I'm not a fan of animal abuse either. But the gripping plots, well-written characters, and satisfying endings kept me engaged.",
+    "Hi Jo! I completely understand your concerns about the violence and animal abuse in \"Targeted (Callahan & McLane)\". If you're looking for something different, I highly recommend \"A Drop in the Ocean: A Novel\", which has an overall rating of 5.0. It's a captivating story about self-discovery on a secluded island. The close-knit community, unique characters, and the aftermath of a storm make it truly fascinating.",
+    109,
+    0
+  ],
+  [
+    "Thanks for the recommendation, but I'm not interested.",
+    "That's alright, Jo. How about considering \"A Drop in the Ocean: A Novel\"? It might be a perfect fit for your taste.",
+    109,
+    2
+  ],
+  [
+    "Sure, I'll give it a try.",
+    "Great! If you need any more recommendations or assistance, feel free to let me know.",
+    109,
+    4
+  ],
+  [
+    "Thank you for your help.",
+    "You're welcome, Jo! If you have any more questions or need further assistance in the future, feel free to reach out. Have a great day!",
+    109,
+    6
+  ]
+]
