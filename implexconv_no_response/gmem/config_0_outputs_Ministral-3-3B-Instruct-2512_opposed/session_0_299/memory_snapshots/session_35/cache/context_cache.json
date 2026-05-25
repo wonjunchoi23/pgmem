@@ -1,0 +1,62 @@
+[
+  [
+    "Hello, have you seen Hot Tub Time Machine?",
+    "No, I haven't seen it. But I have read a review about it.",
+    108,
+    0
+  ],
+  [
+    "Can you recommend a movie for me?",
+    "Sure, based on your interests, you might like Boogie Nights.",
+    108,
+    2
+  ],
+  [
+    "That sounds interesting. Can you tell me more about it?",
+    "Boogie Nights is a fun movie to watch all the way through. It has a bunch of interesting characters and keeps you on the edge of your seat, especially during the robbery scene. The ending is also handled well.",
+    108,
+    4
+  ],
+  [
+    "That sounds great! I'll definitely give it a try.",
+    "I'm glad you're interested. Enjoy the movie!",
+    108,
+    6
+  ],
+  [
+    "Hi! I recently read \"Flip Flop Fly Ball: An Infographic Baseball Adventure\" and I really enjoyed it. The book had a lot of interesting infographics and essays about baseball. I did have some trouble with the small text and colored backgrounds, but overall it was worth reading.",
+    "I'm glad to hear that you enjoyed \"Flip Flop Fly Ball: An Infographic Baseball Adventure\"! It's a book that any baseball fan would love. The author has a great sense of humor and the book is full of interesting facts and graphics. If you liked that book, I recommend checking out \"Blue Ribbon Baking from a Redneck Kitchen\". It's a delightful cookbook with easy and accessible recipes from a life-long Southern baker.",
+    109,
+    0
+  ],
+  [
+    "Thanks for the recommendation, but I've actually already seen \"Blue Ribbon Baking from a Redneck Kitchen\" before.",
+    "Oh, I apologize for the repetition. In that case, you might be interested in \"Big Food Big Love: Down-Home Southern Cooking Full of Heart from Seattle's Wandering Goose\". It's another fantastic cookbook with a focus on Southern cuisine. If you love Southern food, this book will be a great addition to your collection.",
+    109,
+    2
+  ],
+  [
+    "That sounds intriguing! Can you tell me more about \"Big Food Big Love: Down-Home Southern Cooking Full of Heart from Seattle's Wandering Goose\"?",
+    "Absolutely! \"Big Food Big Love: Down-Home Southern Cooking Full of Heart from Seattle's Wandering Goose\" is a fun and drool-worthy cookbook. It covers all the classic Southern recipes, but with unique twists. The book even has a whole chapter dedicated to biscuits! The recipes are not overly complicated, and the author's delightful stories make it enjoyable to read as well as cook from.",
+    109,
+    4
+  ],
+  [
+    "That sounds exactly like the kind of cookbook I'm looking for. I'll definitely check it out.",
+    "Great! I'm glad I could help. Is there anything else you'd like me to recommend?",
+    109,
+    6
+  ],
+  [
+    "No, thank you for your recommendations. I appreciate your help.",
+    "You're welcome! If you have any more questions in the future, feel free to ask. Have a great day!",
+    109,
+    8
+  ],
+  [
+    "You too! Goodbye.",
+    "Goodbye!",
+    109,
+    10
+  ]
+]

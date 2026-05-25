@@ -1,0 +1,62 @@
+[
+  [
+    "Thanks, you too! Goodbye.",
+    "Goodbye and take care!",
+    108,
+    12
+  ],
+  [
+    "Hi, Kelly D.! I recently read \"She's Come Undone\" and I have some mixed feelings about it. What are your thoughts?",
+    "Hi there, Kelly D.! I understand that \"She's Come Undone\" has left you with mixed feelings. It's always interesting when a book makes us think. What specifically stood out to you about the book?",
+    109,
+    0
+  ],
+  [
+    "I found the teenage years of the protagonist quite uncomfortable, especially the parts where she indulges in eating and arguing with her family. It brought back some not-so-fond memories of my own teenage angst.",
+    "I can understand how those parts may have resonated with you. It's often the raw and real moments in a story that leave a lasting impression. Despite the discomfort, would you say there were any hopeful moments in the book?",
+    109,
+    2
+  ],
+  [
+    "Yes, my mom assured me that there were hopeful elements in the book, and she found it quite beautiful. The author, Wally Lamb, did a great job of portraying Dolores' journey from a troubled young girl to a responsible adult.",
+    "That's wonderful to hear. Wally Lamb is known for his beautiful and realistic writing style. It's always a pleasure when an author can take us on such a transformative journey. If you're interested, I could recommend another book that you might enjoy based on your previous likes and dislikes.",
+    109,
+    4
+  ],
+  [
+    "Sure, I'm open to recommendations. What do you have in mind?",
+    "Based on your previous dislikes, I would recommend \"The Wedding Girl.\" It delves into the complexities of relationships and family dynamics. However, I understand that you may have reservations about it based on a review I found. The reviewer felt that the storyline was somewhat unbelievable and the character development lacking. Does that align with your concerns?",
+    109,
+    6
+  ],
+  [
+    "Yes, that review echoes my concerns. I think I'll pass on \"The Wedding Girl.\" Do you have any other recommendations?",
+    "Of course! Another book I can recommend is \"The One & Only: A Novel.\" It's a heartwarming love story that has received positive reviews. However, I understand if you have reservations based on another review that expressed disappointment with the protagonist's love interests. Would you like me to share more details about it?",
+    109,
+    8
+  ],
+  [
+    "No, thank you. I think I'll skip \"The One & Only\" as well. Do you have any other recommendations in mind?",
+    "Absolutely! There's another book you might find interesting called \"The Girls: A Novel.\" It tells the story of a young girl on the fringes of a cult involved in a brutal murder. It explores themes of identity and the power of manipulation. If you'd like, I can provide more details about it.",
+    109,
+    10
+  ],
+  [
+    "That sounds intriguing! Could you please share more details about \"The Girls\"?",
+    "Certainly! \"The Girls\" is a captivating story that alternates between the past and present. It follows a young girl who becomes entangled in a cult and the dark events that surround it. The sections set in the past are particularly captivating, offering insight into the protagonist's journey. The book has received positive reviews for its exploration of complex characters and the gripping narrative.",
+    109,
+    12
+  ],
+  [
+    "That sounds like a book I'd enjoy. I'll give \"The Girls\" a try.",
+    "Fantastic! I'm glad you're interested in \"The Girls.\" If you need any more recommendations or assistance, feel free to let me know. Happy reading!",
+    109,
+    14
+  ],
+  [
+    "Thank you for your help! I really appreciate it.",
+    "You're welcome! It was my pleasure to assist you. If you have any more questions in the future, feel free to reach out. Have a great day and enjoy reading \"The Girls\"!",
+    109,
+    16
+  ]
+]

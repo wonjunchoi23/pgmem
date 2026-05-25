@@ -1,0 +1,479 @@
+[
+  {
+    "id": "bc9a6295-daf5-4d05-9cb3-bff21ba1f9e4",
+    "content": "Conversation content on 26 December, 2023: [Sam]: Such a minimalistic and stunning piece of work, I wonder what inspired the artist to create it.",
+    "timestamp": "D21:11",
+    "session_id": 21,
+    "source_label": "26 December, 2023",
+    "strength": 1,
+    "last_recall_date_str": "26 December, 2023"
+  },
+  {
+    "id": "1a9928ed-0ad8-4437-9954-b3997ba2c3bf",
+    "content": "Conversation content on 31 December, 2023: [Sam]: Nature can make everything else seem small and help us find peace inside. It reminds us of the bigger picture, you know?",
+    "timestamp": "D22:9",
+    "session_id": 22,
+    "source_label": "31 December, 2023",
+    "strength": 1,
+    "last_recall_date_str": "31 December, 2023"
+  },
+  {
+    "id": "e5f55d17-a224-45bc-a46b-621b9a838b32",
+    "content": "Conversation content on 6 January, 2024: [Sam]: Yeah, it's awesome to have that support. It definitely brings more happiness and joy.",
+    "timestamp": "D23:6",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "6058eaad-91a8-4339-a160-4f81a2325ae0",
+    "content": "Conversation content on 6 January, 2024: [Evan]: For sure, Sam. That's what makes family so special. They bring so much love and happiness. It's great having their support and knowing they're always there for us. I feel really fortunate to have their never-ending love and support.",
+    "timestamp": "D23:9",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "ef23ad35-825e-44d3-a39c-fee4b39a8987",
+    "content": "Conversation content on 6 January, 2024: [Evan]: [Image: a photo of a group of people sitting at a table with food] Yeah, they are our rock. We're blessed to have them.",
+    "timestamp": "D23:13",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "b18cae3d-533e-495b-9b8a-9f4afb2a4ef9",
+    "content": "Conversation content on 6 January, 2024: [Evan]: Thanks, Sam! We're having a family get-together tonight and enjoying some homemade lasagna. Super excited! By the way, I've started a new diet\u2014limiting myself to just two ginger snaps a day. What's on your menu tonight?\t",
+    "timestamp": "D23:15",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "4d7db26e-a94a-484c-831d-746c46d6de5d",
+    "content": "Conversation content on 6 January, 2024: [Evan]: [Image: a photo of a wedding cake with candles and flowers on a table] Wow Sam! Weddings are indeed special. This looks great, yum!",
+    "timestamp": "D23:21",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "6a67837e-08f4-4e0d-96a3-2f30447a5bd2",
+    "content": "Conversation content on 6 January, 2024: [Sam]: Ooh, nice cake! Reminds me of special occasions. Do you have any upcoming plans?",
+    "timestamp": "D23:22",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "4beaec91-026e-4059-a6f5-59a199eb2d00",
+    "content": "Conversation content on 6 January, 2024: [Sam]: Wow, that looks great! What are your plans for the trip?",
+    "timestamp": "D23:24",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "c26c4c29-e695-4193-b92b-bd1f4257d5ff",
+    "content": "Conversation content on 6 January, 2024: [Sam]: [Image: a photo of a container of french fries covered in caramel] Sounds amazing, Ev! Skiing, trying local dishes, and enjoying the breathtaking views - the perfect honeymoon. Have an incredible time creating unforgettable memories!",
+    "timestamp": "D23:26",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "f799e931-231d-497e-9cff-f91d8cb2af12",
+    "content": "Conversation content on 6 January, 2024: [Evan]: Yeah, Sam! Gonna try some poutine while we're there - can't wait!",
+    "timestamp": "D23:27",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "4adc813b-a8fc-4a2c-9ff9-3aa74ca6a17f",
+    "content": "Conversation content on 6 January, 2024: [Evan]: Sure thing, Sam! Let's see if it lives up to the hype. I'll let you know what happens!",
+    "timestamp": "D23:29",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "731c0fdb-93aa-4121-b4ca-b7558d6dcf82",
+    "content": "Conversation content on 6 January, 2024: [Evan]: Thanks, Sam! Catch you later. Have a great one!",
+    "timestamp": "D23:33",
+    "session_id": 23,
+    "source_label": "6 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "6 January, 2024"
+  },
+  {
+    "id": "9c2116d4-2782-4806-a79d-1f8083270622",
+    "content": "Conversation content on 10 January, 2024: [Evan]: Hey Sam, hope you're doing good. Something funny happened last night.",
+    "timestamp": "D24:1",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "d0e18b15-14ed-4518-b5bb-bcd1160e29da",
+    "content": "Conversation content on 10 January, 2024: [Sam]: Hey Evan, what's up? What happened? Let me know.",
+    "timestamp": "D24:2",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "0d3047ab-65ad-4295-a0ea-048ea486c30a",
+    "content": "Conversation content on 10 January, 2024: [Evan]: Yesterday I went out with my friends and had a bit too much to drink. I ended up doing something I regret and it involved someone's roses.",
+    "timestamp": "D24:3",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "6a93fe07-2cbf-4778-a6bd-e61d1ba3aa21",
+    "content": "Conversation content on 10 January, 2024: [Sam]: What's up with that incident? All good now?",
+    "timestamp": "D24:4",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "3b71e205-1a33-43a1-9e6c-f5eabf5d9ef1",
+    "content": "Conversation content on 10 January, 2024: [Evan]: Oof, Sam, so embarrassing! I had a pee accident near some roses - can you believe it? I'm so sorry about that.",
+    "timestamp": "D24:5",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "65afc0b2-a7d5-41eb-8002-05dd1a835e99",
+    "content": "Conversation content on 10 January, 2024: [Sam]: Uh oh, Evan! That's awkward. Did anyone get mad at you? Are you okay?",
+    "timestamp": "D24:6",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "b846bb3e-0cdd-41f2-af1c-3ba2cdce605a",
+    "content": "Conversation content on 10 January, 2024: [Evan]: I was so embarrassed when I saw what happened the next morning, so I apologized and luckily they were understanding. Yeah, I was out of control--guess I gotta be more careful next time.",
+    "timestamp": "D24:7",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "1b7de72f-f306-430e-a8d4-e5d2068491f1",
+    "content": "Conversation content on 10 January, 2024: [Sam]: They were understanding? Phew! We all mess up sometimes, we're human after all.",
+    "timestamp": "D24:8",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "05204609-0f1a-441b-ad40-c83ff7261ff9",
+    "content": "Conversation content on 10 January, 2024: [Evan]: Yeah, they were understanding, which was great. But it's a good reminder to be more careful. We all make mistakes, but it's important to learn from them. Speaking of, my partner and I tried snowshoeing this weekend. It was part of a new adventure for us and surprisingly fun.",
+    "timestamp": "D24:9",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "c35dd5c0-4874-47a7-98db-bc8f4dc10908",
+    "content": "Conversation content on 10 January, 2024: [Sam]: [Image: a photo of a white board with a bunch of writing on it] Yeah, Evan, you're right. Mistakes happen, but it's good to learn from them. Snowshoeing sounds like a great way to stay active during the winter. I've been thinking and I made a meal plan and workout schedule. I'm getting motivated by something I saw, so starting today I'm gonna do my best to stay on track.",
+    "timestamp": "D24:10",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "fec63f54-0b5e-4538-ad14-05441981f5ba",
+    "content": "Conversation content on 10 January, 2024: [Evan]: Good work, Sam! You've got a plan and you're dedicated to staying healthy - have you asked your doctor for advice? They could probably give you even more diet and exercise tips.",
+    "timestamp": "D24:11",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "9a210485-6931-4162-b4b2-ed7e24bdaee6",
+    "content": "Conversation content on 10 January, 2024: [Sam]: Thanks, Evan! Haven't seen a doctor in a while, but it's probably a good idea to get some advice. I'm going to make an appointment soon.",
+    "timestamp": "D24:12",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "d2faefee-a7e3-47f2-9ae2-e66c49bb49f4",
+    "content": "Conversation content on 10 January, 2024: [Evan]: What advice are you planning to get from the doctor?",
+    "timestamp": "D24:13",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "30ab1da2-c890-4647-b42e-84595f2511ae",
+    "content": "Conversation content on 10 January, 2024: [Evan]: [Image: a photo of a salad with chicken, avocado, tomatoes, corn, and cheese] Sounds good, Sam. That's definitely a step in the right direction. Remember to focus on a balanced diet and low-impact exercises. Let me know how it goes.",
+    "timestamp": "D24:15",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "d8a3d6c0-fe08-4f30-bac1-02c9c56f4c08",
+    "content": "Conversation content on 10 January, 2024: [Sam]: That looks great! Where did you get the idea for this salad? Also, do you have any suggestions for low-impact exercises?",
+    "timestamp": "D24:16",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "02315179-36d7-4c4b-abb8-409e65d2c1d2",
+    "content": "Conversation content on 10 January, 2024: [Evan]: Yoga's definitely a great start, Sam. It's helped me with stress and staying flexible, which is perfect alongside the diet. And yes, The Godfather is a legendary thing to watch, can be re-watched many times!",
+    "timestamp": "D24:19",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "5d88b85e-e3e8-4225-9795-dd33703bc8dc",
+    "content": "Conversation content on 10 January, 2024: [Sam]: Between a healthier diet and yoga, I\u2019m hoping for some positive changes.",
+    "timestamp": "D24:20",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "f34d312f-b26d-42f6-a34b-63a5f3883bed",
+    "content": "Conversation content on 10 January, 2024: [Evan]: [Image: a photo of a woman standing on a beach at sunset]  By the way there are plenty of other low-impact exercises that can be fun. Going on beach sunsets is one of my favorites - good for exercise and totally calming.",
+    "timestamp": "D24:21",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "2a4e739b-b7a6-480d-b339-1f14a52c2720",
+    "content": "Conversation content on 10 January, 2024: [Evan]: I think a little more and you'll learn how to control those dreams, once you get the hang of it let me know haha! Enjoy the fresh air and the views. Have fun!",
+    "timestamp": "D24:23",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "0b49b13e-5938-4e33-874c-b839336c50c0",
+    "content": "Conversation content on 10 January, 2024: [Sam]: Thanks Evan! Gonna make the most of it. You too, have a good one!",
+    "timestamp": "D24:24",
+    "session_id": 24,
+    "source_label": "10 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "10 January, 2024"
+  },
+  {
+    "id": "e8c3d703-a755-40fe-88a8-8d454f56a4bb",
+    "content": "Conversation content on 11 January, 2024: [Sam]: Hey Evan, been a few days since we last chatted. Hope you're doing OK. A lot's happened since then. Got issues with my health, it's been rough. Feels like this weight's keeping me from fully living. Trying to stay positive, not easy.",
+    "timestamp": "D25:1",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "0613841a-9202-447c-abf5-859e731f2457",
+    "content": "Conversation content on 11 January, 2024: [Evan]: Hey Sam, sorry to hear about your health. It's tough when it gets in the way of life. You're being positive, but remember to take care of yourself too. By the way, I had to apologize to my partner for that drunken night, it was pretty embarrassing.",
+    "timestamp": "D25:2",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "0efc279b-6bf0-4c8c-ad9a-e519ed293974",
+    "content": "Conversation content on 11 January, 2024: [Sam]: Hey Evan, that does sound like a tough situation. I'm doing my best with my health. How did your partner take the news about the rose bushes?",
+    "timestamp": "D25:3",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "8953a8af-3f14-47c6-94a4-33087a606aa1",
+    "content": "Conversation content on 11 January, 2024: [Evan]: Well, she wasn't thrilled, but understood it was an accident. I promised to be more careful in the future. Changing the subject, have you found any low-impact exercises that you enjoy?",
+    "timestamp": "D25:4",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "f08e9962-c8e9-4dfd-b628-a0fe3e03e1d2",
+    "content": "Conversation content on 11 January, 2024: [Sam]: [Image: a photo of a field with a fence and a dirt road] Hey Evan, haven't found any exercises I like. But lately, I've been on a few car rides. Helps me chill and enjoy the view. Check out this cool pic I snapped last week in the country.",
+    "timestamp": "D25:5",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "bb6451c6-19d3-423f-a933-61a534436e77",
+    "content": "Conversation content on 11 January, 2024: [Evan]: Nice pic! Does being out in the countryside help you relax and get some fresh air away from the city?",
+    "timestamp": "D25:6",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "873c028e-57cd-4326-ac3e-f8df67eb437d",
+    "content": "Conversation content on 11 January, 2024: [Sam]: Yeah, being in nature really helps me relax and get some fresh air away from the city.",
+    "timestamp": "D25:7",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "fe7d5bf3-05f9-48d3-a3a5-13ec4db865db",
+    "content": "Conversation content on 11 January, 2024: [Evan]: [Image: a photo of a kayak is seen from the front of the boat] Glad to hear it! Nature really has a way of calming and reviving the soul. Last summer, I took this pic on a camping trip - it was such an amazing sunset. Moments like these remind us of the beauty of life, even during tough times.",
+    "timestamp": "D25:8",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "47e0775d-7ff1-4bea-aaf0-882122927c84",
+    "content": "Conversation content on 11 January, 2024: [Sam]: Wow, that pic is amazing! It must have been a great experience being out on the lake.",
+    "timestamp": "D25:9",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "48f01a76-665e-408d-ab9a-d2fda2b391d7",
+    "content": "Conversation content on 11 January, 2024: [Evan]: I had a great time kayaking and watching the sunset last summer - it was truly unforgettable. Being out on the water is so peaceful.",
+    "timestamp": "D25:10",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "98a3f2dc-f979-44e5-8890-ad38fd6aab89",
+    "content": "Conversation content on 11 January, 2024: [Sam]: Wow, that sounds amazing. Being in nature is so calming, right?",
+    "timestamp": "D25:11",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "a6dc33c8-f029-4cc4-9dd9-949aba89b56b",
+    "content": "Conversation content on 11 January, 2024: [Evan]: Nature can be super calming. It's like pushing a reset button for your mind and body.",
+    "timestamp": "D25:12",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "e636946a-8aa5-42f2-9f59-27f6aa4563f0",
+    "content": "Conversation content on 11 January, 2024: [Sam]: Definitely, I couldn't agree more. There's something about being outdoors that rejuvenates you. I'm planning to spend more time in nature myself!",
+    "timestamp": "D25:13",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "7a012d57-a502-4fc0-9751-3735f4868cd7",
+    "content": "Conversation content on 11 January, 2024: [Evan]: [Image: a photo of a tree with pink flowers in a park] Got it. When health stuff cramps your style, it sucks. But small moments outdoors can make a big impact. This photo reminds me of last spring when I was feeling a bit down, but the vibrant colors brought a smile to my face, even if just for a moment. Remember to find joy in the little things.",
+    "timestamp": "D25:14",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "3272de42-f06c-4536-b002-afd0fed4e82a",
+    "content": "Conversation content on 11 January, 2024: [Sam]: That pic is gorgeous! It really brightens my day. Sometimes, it's the little things that matter, right?",
+    "timestamp": "D25:15",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "aab0fb96-83f1-4bfe-b547-9864d248d556",
+    "content": "Conversation content on 11 January, 2024: [Evan]: Absolutely, Sam. It's often those little moments that make the biggest difference. Keep finding those bright spots.",
+    "timestamp": "D25:16",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "8ca01375-c79c-43f4-aed4-3ccae4bf9849",
+    "content": "Conversation content on 11 January, 2024: [Sam]: Thanks, Evan. It's good to be reminded to appreciate the small things. They do add up.",
+    "timestamp": "D25:17",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "db340b15-1107-4f4e-ac9b-df4dca8c9f3f",
+    "content": "Conversation content on 11 January, 2024: [Evan]: Anytime, Sam. It's all about those small joys, especially when times are tough. You've got this!",
+    "timestamp": "D25:18",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "ab22a000-4a0a-4c9e-abd2-ccea8713b9a0",
+    "content": "Conversation content on 11 January, 2024: [Sam]: Really appreciate it, Evan. Your words help a lot. Take care!",
+    "timestamp": "D25:19",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  },
+  {
+    "id": "a5f68ace-e20c-43fd-b917-91ecd6c55acb",
+    "content": "Conversation content on 11 January, 2024: [Evan]: You too, Sam. And remember, I'm always here if you need to chat. Look after yourself!",
+    "timestamp": "D25:20",
+    "session_id": 25,
+    "source_label": "11 January, 2024",
+    "strength": 1,
+    "last_recall_date_str": "11 January, 2024"
+  }
+]

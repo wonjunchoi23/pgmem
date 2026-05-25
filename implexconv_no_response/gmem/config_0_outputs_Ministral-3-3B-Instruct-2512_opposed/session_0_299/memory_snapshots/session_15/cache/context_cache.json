@@ -1,0 +1,62 @@
+[
+  [
+    "Sounds good! I'll give it a try.",
+    "Great! I hope you enjoy the book. If you have any more questions or need further recommendations, feel free to ask. Have a wonderful day!",
+    108,
+    4
+  ],
+  [
+    "Thank you! Have a great day too. Goodbye!",
+    "Goodbye!",
+    108,
+    6
+  ],
+  [
+    "Hi, I'm Miranda Rand. I have read \"An American Bride in Kabul: A Memoir\" and it didn't really impress me. The majority of the book was poorly written and filled with bitterness and self-pity.",
+    "I understand your disappointment with \"An American Bride in Kabul: A Memoir\". Let's not dwell on that. How can I assist you today?",
+    109,
+    0
+  ],
+  [
+    "Can you recommend a book for me to read?",
+    "Sure! I recommend \"Here If You Need Me: A True Story\". It's a captivating book by Kate Braestrup. According to a review, it's a moving, informative, and often humorous look at the life of a chaplain in the remote corners of Maine.",
+    109,
+    2
+  ],
+  [
+    "Thanks for the recommendation, but I've already read that book.",
+    "Oh, I see. In that case, I suggest you check out \"My Grandmother Sends Her Regards and Apologises\". It's another remarkable book. According to a review, it's a delightful and imaginative description of a young girl's relationship with her grandmother, filled with emotional scenes that tug at your heartstrings.",
+    109,
+    4
+  ],
+  [
+    "Unfortunately, I've read that one too.",
+    "I understand. In that case, you might be interested in \"My Grandmother Sends Her Regards and Apologises\". It's highly regarded and has received positive reviews.",
+    109,
+    6
+  ],
+  [
+    "Hmm, can you tell me more about that book?",
+    "Certainly! According to a review, \"My Grandmother Sends Her Regards and Apologises\" follows the story of Elsa, a seven-year-old girl who is mature beyond her years. Her wacky but devoted grandmother, a former globe-trotting surgeon, fills Elsa's world with adventures and stories about the make-believe Land-of-Almost-Awake. After her grandmother passes away, Elsa discovers a series of letters that her grandmother left for her. These letters serve as apologies but also help Elsa build bonds of friendship with the other tenants in her apartment building. Overall, it's a thoroughly enjoyable read that combines humor and heartbreak.",
+    109,
+    8
+  ],
+  [
+    "That sounds interesting! I'll give it a try.",
+    "Great! I'm glad you're interested. If you need any more recommendations in the future, feel free to ask.",
+    109,
+    10
+  ],
+  [
+    "Thank you for your help. I appreciate it.",
+    "You're welcome! I'm here to assist you. If you have any other questions, feel free to ask. Have a great day!",
+    109,
+    12
+  ],
+  [
+    "Thanks, you too! Goodbye.",
+    "Goodbye and happy reading!",
+    109,
+    14
+  ]
+]

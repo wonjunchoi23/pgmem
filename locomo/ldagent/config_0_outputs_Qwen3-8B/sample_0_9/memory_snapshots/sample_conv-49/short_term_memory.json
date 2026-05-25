@@ -1,0 +1,182 @@
+[
+  {
+    "idx": 0,
+    "timestamp": 1705027020.0,
+    "dialog": "Speaker Sam says: Hey Evan, been a few days since we last chatted. Hope you're doing OK. A lot's happened since then. Got issues with my health, it's been rough. Feels like this weight's keeping me from fully living. Trying to stay positive, not easy.",
+    "session_num": 25,
+    "dia_id": "D25:1",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 1,
+    "timestamp": 1705027140.0,
+    "dialog": "Speaker Evan says: Hey Sam, sorry to hear about your health. It's tough when it gets in the way of life. You're being positive, but remember to take care of yourself too. By the way, I had to apologize to my partner for that drunken night, it was pretty embarrassing.",
+    "session_num": 25,
+    "dia_id": "D25:2",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 2,
+    "timestamp": 1705027260.0,
+    "dialog": "Speaker Sam says: Hey Evan, that does sound like a tough situation. I'm doing my best with my health. How did your partner take the news about the rose bushes?",
+    "session_num": 25,
+    "dia_id": "D25:3",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 3,
+    "timestamp": 1705027380.0,
+    "dialog": "Speaker Evan says: Well, she wasn't thrilled, but understood it was an accident. I promised to be more careful in the future. Changing the subject, have you found any low-impact exercises that you enjoy?",
+    "session_num": 25,
+    "dia_id": "D25:4",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 4,
+    "timestamp": 1705027500.0,
+    "dialog": "Speaker Sam says: [Image: a photo of a field with a fence and a dirt road] Hey Evan, haven't found any exercises I like. But lately, I've been on a few car rides. Helps me chill and enjoy the view. Check out this cool pic I snapped last week in the country.",
+    "session_num": 25,
+    "dia_id": "D25:5",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 5,
+    "timestamp": 1705027620.0,
+    "dialog": "Speaker Evan says: Nice pic! Does being out in the countryside help you relax and get some fresh air away from the city?",
+    "session_num": 25,
+    "dia_id": "D25:6",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 6,
+    "timestamp": 1705027740.0,
+    "dialog": "Speaker Sam says: Yeah, being in nature really helps me relax and get some fresh air away from the city.",
+    "session_num": 25,
+    "dia_id": "D25:7",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 7,
+    "timestamp": 1705027860.0,
+    "dialog": "Speaker Evan says: [Image: a photo of a kayak is seen from the front of the boat] Glad to hear it! Nature really has a way of calming and reviving the soul. Last summer, I took this pic on a camping trip - it was such an amazing sunset. Moments like these remind us of the beauty of life, even during tough times.",
+    "session_num": 25,
+    "dia_id": "D25:8",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 8,
+    "timestamp": 1705027980.0,
+    "dialog": "Speaker Sam says: Wow, that pic is amazing! It must have been a great experience being out on the lake.",
+    "session_num": 25,
+    "dia_id": "D25:9",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 9,
+    "timestamp": 1705028100.0,
+    "dialog": "Speaker Evan says: I had a great time kayaking and watching the sunset last summer - it was truly unforgettable. Being out on the water is so peaceful.",
+    "session_num": 25,
+    "dia_id": "D25:10",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 10,
+    "timestamp": 1705028220.0,
+    "dialog": "Speaker Sam says: Wow, that sounds amazing. Being in nature is so calming, right?",
+    "session_num": 25,
+    "dia_id": "D25:11",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 11,
+    "timestamp": 1705028340.0,
+    "dialog": "Speaker Evan says: Nature can be super calming. It's like pushing a reset button for your mind and body.",
+    "session_num": 25,
+    "dia_id": "D25:12",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 12,
+    "timestamp": 1705028460.0,
+    "dialog": "Speaker Sam says: Definitely, I couldn't agree more. There's something about being outdoors that rejuvenates you. I'm planning to spend more time in nature myself!",
+    "session_num": 25,
+    "dia_id": "D25:13",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 13,
+    "timestamp": 1705028580.0,
+    "dialog": "Speaker Evan says: [Image: a photo of a tree with pink flowers in a park] Got it. When health stuff cramps your style, it sucks. But small moments outdoors can make a big impact. This photo reminds me of last spring when I was feeling a bit down, but the vibrant colors brought a smile to my face, even if just for a moment. Remember to find joy in the little things.",
+    "session_num": 25,
+    "dia_id": "D25:14",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 14,
+    "timestamp": 1705028700.0,
+    "dialog": "Speaker Sam says: That pic is gorgeous! It really brightens my day. Sometimes, it's the little things that matter, right?",
+    "session_num": 25,
+    "dia_id": "D25:15",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 15,
+    "timestamp": 1705028820.0,
+    "dialog": "Speaker Evan says: Absolutely, Sam. It's often those little moments that make the biggest difference. Keep finding those bright spots.",
+    "session_num": 25,
+    "dia_id": "D25:16",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 16,
+    "timestamp": 1705028940.0,
+    "dialog": "Speaker Sam says: Thanks, Evan. It's good to be reminded to appreciate the small things. They do add up.",
+    "session_num": 25,
+    "dia_id": "D25:17",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 17,
+    "timestamp": 1705029060.0,
+    "dialog": "Speaker Evan says: Anytime, Sam. It's all about those small joys, especially when times are tough. You've got this!",
+    "session_num": 25,
+    "dia_id": "D25:18",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 18,
+    "timestamp": 1705029180.0,
+    "dialog": "Speaker Sam says: Really appreciate it, Evan. Your words help a lot. Take care!",
+    "session_num": 25,
+    "dia_id": "D25:19",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  },
+  {
+    "idx": 19,
+    "timestamp": 1705029300.0,
+    "dialog": "Speaker Evan says: You too, Sam. And remember, I'm always here if you need to chat. Look after yourself!",
+    "session_num": 25,
+    "dia_id": "D25:20",
+    "date_time": "9:37 pm on 11 January, 2024",
+    "sample_id": "conv-49"
+  }
+]

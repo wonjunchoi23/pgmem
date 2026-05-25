@@ -1,0 +1,62 @@
+[
+  [
+    "Oh, I've already read that book. Do you have any other recommendations?",
+    "Sure thing! How about \"Everything We Keep: A Novel\"? It's received rave reviews and is written by Kerry Lonsdale, an incredible storyteller.",
+    108,
+    4
+  ],
+  [
+    "That sounds interesting! Can you tell me more about the book?",
+    "Of course! \"Everything We Keep: A Novel\" is a captivating story with intricate plot development. The author, Kerry Lonsdale, skillfully balances a range of emotions and paints vivid settings. It's a must-read for fans of brilliant storytelling.",
+    108,
+    6
+  ],
+  [
+    "I'm definitely interested! I'll give it a try.",
+    "Fantastic! Is there anything else I can recommend for you?",
+    108,
+    8
+  ],
+  [
+    "No, thank you. I appreciate your help.",
+    "You're welcome! If you need any further assistance, feel free to ask. Have a great day!",
+    108,
+    10
+  ],
+  [
+    "Thank you, you too! Goodbye.",
+    "Goodbye and happy reading!",
+    108,
+    12
+  ],
+  [
+    "Hello! I really enjoyed reading \"Landline: A Novel.\" It was such a fun and intriguing book. I'm glad I stumbled upon it.",
+    "That's great to hear! I also came across a book that you might like. It's called \"Frog and Toad Storybook Treasury: 4 Complete Stories in 1 Volume! (I Can Read Level 2).\"",
+    109,
+    0
+  ],
+  [
+    "Oh, I'm interested! Could you tell me more about the book?",
+    "Sure! This book is highly recommended. It's a collection of stories that are delivered quickly and in excellent shape. The stories have a calming effect and are perfect for winding down after a troubling day. They are simple yet deep, and many readers find them fantastic.",
+    109,
+    2
+  ],
+  [
+    "Sounds perfect! I'll definitely give it a try.",
+    "Great! If you need more recommendations, feel free to ask.",
+    109,
+    4
+  ],
+  [
+    "Thank you for the recommendation! I appreciate it.",
+    "You're welcome! If you have any more questions in the future, feel free to ask. Have a great day!",
+    109,
+    6
+  ],
+  [
+    "Thanks, you too! Goodbye.",
+    "Goodbye, take care!",
+    109,
+    8
+  ]
+]
