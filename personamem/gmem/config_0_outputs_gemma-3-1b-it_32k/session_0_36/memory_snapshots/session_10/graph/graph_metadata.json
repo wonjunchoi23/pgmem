@@ -7,9 +7,9 @@
   },
   "source_edges": 288,
   "evidence_edges": {
-    "SUPPORT": 150,
-    "CONTRADICT": 8,
-    "SHIFT_TO": 52,
-    "IRRELEVANT": 1
+    "SUPPORT": 158,
+    "CONTRADICT": 0,
+    "SHIFT_TO": 79,
+    "IRRELEVANT": 4
   }
 }

@@ -13,7 +13,8 @@ Output structure:
         └── token_memory_stats.csv
 
 Example:
-    python evaluation_basic.py --root 32k_qwen3_1.7b_results
+    python evaluation_basic.py --root gemma-3-1b-it_32k
+    python evaluation_basic.py --root Qwen3.5-4B_32k
     python evaluation_basic.py --root 128k_gemma3_4b_results
 
 Arguments:

@@ -3,13 +3,13 @@
     "c": 117,
     "e": 12,
     "s": 117,
-    "t": 3
+    "t": 6
   },
-  "source_edges": 348,
+  "source_edges": 480,
   "evidence_edges": {
-    "SUPPORT": 137,
-    "CONTRADICT": 1,
-    "SHIFT_TO": 125,
-    "IRRELEVANT": 4
+    "SUPPORT": 153,
+    "CONTRADICT": 2,
+    "SHIFT_TO": 131,
+    "IRRELEVANT": 0
   }
 }

@@ -78,8 +78,8 @@ MAX_TOKENS_TRAIT_EXTRA_REL_5B = 1500  # ⑤b  ≤ TOPK_STATE+TOPK_EPISODE judgme
 MAX_TOKENS_STATE_STATE_5C     = 1000  # ⑤c  ≤ 2 × STATE_STATE_EXTRA_REL_TOPK judgments (pair-level sem_topK ∪ lex_topK)
 MAX_TOKENS_STATE_EPISODE_5D   = 800   # ⑤d  ≤ 2 × STATE_EPISODE_EXTRA_REL_TOPK judgments (pair-level sem_topK ∪ lex_topK)
 
-JSON_RETRY = 5
-JUDGMENT_RETRY = 3       # retry count when judgments array is empty but expected_judgment_count > 0
+JSON_RETRY = 30
+JUDGMENT_RETRY = 10       # retry count when judgments array is empty but expected_judgment_count > 0
 
 
 # =============================================================================

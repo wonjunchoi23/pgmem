@@ -609,7 +609,7 @@ def _build_batch_input_file(
                 "url":       "/v1/chat/completions",
                 "body":      body,
             }
-            f.write(json.dumps(line, ensure_ascii=False) + "\n")
+            f.write(json.dumps(line, ensure_ascii=True) + "\n")
 
 
 def _submit_batch(client, batch_input_path: Path, completion_window: str):
@@ -946,7 +946,9 @@ def _save_folder_detail(
 
     detail_path: Path = job["detail_path"]
     detail_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(detail_path, "w", encoding="utf-8") as f:
+    # errors="replace": LLM 출력에 섞여 들어온 lone surrogate(\udXXX)를
+    # �로 치환해서 UnicodeEncodeError 없이 저장.
+    with open(detail_path, "w", encoding="utf-8", errors="replace") as f:
         json.dump({
             "module":         job["module"],
             "config_num":     job["config_num"],
