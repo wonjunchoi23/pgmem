@@ -2,7 +2,7 @@
 Shared merge-results script for top-level experiment modules.
 
 Usage:
-    python merge_results.py gmem config_0_outputs_Qwen3-1.7B_opposed
+    python merge_results.py pgmem config_0_outputs_Qwen3-1.7B_opposed
     python merge_results.py memorybank config_0_outputs_Qwen3-1.7B_opposed
     python merge_results.py ubllm config_0_outputs_Qwen3-1.7B_opposed --dry-run
 """
@@ -20,7 +20,7 @@ from typing import DefaultDict, Dict, List, Tuple
 ROOT_DIR = Path(__file__).resolve().parent
 VALID_MODULES = (
     "amem",
-    "gmem",
+    "pgmem",
     "ldagent",
     "memorybank",
     "ubllm",

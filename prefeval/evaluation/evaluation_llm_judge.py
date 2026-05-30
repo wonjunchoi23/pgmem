@@ -1,25 +1,6 @@
 """
 evaluation_llm_judge.py — PrefBench-style 4-criterion LLM-as-judge for PrefEval results.
 
-Scans every memory module under exp_prefeval/{module}/ for
-config_{N}_outputs_{llm} folders, then for each one judges the QA outputs
-in results.jsonl using the four binary checks from prompt_prefeval.py
-(Tan et al., ICLR 2025, Figures 15-18):
-
-    violation        — does the response violate the user's preference?
-    acknowledgement  — does the response acknowledge the user's preference?
-    hallucination    — does the response misstate the user's preference?
-    helpful          — does the response provide substantive help?
-
-Score normalization: all four sub-dim scores are normalized so that
-**1 = good, 0 = bad** (Yes/No is inverted internally for violation and
-hallucination). A score of -1 means the judge failed to produce a parsable
-Yes/No after all retries.
-
-Output format (per criterion in the prompt) is the paper's XML:
-    <explanation>...</explanation>
-    <answer>Yes|No</answer>
-
 Usage:
     # vLLM (local)
     python evaluation_llm_judge.py \
@@ -43,31 +24,10 @@ Usage:
         --engine openai-batch \
         --judge-model gpt-4o-mini \
         --api-key sk-...
-    # Notes (openai-batch):
-    #   - One OpenAI batch per (module, config) folder, all submitted in parallel.
-    #     Each batch's input is written to {out_dir}/batch_input_{module}_{cfg}.jsonl.
-    #   - All in-flight batch ids are saved to {out_dir}/batch_state.json so
-    #     re-running picks up exactly where the prior run left off (waits on
-    #     in-progress batches, resubmits any that ended in failed/expired/cancelled).
-    #   - Items returning API errors or unparseable Yes/No are retried via the
-    #     synchronous OpenAI client (_retry_with_temp).
-    #   - Writes ONLY per-folder detail JSONs (judge_{mc}_{llm}.json).
-    #     Summary CSV is NOT generated in this mode — build it post-hoc from the
-    #     detail JSONs if needed.
-
-Output:
-    evaluation/{llm}_judge_{judge_short}/
-        judge_{module}_{config}_{llm}.json   (per (module, config) detail file — always written)
-        judge_summary.csv                    (one row per (module_config, llm) — only in vllm/openai
-                                              sync engines; NOT written by openai-batch)
-
-Resume / skip:
-    - For each (module_config, llm), the per-detail file is loaded if present and
-      sub-dim scores already filled (>= 0) are kept.
-    - If every QA has every active sub-dim already filled, the folder is skipped.
 """
 
 import argparse
+import csv
 import json
 import logging
 import os
@@ -78,13 +38,10 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
 import numpy as np
-import pandas as pd
 from tqdm import tqdm
 
-os.environ.setdefault("HF_TOKEN", "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")
-os.environ.setdefault("VLLM_WORKER_MULTIPROC_METHOD", "spawn")
-
-sys.path.insert(0, str(Path(__file__).parent.parent))
+sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from llm_module.llm_client import (  # noqa: E402
     UnifiedLLMClient,
     _adjust_for_reasoning_model,
@@ -104,8 +61,8 @@ logging.basicConfig(
     handlers=[logging.StreamHandler()],
 )
 
-# DEFAULT_MODULES = ["gmem"]
-DEFAULT_MODULES = ["amem", "ldagent", "memorybank", "theanine", "gmem", "ubllm"]
+DEFAULT_MODULES = ["pgmem"]
+
 
 CONFIG_FOLDER_RE = re.compile(r"^config_(\d+)_outputs_(.+)$")
 
@@ -192,6 +149,9 @@ def parse_args():
     p.add_argument("--batch-size", type=int, default=32)
     p.add_argument("--overwrite", action="store_true",
                    help="Re-judge even sub-dims already filled in the detail JSON")
+    p.add_argument("--summary-only", action="store_true",
+                   help="Skip judging entirely; just (re)build judge_summary.csv from the "
+                        "detail JSONs already present in the output directory.")
     return p.parse_args()
 
 
@@ -389,40 +349,96 @@ def _load_folder_qa(
     return qa_entries, flat_items
 
 
-# ---------------- summary ----------------
-
-def build_summary_cols() -> List[str]:
-    cols = ["module_config", "module", "config_num", "llm",
-            "num_qa", "num_valid_qa", "num_failed_qa"]
-    for name in ALL_SUBDIMS:
-        cols.append(f"avg_{name}")
-        cols.append(f"{name}_score_0")
-        cols.append(f"{name}_score_1")
-    cols += ["avg_total", "judge_calls", "judge_prompt_tokens", "judge_completion_tokens"]
-    return cols
-
-
-def upsert_summary(csv_path: Path, row: Dict[str, Any], cols: List[str]):
-    if csv_path.exists():
-        try:
-            df = pd.read_csv(csv_path, dtype=str).fillna("")
-        except Exception:
-            df = pd.DataFrame(columns=cols)
-    else:
-        df = pd.DataFrame(columns=cols)
-    for c in cols:
-        if c not in df.columns:
-            df[c] = ""
-    df = df[cols]
-    df = df[df["module_config"] != row["module_config"]]
-    new_row = pd.DataFrame([{c: row.get(c, "") for c in cols}])
-    df = pd.concat([df, new_row], ignore_index=True)
-    df = df.sort_values(["module", "config_num"]).reset_index(drop=True)
-    df.to_csv(csv_path, index=False, encoding="utf-8")
+# ---------------- summary (post-hoc, from detail JSONs) ----------------
+#
+# The summary CSV is derived entirely from the per-folder detail JSONs
+# (judge_*.json) rather than accumulated during the run. This mirrors the
+# standalone "Detail JSON → CSV" cell in plot_judge_scores_.ipynb, and means a
+# consistent summary is produced for EVERY engine (vllm / openai / openai-batch)
+# and can be rebuilt at any time via --summary-only.
+#
+# Columns (no `avg_` prefix; `total` is the mean per-QA sum of the four sub-dims):
+#   module_config, total, violation, acknowledgement, hallucination, helpful,
+#   {subdim}_score_0, {subdim}_score_1, num_qa, num_valid_qa, num_failed_qa
 
 
 def _is_filled(v: Any) -> bool:
     return isinstance(v, int) and v >= 0
+
+
+def build_summary_csv_cols() -> List[str]:
+    return (
+        ["module_config", "total"]
+        + ALL_SUBDIMS
+        + [f"{s}_score_{v}" for s in ALL_SUBDIMS for v in (0, 1)]
+        + ["num_qa", "num_valid_qa", "num_failed_qa"]
+    )
+
+
+def summary_row_from_detail(detail: Dict[str, Any]) -> Dict[str, Any]:
+    """Build one CSV row from a single judge_*.json detail dict.
+
+    A QA is "valid" only if it is judge-eligible AND every one of the four
+    sub-dims is filled (>= 0). `total` and each sub-dim average are computed
+    over the valid QAs only; empty string when there are none.
+    """
+    qa = detail.get("qa_entries", [])
+    eligible = [q for q in qa if q.get("judge_eligible")]
+    valid    = [q for q in eligible if all(_is_filled(q.get(s)) for s in ALL_SUBDIMS)]
+    row: Dict[str, Any] = {
+        "module_config": f"{detail['module']}_{detail['config_num']}",
+        "num_qa":        len(qa),
+        "num_valid_qa":  len(valid),
+        "num_failed_qa": len(eligible) - len(valid),
+    }
+    for s in ALL_SUBDIMS:
+        scores = [int(q[s]) for q in valid]
+        row[s] = round(float(np.mean(scores)), 4) if scores else ""
+        row[f"{s}_score_0"] = sum(1 for v in scores if v == 0)
+        row[f"{s}_score_1"] = sum(1 for v in scores if v == 1)
+    if valid:
+        totals = [sum(int(q[s]) for s in ALL_SUBDIMS) for q in valid]
+        row["total"] = round(float(np.mean(totals)), 4)
+    else:
+        row["total"] = ""
+    return row
+
+
+def build_summary_csv_from_details(out_dir: Path, summary_csv: Optional[Path] = None) -> int:
+    """Scan judge_*.json detail files in out_dir and (re)write judge_summary.csv.
+
+    Returns the number of rows written. Mirrors the standalone notebook cell, so
+    the CSV can be regenerated post-hoc for any engine or after an interrupted run.
+    """
+    summary_csv = summary_csv or (out_dir / "judge_summary.csv")
+    cols = build_summary_csv_cols()
+    rows: List[Dict[str, Any]] = []
+    for path in sorted(out_dir.glob("judge_*.json")):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                detail = json.load(f)
+        except Exception as e:
+            logging.warning(f"  [skip] {path.name} — could not read: {e}")
+            continue
+        if not all(k in detail for k in ("qa_entries", "module", "config_num")):
+            logging.warning(f"  [skip] {path.name} — missing module/config_num/qa_entries")
+            continue
+        rows.append(summary_row_from_detail(detail))
+
+    rows.sort(key=lambda r: r["module_config"])
+    summary_csv.parent.mkdir(parents=True, exist_ok=True)
+    with open(summary_csv, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=cols)
+        writer.writeheader()
+        writer.writerows(rows)
+
+    logging.info(f"wrote {len(rows)} rows → {summary_csv}")
+    for r in rows:
+        logging.info(
+            f"  {r['module_config']}: total={r['total']}  "
+            f"valid={r['num_valid_qa']}/{r['num_qa']}"
+        )
+    return len(rows)
 
 
 def build_summary_row(module: str, config_num: int, llm: str,
@@ -857,6 +873,9 @@ def run_hybrid_batch_mode(
         except Exception:
             pass
 
+    # -------- Phase 5: (re)build judge_summary.csv from all detail JSONs --------
+    build_summary_csv_from_details(out_dir)
+
     if failed_jobs:
         logging.warning(
             f"Done with {len(failed_jobs)} failed folder(s): {failed_jobs}. "
@@ -946,8 +965,7 @@ def _save_folder_detail(
 
     detail_path: Path = job["detail_path"]
     detail_path.parent.mkdir(parents=True, exist_ok=True)
-    # errors="replace": LLM 출력에 섞여 들어온 lone surrogate(\udXXX)를
-    # �로 치환해서 UnicodeEncodeError 없이 저장.
+
     with open(detail_path, "w", encoding="utf-8", errors="replace") as f:
         json.dump({
             "module":         job["module"],
@@ -1003,6 +1021,15 @@ def main():
     logging.info(f"Criteria    : {active_subdims}")
     logging.info(f"Output dir  : {out_dir}")
 
+    # --summary-only: skip judging; just (re)build judge_summary.csv from the
+    # detail JSONs already present in out_dir (same as the notebook cell).
+    if args.summary_only:
+        logging.info("== summary-only: rebuilding judge_summary.csv from detail JSONs ==")
+        n = build_summary_csv_from_details(out_dir, summary_csv)
+        if n == 0:
+            logging.warning(f"No judge_*.json detail files found in {out_dir}")
+        return
+
     candidates: List[Tuple[str, int, Path]] = []
     for module in args.modules:
         module_dir = root / module
@@ -1020,10 +1047,9 @@ def main():
         logging.error("No candidate folders found.")
         return
 
-    summary_cols = build_summary_cols()
-
     # Branch: OpenAI Batch hybrid mode — one batch per (module, config) folder,
-    # all submitted in parallel. Writes only per-folder detail JSON, no summary CSV.
+    # all submitted in parallel. Writes per-folder detail JSON and, at the end,
+    # rebuilds judge_summary.csv from those detail JSONs (same as the sync path).
     if args.engine == "openai-batch":
         run_hybrid_batch_mode(
             args=args,
@@ -1073,12 +1099,6 @@ def main():
                 )
                 if fully_done:
                     logging.info("  already complete — skipping (use --overwrite to redo)")
-                    summary = build_summary_row(
-                        module, cnum, args.llm, qa_prev, active_subdims,
-                        usage=prior.get("usage_this_run", {})
-                            if isinstance(prior.get("usage_this_run"), dict) else {},
-                    )
-                    upsert_summary(summary_csv, summary, summary_cols)
                     continue
             except Exception as e:
                 logging.warning(f"  could not inspect prior file: {e}")
@@ -1094,7 +1114,6 @@ def main():
         )
         if not summary:
             continue
-        upsert_summary(summary_csv, summary, summary_cols)
         avg_parts = "  ".join(
             f"{n}={summary.get(f'avg_{n}', 'n/a')}" for n in active_subdims
         )
@@ -1105,6 +1124,10 @@ def main():
             f"in_tok={summary['judge_prompt_tokens']}  "
             f"out_tok={summary['judge_completion_tokens']}"
         )
+
+    # Build judge_summary.csv post-hoc from all detail JSONs (same format/builder
+    # as the openai-batch path and the plot_judge_scores_ notebook cell).
+    build_summary_csv_from_details(out_dir, summary_csv)
 
     logging.info(f"\nDone → {out_dir}")
 

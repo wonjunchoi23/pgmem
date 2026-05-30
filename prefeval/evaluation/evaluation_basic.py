@@ -1,14 +1,8 @@
 """
 evaluation_basic.py — token + memory statistics for PrefEval runs.
 
-For each memory module under exp_prefeval/{module}/, scans for
-config_{N}_outputs_{llm} folders and aggregates stats.json + retrieval_log.jsonl
-into a single CSV at evaluation/{llm}_basic/basic_summary.csv.
-
 Usage:
     python evaluation_basic.py --llm Qwen3-1.7B
-    python evaluation_basic.py --llm Qwen3-1.7B --modules amem dense
-    python evaluation_basic.py --llm Qwen3-1.7B --overwrite
 """
 
 import argparse
@@ -21,7 +15,7 @@ import numpy as np
 import pandas as pd
 
 
-DEFAULT_MODULES = ["amem", "ldagent", "dense", "memorybank", "theanine", "gmem"]
+DEFAULT_MODULES = ["pgmem"]
 
 CONFIG_FOLDER_RE = re.compile(r"^config_(\d+)_outputs_(.+)$")
 

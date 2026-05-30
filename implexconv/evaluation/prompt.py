@@ -39,38 +39,6 @@ JUDGE_JSON_SCHEMA_RC1 = {
 }
 
 
-USER_PROMPT_TEMPLATE_RC2 = """\
-## Task Description
-A dialogue system has generated an answer to a user's question. Your job: judge **whether the generated answer is specific rather than vague**.
-
----
-
-## Evaluation Target
-**Question:** {query}
-**Generated Answer:** {generated_answer}
-
----
-
-## Scoring Rubric — Specificity (0 / 1)
-- **1 — Specific**: The answer provides concrete information — named items, specific steps, defined criteria, or actionable detail. The user could act on it without significant additional clarification.
-- **0 — Vague**: The answer is generic, hedged, or abstract to the point that the user could not act on it. Includes answers that only restate platitudes or broad principles without concrete content.
-
----
-
-Output ONLY a JSON object:
-{{"reasoning": "<why this score — cite specific phrases or note the absence of concrete detail>", "rc_specificity": <int 0 or 1>}}"""
-
-JUDGE_JSON_SCHEMA_RC2 = {
-    "type": "object",
-    "properties": {
-        "reasoning":      {"type": "string"},
-        "rc_specificity": {"type": "integer", "minimum": 0, "maximum": 1},
-    },
-    "required": ["reasoning", "rc_specificity"],
-    "additionalProperties": False,
-}
-
-
 # ---------- Group 2: Persona adaptation (Q + GT + reason + rel_conv + gen) ----------
 
 SYSTEM_PROMPT_PA = (

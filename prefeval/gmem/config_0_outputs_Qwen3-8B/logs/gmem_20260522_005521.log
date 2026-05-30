@@ -1,9 +1,0 @@
-2026-05-22 00:55:21,892 - INFO - ============================================================
-2026-05-22 00:55:21,893 - INFO - GraphMem v6 PrefEval Chain
-2026-05-22 00:55:21,893 - INFO -   Config       : config_0
-2026-05-22 00:55:21,893 - INFO -   Model        : Qwen/Qwen3-8B
-2026-05-22 00:55:21,893 - INFO -   end_session  : 99
-2026-05-22 00:55:21,893 - INFO -   k_existing   : 99
-2026-05-22 00:55:21,893 - INFO -   Output dir   : /projectnb/tin-lab/yukyung/gmem_experiment/prefeval/gmem/config_0_outputs_Qwen3-8B
-2026-05-22 00:55:21,893 - INFO - ============================================================
-2026-05-22 00:55:21,893 - INFO - Already complete up to k=99 (>= K=99). Nothing to do.

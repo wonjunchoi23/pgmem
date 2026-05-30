@@ -1,10 +1,30 @@
-# Usage:
+# Auto-merges per-session experiment results, then LLM-judges them.
+#
+# Given --llm / --subset / --session-num, scans every module folder under implexconv/ for a
+# `config_*_{llm}_{subset}` output dir, concatenates sessions 0..(session-num-1) into
+#   evaluation/{llm}_results/opp_{session-num}/{module}/results_{llm}_{subset}_merged.json
+# and judges each module (one summary-CSV row per module, keyed by module name).
+# Only --subset opposed is supported (judge prompts are opposed-specific).
+#
+# Usage examples:
+#
+# vLLM (local GPU) — judge-model is an HF path:
 #   python evaluation_llm_judge.py \
-#       --root qwen3_1.7b_results --judge-model meta-llama/Llama-3.1-8B-Instruct \
-#       --session-num 200 --dims 1 2 --batch-size 32
+#       --llm Qwen3-1.7B --subset opposed --session-num 10 \
+#       --engine vllm --judge-model meta-llama/Llama-3.1-8B-Instruct \
+#       --tensor-parallel 1 --gpu-memory 0.9 --max-model-len 8192 \
+#       --dims 1 2 --batch-size 32
+#
+# OpenAI Batch API (~50% cheaper, up to 24h latency) — judge-model is an OpenAI model name:
+#   export OPENAI_API_KEY=sk-...            # or point --api-key-env at another env var
+#   python evaluation_llm_judge.py \
+#       --llm Qwen3-1.7B --subset opposed --session-num 10 \
+#       --engine openai-batch --judge-model gpt-4o-mini \
+#       --poll-interval 60 --completion-window 24h \
+#       --dims 1 2 --batch-size 32
 #
 # --dims meaning:
-#   1 = response_competence  (rc_question_addressing / rc_specificity)
+#   1 = response_competence  (rc_question_addressing)
 #   2 = persona_adaptation   (pa_persona_recognition / pa_generic_distinctness / pa_substantive_integration)
 
 import argparse
@@ -17,17 +37,14 @@ import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Set, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 
 import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
-os.environ["HF_TOKEN"] = "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"
-os.environ["VLLM_WORKER_MULTIPROC_METHOD"] = "spawn"
-
 sys.path.insert(0, str(Path(__file__).parent))
-sys.path.insert(0, str(Path(__file__).parent.parent))
+sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from llm_module.llm_client import UnifiedLLMClient, _parse_json_response
 
 logging.basicConfig(
@@ -63,12 +80,6 @@ SUBDIM_META: Dict[str, Dict[str, Any]] = {
         "system_attr": "SYSTEM_PROMPT_RC",
         "template_attr": "USER_PROMPT_TEMPLATE_RC1",
         "schema_attr": "JUDGE_JSON_SCHEMA_RC1",
-    },
-    "rc_specificity": {
-        "group": 1, "max": 1, "max_tokens": 200,
-        "system_attr": "SYSTEM_PROMPT_RC",
-        "template_attr": "USER_PROMPT_TEMPLATE_RC2",
-        "schema_attr": "JUDGE_JSON_SCHEMA_RC2",
     },
     "pa_persona_recognition": {
         "group": 2, "max": 1, "max_tokens": 250,
@@ -143,12 +154,15 @@ def parse_args():
     parser = argparse.ArgumentParser(
         description="LLM-as-Judge"
     )
-    parser.add_argument("--root", required=True,
-                        help="Root folder name under evaluation/ (e.g. qwen3_1.7b_results)")
+    parser.add_argument("--llm", required=True,
+                        help="LLM tag, e.g. Qwen3-1.7B. Selects experiment output folders named "
+                             "config_*_{llm}_{subset} and is used as the summary-CSV model column.")
+    parser.add_argument("--subset", default="opposed",
+                        help="Dataset subset (only 'opposed' supported; judge prompts are opposed-specific)")
     parser.add_argument("--judge-model", required=True,
                         help="Judge model path/name (vllm: HF path, openai: model name)")
     parser.add_argument("--session-num", type=int, required=True,
-                        help="Session count integer (e.g. 200)")
+                        help="Number of sessions to merge & judge: sessions 0..(session-num-1)")
     parser.add_argument("--dims", nargs="+", type=int, choices=[1, 2], default=[1, 2],
                         help="Groups: 1=response_competence 2=persona_adaptation")
     parser.add_argument("--prompt-module", default="prompt",
@@ -331,6 +345,83 @@ def get_llm_from_data(data: List[Dict]) -> str:
             if model_field:
                 return model_field.split("/")[-1]
     return "unknown"
+
+
+# ---------------- auto-merge: gather per-session results per module ----------------
+
+def collect_sessions_in_range(config_dir: Path, llm: str, subset: str, n: int) -> List[Dict]:
+    """Full session-result objects from session_*/results_{llm}_{subset}_session_*.json
+    whose session range falls within [0, n-1]."""
+    out: List[Dict] = []
+    for rf in sorted(config_dir.glob(f"session_*/results_{llm}_{subset}_session_*.json")):
+        parts = rf.stem.split("_session_")
+        if len(parts) != 2:
+            continue
+        nums = parts[1].split("_")
+        if len(nums) != 2:
+            continue
+        try:
+            start, end = int(nums[0]), int(nums[1])
+        except ValueError:
+            continue
+        if start < 0 or end > n - 1:
+            continue
+        with open(rf, "r", encoding="utf-8") as f:
+            out.extend(json.load(f))
+    return out
+
+
+def build_merged_inputs(parent_dir: Path, input_dir: Path, llm: str, subset: str, n: int) -> None:
+    """For each module folder under parent_dir, find config_*{llm}_{subset} output folder(s),
+    concatenate sessions 0..n-1 (dedup by session_id), and write one merged results file to
+    input_dir/{module}/results_{llm}_{subset}_merged.json."""
+    tag = f"{llm}_{subset}"
+    n_modules = 0
+    for module_dir in sorted(p for p in parent_dir.iterdir() if p.is_dir()):
+        config_dirs = [
+            d for d in sorted(module_dir.iterdir())
+            if d.is_dir() and d.name.startswith("config_") and d.name.endswith(tag)
+        ]
+        if not config_dirs:
+            continue
+
+        seen: Set[int] = set()
+        merged: List[Dict] = []
+        for cdir in config_dirs:
+            for s in collect_sessions_in_range(cdir, llm, subset, n):
+                sid = s.get("session_id")
+                if sid in seen:
+                    continue
+                seen.add(sid)
+                merged.append(s)
+
+        if not merged:
+            logging.warning(
+                f"[merge] {module_dir.name}: matched {[c.name for c in config_dirs]} "
+                f"but no session results in range 0..{n - 1}"
+            )
+            continue
+
+        missing = sorted(set(range(n)) - seen)
+        if missing:
+            logging.warning(f"[merge] {module_dir.name}: missing sessions {missing}")
+
+        out_dir = input_dir / module_dir.name
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_path = out_dir / f"results_{llm}_{subset}_merged.json"
+        with open(out_path, "w", encoding="utf-8") as f:
+            json.dump(merged, f, ensure_ascii=False, indent=2)
+        logging.info(
+            f"[merge] {module_dir.name}: {len(merged)} session(s) "
+            f"from {len(config_dirs)} config dir(s) → {out_path}"
+        )
+        n_modules += 1
+
+    if n_modules == 0:
+        raise FileNotFoundError(
+            f"No module produced merged inputs: found no '*/config_*{tag}' output folders "
+            f"with sessions 0..{n - 1} under {parent_dir}"
+        )
 
 
 def is_valid_qa(generated: Any, gt: Any) -> bool:
@@ -1057,7 +1148,9 @@ def main():
     args = parse_args()
 
     script_dir  = Path(__file__).parent
-    root_name   = args.root
+    if args.subset != "opposed":
+        raise SystemExit("Only --subset opposed is supported (judge prompts are opposed-specific).")
+    root_name   = f"{args.llm}_results"
     n           = args.session_num
     judge_model = args.judge_model
     batch_size  = args.batch_size
@@ -1083,6 +1176,10 @@ def main():
     eval_base   = root_name.replace("_results", "")
     input_dir   = script_dir / root_name / f"opp_{n}"
     output_dir  = script_dir / f"{eval_base}_judge_{judge_short}_{args.prompt_module}" / f"opp_{n}"
+
+    # Auto-merge per-session experiment results into input_dir/{module}/results_*.json.
+    logging.info(f"[merge] llm={args.llm} subset={args.subset} sessions=0..{n - 1}")
+    build_merged_inputs(script_dir.parent, input_dir, args.llm, args.subset, n)
 
     if not input_dir.exists():
         raise FileNotFoundError(f"Input directory not found: {input_dir}")

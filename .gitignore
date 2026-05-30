@@ -6,8 +6,6 @@ llm_module/models/
 llm_module/cache/
 
 # experiment outputs
-*.json
-*.jsonl
 *.out
 *.npy
 *.pkl

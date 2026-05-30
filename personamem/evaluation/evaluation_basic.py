@@ -1,33 +1,14 @@
 """
-evaluation_basic.py — Evaluation for new-format experiment results (exact match)
-
-Input structure:
-    evaluation/{root}/{model}/
-        ├── results_*.json
-        └── retrieval_logs/
-            └── session_*_retrieval_log.jsonl
-
-Output structure:
-    evaluation/{root_without_results}_eval/
-        ├── qa_score.csv
-        └── token_memory_stats.csv
-
 Example:
-    python evaluation_basic.py --root gemma-3-1b-it_32k
-    python evaluation_basic.py --root Qwen3.5-4B_32k
-    python evaluation_basic.py --root 128k_gemma3_4b_results
-
-Arguments:
-    --root : root folder name under evaluation/ (e.g. 32k_qwen3_1.7b_results)
+    python evaluation_basic.py --llm Qwen3-1.7B --module pgmem --benchmark 32k
 """
 
 import argparse
 import json
 import warnings
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 
-import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
@@ -42,10 +23,14 @@ VALID_OPTIONS = {"a", "b", "c", "d"}
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Evaluation script for personalized dialogue experiments"
+        description="Merge per-session results for one module and evaluate (exact match)."
     )
-    parser.add_argument("--root", required=True,
-                        help="Root folder name under evaluation/ (e.g. 32k_qwen3_1.7b_results)")
+    parser.add_argument("--llm", required=True,
+                        help="LLM tag, e.g. Qwen3-1.7B")
+    parser.add_argument("--module", required=True,
+                        help="Memory-module folder under personamem/, e.g. pgmem")
+    parser.add_argument("--benchmark", required=True,
+                        help="Benchmark size tag, e.g. 32k")
     return parser.parse_args()
 
 
@@ -58,24 +43,41 @@ def is_valid_text(val) -> bool:
 
 
 # ---------------------------------------------------------------------------
-# File helpers
+# Merge: gather per-session result files and merge their qa_results
 # ---------------------------------------------------------------------------
 
-def get_llm_from_data(data: List[Dict]) -> str:
-    for session in data:
-        model = session.get("config_metadata", {}).get("model")
-        if model:
-            return model.split("/")[-1]
-    for session in data:
-        for qa in session.get("qa_results", []):
-            model = qa.get("qa_tokens", {}).get("model")
-            if model:
-                return model.split("/")[-1]
-    return "unknown"
+def find_output_dirs(module_dir: Path, llm: str, benchmark: str) -> List[Path]:
+    """Experiment output folders ending with `{llm}_{benchmark}` (e.g. config_0_outputs_Qwen3-1.7B_32k)."""
+    tag = f"{llm}_{benchmark}"
+    matches = [
+        d for d in module_dir.iterdir()
+        if d.is_dir() and (d.name == tag or d.name.endswith(f"_{tag}"))
+    ]
+    if not matches:
+        raise FileNotFoundError(
+            f"No experiment output folder ending with '{tag}' found in {module_dir}"
+        )
+    return sorted(matches)
 
 
-def find_result_file(model_dir: Path) -> Optional[Path]:
-    files = sorted(model_dir.glob("results_*.json"))
+def merge_qa_results(output_dirs: List[Path], llm: str, benchmark: str) -> List[Dict]:
+    """Collect qa_results from every `*/results_{llm}_{benchmark}_session_*.json` file."""
+    pattern = f"*/results_{llm}_{benchmark}_session_*.json"
+    merged: List[Dict] = []
+    n_files = 0
+    for out_dir in output_dirs:
+        for result_file in sorted(out_dir.glob(pattern)):
+            with open(result_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            for session in data:
+                merged.extend(session.get("qa_results", []))
+            n_files += 1
+    print(f"   Merged {n_files} session file(s) → {len(merged)} qa_results")
+    return merged
+
+
+def find_result_file(module_dir: Path) -> Optional[Path]:
+    files = sorted(module_dir.glob("results_*.json"))
     return files[0] if files else None
 
 
@@ -121,26 +123,6 @@ def upsert_to_csv(csv_path: Path, row: Dict, columns: List[str]):
     new_row = pd.DataFrame([{c: row.get(c, "") for c in columns}])
     df = pd.concat([df, new_row], ignore_index=True)
     df.to_csv(csv_path, index=False, encoding="utf-8")
-
-
-# ---------------------------------------------------------------------------
-# Turn counting from retrieval logs
-# ---------------------------------------------------------------------------
-
-def count_turns_from_retrieval_logs(retrieval_log_dir: Path) -> Tuple[float, int]:
-    if not retrieval_log_dir.exists():
-        return 0.0, 0
-    log_files = sorted(retrieval_log_dir.glob("session_*_retrieval_log.jsonl"))
-    if not log_files:
-        return 0.0, 0
-
-    counts = []
-    for lf in log_files:
-        with open(lf, "r", encoding="utf-8") as f:
-            counts.append(sum(1 for line in f if line.strip()))
-    if not counts:
-        return 0.0, 0
-    return float(np.mean(counts)), int(sum(counts))
 
 
 # ---------------------------------------------------------------------------
@@ -199,86 +181,14 @@ def evaluate_qa_exact_match(data: List[Dict], all_types: List[str]) -> Dict:
 
 
 # ---------------------------------------------------------------------------
-# Token statistics
-# ---------------------------------------------------------------------------
-
-def evaluate_token_stats(data: List[Dict]) -> Dict:
-    accum: Dict[str, List[float]] = {
-        "total_input": [],
-        "total_output": [],
-        "total_llm_calls": [],
-    }
-
-    for session in data:
-        tok = session.get("token_statistics", {})
-        if not tok:
-            continue
-        for k in accum:
-            if k in tok:
-                accum[k].append(float(tok[k]))
-
-    return {k: (float(np.mean(v)) if v else 0.0) for k, v in accum.items()}
-
-
-# ---------------------------------------------------------------------------
-# Retrieval / memory statistics
-# ---------------------------------------------------------------------------
-
-def evaluate_memory_stats(retrieval_log_dir: Path) -> Optional[Dict]:
-    if not retrieval_log_dir.exists():
-        return None
-    log_files = sorted(retrieval_log_dir.glob("session_*_retrieval_log.jsonl"))
-    if not log_files:
-        return None
-
-    memory_type: Optional[List[str]] = None
-    per_position: List[List[float]] = []
-    sum_per_entry: List[float] = []
-
-    for lf in log_files:
-        with open(lf, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue
-                try:
-                    entry = json.loads(line)
-                except json.JSONDecodeError:
-                    continue
-
-                nr = entry.get("num_retrieved", [])
-                mt = entry.get("memory_type", [])
-                if isinstance(nr, (int, float)): nr = [nr]
-                if isinstance(mt, str):          mt = [mt]
-
-                if memory_type is None and mt:
-                    memory_type = mt
-                    per_position = [[] for _ in mt]
-
-                sum_per_entry.append(float(sum(nr)))
-                for i, count in enumerate(nr):
-                    if i < len(per_position):
-                        per_position[i].append(float(count))
-
-    if not sum_per_entry:
-        return None
-
-    return {
-        "memory_type":         memory_type or [],
-        "list_retrieved_avg":  [float(np.mean(p)) if p else 0.0 for p in per_position],
-        "total_retrieved_avg": float(np.mean(sum_per_entry)),
-    }
-
-
-# ---------------------------------------------------------------------------
 # Column helpers
 # ---------------------------------------------------------------------------
 
-def collect_all_question_types(model_dirs: List[Path]) -> List[str]:
-    """First pass: scan all result files to collect every question_type."""
+def collect_all_question_types(module_dirs: List[Path]) -> List[str]:
+    """First pass: scan all merged result files to collect every question_type."""
     types: set = set()
-    for model_dir in model_dirs:
-        result_file = find_result_file(model_dir)
+    for module_dir in module_dirs:
+        result_file = find_result_file(module_dir)
         if result_file is None:
             continue
         try:
@@ -308,132 +218,86 @@ def build_qa_columns(all_types: List[str]) -> List[str]:
 def main():
     args = parse_args()
 
-    script_dir = Path(__file__).parent
-    root_name = args.root
-    eval_base = root_name.replace("_results", "")
+    script_dir     = Path(__file__).parent          # personamem/evaluation
+    personamem_dir = script_dir.parent              # personamem
+    module_dir     = personamem_dir / args.module
 
-    input_dir = script_dir / root_name
-    eval_dir  = script_dir / f"{eval_base}_eval"
+    if not module_dir.exists():
+        raise FileNotFoundError(f"Module folder not found: {module_dir}")
 
-    if not input_dir.exists():
-        raise FileNotFoundError(f"Input directory not found: {input_dir}")
+    tag = f"{args.llm}_{args.benchmark}"
 
+    # ── Step 1: merge qa_results for this module ──────────────────────────
+    print(f"[merge] module={args.module}  llm={args.llm}  benchmark={args.benchmark}")
+    output_dirs = find_output_dirs(module_dir, args.llm, args.benchmark)
+    merged_qa = merge_qa_results(output_dirs, args.llm, args.benchmark)
+    if not merged_qa:
+        raise RuntimeError(f"No qa_results found under {module_dir} for tag '{tag}'.")
+
+    results_root   = script_dir / f"{tag}_results"
+    module_out_dir = results_root / args.module
+    module_out_dir.mkdir(parents=True, exist_ok=True)
+    merged_path    = module_out_dir / f"results_{tag}_merged.json"
+    with open(merged_path, "w", encoding="utf-8") as f:
+        json.dump([{"qa_results": merged_qa}], f, ensure_ascii=False, indent=2)
+    print(f"[merge] wrote {merged_path}")
+
+    # ── Step 2: evaluate every module folder under {tag}_results ──────────
+    eval_dir = script_dir / f"{tag}_eval"
     eval_dir.mkdir(parents=True, exist_ok=True)
+    qa_csv = eval_dir / "qa_score.csv"
 
-    qa_csv  = eval_dir / "qa_score.csv"
-    tok_csv = eval_dir / "token_memory_stats.csv"
+    module_dirs = sorted([d for d in results_root.iterdir() if d.is_dir()])
+    print(f"[eval] {len(module_dirs)} module folder(s) under {results_root}")
 
-    TOK_COLS = [
-        "model", "llm",
-        "avg_turn", "total_turn",
-        "avg_total_input", "avg_total_output", "avg_llm_calls",
-        "memory_type", "list_retrieved_avg", "total_retrieved_avg",
-    ]
-
-    model_dirs = sorted([d for d in input_dir.iterdir() if d.is_dir()])
-    if not model_dirs:
-        print(f"No subdirectories found in {input_dir}")
-        return
-
-    print(f"Found {len(model_dirs)} model folder(s) in {input_dir}")
-
-    print("Scanning question types...")
-    all_types = collect_all_question_types(model_dirs)
-    print(f"Question types ({len(all_types)}): {all_types}")
-
+    all_types = collect_all_question_types(module_dirs)
     QA_COLS = build_qa_columns(all_types)
-    print(f"Output → {eval_dir}")
+    print(f"[eval] question types ({len(all_types)}): {all_types}")
+    print(f"[eval] output → {eval_dir}")
 
-    for model_dir in tqdm(model_dirs, desc="Evaluating models"):
-        model_name = model_dir.name
-        print(f"\n── {model_name}")
+    for mdir in tqdm(module_dirs, desc="Evaluating modules"):
+        model_name = mdir.name
 
-        already_qa  = model_name in get_evaluated_models(qa_csv, QA_COLS)
-        already_tok = model_name in get_evaluated_models(tok_csv, TOK_COLS)
-
-        if already_qa and already_tok:
-            print("   Already evaluated — skipping.")
+        # Always re-evaluate the module we just merged; skip others already done.
+        if model_name != args.module and model_name in get_evaluated_models(qa_csv, QA_COLS):
+            print(f"\n── {model_name}: already evaluated — skipping.")
             continue
 
-        result_file = find_result_file(model_dir)
+        result_file = find_result_file(mdir)
         if result_file is None:
-            print("   Skipping: no results_*.json found")
+            print(f"\n── {model_name}: no results_*.json — skipping.")
             continue
 
         with open(result_file, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        llm = get_llm_from_data(data)
-        print(f"   llm={llm}  sessions={len(data)}")
+        qa_res = evaluate_qa_exact_match(data, all_types)
 
-        retrieval_log_dir = model_dir / "retrieval_logs"
-        avg_turn, total_turn = count_turns_from_retrieval_logs(retrieval_log_dir)
+        row: Dict = {
+            "model":            model_name,
+            "llm":              args.llm,
+            "total_qa":         qa_res["total_qa"],
+            "valid_qa":         qa_res["valid_qa"],
+            "overall_accuracy": round(qa_res["overall_accuracy"], 6),
+            "invalid_count":    qa_res["invalid_count"],
+        }
+        for t in all_types:
+            pt = qa_res["per_type"][t]
+            row[f"{t}_total"]    = pt["total"]
+            row[f"{t}_correct"]  = pt["correct"]
+            row[f"{t}_accuracy"] = round(pt["accuracy"], 6)
+            row[f"{t}_invalid"]  = pt["invalid"]
 
-        # ── QA evaluation ────────────────────────────────────────────────
-        if not already_qa:
-            print("   [QA] Exact match evaluation...")
-            qa_res = evaluate_qa_exact_match(data, all_types)
+        upsert_to_csv(qa_csv, row, QA_COLS)
 
-            row: Dict = {
-                "model":            model_name,
-                "llm":              llm,
-                "total_qa":         qa_res["total_qa"],
-                "valid_qa":         qa_res["valid_qa"],
-                "overall_accuracy": round(qa_res["overall_accuracy"], 6),
-                "invalid_count":    qa_res["invalid_count"],
-            }
-            for t in all_types:
-                pt = qa_res["per_type"][t]
-                row[f"{t}_total"]    = pt["total"]
-                row[f"{t}_correct"]  = pt["correct"]
-                row[f"{t}_accuracy"] = round(pt["accuracy"], 6)
-                row[f"{t}_invalid"]  = pt["invalid"]
+        print(f"\n── {model_name}: overall_accuracy={qa_res['overall_accuracy']:.4f}  "
+              f"valid_qa={qa_res['valid_qa']}  invalid_count={qa_res['invalid_count']}")
+        for t in all_types:
+            pt = qa_res["per_type"][t]
+            print(f"     {t}: accuracy={pt['accuracy']:.4f} "
+                  f"({pt['correct']}/{pt['total']}) invalid={pt['invalid']}")
 
-            upsert_to_csv(qa_csv, row, QA_COLS)
-
-            print(f"   → overall_accuracy={qa_res['overall_accuracy']:.4f}  "
-                  f"valid_qa={qa_res['valid_qa']}  "
-                  f"invalid_count={qa_res['invalid_count']}")
-            for t in all_types:
-                pt = qa_res["per_type"][t]
-                print(f"     {t}: accuracy={pt['accuracy']:.4f} "
-                      f"({pt['correct']}/{pt['total']}) invalid={pt['invalid']}")
-
-        # ── Token + memory statistics ─────────────────────────────────────
-        if not already_tok:
-            print("   [Token stats] Computing...")
-            tok = evaluate_token_stats(data)
-
-            print("   [Memory stats] Computing...")
-            ms = evaluate_memory_stats(retrieval_log_dir)
-
-            if ms is not None:
-                mem_type_str  = json.dumps(ms["memory_type"])
-                list_avg_str  = json.dumps([round(v, 4) for v in ms["list_retrieved_avg"]])
-                total_ret_avg = round(ms["total_retrieved_avg"], 4)
-            else:
-                mem_type_str = list_avg_str = ""
-                total_ret_avg = ""
-
-            upsert_to_csv(tok_csv, {
-                "model":               model_name,
-                "llm":                 llm,
-                "avg_turn":            round(avg_turn, 2),
-                "total_turn":          total_turn,
-                "avg_total_input":     round(tok["total_input"], 2),
-                "avg_total_output":    round(tok["total_output"], 2),
-                "avg_llm_calls":       round(tok["total_llm_calls"], 2),
-                "memory_type":         mem_type_str,
-                "list_retrieved_avg":  list_avg_str,
-                "total_retrieved_avg": total_ret_avg,
-            }, TOK_COLS)
-
-            print(f"   → avg_total_input={tok['total_input']:.1f}  "
-                  f"avg_llm_calls={tok['total_llm_calls']:.1f}  "
-                  f"avg_turn={avg_turn:.2f} total_turn={total_turn}  "
-                  f"total_retrieved_avg={total_ret_avg}")
-
-    print(f"\nDone. Results written to {eval_dir}/")
+    print(f"\nDone. → {qa_csv}")
 
 
 if __name__ == "__main__":

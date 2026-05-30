@@ -1,15 +1,3 @@
-# PrefBench-style 4-criterion judge prompts (Tan et al., ICLR 2025 — Figures 15-18, pp. 35-37).
-# Each prompt is reproduced verbatim from appendix A.11; only the placeholders
-# ([preference]/[question]/[response]/[assistant restatement]) are converted to
-# Python str.format keys (preference / question / response / restatement).
-#
-# Score normalization (handled in evaluation_llm_judge.py — NOT in the prompt):
-#   violation        : Answer="No"  -> 1 (good, no violation),       Answer="Yes" -> 0
-#   acknowledgement  : Answer="Yes" -> 1 (good, acknowledges),       Answer="No"  -> 0
-#   hallucination    : Answer="No"  -> 1 (good, no hallucination),   Answer="Yes" -> 0
-#   helpful_response : Answer="Yes" -> 1 (good, substantive help),   Answer="No"  -> 0
-
-
 # ---------- 1) Preference Violation (Figure 15) ----------
 
 USER_PROMPT_TEMPLATE_VIOLATION = """\
