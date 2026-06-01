@@ -56,7 +56,7 @@ OPENAI_CONFIG = {
 }
 
 TEMPERATURE = 0.7
-MAX_TOKENS = 1000
+MAX_TOKENS = 1500
 
 # Per-call output caps for the 9 internal calls. Each is set conservatively
 # (typically 3-5× the empirically expected output size).
@@ -70,8 +70,8 @@ MAX_TOKENS_TRAIT_EXTRA_REL_5B = 1500  # ⑤b  ≤ TOPK_STATE+TOPK_EPISODE judgme
 MAX_TOKENS_STATE_STATE_5C     = 1000  # ⑤c  ≤ 2 × STATE_STATE_EXTRA_REL_TOPK judgments (pair-level sem_topK ∪ lex_topK)
 MAX_TOKENS_STATE_EPISODE_5D   = 800   # ⑤d  ≤ 2 × STATE_EPISODE_EXTRA_REL_TOPK judgments (pair-level sem_topK ∪ lex_topK)
 
-JSON_RETRY = 30
-JUDGMENT_RETRY = 10       # retry count when judgments array is empty but expected_judgment_count > 0
+JSON_RETRY = 10
+JUDGMENT_RETRY = 3       # retry count when judgments array is empty but expected_judgment_count > 0
 
 
 # =============================================================================
@@ -101,12 +101,12 @@ MAX_DOMAIN_LABELS = 7
 MIN_DOMAIN_LABELS = 5
 
 # Seed retrieval top-k
-K_CONTEXT = 16
-K_EPISODE = 5
-K_EPISODE_FINAL = 3      # final episode count after evidence-based scoring of pooled episodes
-K_STATE = 14
-K_TRAIT = 5
-K_APS = 5
+K_CONTEXT = 20
+K_EPISODE = 6
+K_EPISODE_FINAL = 4      # final episode count after evidence-based scoring of pooled episodes
+K_STATE = 17
+K_TRAIT = 6
+K_APS = 6
 
 # Seed retrieval weights (context uses fixed pair; states / episodes / traits share scope-dependent pair)
 W_SEM_C = 0.65
@@ -118,8 +118,8 @@ W_SEM_BROAD = 0.85
 W_OV_BROAD = 0.15
 
 # Final set
-K_T_FINAL = 4            # number of traits kept in the final set
-K_SF = 14
+K_T_FINAL = 5            # number of traits kept in the final set
+K_SF = 18
 TRAIT_VALIDATION_TAU = 0.7
 W_SR = 0.5               # support-ratio weight in unified final scoring; seed-score weight is (1 - W_SR)
 
@@ -137,10 +137,10 @@ STRICT_HIGH_DEFAULT_LOW = True
 # Additional relation extraction (⑤b/⑤c/⑤d)
 ENABLE_EXTRA_RELATION_EXTRACTION = True
 EXTRA_REL_ONLY_IF_UNCONNECTED = True
-TRAIT_EXTRA_REL_TOPK_STATE = 7
-TRAIT_EXTRA_REL_TOPK_EPISODE = 3
-STATE_STATE_EXTRA_REL_TOPK = 5
-STATE_EPISODE_EXTRA_REL_TOPK = 3
+TRAIT_EXTRA_REL_TOPK_STATE = 10
+TRAIT_EXTRA_REL_TOPK_EPISODE = 5
+STATE_STATE_EXTRA_REL_TOPK = 8
+STATE_EPISODE_EXTRA_REL_TOPK = 4
 STATE_NEW_REL_PREV_WINDOW = 5    # global recent prev-state window for ②b
 
 # Context cache
@@ -148,9 +148,9 @@ CONTEXT_CACHE_SIZE = 10
 
 # Sub-block chunking: split each block into CHUNK_FACTOR virtual chunks.
 # Episode extracts once per virtual chunk; trait every TRAIT_EXTRACTION_CHUNKS chunks.
-# 32k: 1 chunk/block  → episode/block,    trait/2 blocks
-# 128k/1M: 2 chunks/block → episode/½ block, trait/1 block
-CHUNK_FACTOR = {"32k": 2, "128k": 2, "1M": 2}
+# Larger benchmarks pack more content per block, so they get finer chunking:
+# 32k: 2 chunks/block, 128k: 4 chunks/block, 1M: 8 chunks/block.
+CHUNK_FACTOR = {"32k": 2, "128k": 4, "1M": 8}
 
 # Time model
 # PersonaMem: 1 block = 1 virtual day.

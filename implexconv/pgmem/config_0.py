@@ -48,7 +48,7 @@ OPENAI_CONFIG = {
 }
 
 TEMPERATURE = 0.7
-MAX_TOKENS = 1000
+MAX_TOKENS = 1500
 
 # Per-call output caps for the 9 internal calls. Each is set conservatively
 # (typically 3-5× the empirically expected output size) so that retries with
@@ -64,8 +64,8 @@ MAX_TOKENS_TRAIT_EXTRA_REL_5B = 1500  # ⑤b  ≤ TOPK_STATE+TOPK_EPISODE judgme
 MAX_TOKENS_STATE_STATE_5C     = 1000  # ⑤c  ≤ 2 × STATE_STATE_EXTRA_REL_TOPK judgments (pair-level sem_topK ∪ lex_topK)
 MAX_TOKENS_STATE_EPISODE_5D   = 800   # ⑤d  ≤ 2 × STATE_EPISODE_EXTRA_REL_TOPK judgments (pair-level sem_topK ∪ lex_topK)
 
-JSON_RETRY = 15
-JUDGMENT_RETRY = 6       # retry count when judgments array is empty but expected_judgment_count > 0
+JSON_RETRY = 10
+JUDGMENT_RETRY = 3       # retry count when judgments array is empty but expected_judgment_count > 0
 
 
 # =============================================================================
@@ -73,7 +73,7 @@ JUDGMENT_RETRY = 6       # retry count when judgments array is empty but expecte
 # =============================================================================
 
 BATCH_SIZE = 4
-QA_BATCH_SIZE = 128
+QA_BATCH_SIZE = 64
 
 
 # =============================================================================
@@ -96,9 +96,9 @@ STATE_REF_CONTEXT_TURNS = 3      # prior (user, assistant) pairs shown as read-o
 CHUNK_SIZE_CONV = 1
 TRAIT_EXTRACTION_CHUNKS = 2
 TRAIT_MAX_COUNT = 1
-MAX_KEYWORDS = 8
-MAX_DOMAIN_LABELS = 8
-MIN_DOMAIN_LABELS = 6
+MAX_KEYWORDS = 7
+MAX_DOMAIN_LABELS = 7
+MIN_DOMAIN_LABELS = 5
 
 # Seed retrieval top-k
 K_CONTEXT = 20
