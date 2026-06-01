@@ -15,7 +15,7 @@
 #       --tensor-parallel 1 --gpu-memory 0.9 --max-model-len 8192 \
 #       --dims 1 2 --batch-size 32
 #
-# OpenAI Batch API (~50% cheaper, up to 24h latency) — judge-model is an OpenAI model name:
+# OpenAI Batch API — judge-model is an OpenAI model name:
 #   export OPENAI_API_KEY=sk-...            # or point --api-key-env at another env var
 #   python evaluation_llm_judge.py \
 #       --llm Qwen3-1.7B --subset opposed --session-num 10 \
@@ -29,6 +29,7 @@
 
 import argparse
 import fcntl
+import gzip
 import importlib
 import json
 import logging
@@ -54,7 +55,7 @@ logging.basicConfig(
 )
 
 DATASET_PATH = (
-    Path(__file__).parent.parent / "dataset/implexconv/ImplexConv_opposed_processed.json"
+    Path(__file__).parent.parent / "dataset/implexconv/ImplexConv_opposed_processed.json.gz"
 )
 FALLBACK_EMB_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 FALLBACK_TOP_K = 3
@@ -196,7 +197,8 @@ def parse_args():
 
 
 def load_dataset(dataset_path: Path) -> Dict:
-    with open(dataset_path, "r", encoding="utf-8") as f:
+    _open = gzip.open if Path(dataset_path).suffix == ".gz" else open
+    with _open(dataset_path, "rt", encoding="utf-8") as f:
         raw = json.load(f)
 
     session_map: Dict[int, Dict] = {}

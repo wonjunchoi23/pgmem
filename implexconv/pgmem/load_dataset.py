@@ -45,6 +45,7 @@ Usage:
             ...
 """
 
+import gzip
 import json
 from typing import List, Optional, Tuple
 from dataclasses import dataclass, field
@@ -185,6 +186,13 @@ def _parse_session(session_data: dict, subset: str) -> Session:
 # MAIN LOADER
 # =============================================================================
 
+def _open_dataset(file_path: Path):
+    """Open a dataset file as text, transparently handling gzip (.gz) compression."""
+    if file_path.suffix == ".gz":
+        return gzip.open(file_path, "rt", encoding="utf-8")
+    return open(file_path, "r", encoding="utf-8")
+
+
 def load_implexconv_dataset(file_path: str, subset: str) -> List[Session]:
     """
     Load ImplexConv dataset for the given subset.
@@ -209,7 +217,7 @@ def load_implexconv_dataset(file_path: str, subset: str) -> List[Session]:
 
     print(f"Loading '{subset}' dataset from: {file_path}")
 
-    with open(file_path, "r", encoding="utf-8") as f:
+    with _open_dataset(file_path) as f:
         data = json.load(f)
 
     sessions = [_parse_session(s, subset) for s in data]

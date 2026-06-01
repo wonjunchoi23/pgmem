@@ -15,7 +15,7 @@ LLM_MODULE_DIR = PROJECT_ROOT.parent / "llm_module"
 sys.path.insert(0, str(LLM_MODULE_DIR))
 
 DATASET_DIR = PROJECT_ROOT / "dataset" / "implexconv"
-DATASET_OPPOSED = DATASET_DIR / "ImplexConv_opposed_processed.json"
+DATASET_OPPOSED = DATASET_DIR / "ImplexConv_opposed_processed.json.gz"
 DATASET_SUPPORTIVE = DATASET_DIR / "ImplexConv_supportive_processed.json"
 
 BASE_OUTPUT_DIR = CONFIG_DIR
