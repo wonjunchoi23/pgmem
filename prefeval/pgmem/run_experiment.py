@@ -695,7 +695,7 @@ def main():
                     f"qa_calls={qa_totals['llm_calls']}")
 
     print(f"\n{'#'*60}")
-    print(f"# Chain complete!")
+    print("# Chain complete!")
     print(f"# Results -> {results_file}")
     print(f"# Snapshots -> {snapshots_dir}")
     print(f"{'#'*60}\n")

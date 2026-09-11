@@ -608,7 +608,7 @@ def _build_batch_input_file(
     if is_reasoning:
         logging.info(
             f"  reasoning model detected ({judge_model}): "
-            f"using max_completion_tokens, dropping temperature"
+            "using max_completion_tokens, dropping temperature"
         )
     with open(path, "w", encoding="utf-8") as f:
         for req in global_requests:
@@ -778,7 +778,7 @@ def run_hybrid_batch_mode(
             # No new prompts (e.g. resumed and only -1s left to fill but overwrite=False);
             # just persist whatever's already in qa_entries.
             _save_folder_detail(job, args, active_subdims)
-            logging.info(f"  no new prompts — wrote detail JSON only")
+            logging.info("  no new prompts — wrote detail JSON only")
             continue
 
         folder_jobs.append(job)
@@ -853,7 +853,7 @@ def run_hybrid_batch_mode(
                 else:
                     logging.error(
                         f"  [{mc}] ended with status={batch.status} — "
-                        f"leaving for next run (will resubmit on rerun)"
+                        "leaving for next run (will resubmit on rerun)"
                     )
                     failed_jobs.append(mc)
                 finished_keys.append(key)
@@ -879,7 +879,7 @@ def run_hybrid_batch_mode(
     if failed_jobs:
         logging.warning(
             f"Done with {len(failed_jobs)} failed folder(s): {failed_jobs}. "
-            f"Re-run the same command to retry — failed batches will be resubmitted."
+            "Re-run the same command to retry — failed batches will be resubmitted."
         )
     else:
         logging.info(f"\nDone → {out_dir}")

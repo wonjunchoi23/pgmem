@@ -270,11 +270,11 @@ if __name__ == "__main__":
     print(f"  messages   : {len(c.messages)}")
     print(f"  qa_pairs   : {len(c.qa_pairs)}")
 
-    print(f"\nFirst 4 messages:")
+    print("\nFirst 4 messages:")
     for m in c.messages[:4]:
         print(f"  [block={m.block_idx}, local={m.local_msg_idx}] {m.role}: {m.content[:70]}")
 
-    print(f"\nFirst QA pair:")
+    print("\nFirst QA pair:")
     q = c.qa_pairs[0]
     print(f"  type    : {q.question_type}")
     print(f"  Q       : {q.question}")

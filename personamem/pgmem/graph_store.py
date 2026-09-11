@@ -73,7 +73,7 @@ class Node:
 
 
 class HeterogeneousGraph:
-    """In-memory graph for one PGMem v5 session."""
+    """In-memory graph for one PGMem session."""
 
     def __init__(self) -> None:
         self._nodes: Dict[str, Node] = {}

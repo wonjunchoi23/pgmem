@@ -1070,7 +1070,6 @@ class GraphUpdater:
             start_idx=len(trait_ids) + len(s_ids) + len(e_ids),
         )
         id_map = trait_ids + s_ids + e_ids + pt_ids
-        new_trait_idx = 0
         prev_trait_idx = len(trait_ids) + len(s_ids) + len(e_ids) if pt_ids else None
         expected_5a = len(s_ids) + len(e_ids) + (1 if pt_ids else 0)
 

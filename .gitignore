@@ -12,3 +12,10 @@ llm_module/cache/
 *.csv
 *.log
 *.pyc
+__pycache__/
+
+# dataset files must ship with the repo despite the *.csv rule above
+!personamem/dataset/*.csv
+
+# local tooling
+.claude/

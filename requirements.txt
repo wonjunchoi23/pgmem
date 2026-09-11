@@ -3,7 +3,6 @@ python-dotenv
 requests
 aiohttp
 tqdm
-pathlib
 pandas
 numpy==2.2.6
 seaborn

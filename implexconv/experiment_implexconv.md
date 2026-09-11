@@ -7,7 +7,7 @@ response is generated — GT agent responses are used for memory construction.
 ## Dataset
 
 - **ImplexConv**, two subsets via `--subset`: `opposed` / `supportive`
-  (`dataset/implexconv/ImplexConv_{subset}_processed.json`).
+  (`dataset/implexconv/ImplexConv_{subset}_processed.json.gz`; only the `opposed` file ships with this repo).
 - Each file is a list of session objects: `metadata`, `conversations` (flattened turns:
   session_id, conv_id, turn_id, global_turn_id, speaker, utterance), and `qa`
   (question, answer, opposed_implicit_reasoning, retrieved_conv_ids).
@@ -42,7 +42,7 @@ Unit = one session `S_i` (i = start_session..end_session).
 - **Token tracking**: every LLM call (QA + module-internal) uses `return_usage=True`,
   counted per call type as `{input, output, llm_calls}`; totals are the sums. Use the key
   `llm_calls` (not `api_calls`).
-- Shared protocol knobs: `CHECKPOINT_INTERVAL=1`, `TEMPERATURE=0.7`, `MAX_TOKENS=750`.
+- Shared protocol knobs: `CHECKPOINT_INTERVAL=1`, `TEMPERATURE=0.7`, `MAX_TOKENS=1500`.
 
 ## Memory module interface
 
@@ -87,7 +87,7 @@ python run_experiment.py \
     --subset opposed \
     --model meta-llama/Llama-3.1-8B-Instruct \
     --tensor-parallel 1 --gpu-memory 0.5 \
-    --config config
+    --config config_0
 ```
 
 `--config` is the config filename (without `.py`), loaded dynamically and used as the

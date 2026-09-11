@@ -47,6 +47,7 @@ import warnings
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
+import nltk
 import numpy as np
 import pandas as pd
 from nltk.translate.meteor_score import single_meteor_score
@@ -55,6 +56,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 from tqdm import tqdm
 
 warnings.filterwarnings("ignore")
+
+# METEOR needs the WordNet corpus; download once if it is not already present.
+for _corpus in ("wordnet", "omw-1.4"):
+    try:
+        nltk.data.find(f"corpora/{_corpus}")
+    except LookupError:
+        nltk.download(_corpus, quiet=True)
 
 BATCH_SIZE = 128
 DEFAULT_EMB_MODEL = "sentence-transformers/all-MiniLM-L6-v2"

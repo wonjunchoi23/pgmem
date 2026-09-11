@@ -240,22 +240,26 @@ def _print_statistics(sessions: List[Session], subset: str):
 
 if __name__ == "__main__":
     import importlib.util as _ilu
-    _cfg_file = Path(__file__).parent / "config.py"
-    _spec = _ilu.spec_from_file_location("config", _cfg_file)
+    _cfg_file = Path(__file__).parent / "config_0.py"
+    _spec = _ilu.spec_from_file_location("config_0", _cfg_file)
     _cfg = _ilu.module_from_spec(_spec)
     _spec.loader.exec_module(_cfg)
 
     _paths = {"opposed": _cfg.DATASET_OPPOSED, "supportive": _cfg.DATASET_SUPPORTIVE}
     for subset in ("opposed", "supportive"):
+        if not Path(_paths[subset]).exists():
+            print(f"\n{'='*50}")
+            print(f"Skipping '{subset}': {_paths[subset]} not present.")
+            continue
         print(f"\n{'='*50}")
         sessions = load_implexconv_dataset(_paths[subset], subset)
 
         s = sessions[0]
-        print(f"\nSession 0 — first 4 turns:")
+        print("\nSession 0 — first 4 turns:")
         for turn in s.turns[:4]:
             print(f"  [{turn.conv_id}/{turn.turn_id}] {turn.to_message()[:70]}")
 
-        print(f"\nSession 0 — first QA:")
+        print("\nSession 0 — first QA:")
         q = s.qa[0]
         print(f"  Q: {q.question}")
         print(f"  A: {q.answer}")

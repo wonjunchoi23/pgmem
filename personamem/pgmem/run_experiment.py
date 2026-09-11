@@ -740,7 +740,7 @@ def main():
     spec.loader.exec_module(cfg)
     sys.modules["config"] = cfg
 
-    parser = argparse.ArgumentParser(description="PGMem v6 Experiment on PersonaMem")
+    parser = argparse.ArgumentParser(description="PGMem Experiment on PersonaMem")
     parser.add_argument("--start-session",   type=int, required=True)
     parser.add_argument("--end-session",     type=int, required=True)
     parser.add_argument("--benchmark-size",  type=str, required=True,
@@ -803,7 +803,7 @@ def main():
     )
 
     logger.info("=" * 60)
-    logger.info("PGMem v6 Experiment — PersonaMem")
+    logger.info("PGMem Experiment — PersonaMem")
     logger.info(f"  Config          : {config_name}")
     logger.info(f"  Mode            : {'QA-only (snapshots → QA)' if args.qa_only else 'full (Phase1 + QA)'}")
     if suffix:
