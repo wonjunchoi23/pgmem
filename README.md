@@ -1,13 +1,21 @@
-# PGMem: Tightly Coupled Persona–Memory Graph for Lifelong Personalized Agents
+<h1 align="center">PGMem: Tightly Coupled Persona–Memory Graph for Lifelong Personalized Agents</h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2608.01708-b31b1b.svg)](https://arxiv.org/abs/2608.01708)
-[![EMNLP 2026](https://img.shields.io/badge/EMNLP-2026-4b44ce.svg)](https://2026.emnlp.org/)
+<p align="center">
+  <a href="https://arxiv.org/abs/2608.01708"><img src="https://img.shields.io/badge/arXiv-2608.01708-b31b1b.svg" alt="arXiv"></a>
+  <a href="https://2026.emnlp.org/"><img src="https://img.shields.io/badge/EMNLP-2026-4b44ce.svg" alt="EMNLP 2026"></a>
+</p>
 
-**Wonjun Choi**<sup>1</sup>, **Yerim Kim**<sup>1</sup>, **Yukyung Lee**<sup>2,†</sup>, **Susik Yoon**<sup>1,†</sup>
+<p align="center">
+  <b>Wonjun Choi</b><sup>1</sup>, <b>Yerim Kim</b><sup>1</sup>, <b>Yukyung Lee</b><sup>2,&dagger;</sup>, <b>Susik Yoon</b><sup>1,&dagger;</sup>
+</p>
 
-<sup>1</sup>Korea University, Seoul, Korea &nbsp;&nbsp; <sup>2</sup>Boston University, Boston, USA
+<p align="center">
+  <sup>1</sup>Korea University, Seoul, Korea &nbsp;&nbsp; <sup>2</sup>Boston University, Boston, USA
+</p>
 
-<sup>†</sup>Corresponding author
+<p align="center">
+  <sup>&dagger;</sup>Corresponding author
+</p>
 
 <p align="center">
   <img src="assets/framework.png" width="900" alt="PGMem framework overview">
@@ -30,11 +38,6 @@ query-relevant seeds and ranks signals by evidential validity. Across three benc
 language model backbones, PGMem consistently outperforms summary-based, persona-aware,
 graph-structured, and agentic memory baselines, and improves performance as the context grows.
 
-## Links
-
-- Paper (arXiv): https://arxiv.org/abs/2608.01708
-- Venue: [EMNLP 2026](https://2026.emnlp.org/)
-
 ## Benchmarks
 
 PGMem is evaluated on three benchmarks, each with a self-contained copy of the module under
@@ -45,21 +48,6 @@ PGMem is evaluated on three benchmarks, each with a self-contained copy of the m
 | [ImplexConv](#implexconv) | Free-form QA over opposed personas | LLM-as-judge |
 | [PersonaMem](#personamem) | Multiple-choice QA over long contexts | Exact match |
 | [PrefEval](#prefeval) | Implicit-preference response generation | LLM-as-judge |
-
-## Citation
-
-```bibtex
-@article{choi2026pgmem,
-  title   = {PGMem: Tightly Coupled Persona--Memory Graph for Lifelong Personalized Agents},
-  author  = {Choi, Wonjun and Kim, Yerim and Lee, Yukyung and Yoon, Susik},
-  journal = {arXiv preprint arXiv:2608.01708},
-  year    = {2026}
-}
-```
-
-## Contact
-
-{migreeni, dpfla274, susik}@korea.ac.kr, ylee5@bu.edu
 
 ---
 
